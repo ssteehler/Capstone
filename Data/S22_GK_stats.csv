@@ -1,0 +1,972 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PSxG,PKatt,PKA,PKsv,PKm,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,AvgDist,Match Report,fbref_ID,Win_Loss_Draw,Season,Before_All_Star
+0,2022-05-22,Sun,MLS,Regular Season,Away,L 1–2,Vancouver,Charlotte,Y,GK,90,6,2,4,66.7,0,2.4,0,0,0,0,2,4,50.0,14,5,28.6,29.1,2,0.0,15.0,11,0,0.0,0,10.4,Match Report,d6aa8848,L,2022,True
+1,2022-08-03,Wed,MLS,Regular Season,Home,L 0–1,San Jose,Inter Miami,N,GK,45,3,0,3,100.0,0,0.7,0,0,0,0,1,2,50.0,6,2,16.7,33.3,3,33.3,33.7,0,0,,0,14.5,Match Report,9110da2b,L,2022,True
+2,2022-08-06,Sat,MLS,Regular Season,Away,D 3–3,San Jose,Austin,Y,GK,90,6,3,3,50.0,0,2.8,0,0,0,0,4,7,57.1,25,0,20.0,30.4,10,20.0,31.2,9,0,0.0,0,15.0,Match Report,9110da2b,D,2022,True
+3,2022-05-07,Sat,MLS,Regular Season,Away,D 1–1,Portland Timbers,NY Red Bulls,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,5,35,14.3,31,3,77.4,55.9,11,100.0,66.9,13,0,0.0,0,9.8,Match Report,7fd42a85,D,2022,True
+4,2022-07-03,Sun,MLS,Regular Season,Away,D 2–2,Portland Timbers,Nashville,Y,GK,90,9,2,7,77.8,0,1.6,0,0,0,0,8,17,47.1,24,1,58.3,47.6,5,60.0,58.6,11,2,18.2,0,6.0,Match Report,7fd42a85,D,2022,True
+5,2022-02-26,Sat,MLS,Regular Season,Home,D 1–1,Philadelphia,Minnesota Utd,Y,GK,90,6,1,5,83.3,0,1.6,0,0,0,0,6,12,50.0,20,5,50.0,36.9,8,25.0,28.4,6,1,16.7,2,12.3,Match Report,b3b21a11,D,2022,True
+6,2022-03-05,Sat,MLS,Regular Season,Away,W 2–1,Philadelphia,CF Montréal,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,7,24,29.2,18,1,88.9,58.8,8,100.0,63.6,12,0,0.0,1,12.8,Match Report,b3b21a11,W,2022,True
+7,2022-03-12,Sat,MLS,Regular Season,Home,W 2–0,Philadelphia,San Jose,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,9,17,52.9,16,3,62.5,42.8,8,87.5,51.3,10,1,10.0,0,14.6,Match Report,b3b21a11,W,2022,True
+8,2022-03-19,Sat,MLS,Regular Season,Away,W 2–0,Philadelphia,NYCFC,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,12,39,30.8,25,1,92.0,62.4,16,100.0,70.6,18,1,5.6,0,10.9,Match Report,b3b21a11,W,2022,True
+9,2022-04-02,Sat,MLS,Regular Season,Home,W 2–0,Philadelphia,Charlotte,Y*,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,4,13,30.8,14,0,57.1,39.5,8,62.5,47.1,11,0,0.0,0,6.0,Match Report,b3b21a11,W,2022,True
+10,2022-04-09,Sat,MLS,Regular Season,Home,W 1–0,Philadelphia,Columbus Crew,Y,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,11,28,39.3,32,5,53.1,42.7,11,100.0,66.7,11,2,18.2,1,14.1,Match Report,b3b21a11,W,2022,True
+11,2022-04-16,Sat,MLS,Regular Season,Away,L 1–2,Philadelphia,Toronto FC,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,5,9,55.6,15,1,40.0,31.3,4,75.0,52.0,3,0,0.0,2,21.5,Match Report,b3b21a11,L,2022,True
+12,2022-04-23,Sat,MLS,Regular Season,Home,D 1–1,Philadelphia,CF Montréal,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,5,17,29.4,21,4,38.1,37.0,10,90.0,59.1,9,2,22.2,0,16.9,Match Report,b3b21a11,D,2022,True
+13,2022-05-01,Sun,MLS,Regular Season,Away,D 1–1,Philadelphia,Nashville,Y,GK,90,4,1,4,100.0,0,1.8,1,1,0,0,5,19,26.3,18,1,72.2,47.8,8,75.0,58.5,10,1,10.0,0,10.0,Match Report,b3b21a11,D,2022,True
+14,2022-05-07,Sat,MLS,Regular Season,Away,D 2–2,Philadelphia,Los Angeles FC,Y,GK,90,7,2,4,71.4,0,1.4,0,0,0,0,11,25,44.0,23,4,73.9,52.7,9,88.9,59.7,13,3,23.1,0,11.1,Match Report,b3b21a11,D,2022,True
+15,2022-05-14,Sat,MLS,Regular Season,Home,D 1–1,Philadelphia,NY Red Bulls,Y,GK,90,6,1,5,83.3,0,1.5,0,0,0,0,4,10,40.0,20,7,40.0,38.7,6,33.3,34.2,12,0,0.0,4,21.9,Match Report,b3b21a11,D,2022,True
+16,2022-05-18,Wed,MLS,Regular Season,Home,D 0–0,Philadelphia,Inter Miami,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,7,71.4,18,5,22.2,30.2,6,50.0,49.2,6,0,0.0,1,14.2,Match Report,b3b21a11,D,2022,True
+17,2022-05-22,Sun,MLS,Regular Season,Away,W 2–0,Philadelphia,Portland Timbers,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,6,19,31.6,13,1,92.3,59.7,7,100.0,62.7,13,2,15.4,0,15.0,Match Report,b3b21a11,W,2022,True
+18,2022-05-28,Sat,MLS,Regular Season,Away,D 1–1,Philadelphia,New England,Y,GK,90,3,1,3,100.0,0,1.5,1,1,0,0,9,24,37.5,20,3,55.0,45.0,15,86.7,58.0,12,1,8.3,2,15.3,Match Report,b3b21a11,D,2022,True
+19,2022-06-18,Sat,MLS,Regular Season,Home,D 1–1,Philadelphia,FC Cincinnati,Y,GK,90,5,1,4,80.0,0,0.7,0,0,0,0,4,7,57.1,21,10,14.3,23.6,7,57.1,38.4,12,1,8.3,0,14.4,Match Report,b3b21a11,D,2022,True
+20,2022-06-26,Sun,MLS,Regular Season,Home,W 2–1,Philadelphia,NYCFC,Y,GK,90,4,1,4,100.0,0,1.1,1,1,0,0,10,25,40.0,32,6,53.1,39.4,11,72.7,51.2,8,0,0.0,1,12.6,Match Report,b3b21a11,W,2022,True
+21,2022-06-29,Wed,MLS,Regular Season,Away,L 0–1,Philadelphia,Chicago Fire,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,5,9,55.6,21,5,19.0,25.9,9,55.6,44.3,13,1,7.7,1,13.7,Match Report,b3b21a11,L,2022,True
+22,2022-07-03,Sun,MLS,Regular Season,Away,D 0–0,Philadelphia,Columbus Crew,Y,GK,90,4,0,4,100.0,1,1.4,1,0,1,0,6,16,37.5,17,3,41.2,36.8,13,69.2,57.4,7,1,14.3,2,15.8,Match Report,b3b21a11,D,2022,True
+23,2022-07-08,Fri,MLS,Regular Season,Home,W 7–0,Philadelphia,D.C. United,Y,GK,90,3,0,3,100.0,1,1.4,0,0,0,0,4,11,36.4,16,1,37.5,34.1,5,100.0,66.2,5,0,0.0,0,9.0,Match Report,b3b21a11,W,2022,True
+24,2022-07-13,Wed,MLS,Regular Season,Away,W 2–1,Philadelphia,Inter Miami,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,6,12,50.0,21,4,23.8,29.7,8,87.5,56.1,12,0,0.0,0,14.6,Match Report,b3b21a11,W,2022,True
+25,2022-07-16,Sat,MLS,Regular Season,Home,W 2–1,Philadelphia,New England,Y*,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,3,8,37.5,20,7,15.0,28.3,10,50.0,39.9,10,0,0.0,1,16.0,Match Report,b3b21a11,W,2022,True
+26,2022-07-23,Sat,MLS,Regular Season,Away,W 1–0,Philadelphia,Orlando City,Y*,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,10,22,45.5,21,2,61.9,45.8,11,81.8,54.8,8,0,0.0,0,9.5,Match Report,b3b21a11,W,2022,True
+27,2022-07-30,Sat,MLS,Regular Season,Home,W 6–0,Philadelphia,Houston Dynamo,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,3,11,27.3,17,3,41.2,36.6,7,57.1,48.0,7,2,28.6,0,4.0,Match Report,b3b21a11,W,2022,True
+28,2022-08-06,Sat,MLS,Regular Season,Away,L 1–3,Philadelphia,FC Cincinnati,Y,GK,90,7,3,4,57.1,0,3.1,0,0,0,0,2,11,18.2,22,7,36.4,34.9,5,60.0,49.6,4,0,0.0,0,9.7,Match Report,b3b21a11,L,2022,True
+29,2022-08-13,Sat,MLS,Regular Season,Home,W 4–1,Philadelphia,Chicago Fire,Y,GK,90,7,1,6,85.7,0,1.4,0,0,0,0,1,8,12.5,13,8,15.4,25.4,9,66.7,52.6,13,1,7.7,0,10.7,Match Report,b3b21a11,W,2022,False
+30,2022-08-17,Wed,MLS,Regular Season,Away,L 0–1,Philadelphia,FC Dallas,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,5,8,62.5,19,3,26.3,27.7,8,37.5,34.3,5,0,0.0,0,7.5,Match Report,b3b21a11,L,2022,False
+31,2022-08-20,Sat,MLS,Regular Season,Away,W 6–0,Philadelphia,D.C. United,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,8,16,50.0,27,3,37.0,38.5,9,66.7,57.4,20,1,5.0,0,8.0,Match Report,b3b21a11,W,2022,False
+32,2022-08-27,Sat,MLS,Regular Season,Home,W 6–0,Philadelphia,Colorado Rapids,Y,GK,90,2,0,2,100.0,1,1.0,0,0,0,0,0,1,0.0,11,2,9.1,27.1,3,0.0,29.0,5,0,0.0,0,10.0,Match Report,b3b21a11,W,2022,False
+33,2022-08-31,Wed,MLS,Regular Season,Home,W 4–1,Philadelphia,Atlanta Utd,Y,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,3,15,20.0,11,3,54.5,41.5,11,81.8,56.9,4,1,25.0,0,15.0,Match Report,b3b21a11,W,2022,False
+34,2022-09-03,Sat,MLS,Regular Season,Away,W 2–0,Philadelphia,NY Red Bulls,Y*,GK,90,3,0,3,100.0,1,1.6,0,0,0,0,7,31,22.6,30,0,83.3,57.3,6,100.0,70.2,5,1,20.0,2,15.3,Match Report,b3b21a11,W,2022,False
+35,2022-09-10,Sat,MLS,Regular Season,Home,W 5–1,Philadelphia,Orlando City,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,2,7,28.6,15,2,20.0,29.1,6,66.7,44.7,10,0,0.0,0,8.3,Match Report,b3b21a11,W,2022,False
+36,2022-09-17,Sat,MLS,Regular Season,Away,D 0–0,Philadelphia,Atlanta Utd,Y*,GK,90,5,0,5,100.0,1,1.8,0,0,0,0,5,23,21.7,24,7,58.3,45.3,10,90.0,59.8,14,1,7.1,0,11.3,Match Report,b3b21a11,D,2022,False
+37,2022-10-01,Sat,MLS,Regular Season,Away,L 0–4,Philadelphia,Charlotte,Y*,GK,90,3,4,0,0.0,0,2.5,1,1,0,0,5,7,71.4,14,4,42.9,34.4,7,14.3,31.6,7,0,0.0,0,4.0,Match Report,b3b21a11,L,2022,False
+38,2022-10-09,Sun,MLS,Regular Season,Home,W 4–0,Philadelphia,Toronto FC,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,5,8,62.5,27,7,22.2,28.9,5,40.0,33.0,5,1,20.0,0,9.8,Match Report,b3b21a11,W,2022,False
+39,2022-07-13,Wed,MLS,Regular Season,Away,D 2–2,Vancouver,FC Cincinnati,N,GK,45,3,0,3,100.0,0,0.5,0,0,0,0,7,12,58.3,12,3,66.7,48.2,4,100.0,61.3,3,0,0.0,0,13.3,Match Report,9792574e,D,2022,True
+40,2022-07-17,Sun,MLS,Regular Season,Away,D 1–1,Vancouver,Portland Timbers,Y,GK,90,4,1,4,100.0,0,1.4,1,1,0,0,10,21,47.6,14,7,57.1,48.4,13,100.0,70.8,16,1,6.3,0,7.7,Match Report,9792574e,D,2022,True
+41,2022-07-23,Sat,MLS,Regular Season,Home,L 1–3,Vancouver,Chicago Fire,Y,GK,90,4,3,1,25.0,0,1.3,0,0,0,0,5,13,38.5,21,8,23.8,26.0,12,66.7,48.7,9,0,0.0,0,10.7,Match Report,9792574e,L,2022,True
+42,2022-02-27,Sun,MLS,Regular Season,Home,W 1–0,LA Galaxy,NYCFC,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,6,10,60.0,23,4,30.4,31.7,4,75.0,51.5,8,1,12.5,0,10.4,Match Report,c3a86eea,W,2022,True
+43,2022-03-05,Sat,MLS,Regular Season,Away,W 1–0,LA Galaxy,Charlotte,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,6,12,50.0,28,4,25.0,29.3,6,83.3,54.0,11,0,0.0,2,19.9,Match Report,c3a86eea,W,2022,True
+44,2022-03-12,Sat,MLS,Regular Season,Away,L 2–3,LA Galaxy,Seattle,Y,GK,90,3,3,1,33.3,0,2.4,1,1,0,0,6,10,60.0,30,4,33.3,29.4,4,0.0,13.3,8,1,12.5,0,14.5,Match Report,c3a86eea,L,2022,True
+45,2022-03-19,Sat,MLS,Regular Season,Home,L 0–1,LA Galaxy,Orlando City,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,0,1,0.0,27,5,3.7,21.2,6,0.0,21.3,3,0,0.0,1,12.8,Match Report,c3a86eea,L,2022,True
+46,2022-04-03,Sun,MLS,Regular Season,Away,W 3–1,LA Galaxy,Portland Timbers,Y,GK,90,5,1,4,80.0,0,0.6,0,0,0,0,8,22,36.4,34,9,38.2,34.0,13,69.2,51.3,11,0,0.0,0,15.6,Match Report,c3a86eea,W,2022,True
+47,2022-04-09,Sat,MLS,Regular Season,Home,W 2–1,LA Galaxy,Los Angeles FC,Y,GK,90,7,1,6,85.7,0,1.3,0,0,0,0,12,20,60.0,27,7,48.1,39.3,9,77.8,49.7,15,1,6.7,0,12.0,Match Report,c3a86eea,W,2022,True
+48,2022-04-16,Sat,MLS,Regular Season,Away,D 0–0,LA Galaxy,Chicago Fire,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,7,13,53.8,43,3,30.2,31.1,7,0.0,11.6,12,1,8.3,1,17.0,Match Report,c3a86eea,D,2022,True
+49,2022-04-23,Sat,MLS,Regular Season,Home,W 1–0,LA Galaxy,Nashville,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,5,8,62.5,23,3,30.4,32.2,2,50.0,32.0,5,0,0.0,2,20.6,Match Report,c3a86eea,W,2022,True
+50,2022-04-30,Sat,MLS,Regular Season,Away,L 0–1,LA Galaxy,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,2.9,0,0,0,0,1,2,50.0,32,11,6.3,21.5,2,0.0,22.5,9,1,11.1,3,18.4,Match Report,c3a86eea,L,2022,True
+51,2022-05-08,Sun,MLS,Regular Season,Away,W 1–0,LA Galaxy,Austin,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,15,35,42.9,44,5,52.3,42.9,16,75.0,56.6,8,1,12.5,1,17.9,Match Report,c3a86eea,W,2022,True
+52,2022-05-14,Sat,MLS,Regular Season,Home,L 1–3,LA Galaxy,FC Dallas,Y,GK,90,4,3,1,25.0,0,3.0,0,0,0,0,6,9,66.7,34,4,20.6,25.9,5,40.0,28.2,1,0,0.0,1,23.3,Match Report,c3a86eea,L,2022,True
+53,2022-05-18,Wed,MLS,Regular Season,Away,D 1–1,LA Galaxy,Minnesota Utd,Y,GK,90,7,1,6,85.7,0,1.8,0,0,0,0,9,20,45.0,33,6,48.5,37.1,9,44.4,39.1,10,1,10.0,1,12.0,Match Report,c3a86eea,D,2022,True
+54,2022-05-22,Sun,MLS,Regular Season,Home,L 0–3,LA Galaxy,Houston Dynamo,Y,GK,90,8,3,5,62.5,0,2.0,0,0,0,0,0,2,0.0,16,4,6.3,19.0,3,33.3,30.0,4,0,0.0,1,15.6,Match Report,c3a86eea,L,2022,True
+55,2022-05-29,Sun,MLS,Regular Season,Home,W 4–1,LA Galaxy,Austin,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,5,20,25.0,28,4,53.6,40.0,6,83.3,60.8,11,0,0.0,3,19.4,Match Report,c3a86eea,W,2022,True
+56,2022-06-18,Sat,MLS,Regular Season,Home,D 1–1,LA Galaxy,Portland Timbers,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,5,15,33.3,25,6,28.0,31.1,9,88.9,61.7,6,0,0.0,2,15.4,Match Report,c3a86eea,D,2022,True
+57,2022-06-29,Wed,MLS,Regular Season,Home,L 2–3,LA Galaxy,Minnesota Utd,Y,GK,90,6,3,3,50.0,0,1.8,0,0,0,0,2,6,33.3,23,6,21.7,24.9,4,25.0,24.8,4,1,25.0,1,17.4,Match Report,c3a86eea,L,2022,True
+58,2022-07-04,Mon,MLS,Regular Season,Home,W 4–0,LA Galaxy,CF Montréal,Y,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,7,23,30.4,26,6,38.5,38.8,13,100.0,72.3,15,1,6.7,2,21.6,Match Report,c3a86eea,W,2022,True
+59,2022-07-08,Fri,MLS,Regular Season,Away,L 2–3,LA Galaxy,Los Angeles FC,Y,GK,90,5,3,2,40.0,0,2.4,0,0,0,0,5,14,35.7,20,6,40.0,35.4,10,60.0,50.2,5,0,0.0,0,13.0,Match Report,c3a86eea,L,2022,True
+60,2022-07-13,Wed,MLS,Regular Season,Home,L 2–3,LA Galaxy,San Jose,Y,GK,90,3,3,1,33.3,0,1.7,1,1,0,0,2,3,66.7,21,6,4.8,22.7,6,33.3,29.3,5,1,20.0,1,15.6,Match Report,c3a86eea,L,2022,True
+61,2022-07-16,Sat,MLS,Regular Season,Away,L 0–2,LA Galaxy,Colorado Rapids,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,2,9,22.2,17,5,29.4,31.5,6,66.7,52.5,5,1,20.0,3,23.2,Match Report,c3a86eea,L,2022,True
+62,2022-07-24,Sun,MLS,Regular Season,Home,W 2–0,LA Galaxy,Atlanta Utd,Y,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,7,16,43.8,20,1,45.0,43.8,9,77.8,59.3,12,0,0.0,2,19.2,Match Report,c3a86eea,W,2022,True
+63,2022-07-30,Sat,MLS,Regular Season,Away,L 0–1,LA Galaxy,FC Dallas,Y,GK,90,7,1,6,85.7,0,1.1,0,0,0,0,3,5,60.0,29,5,10.3,24.7,5,40.0,32.2,3,1,33.3,0,14.5,Match Report,c3a86eea,L,2022,True
+64,2022-08-06,Sat,MLS,Regular Season,Away,L 2–4,LA Galaxy,Sporting KC,Y,GK,90,7,4,3,42.9,0,3.2,1,0,1,0,2,8,25.0,26,5,23.1,29.5,4,50.0,36.8,6,0,0.0,3,24.7,Match Report,c3a86eea,L,2022,True
+65,2022-08-13,Sat,MLS,Regular Season,Home,W 5–2,LA Galaxy,Vancouver,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,9,14,64.3,38,4,31.6,31.6,5,40.0,32.6,15,0,0.0,0,8.5,Match Report,c3a86eea,W,2022,False
+66,2022-08-19,Fri,MLS,Regular Season,Home,D 3–3,LA Galaxy,Seattle,Y,GK,90,5,3,2,40.0,0,1.6,0,0,0,0,3,11,27.3,20,6,35.0,29.6,4,100.0,62.8,11,0,0.0,0,9.4,Match Report,c3a86eea,D,2022,False
+67,2022-08-28,Sun,MLS,Regular Season,Away,W 2–1,LA Galaxy,New England,Y,GK,90,7,1,6,85.7,0,1.2,0,0,0,0,10,30,33.3,33,3,60.6,44.4,11,90.9,58.0,9,1,11.1,2,14.8,Match Report,c3a86eea,W,2022,False
+68,2022-08-31,Wed,MLS,Regular Season,Away,D 2–2,LA Galaxy,Toronto FC,Y,GK,90,1,2,0,0.0,0,1.8,1,1,0,0,8,14,57.1,34,4,32.4,27.4,5,60.0,47.2,3,0,0.0,2,19.1,Match Report,c3a86eea,D,2022,False
+69,2022-09-04,Sun,MLS,Regular Season,Home,D 2–2,LA Galaxy,Sporting KC,Y,GK,90,4,2,3,75.0,0,1.6,1,1,0,0,8,14,57.1,33,5,33.3,32.0,7,42.9,36.7,5,0,0.0,0,15.0,Match Report,c3a86eea,D,2022,False
+70,2022-09-10,Sat,MLS,Regular Season,Away,D 1–1,LA Galaxy,Nashville,Y,GK,90,1,1,1,100.0,0,1.0,1,1,0,0,1,4,25.0,21,6,14.3,24.2,4,25.0,30.0,4,1,25.0,2,21.2,Match Report,c3a86eea,D,2022,False
+71,2022-09-14,Wed,MLS,Regular Season,Away,L 0–3,LA Galaxy,Vancouver,Y,GK,90,6,3,2,50.0,0,2.6,0,0,0,0,1,3,33.3,29,9,10.3,20.9,5,0.0,17.8,10,0,0.0,1,14.0,Match Report,c3a86eea,L,2022,False
+72,2022-09-17,Sat,MLS,Regular Season,Home,W 4–1,LA Galaxy,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,7,20,35.0,30,2,50.0,42.6,10,50.0,37.6,5,0,0.0,0,22.0,Match Report,c3a86eea,W,2022,False
+73,2022-09-24,Sat,MLS,Regular Season,Away,W 3–2,LA Galaxy,San Jose,Y,GK,90,2,2,1,50.0,0,1.2,1,1,0,0,17,21,81.0,44,9,34.1,30.1,8,75.0,50.4,11,3,27.3,0,12.4,Match Report,c3a86eea,W,2022,False
+74,2022-10-01,Sat,MLS,Regular Season,Home,D 1–1,LA Galaxy,Real Salt Lake,Y,GK,90,5,1,4,80.0,0,1.7,0,0,0,0,3,8,37.5,18,4,27.8,25.1,5,60.0,44.0,12,1,8.3,3,29.3,Match Report,c3a86eea,D,2022,False
+75,2022-10-09,Sun,MLS,Regular Season,Away,W 3–1,LA Galaxy,Houston Dynamo,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,4,6,66.7,32,10,15.6,25.6,6,16.7,24.5,7,1,14.3,5,19.1,Match Report,c3a86eea,W,2022,False
+76,2022-10-15,Sat,MLS,First Round,Home,W 1–0,LA Galaxy,Nashville,Y,GK,90,5,0,5,100.0,1,0.6,0,0,0,0,6,19,31.6,31,5,41.9,38.3,6,100.0,60.8,12,0,0.0,1,15.6,Match Report,c3a86eea,W,2022,False
+77,2022-02-26,Sat,MLS,Regular Season,Away,D 1–1,Toronto FC,FC Dallas,Y,GK,90,4,1,3,75.0,0,1.6,0,0,0,0,3,13,23.1,29,4,37.9,33.1,11,18.2,19.1,3,1,33.3,0,10.7,Match Report,aa28a396,D,2022,True
+78,2022-03-05,Sat,MLS,Regular Season,Home,L 1–4,Toronto FC,NY Red Bulls,Y,GK,90,9,4,5,55.6,0,4.3,0,0,0,0,0,7,0.0,29,4,24.1,24.3,3,0.0,12.0,4,0,0.0,2,20.5,Match Report,aa28a396,L,2022,True
+79,2022-03-12,Sat,MLS,Regular Season,Away,L 1–2,Toronto FC,Columbus Crew,Y,GK,90,7,2,5,71.4,0,1.7,0,0,0,0,4,11,36.4,25,6,36.0,30.9,13,15.4,24.7,12,0,0.0,0,8.0,Match Report,aa28a396,L,2022,True
+80,2022-03-19,Sat,MLS,Regular Season,Home,W 2–1,Toronto FC,D.C. United,Y,GK,90,4,1,3,75.0,0,1.6,0,0,0,0,4,22,18.2,29,5,48.3,38.8,12,66.7,47.9,13,1,7.7,2,19.0,Match Report,aa28a396,W,2022,True
+81,2022-04-02,Sat,MLS,Regular Season,Home,W 2–1,Toronto FC,NYCFC,Y,GK,90,9,1,8,88.9,0,2.2,0,0,0,0,4,24,16.7,25,6,72.0,45.7,11,54.5,41.6,11,0,0.0,0,11.6,Match Report,aa28a396,W,2022,True
+82,2022-04-09,Sat,MLS,Regular Season,Away,D 2–2,Toronto FC,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,10,19,52.6,31,7,38.7,36.2,11,63.6,50.5,10,1,10.0,2,13.6,Match Report,aa28a396,D,2022,True
+83,2022-04-16,Sat,MLS,Regular Season,Home,W 2–1,Toronto FC,Philadelphia,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,7,30,23.3,37,6,59.5,46.9,10,80.0,56.7,10,0,0.0,0,9.8,Match Report,aa28a396,W,2022,True
+84,2022-04-24,Sun,MLS,Regular Season,Away,L 4–5,Toronto FC,NYCFC,Y,GK,90,11,5,6,54.5,0,4.4,0,0,0,0,1,15,6.7,22,7,45.5,38.3,12,41.7,40.6,15,0,0.0,2,17.2,Match Report,aa28a396,L,2022,True
+85,2022-04-30,Sat,MLS,Regular Season,Home,L 1–2,Toronto FC,FC Cincinnati,Y,GK,90,2,2,0,0.0,0,1.5,0,0,0,0,8,18,44.4,42,10,35.7,31.6,10,30.0,33.7,3,0,0.0,5,23.9,Match Report,aa28a396,L,2022,True
+86,2022-05-04,Wed,MLS,Regular Season,Away,L 0–2,Toronto FC,FC Cincinnati,Y,GK,90,5,2,4,80.0,0,2.9,1,1,0,0,5,27,18.5,36,6,63.9,44.5,10,40.0,39.5,5,0,0.0,2,14.5,Match Report,aa28a396,L,2022,True
+87,2022-05-08,Sun,MLS,Regular Season,Away,L 0–1,Toronto FC,Vancouver,Y,GK,90,6,1,5,83.3,0,2.7,0,0,0,0,7,19,36.8,30,6,43.3,39.7,7,85.7,61.1,13,0,0.0,1,16.9,Match Report,aa28a396,L,2022,True
+88,2022-05-14,Sat,MLS,Regular Season,Home,L 0–1,Toronto FC,Orlando City,Y,GK,90,6,1,5,83.3,0,1.3,0,0,0,0,5,16,31.3,28,10,35.7,34.2,13,46.2,43.5,10,1,10.0,0,10.9,Match Report,aa28a396,L,2022,True
+89,2022-05-21,Sat,MLS,Regular Season,Away,D 2–2,Toronto FC,D.C. United,Y,GK,90,7,2,5,71.4,0,1.9,0,0,0,0,4,21,19.0,27,9,48.1,44.9,10,80.0,58.6,14,0,0.0,0,12.0,Match Report,aa28a396,D,2022,True
+90,2022-06-29,Wed,MLS,Regular Season,Home,L 1–2,Toronto FC,Columbus Crew,Y,GK,90,3,2,1,33.3,0,1.0,0,0,0,0,6,7,85.7,18,8,22.2,28.7,5,60.0,37.6,5,0,0.0,2,23.4,Match Report,aa28a396,L,2022,True
+91,2022-07-16,Sat,MLS,Regular Season,Away,L 0–1,Toronto FC,CF Montréal,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,8,22,36.4,23,4,60.9,45.5,13,61.5,47.2,10,0,0.0,1,17.0,Match Report,aa28a396,L,2022,True
+92,2022-07-23,Sat,MLS,Regular Season,Home,W 4–0,Toronto FC,Charlotte,Y,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,2,16,12.5,27,10,37.0,34.4,10,60.0,53.3,16,1,6.3,2,22.0,Match Report,aa28a396,W,2022,True
+93,2022-07-30,Sat,MLS,Regular Season,Away,D 0–0,Toronto FC,New England,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,4,22,18.2,20,6,55.0,43.8,17,64.7,50.2,20,2,10.0,1,19.0,Match Report,aa28a396,D,2022,True
+94,2022-08-06,Sat,MLS,Regular Season,Away,W 4–3,Toronto FC,Nashville,Y,GK,90,5,3,3,60.0,0,2.5,1,1,0,0,7,18,38.9,22,6,59.1,44.0,12,41.7,36.5,14,0,0.0,0,11.7,Match Report,aa28a396,W,2022,True
+95,2022-08-13,Sat,MLS,Regular Season,Home,W 3–1,Toronto FC,Portland Timbers,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,2,9,22.2,13,5,46.2,36.5,4,75.0,50.5,3,0,0.0,1,16.6,Match Report,aa28a396,W,2022,False
+96,2022-08-17,Wed,MLS,Regular Season,Home,D 2–2,Toronto FC,New England,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,1,4,25.0,25,5,12.0,23.0,3,33.3,23.3,6,1,16.7,6,25.9,Match Report,aa28a396,D,2022,False
+97,2022-08-20,Sat,MLS,Regular Season,Away,L 1–2,Toronto FC,Inter Miami,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,3,3,100.0,28,8,10.7,24.0,1,0.0,14.0,2,1,50.0,2,13.3,Match Report,aa28a396,L,2022,False
+98,2022-08-27,Sat,MLS,Regular Season,Away,W 2–0,Toronto FC,Charlotte,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,9,17,52.9,25,13,36.0,37.3,13,61.5,49.8,15,1,6.7,0,8.0,Match Report,aa28a396,W,2022,False
+99,2022-08-31,Wed,MLS,Regular Season,Home,D 2–2,Toronto FC,LA Galaxy,Y,GK,90,5,2,3,60.0,0,0.9,0,0,0,0,9,15,60.0,26,4,46.2,36.7,8,37.5,30.6,8,1,12.5,1,19.3,Match Report,aa28a396,D,2022,False
+100,2022-09-04,Sun,MLS,Regular Season,Home,L 3–4,Toronto FC,CF Montréal,Y,GK,90,6,4,2,33.3,0,2.5,0,0,0,0,3,6,50.0,23,4,26.1,28.7,4,0.0,19.3,3,0,0.0,0,14.7,Match Report,aa28a396,L,2022,False
+101,2022-10-09,Sun,MLS,Regular Season,Home,D 1–1,Chicago Fire,New England,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,4,15,26.7,24,4,37.5,33.2,10,60.0,42.6,6,0,0.0,1,13.3,Match Report,a71768a2,D,2022,False
+102,2022-02-27,Sun,MLS,Regular Season,Away,L 0–2,CF Montréal,Orlando City,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,2,6,33.3,28,1,17.9,29.5,6,16.7,16.0,7,0,0.0,1,18.5,Match Report,52e7f812,L,2022,True
+103,2022-03-05,Sat,MLS,Regular Season,Home,L 1–2,CF Montréal,Philadelphia,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,1,5,20.0,35,5,14.3,23.8,6,0.0,16.0,6,1,16.7,2,11.3,Match Report,52e7f812,L,2022,True
+104,2022-03-12,Sat,MLS,Regular Season,Away,L 1–4,CF Montréal,NYCFC,Y,GK,90,7,4,3,42.9,0,3.3,0,0,0,0,4,9,44.4,25,10,20.0,28.3,10,40.0,48.7,4,0,0.0,0,13.3,Match Report,52e7f812,L,2022,True
+105,2022-03-19,Sat,MLS,Regular Season,Away,D 3–3,CF Montréal,Atlanta Utd,Y,GK,90,3,3,0,0.0,0,1.0,0,0,0,0,8,15,53.3,22,7,36.4,27.1,9,77.8,47.0,9,1,11.1,0,10.4,Match Report,52e7f812,D,2022,True
+106,2022-04-02,Sat,MLS,Regular Season,Away,W 4–3,CF Montréal,FC Cincinnati,Y,GK,90,6,3,5,66.7,0,2.1,1,1,0,0,5,10,50.0,22,6,13.6,24.6,12,58.3,38.6,7,0,0.0,0,8.4,Match Report,52e7f812,W,2022,True
+107,2022-04-09,Sat,MLS,Regular Season,Away,W 2–1,CF Montréal,NY Red Bulls,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,8,17,47.1,26,4,38.5,35.5,12,58.3,43.6,12,1,8.3,0,11.1,Match Report,52e7f812,W,2022,True
+108,2022-04-16,Sat,MLS,Regular Season,Home,W 2–1,CF Montréal,Vancouver,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,2,7,28.6,13,1,38.5,30.7,9,22.2,22.7,10,1,10.0,1,42.0,Match Report,52e7f812,W,2022,True
+109,2022-04-23,Sat,MLS,Regular Season,Away,D 1–1,CF Montréal,Philadelphia,Y,GK,90,1,1,1,100.0,0,1.7,1,1,0,0,4,6,66.7,18,5,33.3,32.7,5,0.0,6.8,1,0,0.0,0,11.6,Match Report,52e7f812,D,2022,True
+110,2022-04-30,Sat,MLS,Regular Season,Home,W 2–1,CF Montréal,Atlanta Utd,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,2,9,22.2,17,5,29.4,30.5,6,66.7,36.2,6,0,0.0,1,20.6,Match Report,52e7f812,W,2022,True
+111,2022-05-07,Sat,MLS,Regular Season,Home,W 4–1,CF Montréal,Orlando City,Y,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,3,5,60.0,18,3,22.2,28.2,4,25.0,21.3,3,1,33.3,0,8.2,Match Report,52e7f812,W,2022,True
+112,2022-05-14,Sat,MLS,Regular Season,Away,W 2–0,CF Montréal,Charlotte,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,7,10,70.0,9,1,55.6,44.4,12,41.7,30.9,5,0,0.0,0,10.4,Match Report,52e7f812,W,2022,True
+113,2022-05-18,Wed,MLS,Regular Season,Away,L 1–2,CF Montréal,Nashville,Y,GK,90,4,2,2,50.0,0,1.6,0,0,0,0,2,6,33.3,22,5,22.7,24.5,3,33.3,40.0,3,0,0.0,0,12.0,Match Report,52e7f812,L,2022,True
+114,2022-05-22,Sun,MLS,Regular Season,Home,L 1–2,CF Montréal,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,2,2,100.0,17,5,5.9,19.8,10,10.0,16.9,6,0,0.0,1,17.4,Match Report,52e7f812,L,2022,True
+115,2022-05-28,Sat,MLS,Regular Season,Home,W 4–3,CF Montréal,FC Cincinnati,Y,GK,90,6,3,3,50.0,0,2.4,0,0,0,0,6,12,50.0,17,4,47.1,37.4,7,57.1,39.3,3,2,66.7,0,14.3,Match Report,52e7f812,W,2022,True
+116,2022-06-18,Sat,MLS,Regular Season,Home,L 0–1,CF Montréal,Austin,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,3,3,100.0,22,4,13.6,24.4,3,0.0,17.7,5,0,0.0,0,14.3,Match Report,52e7f812,L,2022,True
+117,2022-06-25,Sat,MLS,Regular Season,Home,W 2–1,CF Montréal,Charlotte,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,0,1,0.0,19,3,5.3,16.9,4,0.0,9.3,7,0,0.0,0,17.8,Match Report,52e7f812,W,2022,True
+118,2022-06-29,Wed,MLS,Regular Season,Away,W 2–1,CF Montréal,Seattle,Y,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,4,8,50.0,18,1,38.9,35.4,5,20.0,25.4,13,0,0.0,1,29.5,Match Report,52e7f812,W,2022,True
+119,2022-07-04,Mon,MLS,Regular Season,Away,L 0–4,CF Montréal,LA Galaxy,Y,GK,90,3,4,0,0.0,0,2.6,1,1,0,0,1,2,50.0,15,5,13.3,24.8,7,0.0,23.9,4,0,0.0,0,10.5,Match Report,52e7f812,L,2022,True
+120,2022-07-09,Sat,MLS,Regular Season,Home,L 1–2,CF Montréal,Sporting KC,Y,GK,90,3,2,1,33.3,0,0.5,0,0,0,0,2,4,50.0,20,5,20.0,25.3,3,0.0,14.7,2,0,0.0,2,15.7,Match Report,52e7f812,L,2022,True
+121,2022-08-03,Wed,MLS,Regular Season,Away,W 2–1,CF Montréal,Columbus Crew,Y,GK,90,3,1,2,66.7,0,1.4,0,0,0,0,1,1,100.0,13,8,7.7,17.5,5,0.0,29.8,6,0,0.0,1,16.6,Match Report,52e7f812,W,2022,True
+122,2022-08-27,Sat,MLS,Regular Season,Away,W 2–0,CF Montréal,Chicago Fire,Y,GK,90,4,0,3,100.0,1,0.9,0,0,0,0,4,17,23.5,18,5,72.2,54.2,9,44.4,35.1,10,0,0.0,1,12.6,Match Report,52e7f812,W,2022,False
+123,2022-09-13,Tue,MLS,Regular Season,Home,W 3–2,CF Montréal,Chicago Fire,Y,GK,90,1,2,1,100.0,0,2.3,2,2,0,0,3,8,37.5,21,6,28.6,29.4,6,33.3,27.7,4,1,25.0,2,23.2,Match Report,52e7f812,W,2022,False
+124,2022-09-17,Sat,MLS,Regular Season,Away,W 1–0,CF Montréal,New England,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,4,9,44.4,22,5,31.8,33.2,8,25.0,23.0,10,1,10.0,0,13.7,Match Report,52e7f812,W,2022,False
+125,2022-03-19,Sat,MLS,Regular Season,Away,L 1–3,Inter Miami,FC Cincinnati,Y,GK,90,6,3,3,50.0,0,2.5,1,0,0,1,1,11,9.1,22,5,40.9,37.2,11,18.2,26.5,10,1,10.0,0,10.0,Match Report,c4d9567d,L,2022,True
+126,2022-05-07,Sat,MLS,Regular Season,Away,L 0–1,Inter Miami,Charlotte,Y,GK,90,7,1,6,85.7,0,1.1,0,0,0,0,7,14,50.0,29,7,48.3,42.2,6,0.0,17.3,10,0,0.0,0,6.3,Match Report,c4d9567d,L,2022,True
+127,2022-05-14,Sat,MLS,Regular Season,Home,D 2–2,Inter Miami,D.C. United,Y,GK,90,5,2,3,60.0,0,1.7,0,0,0,0,4,19,21.1,27,6,48.1,37.7,8,75.0,55.6,8,0,0.0,0,6.0,Match Report,c4d9567d,D,2022,True
+128,2022-05-18,Wed,MLS,Regular Season,Away,D 0–0,Inter Miami,Philadelphia,Y,GK,90,8,0,8,100.0,1,1.8,0,0,0,0,5,14,35.7,35,9,25.7,30.1,13,38.5,37.8,11,1,9.1,0,11.8,Match Report,c4d9567d,D,2022,True
+129,2022-05-22,Sun,MLS,Regular Season,Home,W 2–0,Inter Miami,NY Red Bulls,Y,GK,90,4,0,4,100.0,1,1.8,0,0,0,0,5,12,41.7,31,8,25.8,32.5,5,80.0,50.0,8,1,12.5,0,8.0,Match Report,c4d9567d,W,2022,True
+130,2022-05-28,Sat,MLS,Regular Season,Home,W 2–1,Inter Miami,Portland Timbers,Y,GK,90,5,1,4,80.0,0,0.8,0,0,0,0,4,15,26.7,23,4,43.5,35.9,11,45.5,40.1,13,1,7.7,0,12.9,Match Report,c4d9567d,W,2022,True
+131,2022-06-19,Sun,MLS,Regular Season,Away,L 0–2,Inter Miami,Atlanta Utd,Y,GK,90,8,2,6,75.0,0,1.7,0,0,0,0,7,14,50.0,21,6,38.1,35.2,11,54.5,44.6,7,0,0.0,0,12.4,Match Report,c4d9567d,L,2022,True
+132,2022-06-25,Sat,MLS,Regular Season,Home,W 2–1,Inter Miami,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,1.1,0,0,0,0,4,7,57.1,24,6,25.0,30.2,3,33.3,33.7,8,0,0.0,0,11.3,Match Report,c4d9567d,W,2022,True
+133,2022-07-04,Mon,MLS,Regular Season,Away,D 1–1,Inter Miami,FC Dallas,Y,GK,90,5,1,4,80.0,0,1.0,0,0,0,0,5,15,33.3,28,4,42.9,34.1,8,37.5,39.1,3,0,0.0,0,12.5,Match Report,c4d9567d,D,2022,True
+134,2022-07-09,Sat,MLS,Regular Season,Away,L 0–1,Inter Miami,Orlando City,Y,GK,90,1,1,1,0.0,0,0.5,0,0,0,0,3,12,25.0,19,3,47.4,34.6,6,50.0,40.3,3,0,0.0,1,13.4,Match Report,c4d9567d,L,2022,True
+135,2022-07-13,Wed,MLS,Regular Season,Home,L 1–2,Inter Miami,Philadelphia,Y,GK,90,4,2,3,75.0,0,1.6,1,1,0,0,3,4,75.0,14,3,28.6,30.4,3,0.0,24.3,7,0,0.0,0,5.7,Match Report,c4d9567d,L,2022,True
+136,2022-07-16,Sat,MLS,Regular Season,Home,W 3–2,Inter Miami,Charlotte,Y,GK,90,3,2,1,33.3,0,1.5,0,0,0,0,4,10,40.0,21,1,42.9,36.4,3,33.3,31.3,3,1,33.3,0,11.0,Match Report,c4d9567d,W,2022,True
+137,2022-07-23,Sat,MLS,Regular Season,Away,L 0–2,Inter Miami,NYCFC,Y,GK,90,6,2,4,66.7,0,1.0,0,0,0,0,4,8,50.0,30,11,23.3,27.2,7,14.3,28.1,11,4,36.4,1,11.2,Match Report,c4d9567d,L,2022,True
+138,2022-07-30,Sat,MLS,Regular Season,Home,D 4–4,Inter Miami,FC Cincinnati,Y,GK,90,7,4,3,42.9,0,3.4,0,0,0,0,6,12,50.0,29,8,37.9,34.8,5,20.0,23.6,5,1,20.0,3,16.7,Match Report,c4d9567d,D,2022,True
+139,2022-08-03,Wed,MLS,Regular Season,Away,W 1–0,Inter Miami,San Jose,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,6,24,25.0,21,5,66.7,50.0,13,76.9,53.5,9,1,11.1,0,7.4,Match Report,c4d9567d,W,2022,True
+140,2022-08-06,Sat,MLS,Regular Season,Away,D 2–2,Inter Miami,CF Montréal,Y,GK,90,4,2,3,75.0,0,2.0,1,1,0,0,6,15,40.0,23,8,39.1,37.6,10,60.0,47.8,13,1,7.7,1,11.4,Match Report,c4d9567d,D,2022,True
+141,2022-08-13,Sat,MLS,Regular Season,Home,W 3–2,Inter Miami,NYCFC,Y,GK,90,5,2,2,60.0,0,1.7,0,0,0,0,2,7,28.6,15,4,33.3,31.9,8,25.0,25.6,9,2,22.2,0,5.5,Match Report,c4d9567d,W,2022,False
+142,2022-08-20,Sat,MLS,Regular Season,Home,W 2–1,Inter Miami,Toronto FC,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,7,16,43.8,30,7,36.7,35.9,10,50.0,36.0,6,0,0.0,0,11.7,Match Report,c4d9567d,W,2022,False
+143,2022-08-27,Sat,MLS,Regular Season,Away,L 1–3,Inter Miami,NY Red Bulls,Y,GK,90,9,3,6,66.7,0,1.8,0,0,0,0,6,26,23.1,35,6,54.3,45.2,9,77.8,56.6,14,2,14.3,1,12.6,Match Report,c4d9567d,L,2022,False
+144,2022-09-13,Tue,MLS,Regular Season,Home,W 2–1,Inter Miami,Columbus Crew,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,3,15,20.0,26,3,38.5,32.9,9,55.6,39.1,10,0,0.0,2,14.2,Match Report,c4d9567d,W,2022,False
+145,2022-09-18,Sun,MLS,Regular Season,Away,W 3–2,Inter Miami,D.C. United,Y,GK,90,5,2,3,60.0,0,2.2,0,0,0,0,2,10,20.0,28,6,28.6,32.0,9,22.2,28.0,9,0,0.0,0,12.6,Match Report,c4d9567d,W,2022,False
+146,2022-09-30,Fri,MLS,Regular Season,Away,W 1–0,Inter Miami,Toronto FC,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,8,18,44.4,22,1,50.0,36.5,10,70.0,44.4,5,0,0.0,1,10.8,Match Report,c4d9567d,W,2022,False
+147,2022-10-05,Wed,MLS,Regular Season,Home,W 4–1,Inter Miami,Orlando City,Y,GK,90,1,1,0,0.0,0,0.8,0,0,0,0,5,17,29.4,23,6,34.8,37.3,12,75.0,47.8,13,0,0.0,0,8.0,Match Report,c4d9567d,W,2022,False
+148,2022-10-09,Sun,MLS,Regular Season,Home,L 1–3,Inter Miami,CF Montréal,Y,GK,90,5,3,2,40.0,0,3.1,0,0,0,0,5,8,62.5,26,8,30.8,30.7,4,0.0,21.5,4,0,0.0,0,10.3,Match Report,c4d9567d,L,2022,False
+149,2022-04-24,Sun,MLS,Regular Season,Home,L 1–2,FC Cincinnati,Los Angeles FC,Y,GK,90,8,2,6,75.0,0,2.8,0,0,0,0,2,14,14.3,21,7,42.9,39.0,13,38.5,35.8,6,0,0.0,1,11.8,Match Report,42ba8628,L,2022,True
+150,2022-04-30,Sat,MLS,Regular Season,Away,W 2–1,FC Cincinnati,Toronto FC,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,5,18,27.8,15,3,73.3,51.5,7,100.0,66.0,14,0,0.0,0,8.3,Match Report,42ba8628,W,2022,True
+151,2022-05-04,Wed,MLS,Regular Season,Home,W 2–0,FC Cincinnati,Toronto FC,Y,GK,90,4,0,4,100.0,1,0.9,0,0,0,0,3,6,50.0,23,6,17.4,30.3,5,40.0,40.4,5,0,0.0,0,13.7,Match Report,42ba8628,W,2022,True
+152,2022-05-07,Sat,MLS,Regular Season,Away,W 1–0,FC Cincinnati,Minnesota Utd,Y,GK,90,5,0,5,100.0,1,0.4,0,0,0,0,4,16,25.0,16,4,68.8,48.1,12,41.7,36.1,11,1,9.1,0,6.2,Match Report,42ba8628,W,2022,True
+153,2022-05-14,Sat,MLS,Regular Season,Away,W 2–1,FC Cincinnati,Chicago Fire,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,4,16,25.0,24,6,29.2,31.2,14,64.3,50.9,13,2,15.4,0,8.8,Match Report,42ba8628,W,2022,True
+154,2022-05-21,Sat,MLS,Regular Season,Home,L 2–3,FC Cincinnati,New England,Y,GK,90,4,3,1,25.0,0,1.5,0,0,0,0,2,5,40.0,12,3,16.7,27.8,8,37.5,36.8,12,0,0.0,1,13.3,Match Report,42ba8628,L,2022,True
+155,2022-05-28,Sat,MLS,Regular Season,Away,L 3–4,FC Cincinnati,CF Montréal,Y,GK,90,4,4,1,25.0,0,3.7,1,1,0,0,6,12,50.0,13,3,53.8,41.2,7,71.4,53.1,4,0,0.0,0,17.3,Match Report,42ba8628,L,2022,True
+156,2022-06-18,Sat,MLS,Regular Season,Away,D 1–1,FC Cincinnati,Philadelphia,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,9,20,45.0,21,4,66.7,47.9,6,100.0,62.2,13,3,23.1,2,14.8,Match Report,42ba8628,D,2022,True
+157,2022-06-24,Fri,MLS,Regular Season,Home,W 1–0,FC Cincinnati,Orlando City,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,9,19,47.4,13,2,69.2,48.5,11,90.9,62.6,9,0,0.0,0,17.5,Match Report,42ba8628,W,2022,True
+158,2022-06-29,Wed,MLS,Regular Season,Home,D 4–4,FC Cincinnati,NYCFC,Y,GK,90,5,4,1,20.0,0,4.1,1,0,1,0,6,14,42.9,15,5,66.7,51.3,5,80.0,57.0,9,1,11.1,1,15.0,Match Report,42ba8628,D,2022,True
+159,2022-07-03,Sun,MLS,Regular Season,Away,D 2–2,FC Cincinnati,New England,Y,GK,90,7,2,5,71.4,0,1.9,0,0,0,0,12,28,42.9,29,3,69.0,47.2,9,88.9,59.6,10,0,0.0,2,20.0,Match Report,42ba8628,D,2022,True
+160,2022-07-09,Sat,MLS,Regular Season,Home,D 1–1,FC Cincinnati,NY Red Bulls,Y,GK,90,2,1,2,100.0,0,1.3,1,1,0,0,4,30,13.3,22,4,68.2,55.4,15,100.0,67.7,9,1,11.1,0,11.1,Match Report,42ba8628,D,2022,True
+161,2022-07-13,Wed,MLS,Regular Season,Home,D 2–2,FC Cincinnati,Vancouver,Y,GK,90,4,2,1,50.0,0,1.4,0,0,0,0,2,4,50.0,10,4,30.0,27.7,4,25.0,28.5,5,0,0.0,1,15.5,Match Report,42ba8628,D,2022,True
+162,2022-07-17,Sun,MLS,Regular Season,Away,L 0–2,FC Cincinnati,Columbus Crew,Y,GK,90,3,2,2,66.7,0,2.2,1,1,0,0,2,11,18.2,11,5,36.4,30.3,9,77.8,57.6,14,2,14.3,1,14.5,Match Report,42ba8628,L,2022,True
+163,2022-07-23,Sat,MLS,Regular Season,Home,D 1–1,FC Cincinnati,Nashville,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,2,4,50.0,14,5,21.4,34.6,3,33.3,27.0,13,0,0.0,1,11.6,Match Report,42ba8628,D,2022,True
+164,2022-07-30,Sat,MLS,Regular Season,Away,D 4–4,FC Cincinnati,Inter Miami,Y,GK,90,7,4,4,57.1,0,3.4,1,1,0,0,6,12,50.0,14,2,50.0,41.4,10,50.0,40.8,7,0,0.0,1,17.0,Match Report,42ba8628,D,2022,True
+165,2022-08-06,Sat,MLS,Regular Season,Home,W 3–1,FC Cincinnati,Philadelphia,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,6,17,35.3,14,1,42.9,43.4,17,64.7,45.2,6,0,0.0,0,10.8,Match Report,42ba8628,W,2022,True
+166,2022-08-13,Sat,MLS,Regular Season,Home,D 2–2,FC Cincinnati,Atlanta Utd,Y,GK,90,6,2,4,66.7,0,2.3,0,0,0,0,7,12,58.3,19,5,47.4,40.8,5,60.0,41.8,10,1,10.0,0,8.6,Match Report,42ba8628,D,2022,False
+167,2022-08-20,Sat,MLS,Regular Season,Away,D 1–1,FC Cincinnati,NY Red Bulls,Y,GK,90,2,1,2,100.0,0,1.7,1,1,0,0,16,28,57.1,21,3,90.5,56.5,9,100.0,68.3,13,2,15.4,1,14.1,Match Report,42ba8628,D,2022,False
+168,2022-08-27,Sat,MLS,Regular Season,Home,D 2–2,FC Cincinnati,Columbus Crew,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,4,20,20.0,13,0,84.6,55.4,10,90.0,64.3,4,0,0.0,0,9.0,Match Report,42ba8628,D,2022,False
+169,2022-09-03,Sat,MLS,Regular Season,Home,W 2–0,FC Cincinnati,Charlotte,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,9,19,47.4,16,2,87.5,53.7,5,100.0,61.0,14,0,0.0,0,11.8,Match Report,42ba8628,W,2022,False
+170,2022-09-07,Wed,MLS,Regular Season,Away,D 1–1,FC Cincinnati,NYCFC,Y,GK,90,8,1,7,87.5,0,1.4,0,0,0,0,9,30,30.0,25,5,76.0,57.0,12,91.7,61.3,14,0,0.0,2,14.7,Match Report,42ba8628,D,2022,False
+171,2022-09-10,Sat,MLS,Regular Season,Home,W 6–0,FC Cincinnati,San Jose,Y,GK,90,5,0,5,100.0,1,0.9,0,0,0,0,4,11,36.4,14,2,50.0,42.9,5,80.0,57.4,8,0,0.0,0,14.0,Match Report,42ba8628,W,2022,False
+172,2022-09-17,Sat,MLS,Regular Season,Away,W 2–1,FC Cincinnati,Real Salt Lake,Y,GK,90,8,1,7,87.5,0,1.8,1,0,1,0,5,12,41.7,17,5,52.9,44.8,7,42.9,39.6,14,0,0.0,2,16.8,Match Report,42ba8628,W,2022,False
+173,2022-09-27,Tue,MLS,Regular Season,Away,D 1–1,FC Cincinnati,Seattle,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,8,14,57.1,16,2,62.5,46.8,5,80.0,56.8,14,1,7.1,0,12.8,Match Report,42ba8628,D,2022,False
+174,2022-10-01,Sat,MLS,Regular Season,Home,L 2–3,FC Cincinnati,Chicago Fire,Y,GK,90,6,3,3,50.0,0,1.4,0,0,0,0,2,10,20.0,10,0,50.0,40.9,7,71.4,50.4,9,0,0.0,0,9.3,Match Report,42ba8628,L,2022,False
+175,2022-10-09,Sun,MLS,Regular Season,Away,W 5–2,FC Cincinnati,D.C. United,Y,GK,90,5,2,3,60.0,0,0.7,0,0,0,0,5,15,33.3,13,1,84.6,53.6,4,100.0,68.5,17,2,11.8,0,6.0,Match Report,42ba8628,W,2022,False
+176,2022-10-15,Sat,MLS,First Round,Away,W 2–1,FC Cincinnati,NY Red Bulls,Y,GK,90,7,1,6,85.7,0,0.4,0,0,0,0,11,28,39.3,20,5,90.0,56.0,10,100.0,69.9,9,1,11.1,2,17.7,Match Report,42ba8628,W,2022,False
+177,2022-02-27,Sun,MLS,Regular Season,Home,D 0–0,Houston Dynamo,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4,4,100.0,24,7,16.7,25.5,6,0.0,13.7,7,1,14.3,0,13.4,Match Report,ed6320b7,D,2022,True
+178,2022-03-05,Sat,MLS,Regular Season,Away,L 0–1,Houston Dynamo,Sporting KC,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,7,16,43.8,26,8,26.9,33.1,11,81.8,51.3,7,0,0.0,1,14.3,Match Report,ed6320b7,L,2022,True
+179,2022-03-12,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Vancouver,Y,GK,90,1,1,0,0.0,0,0.5,0,0,0,0,2,7,28.6,22,5,18.2,24.0,10,30.0,27.0,11,1,9.1,0,8.5,Match Report,ed6320b7,W,2022,True
+180,2022-03-19,Sat,MLS,Regular Season,Home,D 1–1,Houston Dynamo,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,1,7,14.3,29,4,17.2,24.2,7,28.6,31.4,5,1,20.0,0,6.5,Match Report,ed6320b7,D,2022,True
+181,2022-04-02,Sat,MLS,Regular Season,Away,W 3–1,Houston Dynamo,Inter Miami,Y,GK,90,4,1,4,100.0,0,1.1,1,1,0,0,8,13,61.5,36,5,30.6,30.4,12,16.7,32.2,10,1,10.0,1,14.0,Match Report,ed6320b7,W,2022,True
+182,2022-04-09,Sat,MLS,Regular Season,Home,W 4–3,Houston Dynamo,San Jose,Y,GK,90,7,3,4,57.1,0,3.6,0,0,0,0,5,22,22.7,23,3,60.9,43.5,9,88.9,64.7,6,0,0.0,0,6.3,Match Report,ed6320b7,W,2022,True
+183,2022-04-16,Sat,MLS,Regular Season,Home,D 0–0,Houston Dynamo,Portland Timbers,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,5,17,29.4,26,3,34.6,33.8,11,72.7,52.1,10,0,0.0,1,13.5,Match Report,ed6320b7,D,2022,True
+184,2022-04-23,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,FC Dallas,Y,GK,90,7,2,5,71.4,0,2.6,0,0,0,0,7,12,58.3,36,6,19.4,26.5,7,71.4,46.9,9,0,0.0,1,8.8,Match Report,ed6320b7,L,2022,True
+185,2022-04-30,Sat,MLS,Regular Season,Home,L 1–2,Houston Dynamo,Austin,Y,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,5,10,50.0,30,4,30.0,31.7,4,25.0,27.3,8,1,12.5,0,11.3,Match Report,ed6320b7,L,2022,True
+186,2022-05-07,Sat,MLS,Regular Season,Away,L 0–2,Houston Dynamo,D.C. United,Y,GK,90,6,2,4,66.7,0,1.1,0,0,0,0,8,21,38.1,39,7,33.3,33.1,12,66.7,50.4,13,0,0.0,2,11.5,Match Report,ed6320b7,L,2022,True
+187,2022-05-14,Sat,MLS,Regular Season,Home,W 2–0,Houston Dynamo,Nashville,Y,GK,90,2,0,2,100.0,1,0.7,0,0,0,0,9,26,34.6,31,4,51.6,41.9,11,90.9,58.2,21,0,0.0,0,10.5,Match Report,ed6320b7,W,2022,True
+188,2022-05-18,Wed,MLS,Regular Season,Home,L 0–1,Houston Dynamo,Seattle,Y,GK,90,4,1,3,75.0,0,1.8,0,0,0,0,4,8,50.0,34,6,20.6,26.3,9,11.1,24.8,5,0,0.0,1,19.0,Match Report,ed6320b7,L,2022,True
+189,2022-05-22,Sun,MLS,Regular Season,Away,W 3–0,Houston Dynamo,LA Galaxy,Y,GK,90,6,0,6,100.0,1,1.3,0,0,0,0,6,20,30.0,27,3,44.4,41.2,9,88.9,62.8,7,0,0.0,0,8.0,Match Report,ed6320b7,W,2022,True
+190,2022-06-18,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Orlando City,Y,GK,90,7,2,5,71.4,0,1.9,0,0,0,0,7,9,77.8,26,7,19.2,25.3,6,66.7,40.5,10,0,0.0,1,12.7,Match Report,ed6320b7,L,2022,True
+191,2022-06-25,Sat,MLS,Regular Season,Home,W 2–0,Houston Dynamo,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.9,0,0,0,0,5,13,38.5,47,8,23.4,30.0,9,22.2,35.4,12,0,0.0,0,11.8,Match Report,ed6320b7,W,2022,True
+192,2022-06-29,Wed,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Portland Timbers,Y,GK,90,3,2,2,66.7,0,1.3,1,1,0,0,2,6,33.3,19,7,26.3,34.1,3,33.3,28.7,7,0,0.0,0,13.3,Match Report,ed6320b7,L,2022,True
+193,2022-07-03,Sun,MLS,Regular Season,Home,L 1–2,Houston Dynamo,Charlotte,Y,GK,90,4,2,3,50.0,0,1.0,0,0,0,0,0,1,0.0,35,9,2.9,19.7,9,0.0,21.2,4,0,0.0,4,21.0,Match Report,ed6320b7,L,2022,True
+194,2022-07-09,Sat,MLS,Regular Season,Home,D 2–2,Houston Dynamo,FC Dallas,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,2,4,50.0,29,2,6.9,20.6,7,28.6,28.7,2,0,0.0,5,30.0,Match Report,ed6320b7,D,2022,True
+195,2022-07-12,Tue,MLS,Regular Season,Away,L 1–3,Houston Dynamo,Austin,Y,GK,90,6,3,3,50.0,0,2.1,0,0,0,0,6,12,50.0,36,4,22.2,27.3,9,44.4,36.6,12,1,8.3,1,18.8,Match Report,ed6320b7,L,2022,True
+196,2022-07-17,Sun,MLS,Regular Season,Away,W 2–1,Houston Dynamo,San Jose,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,8,16,50.0,30,4,23.3,25.1,12,75.0,52.8,8,0,0.0,1,11.2,Match Report,ed6320b7,W,2022,True
+197,2022-07-23,Sat,MLS,Regular Season,Home,L 1–2,Houston Dynamo,Minnesota Utd,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,1,1,100.0,24,4,4.2,19.1,5,0.0,11.8,2,0,0.0,1,15.6,Match Report,ed6320b7,L,2022,True
+198,2022-07-30,Sat,MLS,Regular Season,Away,L 0–6,Houston Dynamo,Philadelphia,Y,GK,25,1,1,0,0.0,0,0.9,0,0,0,0,2,4,50.0,11,1,27.3,25.8,1,100.0,66.0,1,0,0.0,2,22.3,Match Report,ed6320b7,L,2022,True
+199,2022-08-05,Fri,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Vancouver,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,6,10,60.0,15,5,26.7,29.1,11,54.5,47.3,18,0,0.0,0,4.7,Match Report,ed6320b7,L,2022,True
+200,2022-08-13,Sat,MLS,Regular Season,Home,L 2–3,Houston Dynamo,CF Montréal,Y,GK,90,6,3,4,66.7,0,2.1,2,1,0,1,5,12,41.7,19,4,31.6,30.2,9,66.7,48.9,6,1,16.7,1,15.1,Match Report,ed6320b7,L,2022,False
+201,2022-08-20,Sat,MLS,Regular Season,Away,D 1–1,Houston Dynamo,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,6,17,35.3,25,7,40.0,35.8,14,50.0,40.8,7,0,0.0,2,28.0,Match Report,ed6320b7,D,2022,False
+202,2022-08-27,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Minnesota Utd,Y,GK,90,2,2,1,0.0,0,1.6,0,0,0,0,4,12,33.3,20,8,35.0,39.6,13,38.5,32.3,12,1,8.3,0,10.4,Match Report,ed6320b7,L,2022,False
+203,2022-08-31,Wed,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Los Angeles FC,Y,GK,90,7,1,5,85.7,0,1.8,0,0,0,0,3,14,21.4,18,8,16.7,25.2,16,68.8,47.9,22,0,0.0,0,9.1,Match Report,ed6320b7,W,2022,False
+204,2022-09-04,Sun,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Seattle,Y,GK,90,3,2,1,33.3,0,2.9,1,0,1,0,6,21,28.6,26,4,46.2,36.8,12,75.0,55.3,14,0,0.0,1,12.1,Match Report,ed6320b7,L,2022,False
+205,2022-09-10,Sat,MLS,Regular Season,Home,D 0–0,Houston Dynamo,Sporting KC,Y,GK,90,6,0,6,100.0,1,1.3,0,0,0,0,8,17,47.1,23,2,30.4,32.6,15,66.7,47.7,14,0,0.0,0,,Match Report,ed6320b7,D,2022,False
+206,2022-09-13,Tue,MLS,Regular Season,Home,W 3–1,Houston Dynamo,New England,Y,GK,90,4,1,4,100.0,0,1.5,1,1,0,0,9,14,64.3,26,2,30.8,32.3,11,54.5,43.8,11,0,0.0,1,16.0,Match Report,ed6320b7,W,2022,False
+207,2022-09-18,Sun,MLS,Regular Season,Away,L 1–3,Houston Dynamo,Los Angeles FC,Y,GK,90,5,3,4,80.0,0,2.4,2,2,0,0,8,15,53.3,41,6,26.8,29.2,9,44.4,37.9,6,0,0.0,0,12.0,Match Report,ed6320b7,L,2022,False
+208,2022-10-02,Sun,MLS,Regular Season,Away,W 2–1,Houston Dynamo,Nashville,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,8,19,42.1,21,1,57.1,42.5,11,63.6,44.1,25,1,4.0,0,9.0,Match Report,ed6320b7,W,2022,False
+209,2022-10-09,Sun,MLS,Regular Season,Home,L 1–3,Houston Dynamo,LA Galaxy,Y,GK,90,7,3,4,57.1,0,3.4,0,0,0,0,2,3,66.7,16,4,12.5,23.6,10,10.0,21.0,10,0,0.0,1,10.6,Match Report,ed6320b7,L,2022,False
+210,2022-03-20,Sun,MLS,Regular Season,Away,D 1–1,Seattle,Austin,Y,GK,90,8,1,7,87.5,0,3.5,0,0,0,0,2,16,12.5,34,8,32.4,35.0,16,31.3,32.2,14,1,7.1,0,11.0,Match Report,873fdbdf,D,2022,True
+211,2022-04-16,Sat,MLS,Regular Season,Home,L 0–1,Seattle,Inter Miami,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,3,5,60.0,19,5,10.5,24.3,5,60.0,44.6,6,0,0.0,0,10.6,Match Report,873fdbdf,L,2022,True
+212,2022-05-07,Sat,MLS,Regular Season,Away,L 0–2,Seattle,FC Dallas,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,4,17,23.5,21,2,47.6,36.9,17,41.2,34.1,2,0,0.0,1,16.3,Match Report,873fdbdf,L,2022,True
+213,2022-07-02,Sat,MLS,Regular Season,Away,W 2–0,Seattle,Toronto FC,Y,GK,90,6,0,6,100.0,1,1.8,0,0,0,0,8,18,44.4,24,7,62.5,49.0,10,30.0,26.1,10,0,0.0,0,13.3,Match Report,873fdbdf,W,2022,True
+214,2022-07-13,Wed,MLS,Regular Season,Away,L 0–1,Seattle,Nashville,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,2,9,22.2,23,6,39.1,38.2,6,0.0,16.0,12,0,0.0,0,13.0,Match Report,873fdbdf,L,2022,True
+215,2022-07-16,Sat,MLS,Regular Season,Away,L 0–1,Seattle,Chicago Fire,Y,GK,90,5,1,4,80.0,0,0.5,0,0,0,0,2,6,33.3,27,7,14.8,24.2,5,40.0,33.2,8,1,12.5,0,12.3,Match Report,873fdbdf,L,2022,True
+216,2022-10-09,Sun,MLS,Regular Season,Home,D 2–2,Seattle,San Jose,Y,GK,90,4,2,2,50.0,0,0.9,0,0,0,0,3,8,37.5,17,3,23.5,27.9,8,50.0,41.5,9,0,0.0,0,16.5,Match Report,873fdbdf,D,2022,False
+217,2022-02-26,Sat,MLS,Regular Season,Away,W 3–1,NY Red Bulls,San Jose,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,5,18,27.8,19,1,57.9,42.9,7,100.0,67.6,10,1,10.0,1,11.5,Match Report,5c07e176,W,2022,True
+218,2022-03-05,Sat,MLS,Regular Season,Away,W 4–1,NY Red Bulls,Toronto FC,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,1,15,6.7,17,1,76.5,51.0,5,40.0,31.2,9,0,0.0,0,9.0,Match Report,5c07e176,W,2022,True
+219,2022-03-13,Sun,MLS,Regular Season,Home,L 0–1,NY Red Bulls,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,3,15,20.0,27,4,51.9,43.2,2,50.0,30.5,1,0,0.0,2,21.0,Match Report,5c07e176,L,2022,True
+220,2022-03-20,Sun,MLS,Regular Season,Home,D 1–1,NY Red Bulls,Columbus Crew,Y,GK,90,2,1,1,50.0,0,1.2,0,0,0,0,8,18,44.4,29,2,41.4,37.6,6,100.0,73.8,8,2,25.0,2,24.4,Match Report,5c07e176,D,2022,True
+221,2022-04-02,Sat,MLS,Regular Season,Away,W 1–0,NY Red Bulls,New England,Y,GK,90,5,0,5,100.0,1,1.4,0,0,0,0,10,29,34.5,31,3,67.7,49.1,8,100.0,68.8,15,2,13.3,1,15.6,Match Report,5c07e176,W,2022,True
+222,2022-04-09,Sat,MLS,Regular Season,Home,L 1–2,NY Red Bulls,CF Montréal,Y,GK,90,4,2,1,50.0,0,1.0,0,0,0,0,5,22,22.7,28,3,67.9,47.2,6,50.0,46.8,8,1,12.5,4,26.5,Match Report,5c07e176,L,2022,True
+223,2022-04-16,Sat,MLS,Regular Season,Home,D 0–0,NY Red Bulls,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,2,6,33.3,24,5,20.8,29.5,3,33.3,30.3,2,0,0.0,3,21.9,Match Report,5c07e176,D,2022,True
+224,2022-04-24,Sun,MLS,Regular Season,Away,W 3–0,NY Red Bulls,Orlando City,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,6,16,37.5,17,2,64.7,46.8,7,71.4,52.1,8,0,0.0,0,11.3,Match Report,5c07e176,W,2022,True
+225,2022-04-30,Sat,MLS,Regular Season,Away,W 2–1,NY Red Bulls,Chicago Fire,Y,GK,90,2,1,2,100.0,0,1.1,1,1,0,0,1,7,14.3,17,2,29.4,31.4,4,50.0,45.3,3,0,0.0,3,25.5,Match Report,5c07e176,W,2022,True
+226,2022-05-07,Sat,MLS,Regular Season,Home,D 1–1,NY Red Bulls,Portland Timbers,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,4,10,40.0,14,2,50.0,38.6,4,75.0,56.0,4,0,0.0,1,25.0,Match Report,5c07e176,D,2022,True
+227,2022-05-14,Sat,MLS,Regular Season,Away,D 1–1,NY Red Bulls,Philadelphia,Y,GK,90,5,1,4,80.0,0,1.7,0,0,0,0,5,24,20.8,24,6,75.0,55.9,8,75.0,56.4,10,0,0.0,3,18.1,Match Report,5c07e176,D,2022,True
+228,2022-05-18,Wed,MLS,Regular Season,Home,D 3–3,NY Red Bulls,Chicago Fire,Y,GK,90,6,3,3,50.0,0,2.5,0,0,0,0,4,11,36.4,24,8,41.7,37.7,3,33.3,32.0,10,1,10.0,2,12.4,Match Report,5c07e176,D,2022,True
+229,2022-05-28,Sat,MLS,Regular Season,Home,W 4–1,NY Red Bulls,D.C. United,Y,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,7,26,26.9,26,4,73.1,48.1,7,100.0,66.3,3,1,33.3,5,22.8,Match Report,5c07e176,W,2022,True
+230,2022-06-11,Sat,MLS,Regular Season,Away,L 0–2,NY Red Bulls,Charlotte,Y,GK,90,5,2,3,60.0,0,1.9,0,0,0,0,2,9,22.2,19,8,21.1,30.2,8,62.5,51.0,7,1,14.3,4,22.9,Match Report,5c07e176,L,2022,True
+231,2022-06-18,Sat,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Toronto FC,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,3,13,23.1,14,1,78.6,55.7,5,40.0,33.0,5,0,0.0,2,29.0,Match Report,5c07e176,W,2022,True
+232,2022-06-26,Sun,MLS,Regular Season,Away,L 0–2,NY Red Bulls,Los Angeles FC,Y,GK,90,5,2,3,60.0,0,1.4,0,0,0,0,9,21,42.9,16,5,81.3,56.0,8,100.0,71.0,6,1,16.7,1,18.6,Match Report,5c07e176,L,2022,True
+233,2022-06-30,Thu,MLS,Regular Season,Home,W 2–1,NY Red Bulls,Atlanta Utd,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,4,11,36.4,14,2,50.0,44.2,4,100.0,68.8,3,0,0.0,2,21.8,Match Report,5c07e176,W,2022,True
+234,2022-07-03,Sun,MLS,Regular Season,Away,W 1–0,NY Red Bulls,Sporting KC,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,8,16,50.0,15,2,60.0,46.6,9,77.8,56.8,5,0,0.0,0,14.3,Match Report,5c07e176,W,2022,True
+235,2022-07-09,Sat,MLS,Regular Season,Away,D 1–1,NY Red Bulls,FC Cincinnati,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,2,13,15.4,20,5,55.0,44.6,4,50.0,45.8,1,0,0.0,0,9.8,Match Report,5c07e176,D,2022,True
+236,2022-07-17,Sun,MLS,Regular Season,Home,L 0–1,NY Red Bulls,NYCFC,Y,GK,90,7,1,5,85.7,0,1.4,0,0,0,0,8,20,40.0,21,4,61.9,47.1,8,87.5,62.6,4,0,0.0,3,24.7,Match Report,5c07e176,L,2022,True
+237,2022-07-24,Sun,MLS,Regular Season,Away,W 4–3,NY Red Bulls,Austin,Y,GK,90,5,3,2,40.0,0,1.1,0,0,0,0,5,23,21.7,14,0,92.9,72.6,10,100.0,72.5,4,0,0.0,0,9.3,Match Report,5c07e176,W,2022,True
+238,2022-08-02,Tue,MLS,Regular Season,Home,L 4–5,NY Red Bulls,Colorado Rapids,Y,GK,90,7,5,2,28.6,0,3.4,0,0,0,0,5,21,23.8,27,5,66.7,53.4,3,100.0,71.7,7,1,14.3,0,9.5,Match Report,5c07e176,L,2022,True
+239,2022-08-06,Sat,MLS,Regular Season,Away,D 0–0,NY Red Bulls,D.C. United,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,10,26,38.5,23,5,65.2,51.2,11,100.0,77.8,4,0,0.0,2,18.3,Match Report,5c07e176,D,2022,True
+240,2022-08-13,Sat,MLS,Regular Season,Home,L 0–1,NY Red Bulls,Orlando City,Y,GK,90,1,1,0,0.0,0,0.2,0,0,0,0,2,10,20.0,18,4,50.0,48.3,5,20.0,26.2,5,2,40.0,1,14.5,Match Report,5c07e176,L,2022,False
+241,2022-08-17,Wed,MLS,Regular Season,Away,W 2–1,NY Red Bulls,Atlanta Utd,Y,GK,90,5,1,4,80.0,0,1.1,0,0,0,0,13,26,50.0,22,2,81.8,55.9,9,88.9,61.7,16,1,6.3,0,15.0,Match Report,5c07e176,W,2022,False
+242,2022-08-20,Sat,MLS,Regular Season,Home,D 1–1,NY Red Bulls,FC Cincinnati,Y,GK,90,2,1,1,50.0,0,0.2,0,0,0,0,5,19,26.3,24,5,62.5,47.8,4,100.0,73.8,6,0,0.0,1,15.0,Match Report,5c07e176,D,2022,False
+243,2022-08-27,Sat,MLS,Regular Season,Home,W 3–1,NY Red Bulls,Inter Miami,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,4,12,33.3,15,3,46.7,44.1,8,62.5,47.8,5,0,0.0,1,17.0,Match Report,5c07e176,W,2022,False
+244,2022-08-31,Wed,MLS,Regular Season,Away,W 1–0,NY Red Bulls,CF Montréal,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,8,25,32.0,12,0,100.0,61.7,13,100.0,65.3,5,0,0.0,1,17.7,Match Report,5c07e176,W,2022,False
+245,2022-09-03,Sat,MLS,Regular Season,Home,L 0–2,NY Red Bulls,Philadelphia,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,6,20,30.0,28,3,53.6,45.4,6,83.3,67.0,5,0,0.0,3,26.3,Match Report,5c07e176,L,2022,False
+246,2022-09-10,Sat,MLS,Regular Season,Home,W 2–1,NY Red Bulls,New England,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,5,8,62.5,21,4,28.6,32.6,5,40.0,50.0,3,1,33.3,2,18.5,Match Report,5c07e176,W,2022,False
+247,2022-09-17,Sat,MLS,Regular Season,Away,L 0–2,NY Red Bulls,NYCFC,Y,GK,90,3,2,1,33.3,0,1.9,0,0,0,0,5,18,27.8,32,6,43.8,37.9,4,100.0,75.0,4,1,25.0,2,21.6,Match Report,5c07e176,L,2022,False
+248,2022-10-01,Sat,MLS,Regular Season,Away,L 1–2,NY Red Bulls,Columbus Crew,Y,GK,90,4,2,2,50.0,0,2.0,0,0,0,0,7,26,26.9,19,2,78.9,56.1,11,100.0,66.3,8,0,0.0,0,10.7,Match Report,5c07e176,L,2022,False
+249,2022-10-09,Sun,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Charlotte,Y,GK,90,6,0,6,100.0,1,1.0,0,0,0,0,6,21,28.6,19,4,73.7,54.6,7,100.0,71.4,8,1,12.5,2,18.3,Match Report,5c07e176,W,2022,False
+250,2022-10-15,Sat,MLS,First Round,Home,L 1–2,NY Red Bulls,FC Cincinnati,Y,GK,90,4,2,3,75.0,0,2.4,1,1,0,0,7,27,25.9,27,7,70.4,51.5,8,100.0,69.3,10,0,0.0,3,14.9,Match Report,5c07e176,L,2022,False
+251,2022-02-26,Sat,MLS,Regular Season,Home,W 3–0,Los Angeles FC,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,3,11,27.3,32,6,28.1,31.7,7,28.6,29.0,13,3,23.1,1,16.4,Match Report,ea42e480,W,2022,True
+252,2022-03-06,Sun,MLS,Regular Season,Home,D 1–1,Los Angeles FC,Portland Timbers,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,4,4,100.0,21,7,19.0,27.4,1,0.0,23.0,3,0,0.0,0,12.4,Match Report,ea42e480,D,2022,True
+253,2022-03-12,Sat,MLS,Regular Season,Away,W 2–0,Los Angeles FC,Inter Miami,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,0,2,0.0,20,6,10.0,21.6,6,0.0,11.0,4,0,0.0,0,6.4,Match Report,ea42e480,W,2022,True
+254,2022-03-20,Sun,MLS,Regular Season,Home,W 3–1,Los Angeles FC,Vancouver,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,2,9,22.2,33,5,24.2,31.1,4,25.0,30.3,6,1,16.7,4,23.4,Match Report,ea42e480,W,2022,True
+255,2022-04-02,Sat,MLS,Regular Season,Away,W 4–2,Los Angeles FC,Orlando City,Y,GK,90,4,2,2,50.0,0,2.3,0,0,0,0,5,12,41.7,19,6,42.1,35.1,6,66.7,49.3,11,2,18.2,3,16.2,Match Report,ea42e480,W,2022,True
+256,2022-04-09,Sat,MLS,Regular Season,Away,L 1–2,Los Angeles FC,LA Galaxy,Y,GK,90,2,2,0,0.0,0,1.2,0,0,0,0,5,8,62.5,24,9,29.2,28.5,4,25.0,23.5,6,0,0.0,2,11.8,Match Report,ea42e480,L,2022,True
+257,2022-04-17,Sun,MLS,Regular Season,Home,W 3–1,Los Angeles FC,Sporting KC,Y,GK,90,2,1,2,50.0,0,0.6,0,0,0,0,8,12,66.7,22,7,40.9,33.5,5,60.0,42.4,9,1,11.1,0,11.0,Match Report,ea42e480,W,2022,True
+258,2022-04-24,Sun,MLS,Regular Season,Away,W 2–1,Los Angeles FC,FC Cincinnati,Y,GK,90,6,1,5,83.3,0,0.9,0,0,0,0,9,13,69.2,25,7,44.0,38.2,6,33.3,33.0,12,1,8.3,1,14.0,Match Report,ea42e480,W,2022,True
+259,2022-05-01,Sun,MLS,Regular Season,Home,W 2–0,Los Angeles FC,Minnesota Utd,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,6,11,54.5,21,5,47.6,38.7,3,33.3,36.0,9,1,11.1,0,13.5,Match Report,ea42e480,W,2022,True
+260,2022-05-07,Sat,MLS,Regular Season,Home,D 2–2,Los Angeles FC,Philadelphia,Y,GK,90,2,2,0,0.0,0,1.2,0,0,0,0,7,10,70.0,19,7,42.1,39.6,10,20.0,24.0,9,2,22.2,1,19.7,Match Report,ea42e480,D,2022,True
+261,2022-05-18,Wed,MLS,Regular Season,Home,L 1–2,Los Angeles FC,Austin,Y,GK,90,2,2,0,0.0,0,1.4,0,0,0,0,4,14,28.6,26,2,50.0,38.8,7,14.3,30.1,4,2,50.0,2,19.3,Match Report,ea42e480,L,2022,True
+262,2022-05-21,Sat,MLS,Regular Season,Away,W 2–0,Los Angeles FC,Columbus Crew,Y,GK,90,3,,3,,1,0.6,0,0,0,0,10,13,76.9,24,3,33.3,36.4,6,83.3,59.8,10,1,10.0,0,11.5,Match Report,ea42e480,W,2022,True
+263,2022-05-28,Sat,MLS,Regular Season,Home,W 3–2,Los Angeles FC,San Jose,Y,GK,90,3,2,1,33.3,0,1.5,0,0,0,0,6,13,46.2,18,6,55.6,38.6,6,50.0,44.7,11,0,0.0,1,13.9,Match Report,ea42e480,W,2022,True
+264,2022-06-18,Sat,MLS,Regular Season,Away,D 1–1,Los Angeles FC,Seattle,Y,GK,90,5,1,4,80.0,0,0.4,0,0,0,0,8,18,44.4,28,6,35.7,37.9,11,72.7,48.2,11,2,18.2,2,19.1,Match Report,ea42e480,D,2022,True
+265,2022-06-26,Sun,MLS,Regular Season,Home,W 2–0,Los Angeles FC,NY Red Bulls,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,8,24,33.3,26,4,50.0,43.7,11,100.0,67.2,11,1,9.1,2,15.6,Match Report,ea42e480,W,2022,True
+266,2022-06-29,Wed,MLS,Regular Season,Home,W 3–1,Los Angeles FC,FC Dallas,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,12,21,57.1,23,3,60.9,43.5,9,77.8,58.4,6,0,0.0,1,13.2,Match Report,ea42e480,W,2022,True
+267,2022-07-02,Sat,MLS,Regular Season,Away,L 0–1,Los Angeles FC,Vancouver,Y*,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,2,9,22.2,22,3,40.9,36.1,5,0.0,21.0,11,0,0.0,1,10.6,Match Report,ea42e480,L,2022,True
+268,2022-07-08,Fri,MLS,Regular Season,Home,W 3–2,Los Angeles FC,LA Galaxy,Y,GK,90,7,2,5,71.4,0,1.6,0,0,0,0,5,18,27.8,18,5,55.6,44.7,10,80.0,53.2,12,1,8.3,0,13.5,Match Report,ea42e480,W,2022,True
+269,2022-07-17,Sun,MLS,Regular Season,Away,W 2–1,Los Angeles FC,Nashville,Y,GK,90,2,1,2,100.0,0,1.0,1,1,0,0,4,22,18.2,27,3,51.9,42.4,8,100.0,67.9,10,0,0.0,0,12.0,Match Report,ea42e480,W,2022,True
+270,2022-07-23,Sat,MLS,Regular Season,Away,W 2–0,Los Angeles FC,Sporting KC,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,6,20,30.0,20,4,60.0,49.8,9,88.9,59.4,12,1,8.3,0,13.0,Match Report,ea42e480,W,2022,True
+271,2022-07-29,Fri,MLS,Regular Season,Home,W 2–1,Los Angeles FC,Seattle,Y,GK,90,0,1,0,,0,0.0,0,0,0,0,11,21,52.4,18,3,61.1,45.8,10,100.0,61.9,6,1,16.7,1,15.3,Match Report,ea42e480,W,2022,True
+272,2022-08-06,Sat,MLS,Regular Season,Away,W 4–1,Los Angeles FC,Real Salt Lake,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,6,17,35.3,17,4,58.8,44.4,9,77.8,58.3,23,1,4.3,1,21.2,Match Report,ea42e480,W,2022,True
+273,2022-08-13,Sat,MLS,Regular Season,Home,W 5–0,Los Angeles FC,Charlotte,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,9,13,69.2,23,5,52.2,38.7,4,25.0,23.0,6,0,0.0,4,26.5,Match Report,ea42e480,W,2022,False
+274,2022-08-16,Tue,MLS,Regular Season,Home,W 1–0,Los Angeles FC,D.C. United,Y,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,6,17,35.3,21,3,61.9,42.3,6,66.7,48.8,2,1,50.0,0,10.0,Match Report,ea42e480,W,2022,False
+275,2022-08-20,Sat,MLS,Regular Season,Away,L 1–2,Los Angeles FC,San Jose,Y,GK,90,5,2,3,60.0,0,1.5,0,0,0,0,6,10,60.0,15,4,33.3,35.5,5,100.0,64.4,5,0,0.0,2,19.3,Match Report,ea42e480,L,2022,False
+276,2022-08-26,Fri,MLS,Regular Season,Away,L 1–4,Los Angeles FC,Austin,Y,GK,90,9,4,5,55.6,0,2.8,0,0,0,0,1,11,9.1,18,6,44.4,37.8,3,100.0,63.3,10,1,10.0,0,11.3,Match Report,ea42e480,L,2022,False
+277,2022-08-31,Wed,MLS,Regular Season,Away,L 1–2,Los Angeles FC,Houston Dynamo,Y,GK,90,1,2,0,0.0,0,1.1,1,1,0,0,3,8,37.5,20,2,30.0,34.5,8,25.0,33.4,4,0,0.0,1,17.3,Match Report,ea42e480,L,2022,False
+278,2022-09-04,Sun,MLS,Regular Season,Home,W 2–0,Los Angeles FC,Real Salt Lake,Y,GK,90,5,0,5,100.0,1,0.5,0,0,0,0,5,7,71.4,24,6,29.2,34.5,1,0.0,17.0,8,0,0.0,1,16.3,Match Report,ea42e480,W,2022,False
+279,2022-09-10,Sat,MLS,Regular Season,Away,L 1–2,Los Angeles FC,FC Dallas,Y,GK,90,8,2,6,75.0,0,1.1,0,0,0,0,10,30,33.3,27,2,74.1,54.3,10,100.0,69.0,16,0,0.0,1,11.6,Match Report,ea42e480,L,2022,False
+280,2022-09-13,Tue,MLS,Regular Season,Away,D 1–1,Los Angeles FC,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,4,17,23.5,17,5,58.8,43.2,9,77.8,52.3,15,0,0.0,0,9.0,Match Report,ea42e480,D,2022,False
+281,2022-09-18,Sun,MLS,Regular Season,Home,W 3–1,Los Angeles FC,Houston Dynamo,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,5,13,38.5,24,7,41.7,38.1,10,30.0,35.7,6,0,0.0,0,10.1,Match Report,ea42e480,W,2022,False
+282,2022-10-02,Sun,MLS,Regular Season,Away,W 2–1,Los Angeles FC,Portland Timbers,Y,GK,90,7,1,6,85.7,0,1.3,0,0,0,0,11,23,47.8,23,6,73.9,58.4,9,66.7,47.1,12,0,0.0,0,8.7,Match Report,ea42e480,W,2022,False
+283,2022-10-09,Sun,MLS,Regular Season,Home,L 0–1,Los Angeles FC,Nashville,Y,GK,90,2,1,1,50.0,0,1.5,0,0,0,0,2,7,28.6,24,2,20.8,25.8,5,40.0,31.6,6,0,0.0,0,10.0,Match Report,ea42e480,L,2022,False
+284,2022-05-08,Sun,MLS,Regular Season,Home,W 1–0,Vancouver,Toronto FC,N,GK,21,1,0,1,100.0,1,0.6,0,0,0,0,2,5,40.0,5,0,60.0,54.2,2,100.0,61.5,1,0,0.0,0,10.0,Match Report,aa133046,W,2022,True
+285,2022-05-14,Sat,MLS,Regular Season,Home,D 3–3,Vancouver,San Jose,Y,GK,90,6,3,3,50.0,0,3.2,0,0,0,0,7,13,53.8,17,4,35.3,33.8,7,100.0,63.6,6,2,33.3,0,9.3,Match Report,aa133046,D,2022,True
+286,2022-05-18,Wed,MLS,Regular Season,Home,W 2–1,Vancouver,FC Dallas,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,11,22,50.0,17,1,88.2,55.4,10,70.0,45.7,9,0,0.0,0,14.5,Match Report,aa133046,W,2022,True
+287,2022-05-28,Sat,MLS,Regular Season,Away,W 1–0,Vancouver,Sporting KC,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,6,18,33.3,14,0,64.3,51.6,10,90.0,63.3,16,0,0.0,0,8.0,Match Report,aa133046,W,2022,True
+288,2022-06-04,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,2,10,20.0,17,6,35.3,34.8,9,44.4,38.9,19,1,5.3,0,13.8,Match Report,aa133046,W,2022,True
+289,2022-06-14,Tue,MLS,Regular Season,Away,L 0–4,Vancouver,Seattle,Y,GK,90,6,4,3,50.0,0,2.6,1,1,0,0,4,14,28.6,28,10,25.0,29.9,11,63.6,47.1,8,0,0.0,0,12.7,Match Report,aa133046,L,2022,True
+290,2022-06-18,Sat,MLS,Regular Season,Away,W 2–0,Vancouver,FC Dallas,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,7,20,35.0,11,0,81.8,61.5,13,84.6,58.5,16,1,6.3,0,7.5,Match Report,aa133046,W,2022,True
+291,2022-06-26,Sun,MLS,Regular Season,Home,D 0–0,Vancouver,New England,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,7,17,41.2,11,5,54.5,41.6,13,84.6,54.7,8,1,12.5,0,10.3,Match Report,aa133046,D,2022,True
+292,2022-07-02,Sat,MLS,Regular Season,Home,W 1–0,Vancouver,Los Angeles FC,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,5,8,62.5,8,3,50.0,38.4,9,44.4,33.3,6,0,0.0,0,7.3,Match Report,aa133046,W,2022,True
+293,2022-07-08,Fri,MLS,Regular Season,Home,L 1–3,Vancouver,Minnesota Utd,Y,GK,90,5,3,2,40.0,0,1.5,0,0,0,0,2,5,40.0,6,2,33.3,33.3,6,50.0,37.7,6,1,16.7,0,11.0,Match Report,aa133046,L,2022,True
+294,2022-07-13,Wed,MLS,Regular Season,Away,D 2–2,Vancouver,FC Cincinnati,Y,GK,45,3,2,1,33.3,0,1.0,0,0,0,0,0,6,0.0,7,2,28.6,35.7,6,66.7,48.7,8,0,0.0,0,11.0,Match Report,aa133046,D,2022,True
+295,2022-07-30,Sat,MLS,Regular Season,Away,D 1–1,Vancouver,Nashville,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,4,8,50.0,6,2,16.7,24.7,12,58.3,43.5,14,0,0.0,0,17.0,Match Report,aa133046,D,2022,True
+296,2022-08-05,Fri,MLS,Regular Season,Home,W 2–1,Vancouver,Houston Dynamo,Y,GK,90,4,1,2,75.0,0,1.7,0,0,0,0,3,5,60.0,12,3,25.0,24.6,3,66.7,45.0,2,0,0.0,0,4.0,Match Report,aa133046,W,2022,True
+297,2022-08-13,Sat,MLS,Regular Season,Away,L 2–5,Vancouver,LA Galaxy,Y,GK,90,6,5,2,33.3,0,4.4,1,1,0,0,3,7,42.9,13,4,30.8,37.2,5,60.0,44.4,5,0,0.0,0,8.5,Match Report,aa133046,L,2022,False
+298,2022-09-10,Sat,MLS,Regular Season,Away,L 1–3,Vancouver,Colorado Rapids,Y,GK,90,4,3,2,50.0,0,2.0,1,1,0,0,0,6,0.0,8,1,37.5,29.5,10,30.0,31.7,3,0,0.0,0,,Match Report,aa133046,L,2022,False
+299,2022-02-26,Sat,MLS,Regular Season,Home,D 0–0,Inter Miami,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,2,17,11.8,22,3,45.5,40.6,12,58.3,48.9,6,0,0.0,0,13.8,Match Report,0d5c0218,D,2022,True
+300,2022-03-06,Sun,MLS,Regular Season,Away,L 1–5,Inter Miami,Austin,Y,GK,90,6,5,1,16.7,0,2.9,0,0,0,0,2,8,25.0,16,2,31.3,30.8,10,30.0,27.4,9,0,0.0,1,17.8,Match Report,0d5c0218,L,2022,True
+301,2022-03-12,Sat,MLS,Regular Season,Home,L 0–2,Inter Miami,Los Angeles FC,Y,GK,90,2,2,0,0.0,0,1.3,0,0,0,0,5,12,41.7,24,2,33.3,30.3,9,44.4,33.6,4,0,0.0,0,15.0,Match Report,0d5c0218,L,2022,True
+302,2022-02-26,Sat,MLS,Regular Season,Away,D 2–2,New England,Portland Timbers,Y,GK,90,5,2,3,60.0,0,1.9,0,0,0,0,5,13,38.5,15,7,40.0,37.2,7,100.0,59.9,11,1,9.1,1,10.6,Match Report,10f6f942,D,2022,True
+303,2022-03-05,Sat,MLS,Regular Season,Home,W 1–0,New England,FC Dallas,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,7,17,41.2,22,4,45.5,38.6,9,77.8,50.0,11,1,9.1,0,14.4,Match Report,10f6f942,W,2022,True
+304,2022-03-12,Sat,MLS,Regular Season,Home,L 2–3,New England,Real Salt Lake,Y,GK,90,6,3,3,50.0,0,2.8,0,0,0,0,6,14,42.9,13,4,84.6,48.8,3,100.0,54.7,7,0,0.0,0,9.8,Match Report,10f6f942,L,2022,True
+305,2022-03-19,Sat,MLS,Regular Season,Away,L 1–3,New England,Charlotte,Y,GK,90,5,3,2,40.0,0,1.9,0,0,0,0,3,4,75.0,13,8,15.4,28.3,7,28.6,27.7,7,1,14.3,1,13.5,Match Report,10f6f942,L,2022,True
+306,2022-02-27,Sun,MLS,Regular Season,Home,L 0–1,Seattle,Nashville,Y*,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,4,9,44.4,26,5,23.1,27.9,9,33.3,29.0,6,0,0.0,3,22.5,Match Report,1d0a0f3e,L,2022,True
+307,2022-03-05,Sat,MLS,Regular Season,Away,L 0–1,Seattle,Real Salt Lake,Y*,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,6,16,37.5,44,5,27.3,29.3,9,44.4,40.2,7,0,0.0,1,17.4,Match Report,1d0a0f3e,L,2022,True
+308,2022-03-12,Sat,MLS,Regular Season,Home,W 3–2,Seattle,LA Galaxy,Y*,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,6,12,50.0,15,1,40.0,33.9,13,46.2,43.5,11,0,0.0,0,14.0,Match Report,1d0a0f3e,W,2022,True
+309,2022-04-02,Sat,MLS,Regular Season,Away,W 2–1,Seattle,Minnesota Utd,Y,GK,90,3,1,3,100.0,0,1.1,1,1,0,0,5,13,38.5,25,7,32.0,34.7,11,45.5,43.6,11,0,0.0,0,7.4,Match Report,1d0a0f3e,W,2022,True
+310,2022-04-23,Sat,MLS,Regular Season,Away,L 3–4,Seattle,San Jose,Y,GK,90,6,4,3,50.0,0,3.1,1,1,0,0,4,15,26.7,19,5,42.1,36.4,12,58.3,43.8,8,0,0.0,0,9.8,Match Report,1d0a0f3e,L,2022,True
+311,2022-05-15,Sun,MLS,Regular Season,Home,W 3–1,Seattle,Minnesota Utd,Y,GK,90,4,1,3,75.0,0,1.7,0,0,0,0,10,15,66.7,25,7,32.0,32.4,14,50.0,42.2,10,0,0.0,0,9.7,Match Report,1d0a0f3e,W,2022,True
+312,2022-05-18,Wed,MLS,Regular Season,Away,W 1–0,Seattle,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,6,13,46.2,29,6,31.0,34.9,12,33.3,34.0,14,0,0.0,0,7.3,Match Report,1d0a0f3e,W,2022,True
+313,2022-05-22,Sun,MLS,Regular Season,Away,L 0–1,Seattle,Colorado Rapids,Y*,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,9,20,45.0,32,1,40.6,35.5,13,53.8,35.4,10,0,0.0,2,24.3,Match Report,1d0a0f3e,L,2022,True
+314,2022-05-29,Sun,MLS,Regular Season,Home,W 2–1,Seattle,Charlotte,Y,GK,90,3,1,1,66.7,0,1.1,0,0,0,0,2,9,22.2,26,4,30.8,32.0,9,11.1,24.9,8,1,12.5,1,15.3,Match Report,1d0a0f3e,W,2022,True
+315,2022-06-14,Tue,MLS,Regular Season,Home,W 4–0,Seattle,Vancouver,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,7,13,53.8,27,3,40.7,38.3,8,25.0,25.5,5,1,20.0,0,13.0,Match Report,1d0a0f3e,W,2022,True
+316,2022-06-18,Sat,MLS,Regular Season,Home,D 1–1,Seattle,Los Angeles FC,Y,GK,90,7,1,6,85.7,0,1.4,0,0,0,0,10,13,76.9,22,2,27.3,30.1,11,63.6,44.1,4,0,0.0,0,10.3,Match Report,1d0a0f3e,D,2022,True
+317,2022-06-25,Sat,MLS,Regular Season,Home,W 3–0,Seattle,Sporting KC,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,10,16,62.5,27,3,55.6,43.0,7,14.3,32.1,8,0,0.0,0,11.3,Match Report,1d0a0f3e,W,2022,True
+318,2022-06-29,Wed,MLS,Regular Season,Home,L 1–2,Seattle,CF Montréal,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,7,14,50.0,17,1,58.8,44.5,9,44.4,35.3,5,0,0.0,0,,Match Report,1d0a0f3e,L,2022,True
+319,2022-07-09,Sat,MLS,Regular Season,Home,L 0–3,Seattle,Portland Timbers,Y,GK,90,7,3,5,71.4,0,3.3,1,1,0,0,4,6,66.7,26,5,23.1,29.2,3,0.0,25.3,4,2,50.0,0,17.5,Match Report,1d0a0f3e,L,2022,True
+320,2022-07-23,Sat,MLS,Regular Season,Home,W 2–1,Seattle,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,5,10,50.0,16,2,25.0,30.7,8,75.0,59.5,9,0,0.0,0,7.3,Match Report,1d0a0f3e,W,2022,True
+321,2022-07-29,Fri,MLS,Regular Season,Away,L 1–2,Seattle,Los Angeles FC,Y,GK,90,8,2,6,75.0,0,1.9,0,0,0,0,15,26,57.7,33,5,57.6,42.9,12,58.3,43.2,8,0,0.0,2,17.3,Match Report,1d0a0f3e,L,2022,True
+322,2022-08-02,Tue,MLS,Regular Season,Home,W 1–0,Seattle,FC Dallas,Y,GK,90,3,0,3,100.0,1,1.4,0,0,0,0,8,14,57.1,20,3,40.0,38.7,11,54.5,46.6,6,0,0.0,0,13.3,Match Report,1d0a0f3e,W,2022,True
+323,2022-08-06,Sat,MLS,Regular Season,Away,L 1–2,Seattle,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,2.3,0,0,0,0,6,10,60.0,23,5,30.4,34.1,6,50.0,40.0,6,1,16.7,0,6.8,Match Report,1d0a0f3e,L,2022,True
+324,2022-08-14,Sun,MLS,Regular Season,Home,L 1–2,Seattle,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,2,2,100.0,19,3,10.5,23.2,5,0.0,20.4,4,0,0.0,2,22.8,Match Report,1d0a0f3e,L,2022,False
+325,2022-08-19,Fri,MLS,Regular Season,Away,D 3–3,Seattle,LA Galaxy,Y,GK,90,3,3,1,33.3,0,1.9,1,1,0,0,3,12,25.0,16,2,56.3,39.1,5,60.0,45.4,10,0,0.0,0,14.5,Match Report,1d0a0f3e,D,2022,False
+326,2022-08-26,Fri,MLS,Regular Season,Away,L 1–2,Seattle,Portland Timbers,Y,GK,90,5,2,4,80.0,0,2.7,1,1,0,0,7,17,41.2,25,4,44.0,44.2,11,54.5,46.8,8,0,0.0,0,10.6,Match Report,1d0a0f3e,L,2022,False
+327,2022-08-31,Wed,MLS,Regular Season,Away,L 2–3,Seattle,Orlando City,Y,GK,90,8,3,6,75.0,0,3.9,2,1,1,0,6,18,33.3,19,3,63.2,44.9,8,75.0,47.3,10,0,0.0,0,5.0,Match Report,1d0a0f3e,L,2022,False
+328,2022-09-04,Sun,MLS,Regular Season,Home,W 2–1,Seattle,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,4,9,44.4,23,2,30.4,29.6,3,66.7,47.0,6,1,16.7,0,11.7,Match Report,1d0a0f3e,W,2022,False
+329,2022-09-10,Sat,MLS,Regular Season,Home,W 3–0,Seattle,Austin,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,5,11,45.5,22,3,36.4,33.2,7,42.9,41.3,4,0,0.0,0,7.5,Match Report,1d0a0f3e,W,2022,False
+330,2022-09-17,Sat,MLS,Regular Season,Away,L 1–2,Seattle,Vancouver,Y,GK,90,5,2,3,60.0,0,2.4,0,0,0,0,5,6,83.3,12,1,33.3,29.8,8,25.0,30.0,5,0,0.0,1,24.0,Match Report,1d0a0f3e,L,2022,False
+331,2022-09-27,Tue,MLS,Regular Season,Home,D 1–1,Seattle,FC Cincinnati,Y*,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,4,14,28.6,22,2,50.0,40.3,7,42.9,35.9,4,1,25.0,0,12.0,Match Report,1d0a0f3e,D,2022,False
+332,2022-10-02,Sun,MLS,Regular Season,Away,L 0–1,Seattle,Sporting KC,Y,GK,90,10,1,9,90.0,0,1.8,0,0,0,0,6,11,54.5,23,9,30.4,30.4,7,57.1,37.0,12,1,8.3,0,10.5,Match Report,1d0a0f3e,L,2022,False
+333,2022-02-27,Sun,MLS,Regular Season,Home,W 2–0,Orlando City,CF Montréal,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,6,7,85.7,22,6,22.7,30.7,11,18.2,20.1,12,4,33.3,0,9.8,Match Report,b76e1394,W,2022,True
+334,2022-03-05,Sat,MLS,Regular Season,Away,D 0–0,Orlando City,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,1,4,25.0,19,7,15.8,21.5,9,11.1,20.4,14,0,0.0,0,10.3,Match Report,b76e1394,D,2022,True
+335,2022-03-12,Sat,MLS,Regular Season,Home,L 1–2,Orlando City,FC Cincinnati,Y,GK,90,3,2,1,33.3,0,0.9,0,0,0,0,3,5,60.0,18,5,22.2,27.5,5,20.0,31.4,4,1,25.0,3,18.4,Match Report,b76e1394,L,2022,True
+336,2022-03-19,Sat,MLS,Regular Season,Away,W 1–0,Orlando City,LA Galaxy,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,9,21,42.9,14,1,64.3,43.6,16,75.0,53.6,13,2,15.4,0,10.0,Match Report,b76e1394,W,2022,True
+337,2022-04-02,Sat,MLS,Regular Season,Home,L 2–4,Orlando City,Los Angeles FC,Y,GK,90,4,4,0,0.0,0,2.9,0,0,0,0,0,0,,9,1,0.0,15.9,5,0.0,14.6,4,0,0.0,0,19.0,Match Report,b76e1394,L,2022,True
+338,2022-04-09,Sat,MLS,Regular Season,Home,W 1–0,Orlando City,Chicago Fire,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,2,4,50.0,14,4,21.4,23.3,4,25.0,22.0,6,0,0.0,0,14.6,Match Report,b76e1394,W,2022,True
+339,2022-04-16,Sat,MLS,Regular Season,Away,W 2–0,Orlando City,Columbus Crew,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,8,15,53.3,12,0,66.7,51.5,11,63.6,45.5,12,0,0.0,0,,Match Report,b76e1394,W,2022,True
+340,2022-04-24,Sun,MLS,Regular Season,Home,L 0–3,Orlando City,NY Red Bulls,Y,GK,90,4,3,2,50.0,0,2.6,1,1,0,0,2,10,20.0,20,2,40.0,32.8,9,22.2,20.6,5,0,0.0,2,19.6,Match Report,b76e1394,L,2022,True
+341,2022-04-30,Sat,MLS,Regular Season,Home,W 2–1,Orlando City,Charlotte,Y,GK,90,0,1,0,,0,0.9,1,1,0,0,4,11,36.4,18,1,38.9,36.5,10,40.0,36.8,16,1,6.3,0,10.3,Match Report,b76e1394,W,2022,True
+342,2022-05-07,Sat,MLS,Regular Season,Away,L 1–4,Orlando City,CF Montréal,Y,GK,90,9,4,5,55.6,0,3.2,0,0,0,0,9,12,75.0,12,1,58.3,37.8,7,71.4,46.6,6,0,0.0,1,20.7,Match Report,b76e1394,L,2022,True
+343,2022-05-14,Sat,MLS,Regular Season,Away,W 1–0,Orlando City,Toronto FC,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,2,6,33.3,10,1,30.0,29.8,8,37.5,24.4,4,0,0.0,0,15.3,Match Report,b76e1394,W,2022,True
+344,2022-05-22,Sun,MLS,Regular Season,Away,D 2–2,Orlando City,Austin,Y,GK,90,5,2,3,80.0,0,3.6,1,1,0,0,7,18,38.9,15,0,80.0,58.4,7,85.7,57.1,18,1,5.6,0,9.0,Match Report,b76e1394,D,2022,True
+345,2022-05-28,Sat,MLS,Regular Season,Home,L 1–3,Orlando City,FC Dallas,Y,GK,90,6,3,3,50.0,0,1.1,0,0,0,0,1,7,14.3,16,1,31.3,28.4,7,28.6,28.7,4,0,0.0,2,24.0,Match Report,b76e1394,L,2022,True
+346,2022-06-15,Wed,MLS,Regular Season,Away,D 1–1,Orlando City,New England,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,9,13,69.2,16,3,62.5,41.4,7,42.9,39.9,10,1,10.0,0,14.5,Match Report,b76e1394,D,2022,True
+347,2022-06-18,Sat,MLS,Regular Season,Home,W 2–1,Orlando City,Houston Dynamo,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,9,12,75.0,17,1,35.3,32.9,8,75.0,46.8,10,0,0.0,1,17.0,Match Report,b76e1394,W,2022,True
+348,2022-06-24,Fri,MLS,Regular Season,Away,L 0–1,Orlando City,FC Cincinnati,Y,GK,90,9,1,8,88.9,0,2.1,0,0,0,0,3,7,42.9,17,2,35.3,35.1,5,20.0,19.8,3,0,0.0,0,7.5,Match Report,b76e1394,L,2022,True
+349,2022-07-04,Mon,MLS,Regular Season,Home,L 3–5,Orlando City,D.C. United,Y,GK,90,6,5,1,16.7,0,2.8,0,0,0,0,1,2,50.0,12,2,8.3,21.1,4,25.0,27.0,3,0,0.0,0,10.5,Match Report,b76e1394,L,2022,True
+350,2022-07-09,Sat,MLS,Regular Season,Home,W 1–0,Orlando City,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,5,7,71.4,15,1,33.3,31.8,6,33.3,33.7,8,2,25.0,0,14.0,Match Report,b76e1394,W,2022,True
+351,2022-07-13,Wed,MLS,Regular Season,Away,D 1–1,Orlando City,Colorado Rapids,Y,GK,90,7,1,6,85.7,0,1.7,0,0,0,0,5,14,35.7,16,4,37.5,32.9,12,66.7,51.1,8,0,0.0,2,19.6,Match Report,b76e1394,D,2022,True
+352,2022-07-17,Sun,MLS,Regular Season,Away,D 1–1,Orlando City,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,5,11,45.5,16,7,25.0,28.2,11,63.6,47.5,16,1,6.3,0,7.7,Match Report,b76e1394,D,2022,True
+353,2022-07-23,Sat,MLS,Regular Season,Home,L 0–1,Orlando City,Philadelphia,Y,GK,90,1,1,0,0.0,0,1.0,0,0,0,0,1,5,20.0,25,4,16.0,23.1,6,16.7,20.3,5,0,0.0,0,17.2,Match Report,b76e1394,L,2022,True
+354,2022-07-31,Sun,MLS,Regular Season,Away,L 1–2,Orlando City,D.C. United,Y,GK,90,4,2,2,50.0,0,2.5,0,0,0,0,2,8,25.0,23,5,26.1,29.3,4,50.0,36.3,16,0,0.0,0,11.0,Match Report,b76e1394,L,2022,True
+355,2022-08-06,Sat,MLS,Regular Season,Home,L 0–3,Orlando City,New England,Y,GK,90,5,3,2,40.0,0,2.7,0,0,0,0,1,5,20.0,20,2,25.0,29.1,4,0.0,20.3,7,1,14.3,2,21.2,Match Report,b76e1394,L,2022,True
+356,2022-08-13,Sat,MLS,Regular Season,Away,W 1–0,Orlando City,NY Red Bulls,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,10,26,38.5,32,7,40.6,39.3,16,81.3,55.1,14,1,7.1,1,13.7,Match Report,b76e1394,W,2022,False
+357,2022-08-21,Sun,MLS,Regular Season,Away,W 2–1,Orlando City,Charlotte,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,7,16,43.8,21,2,47.6,39.1,10,60.0,41.7,14,2,14.3,0,10.0,Match Report,b76e1394,W,2022,False
+358,2022-08-28,Sun,MLS,Regular Season,Home,W 2–1,Orlando City,NYCFC,Y,GK,90,1,1,0,0.0,0,0.9,0,0,0,0,5,9,55.6,15,2,46.7,37.0,4,50.0,48.3,4,0,0.0,0,10.8,Match Report,b76e1394,W,2022,False
+359,2022-08-31,Wed,MLS,Regular Season,Home,W 3–2,Orlando City,Seattle,Y,GK,90,3,2,1,33.3,0,1.1,0,0,0,0,2,5,40.0,7,0,42.9,37.6,4,50.0,49.5,4,0,0.0,0,9.3,Match Report,b76e1394,W,2022,False
+360,2022-09-14,Wed,MLS,Regular Season,Home,L 0–1,Orlando City,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,5,12,41.7,22,3,50.0,33.9,5,20.0,23.2,6,0,0.0,1,18.8,Match Report,b76e1394,L,2022,False
+361,2022-09-17,Sat,MLS,Regular Season,Home,W 4–0,Orlando City,Toronto FC,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,4,8,50.0,20,6,35.0,30.9,8,12.5,14.8,8,0,0.0,0,8.0,Match Report,b76e1394,W,2022,False
+362,2022-10-02,Sun,MLS,Regular Season,Away,L 1–2,Orlando City,NYCFC,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,6,10,60.0,10,1,60.0,38.7,10,40.0,31.6,6,1,16.7,0,16.0,Match Report,b76e1394,L,2022,False
+363,2022-10-05,Wed,MLS,Regular Season,Away,L 1–4,Orlando City,Inter Miami,Y,GK,90,3,4,0,0.0,0,2.1,1,1,0,0,5,6,83.3,16,3,37.5,28.1,5,0.0,26.0,3,0,0.0,1,16.2,Match Report,b76e1394,L,2022,False
+364,2022-10-09,Sun,MLS,Regular Season,Home,W 2–1,Orlando City,Columbus Crew,Y,GK,90,6,1,4,83.3,0,1.6,0,0,0,0,5,9,55.6,16,6,37.5,35.8,7,42.9,38.7,10,2,20.0,0,8.0,Match Report,b76e1394,W,2022,False
+365,2022-10-16,Sun,MLS,First Round,Away,L 0–2,Orlando City,CF Montréal,Y,GK,90,1,2,0,0.0,0,1.0,1,1,0,0,4,11,36.4,11,1,63.6,42.9,11,36.4,26.0,7,0,0.0,0,18.0,Match Report,b76e1394,L,2022,False
+366,2022-09-04,Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Portland Timbers,Y,GK,90,1,2,1,100.0,0,1.9,2,2,0,0,3,9,33.3,32,8,21.9,31.7,10,20.0,31.4,7,1,14.3,0,9.6,Match Report,2f061b36,L,2022,False
+367,2022-09-10,Sat,MLS,Regular Season,Home,W 4–2,Atlanta Utd,Toronto FC,Y,GK,90,1,2,0,0.0,0,1.8,1,1,0,0,8,12,66.7,30,3,30.0,30.0,5,60.0,40.6,3,0,0.0,1,16.5,Match Report,2f061b36,W,2022,False
+368,2022-09-14,Wed,MLS,Regular Season,Away,W 1–0,Atlanta Utd,Orlando City,Y,GK,90,3,0,3,100.0,1,1.1,0,0,0,0,4,18,22.2,20,4,45.0,39.5,12,75.0,49.9,16,1,6.3,0,12.0,Match Report,2f061b36,W,2022,False
+369,2022-09-17,Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,Philadelphia,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,5,8,62.5,16,1,43.8,35.5,6,16.7,30.2,7,1,14.3,0,14.0,Match Report,2f061b36,D,2022,False
+370,2022-10-01,Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,New England,Y,GK,90,3,2,2,66.7,0,1.4,1,1,0,0,0,3,0.0,18,4,11.1,23.6,7,14.3,24.0,13,1,7.7,1,14.6,Match Report,2f061b36,L,2022,False
+371,2022-10-09,Sun,MLS,Regular Season,Home,L 1–2,Atlanta Utd,NYCFC,Y,GK,45,2,1,1,50.0,0,0.4,0,0,0,0,1,5,20.0,17,1,29.4,28.2,5,0.0,22.0,1,0,0.0,1,19.5,Match Report,2f061b36,L,2022,False
+372,2022-02-27,Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y*,GK,90,1,1,0,0.0,0,0.2,0,0,0,0,16,28,57.1,36,2,66.7,43.2,8,50.0,37.0,14,1,7.1,0,8.0,Match Report,d899e3bf,W,2022,True
+373,2022-03-05,Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y*,GK,90,3,3,0,0.0,0,1.8,0,0,0,0,4,8,50.0,25,2,24.0,28.9,6,33.3,36.3,5,1,20.0,1,16.7,Match Report,d899e3bf,L,2022,True
+374,2022-03-13,Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte,Y*,GK,90,7,1,6,85.7,0,1.3,0,0,0,0,5,9,55.6,40,8,17.5,28.3,6,33.3,30.8,6,1,16.7,0,15.0,Match Report,d899e3bf,W,2022,True
+375,2022-03-19,Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y*,GK,90,5,3,3,60.0,0,2.5,1,1,0,0,8,10,80.0,27,9,29.6,31.0,6,33.3,32.5,5,1,20.0,0,13.7,Match Report,d899e3bf,D,2022,True
+376,2022-04-02,Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y*,GK,90,2,0,2,100.0,1,0.4,0,0,0,0,4,19,21.1,33,4,48.5,40.5,6,50.0,39.5,7,0,0.0,1,15.0,Match Report,d899e3bf,W,2022,True
+377,2022-04-10,Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte,Y*,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,8,13,61.5,26,8,34.6,34.5,10,40.0,35.2,8,1,12.5,1,12.2,Match Report,d899e3bf,L,2022,True
+378,2022-04-16,Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y*,GK,72,0,0,0,,1,0.0,0,0,0,0,4,5,80.0,15,4,13.3,32.1,7,42.9,32.9,5,0,0.0,1,15.2,Match Report,d899e3bf,D,2022,True
+379,2022-02-26,Sat,MLS,Regular Season,Home,W 3–0,D.C. United,Charlotte,Y,GK,90,5,0,5,100.0,1,0.2,0,0,0,0,1,8,12.5,18,5,33.3,30.3,5,40.0,42.6,13,0,0.0,2,21.7,Match Report,012fc030,W,2022,True
+380,2022-03-05,Sat,MLS,Regular Season,Away,W 1–0,D.C. United,FC Cincinnati,Y,GK,90,6,0,6,100.0,1,0.4,0,0,0,0,3,5,60.0,15,5,13.3,24.1,8,37.5,31.5,19,3,15.8,0,14.8,Match Report,012fc030,W,2022,True
+381,2022-03-12,Sat,MLS,Regular Season,Home,L 0–2,D.C. United,Chicago Fire,Y,GK,90,7,2,5,71.4,0,1.8,0,0,0,0,3,5,60.0,17,3,29.4,31.0,7,0.0,21.9,7,0,0.0,0,14.0,Match Report,012fc030,L,2022,True
+382,2022-03-19,Sat,MLS,Regular Season,Away,L 1–2,D.C. United,Toronto FC,Y,GK,90,6,2,4,66.7,0,1.2,0,0,0,0,1,8,12.5,22,9,27.3,30.7,5,40.0,34.4,2,0,0.0,0,13.7,Match Report,012fc030,L,2022,True
+383,2022-04-02,Sat,MLS,Regular Season,Home,L 0–1,D.C. United,Atlanta Utd,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,4,9,44.4,17,7,41.2,34.9,9,22.2,26.8,13,1,7.7,1,13.1,Match Report,012fc030,L,2022,True
+384,2022-04-16,Sat,MLS,Regular Season,Home,L 2–3,D.C. United,Austin,Y,GK,90,4,3,1,25.0,0,2.1,0,0,0,0,9,20,45.0,19,2,57.9,41.5,10,90.0,59.2,11,0,0.0,0,11.4,Match Report,012fc030,L,2022,True
+385,2022-05-07,Sat,MLS,Regular Season,Home,W 2–0,D.C. United,Houston Dynamo,Y,GK,48,0,0,0,,1,0.0,0,0,0,0,0,0,,9,1,0.0,22.0,2,0.0,14.5,2,0,0.0,0,10.7,Match Report,012fc030,W,2022,True
+386,2022-05-14,Sat,MLS,Regular Season,Away,D 2–2,D.C. United,Inter Miami,Y,GK,90,7,2,5,71.4,0,1.9,0,0,0,0,3,7,42.9,15,4,26.7,32.1,6,50.0,44.2,9,1,11.1,0,16.5,Match Report,012fc030,D,2022,True
+387,2022-05-21,Sat,MLS,Regular Season,Home,D 2–2,D.C. United,Toronto FC,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,8,14,57.1,17,3,47.1,42.8,9,66.7,45.6,9,0,0.0,1,19.1,Match Report,012fc030,D,2022,True
+388,2022-05-28,Sat,MLS,Regular Season,Away,L 1–4,D.C. United,NY Red Bulls,Y,GK,90,5,4,2,20.0,0,1.7,0,0,0,0,4,15,26.7,18,2,55.6,43.7,7,71.4,51.6,11,0,0.0,0,13.5,Match Report,012fc030,L,2022,True
+389,2022-02-26,Sat,MLS,Regular Season,Away,L 0–4,Vancouver,Columbus Crew,Y,GK,90,7,4,3,42.9,0,2.8,0,0,0,0,9,18,50.0,21,4,66.7,45.4,7,57.1,43.1,8,1,12.5,1,12.2,Match Report,86bac87b,L,2022,True
+390,2022-03-05,Sat,MLS,Regular Season,Home,D 0–0,Vancouver,NYCFC,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,6,18,33.3,16,3,68.8,45.8,8,87.5,58.1,10,1,10.0,1,20.0,Match Report,86bac87b,D,2022,True
+391,2022-03-12,Sat,MLS,Regular Season,Away,L 1–2,Vancouver,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,2.3,0,0,0,0,7,9,77.8,16,7,25.0,29.6,5,100.0,59.4,14,3,21.4,1,12.0,Match Report,86bac87b,L,2022,True
+392,2022-03-20,Sun,MLS,Regular Season,Away,L 1–3,Vancouver,Los Angeles FC,Y,GK,90,9,3,6,66.7,0,2.5,0,0,0,0,5,15,33.3,16,1,75.0,53.0,4,75.0,49.8,5,0,0.0,2,21.5,Match Report,86bac87b,L,2022,True
+393,2022-04-02,Sat,MLS,Regular Season,Home,W 1–0,Vancouver,Sporting KC,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,6,20,30.0,28,6,53.6,42.5,6,83.3,57.3,5,0,0.0,1,13.9,Match Report,86bac87b,W,2022,True
+394,2022-04-09,Sat,MLS,Regular Season,Home,L 2–3,Vancouver,Portland Timbers,Y,GK,90,3,3,1,33.3,0,2.2,1,1,0,0,0,3,0.0,13,3,23.1,32.2,1,0.0,22.0,6,1,16.7,0,9.5,Match Report,86bac87b,L,2022,True
+395,2022-04-16,Sat,MLS,Regular Season,Away,L 1–2,Vancouver,CF Montréal,Y,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,5,11,45.5,14,7,35.7,33.3,6,100.0,64.5,7,2,28.6,0,15.5,Match Report,86bac87b,L,2022,True
+396,2022-04-23,Sat,MLS,Regular Season,Away,L 0–3,Vancouver,Austin,Y,GK,90,4,3,1,25.0,0,0.9,0,0,0,0,7,13,53.8,13,2,61.5,46.2,6,83.3,56.8,4,0,0.0,1,16.4,Match Report,86bac87b,L,2022,True
+397,2022-05-08,Sun,MLS,Regular Season,Home,W 1–0,Vancouver,Toronto FC,Y,GK,69,2,0,2,100.0,1,0.9,1,0,1,0,8,11,72.7,12,0,66.7,50.4,5,60.0,46.8,4,0,0.0,1,14.7,Match Report,86bac87b,W,2022,True
+398,2022-08-17,Wed,MLS,Regular Season,Home,W 2–1,Vancouver,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,8,17,47.1,14,3,71.4,52.3,10,70.0,56.4,15,3,20.0,1,17.6,Match Report,86bac87b,W,2022,False
+399,2022-08-20,Sat,MLS,Regular Season,Away,D 1–1,Vancouver,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,6,15,40.0,10,2,40.0,42.3,11,100.0,75.2,13,2,15.4,1,18.3,Match Report,86bac87b,D,2022,False
+400,2022-08-27,Sat,MLS,Regular Season,Home,L 0–3,Vancouver,Nashville,Y,GK,90,3,3,0,0.0,0,1.5,1,0,1,0,0,4,0.0,12,3,25.0,29.4,3,33.3,34.0,6,1,16.7,1,16.8,Match Report,86bac87b,L,2022,False
+401,2022-09-04,Sun,MLS,Regular Season,Away,L 0–2,Vancouver,San Jose,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,3,9,33.3,12,7,41.7,36.1,6,66.7,48.0,7,1,14.3,0,14.0,Match Report,86bac87b,L,2022,False
+402,2022-09-14,Wed,MLS,Regular Season,Home,W 3–0,Vancouver,LA Galaxy,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,5,13,38.5,11,6,45.5,42.1,9,88.9,60.7,15,3,20.0,0,4.8,Match Report,86bac87b,W,2022,False
+403,2022-09-17,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,Seattle,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,3,19,15.8,14,2,78.6,57.6,8,100.0,68.1,16,1,6.3,0,5.3,Match Report,86bac87b,W,2022,False
+404,2022-10-01,Sat,MLS,Regular Season,Home,W 2–0,Vancouver,Austin,Y,GK,90,5,0,5,100.0,1,0.4,0,0,0,0,4,21,19.0,19,4,57.9,46.9,12,83.3,56.6,11,2,18.2,0,12.5,Match Report,86bac87b,W,2022,False
+405,2022-10-09,Sun,MLS,Regular Season,Away,L 0–2,Vancouver,Minnesota Utd,Y,GK,90,5,2,3,60.0,0,1.8,0,0,0,0,6,7,85.7,10,4,40.0,32.5,10,30.0,29.7,10,1,10.0,0,2.0,Match Report,86bac87b,L,2022,False
+406,2022-02-26,Sat,MLS,Regular Season,Home,D 2–2,Portland Timbers,New England,Y,GK,90,7,2,5,71.4,0,1.4,0,0,0,0,3,15,20.0,20,8,35.0,33.1,8,100.0,70.4,14,1,7.1,0,6.8,Match Report,4d6e50d8,D,2022,True
+407,2022-03-06,Sun,MLS,Regular Season,Away,D 1–1,Portland Timbers,Los Angeles FC,Y,GK,90,6,1,5,83.3,0,1.5,0,0,0,0,5,22,22.7,16,2,75.0,53.2,11,90.9,60.3,16,0,0.0,0,8.8,Match Report,4d6e50d8,D,2022,True
+408,2022-03-12,Sat,MLS,Regular Season,Home,W 1–0,Portland Timbers,Austin,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,7,19,36.8,23,1,52.2,49.6,10,70.0,56.2,11,1,9.1,0,15.0,Match Report,4d6e50d8,W,2022,True
+409,2022-03-19,Sat,MLS,Regular Season,Away,L 1–4,Portland Timbers,FC Dallas,Y,GK,90,8,4,4,50.0,0,3.2,0,0,0,0,3,11,27.3,18,5,38.9,33.1,9,44.4,39.9,5,0,0.0,0,6.3,Match Report,4d6e50d8,L,2022,True
+410,2022-03-27,Sun,MLS,Regular Season,Home,D 1–1,Portland Timbers,Orlando City,Y,GK,90,4,1,3,75.0,0,0.6,0,0,0,0,1,5,20.0,15,4,13.3,25.7,7,42.9,39.7,11,0,0.0,0,16.5,Match Report,4d6e50d8,D,2022,True
+411,2022-04-03,Sun,MLS,Regular Season,Home,L 1–3,Portland Timbers,LA Galaxy,Y,GK,90,5,3,3,40.0,0,3.0,0,0,0,0,3,4,75.0,13,3,30.8,33.1,6,0.0,19.7,8,2,25.0,0,11.8,Match Report,4d6e50d8,L,2022,True
+412,2022-04-09,Sat,MLS,Regular Season,Away,W 3–2,Portland Timbers,Vancouver,Y,GK,90,4,2,3,75.0,0,2.9,2,1,1,0,7,28,25.0,38,8,57.9,42.0,9,66.7,48.4,20,0,0.0,0,7.9,Match Report,4d6e50d8,W,2022,True
+413,2022-04-16,Sat,MLS,Regular Season,Away,D 0–0,Portland Timbers,Houston Dynamo,Y,GK,90,4,0,3,100.0,1,1.4,0,0,0,0,3,8,37.5,15,6,33.3,34.9,9,33.3,28.3,17,1,5.9,0,6.4,Match Report,4d6e50d8,D,2022,True
+414,2022-04-23,Sat,MLS,Regular Season,Home,D 0–0,Portland Timbers,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0.4,0,0,0,0,2,3,66.7,17,7,17.6,25.2,5,0.0,23.6,12,2,16.7,0,10.3,Match Report,4d6e50d8,D,2022,True
+415,2022-04-30,Sat,MLS,Regular Season,Away,L 0–2,Portland Timbers,Colorado Rapids,Y,GK,90,6,2,4,66.7,0,1.9,0,0,0,0,1,9,11.1,18,2,16.7,29.3,10,60.0,50.9,11,0,0.0,2,19.5,Match Report,4d6e50d8,L,2022,True
+416,2022-05-14,Sat,MLS,Regular Season,Home,W 7–2,Portland Timbers,Sporting KC,Y,GK,90,4,2,2,50.0,0,2.2,0,0,0,0,1,11,9.1,15,4,40.0,39.6,8,62.5,52.3,13,0,0.0,1,16.0,Match Report,4d6e50d8,W,2022,True
+417,2022-05-18,Wed,MLS,Regular Season,Away,L 2–3,Portland Timbers,San Jose,Y,GK,90,4,3,1,25.0,0,2.3,0,0,0,0,3,11,27.3,15,3,40.0,38.9,9,55.6,43.6,10,0,0.0,0,17.0,Match Report,4d6e50d8,L,2022,True
+418,2022-05-22,Sun,MLS,Regular Season,Home,L 0–2,Portland Timbers,Philadelphia,Y,GK,90,4,2,2,50.0,0,0.8,0,0,0,0,4,8,50.0,10,2,30.0,31.3,8,62.5,41.8,4,1,25.0,1,14.2,Match Report,4d6e50d8,L,2022,True
+419,2022-05-28,Sat,MLS,Regular Season,Away,L 1–2,Portland Timbers,Inter Miami,Y,GK,90,6,2,4,66.7,0,3.3,0,0,0,0,0,1,0.0,12,1,0.0,19.4,7,14.3,23.6,8,0,0.0,1,20.0,Match Report,4d6e50d8,L,2022,True
+420,2022-06-18,Sat,MLS,Regular Season,Away,D 1–1,Portland Timbers,LA Galaxy,Y,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,4,23,17.4,21,3,76.2,52.6,10,70.0,55.6,12,1,8.3,1,16.8,Match Report,4d6e50d8,D,2022,True
+421,2022-06-25,Sat,MLS,Regular Season,Home,W 3–0,Portland Timbers,Colorado Rapids,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,5,11,45.5,21,3,33.3,35.3,12,33.3,30.5,9,0,0.0,1,15.5,Match Report,4d6e50d8,W,2022,True
+422,2022-06-29,Wed,MLS,Regular Season,Home,W 2–1,Portland Timbers,Houston Dynamo,Y,GK,90,6,1,5,83.3,0,1.7,0,0,0,0,5,14,35.7,19,8,47.4,49.0,9,55.6,55.2,23,3,13.0,0,10.8,Match Report,4d6e50d8,W,2022,True
+423,2022-07-09,Sat,MLS,Regular Season,Away,W 3–0,Portland Timbers,Seattle,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,4,16,25.0,16,4,68.8,44.6,7,71.4,53.6,21,0,0.0,0,7.0,Match Report,4d6e50d8,W,2022,True
+424,2022-07-17,Sun,MLS,Regular Season,Home,D 1–1,Portland Timbers,Vancouver,Y,GK,90,8,1,7,87.5,0,1.8,0,0,0,0,5,6,83.3,14,5,35.7,32.6,12,8.3,19.0,10,1,10.0,0,7.5,Match Report,4d6e50d8,D,2022,True
+425,2022-07-23,Sat,MLS,Regular Season,Home,W 2–1,Portland Timbers,San Jose,Y,GK,90,7,1,5,85.7,0,1.6,0,0,0,0,5,13,38.5,20,3,55.0,45.8,4,50.0,44.8,11,1,9.1,0,6.0,Match Report,4d6e50d8,W,2022,True
+426,2022-07-30,Sat,MLS,Regular Season,Away,D 4–4,Portland Timbers,Minnesota Utd,Y,GK,90,6,4,2,33.3,0,3.3,0,0,0,0,4,12,33.3,22,5,45.5,34.8,4,50.0,43.3,6,1,16.7,1,18.3,Match Report,4d6e50d8,D,2022,True
+427,2022-08-03,Wed,MLS,Regular Season,Home,D 1–1,Portland Timbers,Nashville,Y,GK,90,5,1,4,80.0,0,1.9,0,0,0,0,1,11,9.1,20,1,45.0,41.4,6,33.3,31.0,9,1,11.1,0,,Match Report,4d6e50d8,D,2022,True
+428,2022-08-06,Sat,MLS,Regular Season,Home,D 1–1,Portland Timbers,FC Dallas,Y,GK,90,2,1,2,50.0,0,0.2,0,0,0,0,13,24,54.2,33,9,54.5,43.8,9,66.7,57.4,7,1,14.3,1,12.9,Match Report,4d6e50d8,D,2022,True
+429,2022-08-13,Sat,MLS,Regular Season,Away,L 1–3,Portland Timbers,Toronto FC,Y,GK,90,12,3,9,75.0,0,3.5,0,0,0,0,5,11,45.5,16,6,37.5,33.9,9,55.6,47.1,11,1,9.1,0,3.0,Match Report,4d6e50d8,L,2022,False
+430,2022-08-21,Sun,MLS,Regular Season,Away,L 1–4,Portland Timbers,Sporting KC,Y,GK,90,9,4,5,55.6,0,2.5,0,0,0,0,7,17,41.2,19,4,52.6,40.4,12,58.3,45.2,11,0,0.0,0,21.0,Match Report,4d6e50d8,L,2022,False
+431,2022-08-26,Fri,MLS,Regular Season,Home,W 2–1,Portland Timbers,Seattle,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,4,15,26.7,22,4,45.5,42.3,6,83.3,66.8,13,1,7.7,0,14.3,Match Report,4d6e50d8,W,2022,False
+432,2022-08-31,Wed,MLS,Regular Season,Away,W 2–1,Portland Timbers,Austin,Y,GK,90,5,0,4,100.0,0,0.4,0,0,0,0,8,28,28.6,15,4,80.0,58.4,16,100.0,71.8,18,3,16.7,0,8.0,Match Report,4d6e50d8,W,2022,False
+433,2022-09-04,Sun,MLS,Regular Season,Home,W 2–1,Portland Timbers,Atlanta Utd,Y,GK,90,2,1,1,50.0,0,1.1,0,0,0,0,6,19,31.6,11,2,54.5,47.4,14,92.9,69.1,13,0,0.0,0,7.0,Match Report,4d6e50d8,W,2022,False
+434,2022-09-10,Sat,MLS,Regular Season,Home,W 1–0,Portland Timbers,Minnesota Utd,Y,GK,90,5,0,5,100.0,1,1.3,0,0,0,0,7,15,46.7,15,2,60.0,44.7,9,66.7,53.9,7,1,14.3,0,11.7,Match Report,4d6e50d8,W,2022,False
+435,2022-09-18,Sun,MLS,Regular Season,Away,D 1–1,Portland Timbers,Columbus Crew,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,10,23,43.5,21,2,66.7,46.3,11,81.8,63.5,9,0,0.0,2,19.7,Match Report,4d6e50d8,D,2022,False
+436,2022-10-02,Sun,MLS,Regular Season,Home,L 1–2,Portland Timbers,Los Angeles FC,Y,GK,90,7,2,5,71.4,0,2.4,0,0,0,0,7,17,41.2,22,3,59.1,50.6,6,66.7,56.3,3,0,0.0,1,17.6,Match Report,4d6e50d8,L,2022,False
+437,2022-10-09,Sun,MLS,Regular Season,Away,L 1–3,Portland Timbers,Real Salt Lake,Y,GK,90,4,3,1,25.0,0,1.5,0,0,0,0,3,19,15.8,21,3,61.9,46.6,10,60.0,55.6,12,1,8.3,0,13.0,Match Report,4d6e50d8,L,2022,False
+438,2022-02-27,Sun,MLS,Regular Season,Away,L 0–1,NYCFC,LA Galaxy,Y*,GK,90,6,1,5,83.3,0,1.7,0,0,0,0,7,16,43.8,22,3,50.0,34.8,8,62.5,51.9,7,0,0.0,0,9.0,Match Report,c164335e,L,2022,True
+439,2022-03-05,Sat,MLS,Regular Season,Away,D 0–0,NYCFC,Vancouver,Y*,GK,90,1,0,1,100.0,1,0.5,0,0,0,0,4,5,80.0,32,2,9.4,22.1,5,40.0,29.2,4,0,0.0,0,13.0,Match Report,c164335e,D,2022,True
+440,2022-03-12,Sat,MLS,Regular Season,Home,W 4–1,NYCFC,CF Montréal,Y*,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,8,15,53.3,24,2,41.7,36.3,13,38.5,36.1,5,0,0.0,0,10.3,Match Report,c164335e,W,2022,True
+441,2022-03-19,Sat,MLS,Regular Season,Home,L 0–2,NYCFC,Philadelphia,Y*,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,4,6,66.7,24,7,20.8,29.5,6,16.7,24.3,3,0,0.0,2,22.3,Match Report,c164335e,L,2022,True
+442,2022-04-02,Sat,MLS,Regular Season,Away,L 1–2,NYCFC,Toronto FC,Y*,GK,90,3,2,2,33.3,0,1.0,0,0,0,0,5,6,83.3,18,3,22.2,25.7,4,50.0,46.5,6,1,16.7,0,12.3,Match Report,c164335e,L,2022,True
+443,2022-04-17,Sun,MLS,Regular Season,Home,W 6–0,NYCFC,Real Salt Lake,Y*,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,5,9,55.6,52,12,15.4,26.3,5,20.0,23.8,13,1,7.7,0,11.6,Match Report,c164335e,W,2022,True
+444,2022-04-24,Sun,MLS,Regular Season,Home,W 5–4,NYCFC,Toronto FC,Y*,GK,90,5,4,1,20.0,0,3.2,0,0,0,0,2,6,33.3,22,2,18.2,28.8,3,66.7,49.7,3,0,0.0,1,11.7,Match Report,c164335e,W,2022,True
+445,2022-05-01,Sun,MLS,Regular Season,Home,W 3–0,NYCFC,San Jose,Y*,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,5,8,62.5,34,7,14.7,26.4,5,60.0,48.2,5,1,20.0,0,11.2,Match Report,c164335e,W,2022,True
+446,2022-05-07,Sat,MLS,Regular Season,Home,D 0–0,NYCFC,Sporting KC,Y*,GK,90,3,0,2,100.0,1,0.8,0,0,0,0,4,10,40.0,48,7,18.8,28.1,4,25.0,25.0,7,1,14.3,0,16.6,Match Report,c164335e,D,2022,True
+447,2022-05-14,Sat,MLS,Regular Season,Home,W 2–0,NYCFC,Columbus Crew,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,9,17,52.9,39,4,30.8,32.2,10,50.0,42.8,8,0,0.0,0,9.5,Match Report,c164335e,W,2022,True
+448,2022-05-18,Wed,MLS,Regular Season,Away,W 2–0,NYCFC,D.C. United,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,6,22,27.3,27,4,63.0,46.7,5,100.0,70.2,8,1,12.5,0,11.9,Match Report,c164335e,W,2022,True
+449,2022-05-22,Sun,MLS,Regular Season,Home,W 1–0,NYCFC,Chicago Fire,Y*,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,7,17,41.2,41,2,31.7,34.9,9,44.4,40.9,8,0,0.0,0,12.4,Match Report,c164335e,W,2022,True
+450,2022-05-28,Sat,MLS,Regular Season,Away,W 1–0,NYCFC,Minnesota Utd,Y*,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,7,15,46.7,26,5,38.5,35.9,5,100.0,54.4,9,1,11.1,0,8.7,Match Report,c164335e,W,2022,True
+451,2022-06-19,Sun,MLS,Regular Season,Home,D 1–1,NYCFC,Colorado Rapids,Y*,GK,90,1,1,0,0.0,0,0.8,0,0,0,0,6,14,42.9,40,2,30.0,35.3,5,40.0,29.8,4,0,0.0,0,13.7,Match Report,c164335e,D,2022,True
+452,2022-06-26,Sun,MLS,Regular Season,Away,L 1–2,NYCFC,Philadelphia,Y*,GK,90,6,2,4,66.7,0,3.0,0,0,0,0,5,11,45.5,28,5,28.6,33.3,3,100.0,45.7,10,1,10.0,2,15.7,Match Report,c164335e,L,2022,True
+453,2022-06-29,Wed,MLS,Regular Season,Away,D 4–4,NYCFC,FC Cincinnati,Y*,GK,90,9,4,5,55.6,0,3.0,0,0,0,0,2,19,10.5,35,5,37.1,38.4,12,50.0,41.1,8,0,0.0,0,10.0,Match Report,c164335e,D,2022,True
+454,2022-07-03,Sun,MLS,Regular Season,Home,D 2–2,NYCFC,Atlanta Utd,Y*,GK,90,8,2,6,75.0,0,1.6,0,0,0,0,13,20,65.0,40,15,45.0,40.2,5,40.0,48.0,5,1,20.0,0,11.5,Match Report,c164335e,D,2022,True
+455,2022-07-09,Sat,MLS,Regular Season,Home,W 4–2,NYCFC,New England,Y*,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,2,11,18.2,48,12,18.8,29.1,4,50.0,35.3,10,1,10.0,1,10.7,Match Report,c164335e,W,2022,True
+456,2022-07-13,Wed,MLS,Regular Season,Away,W 1–0,NYCFC,FC Dallas,Y*,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,10,22,45.5,43,4,32.6,34.0,11,72.7,57.9,16,1,6.3,0,10.0,Match Report,c164335e,W,2022,True
+457,2022-07-17,Sun,MLS,Regular Season,Away,W 1–0,NYCFC,NY Red Bulls,Y*,GK,90,4,0,4,100.0,1,0.2,0,0,0,0,3,11,27.3,52,6,17.3,29.2,7,28.6,25.7,11,1,9.1,0,11.9,Match Report,c164335e,W,2022,True
+458,2022-07-23,Sat,MLS,Regular Season,Home,W 2–0,NYCFC,Inter Miami,Y*,GK,90,4,0,4,100.0,1,0.8,0,0,0,0,3,4,75.0,38,9,7.9,21.9,6,16.7,23.3,13,0,0.0,0,13.7,Match Report,c164335e,W,2022,True
+459,2022-07-30,Sat,MLS,Regular Season,Away,D 0–0,NYCFC,CF Montréal,Y*,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,6,22,27.3,28,3,35.7,38.4,15,80.0,49.7,14,0,0.0,0,9.2,Match Report,c164335e,D,2022,True
+460,2022-08-06,Sat,MLS,Regular Season,Away,L 2–3,NYCFC,Columbus Crew,Y*,GK,90,6,3,3,50.0,0,2.2,0,0,0,0,4,10,40.0,22,2,22.7,27.5,7,71.4,45.3,4,1,25.0,0,9.0,Match Report,c164335e,L,2022,True
+461,2022-08-13,Sat,MLS,Regular Season,Away,L 2–3,NYCFC,Inter Miami,Y*,GK,90,6,3,3,50.0,0,3.6,0,0,0,0,2,3,66.7,26,1,7.7,22.0,4,25.0,33.5,4,0,0.0,0,13.0,Match Report,c164335e,L,2022,False
+462,2022-08-17,Wed,MLS,Regular Season,Home,L 1–3,NYCFC,Charlotte,Y*,GK,90,4,3,2,50.0,0,2.3,1,1,0,0,1,5,20.0,26,3,19.2,25.9,3,0.0,16.3,5,1,20.0,1,16.6,Match Report,c164335e,L,2022,False
+463,2022-08-21,Sun,MLS,Regular Season,Away,W 2–0,NYCFC,Chicago Fire,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,6,19,31.6,28,4,46.4,43.2,8,75.0,45.5,11,0,0.0,0,13.5,Match Report,c164335e,W,2022,False
+464,2022-08-28,Sun,MLS,Regular Season,Away,L 1–2,NYCFC,Orlando City,Y*,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,8,17,47.1,21,2,38.1,36.2,11,81.8,44.5,13,0,0.0,0,12.3,Match Report,c164335e,L,2022,False
+465,2022-08-31,Wed,MLS,Regular Season,Home,L 1–2,NYCFC,D.C. United,Y*,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,2,6,33.3,33,7,15.2,32.0,5,20.0,22.8,6,0,0.0,0,10.9,Match Report,c164335e,L,2022,False
+466,2022-09-04,Sun,MLS,Regular Season,Away,L 0–3,NYCFC,New England,Y*,GK,90,6,3,3,50.0,0,1.5,0,0,0,0,3,5,60.0,26,3,19.2,28.3,0,,,8,0,0.0,1,17.3,Match Report,c164335e,L,2022,False
+467,2022-09-07,Wed,MLS,Regular Season,Home,D 1–1,NYCFC,FC Cincinnati,Y*,GK,90,1,1,1,0.0,0,0.1,0,0,0,0,2,12,16.7,34,5,29.4,35.0,5,40.0,44.4,2,0,0.0,0,10.4,Match Report,c164335e,D,2022,False
+468,2022-09-10,Sat,MLS,Regular Season,Away,L 0–1,NYCFC,Charlotte,Y*,GK,90,1,1,0,0.0,0,0.9,0,0,0,0,5,9,55.6,31,4,22.6,27.7,5,40.0,43.0,8,0,0.0,2,17.9,Match Report,c164335e,L,2022,False
+469,2022-09-17,Sat,MLS,Regular Season,Home,W 2–0,NYCFC,NY Red Bulls,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,2,15,13.3,29,2,34.5,39.3,11,45.5,40.3,8,0,0.0,1,14.8,Match Report,c164335e,W,2022,False
+470,2022-10-02,Sun,MLS,Regular Season,Home,W 2–1,NYCFC,Orlando City,Y*,GK,90,1,1,0,0.0,0,1.0,0,0,0,0,7,19,36.8,23,3,47.8,40.3,12,66.7,53.9,7,0,0.0,1,16.3,Match Report,c164335e,W,2022,False
+471,2022-10-09,Sun,MLS,Regular Season,Away,W 2–1,NYCFC,Atlanta Utd,Y*,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,4,20,20.0,18,4,61.1,44.4,9,100.0,63.8,13,2,15.4,0,13.0,Match Report,c164335e,W,2022,False
+472,2022-02-26,Sat,MLS,Regular Season,Away,L 0–3,Charlotte,D.C. United,Y,GK,90,3,3,1,33.3,0,2.0,1,1,0,0,8,19,42.1,41,5,36.6,32.9,5,80.0,58.8,13,1,7.7,0,13.6,Match Report,53e360bb,L,2022,True
+473,2022-03-05,Sat,MLS,Regular Season,Home,L 0–1,Charlotte,LA Galaxy,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,4,8,50.0,29,5,17.2,29.4,8,37.5,40.8,6,0,0.0,1,11.5,Match Report,53e360bb,L,2022,True
+474,2022-03-13,Sun,MLS,Regular Season,Away,L 1–2,Charlotte,Atlanta Utd,Y,GK,90,7,2,6,85.7,0,2.8,1,1,0,0,13,22,59.1,33,8,60.6,42.5,2,100.0,61.0,10,1,10.0,2,16.9,Match Report,53e360bb,L,2022,True
+475,2022-03-19,Sat,MLS,Regular Season,Home,W 3–1,Charlotte,New England,Y,GK,90,4,1,4,100.0,0,1.7,1,1,0,0,11,28,39.3,39,2,56.4,42.4,11,54.5,50.4,18,1,5.6,0,14.8,Match Report,53e360bb,W,2022,True
+476,2022-03-26,Sat,MLS,Regular Season,Home,W 2–0,Charlotte,FC Cincinnati,Y,GK,90,5,0,5,100.0,1,1.8,0,0,0,0,5,16,31.3,40,8,27.5,28.5,11,45.5,45.6,8,1,12.5,0,7.4,Match Report,53e360bb,W,2022,True
+477,2022-04-02,Sat,MLS,Regular Season,Away,L 0–2,Charlotte,Philadelphia,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,1,5,20.0,35,4,14.3,25.4,7,0.0,15.6,5,2,40.0,0,11.5,Match Report,53e360bb,L,2022,True
+478,2022-04-10,Sun,MLS,Regular Season,Home,W 1–0,Charlotte,Atlanta Utd,Y,GK,90,6,0,6,100.0,1,1.0,0,0,0,0,5,16,31.3,32,3,37.5,33.9,8,50.0,49.0,5,0,0.0,0,14.5,Match Report,53e360bb,W,2022,True
+479,2022-04-16,Sat,MLS,Regular Season,Away,L 1–2,Charlotte,New England,Y,GK,90,6,2,4,66.7,0,1.9,0,0,0,0,6,16,37.5,33,3,39.4,36.2,7,42.9,35.3,16,3,18.8,0,,Match Report,53e360bb,L,2022,True
+480,2022-04-23,Sat,MLS,Regular Season,Away,D 0–0,Charlotte,Colorado Rapids,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,8,22,36.4,27,2,55.6,46.4,8,87.5,65.3,7,2,28.6,0,14.3,Match Report,53e360bb,D,2022,True
+481,2022-04-30,Sat,MLS,Regular Season,Away,L 1–2,Charlotte,Orlando City,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,3,7,42.9,28,5,25.0,30.9,1,0.0,11.0,5,0,0.0,0,8.8,Match Report,53e360bb,L,2022,True
+482,2022-05-07,Sat,MLS,Regular Season,Home,W 1–0,Charlotte,Inter Miami,Y,GK,90,6,0,6,100.0,1,0.5,0,0,0,0,4,9,44.4,32,8,25.0,29.9,2,50.0,47.0,5,0,0.0,1,15.6,Match Report,53e360bb,W,2022,True
+483,2022-05-14,Sat,MLS,Regular Season,Home,L 0–2,Charlotte,CF Montréal,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,5,15,33.3,45,2,28.9,32.3,2,100.0,54.0,2,0,0.0,3,21.9,Match Report,53e360bb,L,2022,True
+484,2022-05-22,Sun,MLS,Regular Season,Home,W 2–1,Charlotte,Vancouver,Y,GK,90,5,1,4,80.0,0,0.5,0,0,0,0,6,11,54.5,28,5,32.1,30.8,7,28.6,35.6,5,0,0.0,0,14.4,Match Report,53e360bb,W,2022,True
+485,2022-05-29,Sun,MLS,Regular Season,Away,L 1–2,Charlotte,Seattle,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,8,19,42.1,35,6,45.7,36.4,7,42.9,33.6,8,1,12.5,0,9.7,Match Report,53e360bb,L,2022,True
+486,2022-06-11,Sat,MLS,Regular Season,Home,W 2–0,Charlotte,NY Red Bulls,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,7,18,38.9,40,1,35.0,37.2,6,66.7,51.8,8,0,0.0,0,12.3,Match Report,53e360bb,W,2022,True
+487,2022-06-18,Sat,MLS,Regular Season,Away,D 1–1,Charlotte,Columbus Crew,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,3,15,20.0,36,3,38.9,35.1,8,12.5,25.9,10,0,0.0,0,10.0,Match Report,53e360bb,D,2022,True
+488,2022-06-30,Thu,MLS,Regular Season,Home,L 0–1,Charlotte,Austin,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,6,12,50.0,36,4,30.6,30.7,3,33.3,31.7,5,2,40.0,1,16.8,Match Report,53e360bb,L,2022,True
+489,2022-07-03,Sun,MLS,Regular Season,Away,W 2–1,Charlotte,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,7,21,33.3,34,4,50.0,39.1,6,66.7,58.7,11,1,9.1,2,12.7,Match Report,53e360bb,W,2022,True
+490,2022-07-09,Sat,MLS,Regular Season,Home,W 4–1,Charlotte,Nashville,Y,GK,90,6,1,5,100.0,0,1.6,1,1,0,0,5,22,22.7,36,5,41.7,40.9,8,87.5,59.8,6,0,0.0,0,10.8,Match Report,53e360bb,W,2022,True
+491,2022-07-16,Sat,MLS,Regular Season,Away,L 2–3,Charlotte,Inter Miami,Y,GK,90,6,3,3,50.0,0,2.6,0,0,0,0,5,22,22.7,33,2,51.5,39.6,5,100.0,75.0,13,1,7.7,0,12.5,Match Report,53e360bb,L,2022,True
+492,2022-07-23,Sat,MLS,Regular Season,Away,L 0–4,Charlotte,Toronto FC,Y,GK,90,4,4,0,0.0,0,1.7,0,0,0,0,6,11,54.5,22,0,36.4,32.7,3,100.0,57.3,4,0,0.0,0,16.0,Match Report,53e360bb,L,2022,True
+493,2022-08-03,Wed,MLS,Regular Season,Home,W 3–0,Charlotte,D.C. United,Y,GK,90,1,0,1,100.0,1,0.5,0,0,0,0,8,15,53.3,34,6,38.2,31.7,3,66.7,63.0,14,1,7.1,1,14.3,Match Report,53e360bb,W,2022,True
+494,2022-08-06,Sat,MLS,Regular Season,Home,L 2–3,Charlotte,Chicago Fire,Y,GK,90,8,3,5,62.5,0,3.4,0,0,0,0,3,6,50.0,29,6,20.7,25.8,1,0.0,19.0,5,0,0.0,0,17.0,Match Report,53e360bb,L,2022,True
+495,2022-08-13,Sat,MLS,Regular Season,Away,L 0–5,Charlotte,Los Angeles FC,Y,GK,90,9,5,5,44.4,0,3.4,0,0,0,0,10,23,43.5,26,4,50.0,38.3,14,71.4,53.1,6,0,0.0,0,10.0,Match Report,53e360bb,L,2022,False
+496,2022-08-17,Wed,MLS,Regular Season,Away,W 3–1,Charlotte,NYCFC,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,12,26,46.2,21,3,71.4,47.7,11,100.0,68.1,8,0,0.0,0,13.8,Match Report,53e360bb,W,2022,False
+497,2022-08-21,Sun,MLS,Regular Season,Home,L 1–2,Charlotte,Orlando City,Y,GK,90,7,2,5,71.4,0,1.2,0,0,0,0,6,13,46.2,25,4,32.0,32.3,7,71.4,57.3,7,1,14.3,0,16.0,Match Report,53e360bb,L,2022,False
+498,2022-08-27,Sat,MLS,Regular Season,Home,L 0–2,Charlotte,Toronto FC,Y,GK,90,2,2,0,0.0,0,0.7,0,0,0,0,7,14,50.0,22,2,45.5,39.0,5,80.0,56.0,4,0,0.0,0,11.5,Match Report,53e360bb,L,2022,False
+499,2022-09-03,Sat,MLS,Regular Season,Away,L 0–2,Charlotte,FC Cincinnati,Y,GK,90,5,2,3,60.0,0,1.8,0,0,0,0,0,8,0.0,24,3,33.3,35.5,4,0.0,26.0,5,0,0.0,0,12.3,Match Report,53e360bb,L,2022,False
+500,2022-09-10,Sat,MLS,Regular Season,Home,W 1–0,Charlotte,NYCFC,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,5,19,26.3,29,4,48.3,46.9,9,55.6,54.4,10,1,10.0,0,9.0,Match Report,53e360bb,W,2022,False
+501,2022-09-17,Sat,MLS,Regular Season,Away,W 3–2,Charlotte,Chicago Fire,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,2,20,10.0,36,6,44.4,42.1,7,57.1,48.6,7,0,0.0,2,15.9,Match Report,53e360bb,W,2022,False
+502,2022-10-05,Wed,MLS,Regular Season,Home,D 2–2,Charlotte,Columbus Crew,Y,GK,90,8,2,6,75.0,0,1.0,0,0,0,0,10,19,52.6,33,3,54.5,43.8,4,25.0,34.3,10,0,0.0,1,8.9,Match Report,53e360bb,D,2022,False
+503,2022-02-26,Sat,MLS,Regular Season,Away,L 0–5,FC Cincinnati,Austin,Y,GK,90,5,5,1,0.0,0,2.0,0,0,0,0,8,11,72.7,15,6,40.0,32.9,8,62.5,43.8,9,0,0.0,1,14.2,Match Report,4a8af93c,L,2022,True
+504,2022-03-05,Sat,MLS,Regular Season,Home,L 0–1,FC Cincinnati,D.C. United,Y,GK,90,2,1,2,100.0,0,1.1,1,1,0,0,7,11,63.6,20,7,45.0,38.7,5,40.0,33.4,4,1,25.0,1,11.5,Match Report,4a8af93c,L,2022,True
+505,2022-03-12,Sat,MLS,Regular Season,Away,W 2–1,FC Cincinnati,Orlando City,Y,GK,90,6,1,5,83.3,0,2.4,0,0,0,0,10,27,37.0,18,0,94.4,60.3,10,100.0,61.8,24,1,4.2,0,7.3,Match Report,4a8af93c,W,2022,True
+506,2022-03-19,Sat,MLS,Regular Season,Home,W 3–1,FC Cincinnati,Inter Miami,Y,GK,90,1,1,1,100.0,0,0.8,1,1,0,0,4,13,30.8,14,3,50.0,41.7,9,66.7,46.4,5,0,0.0,1,20.0,Match Report,4a8af93c,W,2022,True
+507,2022-03-26,Sat,MLS,Regular Season,Away,L 0–2,FC Cincinnati,Charlotte,Y,GK,90,6,2,4,66.7,0,3.5,0,0,0,0,4,8,50.0,7,2,28.6,30.4,7,85.7,59.6,5,1,20.0,0,19.0,Match Report,4a8af93c,L,2022,True
+508,2022-04-02,Sat,MLS,Regular Season,Home,L 3–4,FC Cincinnati,CF Montréal,Y,GK,90,6,4,2,33.3,0,1.4,0,0,0,0,6,15,40.0,19,5,47.4,35.1,7,85.7,60.6,5,0,0.0,1,11.7,Match Report,4a8af93c,L,2022,True
+509,2022-04-16,Sat,MLS,Regular Season,Away,D 0–0,FC Cincinnati,Atlanta Utd,Y,GK,90,5,0,5,100.0,1,1.2,1,0,1,0,10,27,37.0,22,6,63.6,50.5,14,92.9,61.9,18,2,11.1,0,10.7,Match Report,4a8af93c,D,2022,True
+510,2022-04-23,Sat,MLS,Regular Season,Home,W 3–2,D.C. United,New England,Y,GK,90,8,2,6,75.0,0,2.5,0,0,0,0,9,26,34.6,20,3,75.0,52.0,14,78.6,51.1,17,0,0.0,0,9.9,Match Report,063adc5e,W,2022,True
+511,2022-04-30,Sat,MLS,Regular Season,Away,L 0–3,D.C. United,Columbus Crew,Y,GK,90,3,3,0,0.0,0,1.5,0,0,0,0,2,2,100.0,13,5,7.7,24.0,4,25.0,34.0,1,0,0.0,0,16.2,Match Report,063adc5e,L,2022,True
+512,2022-04-02,Sat,MLS,Regular Season,Home,L 0–1,New England,NY Red Bulls,Y,GK,90,5,1,5,80.0,0,0.3,0,0,0,0,5,10,50.0,27,7,33.3,37.9,4,25.0,38.3,10,1,10.0,1,13.6,Match Report,9903a3cb,L,2022,True
+513,2022-04-09,Sat,MLS,Regular Season,Away,L 2–3,New England,Inter Miami,Y,GK,90,4,3,1,25.0,0,2.3,0,0,0,0,0,2,0.0,16,5,12.5,24.4,6,0.0,26.2,5,0,0.0,1,11.6,Match Report,9903a3cb,L,2022,True
+514,2022-04-16,Sat,MLS,Regular Season,Home,W 2–1,New England,Charlotte,Y,GK,90,6,1,5,83.3,0,1.8,0,0,0,0,4,8,50.0,11,6,27.3,32.0,6,83.3,55.3,8,1,12.5,0,10.0,Match Report,9903a3cb,W,2022,True
+515,2022-04-23,Sat,MLS,Regular Season,Away,L 2–3,New England,D.C. United,Y,GK,90,5,3,2,40.0,0,1.8,0,0,0,0,1,5,20.0,16,5,25.0,37.5,7,14.3,31.3,1,0,0.0,0,14.7,Match Report,9903a3cb,L,2022,True
+516,2022-02-27,Sun,MLS,Regular Season,Away,D 0–0,Real Salt Lake,Houston Dynamo,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,7,18,38.9,20,3,60.0,43.3,6,100.0,69.5,10,4,40.0,0,13.3,Match Report,06caac45,D,2022,True
+517,2022-03-05,Sat,MLS,Regular Season,Home,W 1–0,Real Salt Lake,Seattle,Y,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,10,26,38.5,24,4,70.8,49.3,11,81.8,59.5,8,0,0.0,3,19.4,Match Report,06caac45,W,2022,True
+518,2022-03-12,Sat,MLS,Regular Season,Away,W 3–2,Real Salt Lake,New England,Y,GK,90,5,2,3,60.0,0,1.2,0,0,0,0,13,32,40.6,26,1,92.3,57.1,8,100.0,70.8,11,2,18.2,2,20.6,Match Report,06caac45,W,2022,True
+519,2022-03-19,Sat,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Nashville,Y*,GK,90,8,1,7,87.5,0,1.6,0,0,0,0,10,22,45.5,17,1,76.5,58.4,9,100.0,68.2,8,1,12.5,2,15.3,Match Report,06caac45,W,2022,True
+520,2022-03-26,Sat,MLS,Regular Season,Away,L 0–1,Real Salt Lake,Sporting KC,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,9,44,20.5,38,1,89.5,57.8,11,90.9,64.5,9,1,11.1,2,14.8,Match Report,06caac45,L,2022,True
+521,2022-04-02,Sat,MLS,Regular Season,Away,D 1–1,Real Salt Lake,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,0.9,0,0,0,0,8,27,29.6,30,4,63.3,47.7,9,88.9,66.9,9,1,11.1,0,12.4,Match Report,06caac45,D,2022,True
+522,2022-04-09,Sat,MLS,Regular Season,Home,D 2–2,Real Salt Lake,Toronto FC,Y,GK,90,3,2,1,33.3,0,0.9,0,0,0,0,15,27,55.6,31,2,67.7,48.6,6,100.0,67.8,7,3,42.9,2,16.5,Match Report,06caac45,D,2022,True
+523,2022-04-17,Sun,MLS,Regular Season,Away,L 0–6,Real Salt Lake,NYCFC,Y,GK,90,11,6,7,63.6,0,6.1,2,2,0,0,6,25,24.0,34,6,55.9,43.4,7,85.7,66.9,7,0,0.0,0,12.3,Match Report,06caac45,L,2022,True
+524,2022-04-23,Sat,MLS,Regular Season,Away,D 0–0,Real Salt Lake,Portland Timbers,Y,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,14,44,31.8,34,0,100.0,69.9,10,100.0,67.8,10,1,10.0,0,11.4,Match Report,06caac45,D,2022,True
+525,2022-04-30,Sat,MLS,Regular Season,Home,W 1–0,Real Salt Lake,LA Galaxy,Y,GK,90,4,0,4,100.0,1,1.5,0,0,0,0,14,30,46.7,25,2,92.0,68.7,10,70.0,54.4,15,3,20.0,1,19.0,Match Report,06caac45,W,2022,True
+526,2022-05-08,Sun,MLS,Regular Season,Away,L 0–2,Real Salt Lake,Nashville,Y,GK,90,9,2,7,77.8,0,2.3,0,0,0,0,4,19,21.1,23,4,56.5,44.8,10,60.0,49.7,15,1,6.7,0,9.5,Match Report,06caac45,L,2022,True
+527,2022-05-14,Sat,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Austin,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,2,14,14.3,25,4,48.0,44.0,5,40.0,48.8,4,1,25.0,0,13.9,Match Report,06caac45,W,2022,True
+528,2022-05-22,Sun,MLS,Regular Season,Away,W 2–1,Real Salt Lake,CF Montréal,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,6,17,35.3,26,8,50.0,41.7,5,80.0,58.2,7,1,14.3,0,12.8,Match Report,06caac45,W,2022,True
+529,2022-05-28,Sat,MLS,Regular Season,Home,W 3–0,Real Salt Lake,Houston Dynamo,Y,GK,90,4,0,4,100.0,1,1.0,0,0,0,0,7,24,29.2,36,5,50.0,43.8,7,85.7,60.7,8,3,37.5,2,17.4,Match Report,06caac45,W,2022,True
+530,2022-06-04,Sat,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Vancouver,Y,GK,90,3,2,2,66.7,0,2.0,1,1,0,0,4,13,30.8,24,5,45.8,39.3,4,50.0,32.5,9,1,11.1,1,16.0,Match Report,06caac45,L,2022,True
+531,2022-06-18,Sat,MLS,Regular Season,Home,W 2–0,Real Salt Lake,San Jose,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,9,18,50.0,17,4,58.8,48.4,10,80.0,63.0,6,0,0.0,1,15.5,Match Report,06caac45,W,2022,True
+532,2022-06-25,Sat,MLS,Regular Season,Home,D 0–0,Real Salt Lake,Columbus Crew,Y,GK,90,2,0,1,100.0,1,0.1,0,0,0,0,4,9,44.4,30,6,26.7,30.1,5,20.0,30.6,9,0,0.0,3,19.3,Match Report,06caac45,D,2022,True
+533,2022-07-03,Sun,MLS,Regular Season,Away,L 2–3,Real Salt Lake,Minnesota Utd,Y,GK,90,6,3,2,50.0,0,2.4,1,0,1,0,8,16,50.0,22,3,45.5,42.2,11,54.5,43.1,10,0,0.0,1,20.0,Match Report,06caac45,L,2022,True
+534,2022-07-09,Sat,MLS,Regular Season,Home,D 2–2,Real Salt Lake,Colorado Rapids,Y,GK,90,3,2,2,66.7,0,2.4,1,1,0,0,7,26,26.9,21,0,85.7,66.0,9,88.9,69.0,8,1,12.5,3,18.6,Match Report,06caac45,D,2022,True
+535,2022-07-13,Wed,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Atlanta Utd,Y,GK,90,7,2,5,71.4,0,2.3,0,0,0,0,6,12,50.0,27,6,40.7,39.7,7,14.3,22.1,4,0,0.0,1,14.2,Match Report,06caac45,L,2022,True
+536,2022-07-17,Sun,MLS,Regular Season,Home,W 3–0,Real Salt Lake,Sporting KC,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,6,10,60.0,25,8,28.0,32.5,6,50.0,47.2,3,0,0.0,2,14.0,Match Report,06caac45,W,2022,True
+537,2022-07-23,Sat,MLS,Regular Season,Home,L 0–1,Real Salt Lake,FC Dallas,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,8,13,61.5,30,7,36.7,33.2,6,33.3,38.8,1,0,0.0,2,18.1,Match Report,06caac45,L,2022,True
+538,2022-07-30,Sat,MLS,Regular Season,Away,D 2–2,Real Salt Lake,San Jose,Y,GK,90,2,2,1,50.0,0,1.3,1,1,0,0,8,27,29.6,28,6,64.3,40.2,10,90.0,62.9,4,0,0.0,0,11.9,Match Report,06caac45,D,2022,True
+539,2022-08-06,Sat,MLS,Regular Season,Home,L 1–4,Real Salt Lake,Los Angeles FC,Y,GK,90,8,4,4,50.0,0,2.6,0,0,0,0,11,19,57.9,33,7,39.4,37.4,7,85.7,59.4,10,0,0.0,0,16.5,Match Report,06caac45,L,2022,True
+540,2022-08-14,Sun,MLS,Regular Season,Away,W 2–1,Real Salt Lake,Seattle,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,15,39,38.5,25,1,92.0,59.8,16,100.0,74.3,25,2,8.0,0,5.7,Match Report,06caac45,W,2022,False
+541,2022-08-20,Sat,MLS,Regular Season,Home,D 1–1,Real Salt Lake,Vancouver,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,11,30,36.7,42,9,59.5,46.2,6,83.3,63.2,14,2,14.3,0,8.7,Match Report,06caac45,D,2022,False
+542,2022-08-27,Sat,MLS,Regular Season,Away,D 1–1,Real Salt Lake,FC Dallas,Y,GK,90,3,1,2,66.7,0,1.4,0,0,0,0,13,29,44.8,39,6,59.0,46.4,10,60.0,46.5,9,0,0.0,2,19.3,Match Report,06caac45,D,2022,False
+543,2022-08-31,Wed,MLS,Regular Season,Home,W 3–0,Real Salt Lake,Minnesota Utd,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,8,19,42.1,32,6,46.9,45.0,9,44.4,36.9,9,0,0.0,1,10.7,Match Report,06caac45,W,2022,False
+544,2022-09-04,Sun,MLS,Regular Season,Away,L 0–2,Real Salt Lake,Los Angeles FC,Y,GK,90,5,2,3,60.0,0,2.4,1,0,1,0,6,22,27.3,30,5,56.7,44.7,13,38.5,38.7,13,0,0.0,0,11.8,Match Report,06caac45,L,2022,False
+545,2022-09-10,Sat,MLS,Regular Season,Home,D 0–0,Real Salt Lake,D.C. United,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,5,12,41.7,22,6,36.4,38.2,8,50.0,46.9,2,0,0.0,1,16.7,Match Report,06caac45,D,2022,False
+546,2022-09-14,Wed,MLS,Regular Season,Away,L 0–3,Real Salt Lake,Austin,Y*,GK,90,3,3,0,0.0,0,2.1,0,0,0,0,6,17,35.3,20,5,70.0,53.7,6,50.0,38.2,6,2,33.3,2,15.6,Match Report,06caac45,L,2022,False
+547,2022-09-17,Sat,MLS,Regular Season,Home,L 1–2,Real Salt Lake,FC Cincinnati,Y,GK,90,3,2,1,33.3,0,0.9,0,0,0,0,9,24,37.5,34,2,55.9,42.8,11,45.5,29.4,8,0,0.0,1,16.1,Match Report,06caac45,L,2022,False
+548,2022-10-01,Sat,MLS,Regular Season,Away,D 1–1,Real Salt Lake,LA Galaxy,Y,GK,90,6,1,6,100.0,0,2.4,2,1,1,0,10,19,52.6,27,5,63.0,47.0,5,40.0,38.2,7,0,0.0,0,9.0,Match Report,06caac45,D,2022,False
+549,2022-10-09,Sun,MLS,Regular Season,Home,W 3–1,Real Salt Lake,Portland Timbers,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,8,27,29.6,22,4,59.1,52.9,15,93.3,73.7,10,0,0.0,1,15.3,Match Report,06caac45,W,2022,False
+550,2022-10-16,Sun,MLS,First Round,Away,D 2 (1)–2 (3),Real Salt Lake,Austin,Y,GK,120,10,2,9,90.0,0,2.9,1,1,0,0,12,53,22.6,36,3,86.1,65.9,23,95.7,70.6,49,1,2.0,0,7.1,Match Report,06caac45,D,2022,False
+551,2022-02-26,Sat,MLS,Regular Season,Home,L 1–3,San Jose,NY Red Bulls,Y,GK,90,7,3,4,57.1,0,2.2,0,0,0,0,5,12,41.7,28,7,25.0,28.3,8,62.5,45.0,2,0,0.0,5,26.7,Match Report,977791f4,L,2022,True
+552,2022-03-05,Sat,MLS,Regular Season,Home,D 3–3,San Jose,Columbus Crew,Y,GK,90,7,3,4,57.1,0,2.4,0,0,0,0,6,22,27.3,30,5,56.7,49.5,7,71.4,50.6,11,1,9.1,0,13.5,Match Report,977791f4,D,2022,True
+553,2022-03-12,Sat,MLS,Regular Season,Away,L 0–2,San Jose,Philadelphia,Y,GK,90,4,2,3,75.0,0,2.7,1,1,0,0,8,13,61.5,24,5,37.5,33.8,8,50.0,40.6,6,0,0.0,1,14.6,Match Report,977791f4,L,2022,True
+554,2022-03-19,Sat,MLS,Regular Season,Away,L 0–1,San Jose,Minnesota Utd,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,7,16,43.8,23,6,39.1,38.9,9,77.8,50.1,1,0,0.0,0,11.2,Match Report,977791f4,L,2022,True
+555,2022-04-02,Sat,MLS,Regular Season,Home,D 2–2,San Jose,Austin,Y,GK,90,3,2,2,66.7,0,1.6,1,1,0,0,2,6,33.3,19,6,26.3,30.4,5,20.0,28.2,5,0,0.0,0,14.2,Match Report,977791f4,D,2022,True
+556,2022-04-09,Sat,MLS,Regular Season,Away,L 3–4,San Jose,Houston Dynamo,Y,GK,90,7,4,3,42.9,0,2.3,0,0,0,0,3,9,33.3,26,6,23.1,34.2,7,42.9,41.3,3,0,0.0,1,16.3,Match Report,977791f4,L,2022,True
+557,2022-04-16,Sat,MLS,Regular Season,Home,D 2–2,San Jose,Nashville,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,4,8,50.0,22,7,31.8,33.4,3,33.3,30.7,7,2,28.6,2,21.4,Match Report,977791f4,D,2022,True
+558,2022-04-23,Sat,MLS,Regular Season,Home,W 4–3,San Jose,Seattle,Y,GK,90,6,3,4,66.7,0,3.0,1,1,0,0,3,12,25.0,25,9,36.0,33.0,8,37.5,27.9,5,1,20.0,0,13.6,Match Report,977791f4,W,2022,True
+559,2022-05-01,Sun,MLS,Regular Season,Away,L 0–3,San Jose,NYCFC,Y,GK,90,8,3,5,62.5,0,2.8,0,0,0,0,7,18,38.9,33,14,39.4,42.9,8,62.5,59.5,12,1,8.3,0,13.0,Match Report,977791f4,L,2022,True
+560,2022-05-07,Sat,MLS,Regular Season,Home,W 1–0,San Jose,Colorado Rapids,Y,GK,90,5,0,5,100.0,1,0.5,0,0,0,0,4,16,25.0,35,1,37.1,35.6,6,50.0,38.2,7,1,14.3,0,12.3,Match Report,977791f4,W,2022,True
+561,2022-05-14,Sat,MLS,Regular Season,Away,D 3–3,San Jose,Vancouver,Y,GK,90,7,3,4,57.1,0,2.4,0,0,0,0,3,8,37.5,26,7,19.2,31.1,11,27.3,30.5,7,1,14.3,0,12.4,Match Report,977791f4,D,2022,True
+562,2022-05-18,Wed,MLS,Regular Season,Home,W 3–2,San Jose,Portland Timbers,Y,GK,90,5,2,3,60.0,0,1.7,0,0,0,0,6,12,50.0,24,6,37.5,34.5,5,60.0,42.2,2,0,0.0,2,17.1,Match Report,977791f4,W,2022,True
+563,2022-05-22,Sun,MLS,Regular Season,Home,D 1–1,San Jose,Sporting KC,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,1,5,20.0,22,5,18.2,32.5,4,25.0,29.3,3,0,0.0,0,13.7,Match Report,977791f4,D,2022,True
+564,2022-05-28,Sat,MLS,Regular Season,Away,L 2–3,San Jose,Los Angeles FC,Y*,GK,90,8,3,6,75.0,0,2.8,1,1,0,0,7,17,41.2,25,6,56.0,42.4,7,42.9,42.4,3,0,0.0,1,11.3,Match Report,977791f4,L,2022,True
+565,2022-06-11,Sat,MLS,Regular Season,Away,D 0–0,San Jose,Nashville,Y*,GK,90,5,0,5,100.0,1,1.0,0,0,0,0,8,19,42.1,22,3,68.2,47.0,4,100.0,57.8,17,1,5.9,1,13.6,Match Report,977791f4,D,2022,True
+566,2022-06-18,Sat,MLS,Regular Season,Away,L 0–2,San Jose,Real Salt Lake,Y,GK,90,6,2,4,66.7,0,2.3,0,0,0,0,8,10,80.0,17,3,41.2,32.6,10,30.0,30.0,10,1,10.0,0,11.8,Match Report,977791f4,L,2022,True
+567,2022-07-03,Sun,MLS,Regular Season,Home,W 2–1,San Jose,Chicago Fire,Y,GK,90,6,1,5,83.3,0,2.1,0,0,0,0,7,18,38.9,30,8,46.7,39.4,5,80.0,55.6,9,1,11.1,2,13.4,Match Report,977791f4,W,2022,True
+568,2022-07-09,Sat,MLS,Regular Season,Away,D 2–2,San Jose,Toronto FC,Y,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,11,26,42.3,26,6,69.2,47.9,11,72.7,49.7,5,1,20.0,0,7.8,Match Report,977791f4,D,2022,True
+569,2022-07-13,Wed,MLS,Regular Season,Away,W 3–2,San Jose,LA Galaxy,Y,GK,90,9,2,7,77.8,0,2.4,0,0,0,0,9,23,39.1,29,4,44.8,39.8,13,76.9,54.8,16,2,12.5,0,12.3,Match Report,977791f4,W,2022,True
+570,2022-07-17,Sun,MLS,Regular Season,Home,L 1–2,San Jose,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,5,10,50.0,23,8,34.8,34.2,8,25.0,31.5,6,1,16.7,1,14.9,Match Report,977791f4,L,2022,True
+571,2022-07-23,Sat,MLS,Regular Season,Away,L 1–2,San Jose,Portland Timbers,Y,GK,90,5,2,3,60.0,0,1.4,0,0,0,0,13,21,61.9,35,4,51.4,41.1,8,37.5,35.9,5,1,20.0,0,10.7,Match Report,977791f4,L,2022,True
+572,2022-07-30,Sat,MLS,Regular Season,Home,D 2–2,San Jose,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,1.1,0,0,0,0,3,7,42.9,18,3,27.8,35.4,4,50.0,43.5,6,0,0.0,1,13.2,Match Report,977791f4,D,2022,True
+573,2022-08-03,Wed,MLS,Regular Season,Home,L 0–1,San Jose,Inter Miami,Y,GK,45,2,1,1,50.0,0,0.9,0,0,0,0,1,2,50.0,8,2,25.0,40.6,0,,,1,0,0.0,0,13.3,Match Report,977791f4,L,2022,True
+574,2022-08-13,Sat,MLS,Regular Season,Away,L 1–4,San Jose,FC Dallas,Y,GK,90,6,4,2,33.3,0,3.4,0,0,0,0,6,14,42.9,29,3,34.5,32.4,5,80.0,44.0,1,0,0.0,0,17.5,Match Report,977791f4,L,2022,False
+575,2022-08-20,Sat,MLS,Regular Season,Home,W 2–1,San Jose,Los Angeles FC,Y,GK,90,1,1,0,0.0,0,0.2,0,0,0,0,11,18,61.1,22,3,59.1,45.4,10,50.0,34.7,8,0,0.0,0,11.3,Match Report,977791f4,W,2022,False
+576,2022-08-27,Sat,MLS,Regular Season,Away,L 0–1,San Jose,Sporting KC,Y,GK,90,8,1,7,87.5,0,1.0,0,0,0,0,8,20,40.0,24,5,45.8,37.7,11,81.8,57.2,4,0,0.0,1,19.0,Match Report,977791f4,L,2022,False
+577,2022-09-04,Sun,MLS,Regular Season,Home,W 2–0,San Jose,Vancouver,Y,GK,90,6,0,6,100.0,1,0.6,0,0,0,0,7,24,29.2,30,6,70.0,54.3,5,60.0,48.8,16,2,12.5,1,14.1,Match Report,977791f4,W,2022,False
+578,2022-09-10,Sat,MLS,Regular Season,Away,L 0–6,San Jose,FC Cincinnati,Y,GK,90,8,6,4,50.0,0,4.5,2,2,0,0,6,15,40.0,21,5,66.7,48.8,4,25.0,35.0,5,1,20.0,0,12.2,Match Report,977791f4,L,2022,False
+579,2022-09-14,Wed,MLS,Regular Season,Away,L 1–2,San Jose,Colorado Rapids,Y,GK,90,3,2,1,33.3,0,0.7,0,0,0,0,4,8,50.0,15,3,26.7,29.7,12,33.3,33.6,3,0,0.0,0,11.5,Match Report,977791f4,L,2022,False
+580,2022-09-17,Sat,MLS,Regular Season,Home,D 1–1,San Jose,FC Dallas,Y*,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,3,13,23.1,30,10,30.0,32.4,7,57.1,44.7,8,0,0.0,2,15.4,Match Report,977791f4,D,2022,False
+581,2022-09-24,Sat,MLS,Regular Season,Home,L 2–3,San Jose,LA Galaxy,Y,GK,90,4,3,1,25.0,0,2.1,0,0,0,0,2,7,28.6,17,3,41.2,31.7,8,0.0,11.9,4,0,0.0,1,16.0,Match Report,977791f4,L,2022,False
+582,2022-10-01,Sat,MLS,Regular Season,Home,W 2–0,San Jose,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,3,8,37.5,20,7,25.0,33.3,13,23.1,29.3,5,0,0.0,0,12.3,Match Report,977791f4,W,2022,False
+583,2022-10-09,Sun,MLS,Regular Season,Away,D 2–2,San Jose,Seattle,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,4,13,30.8,33,6,30.3,32.0,6,50.0,33.2,15,0,0.0,0,12.3,Match Report,977791f4,D,2022,False
+584,2022-06-25,Sat,MLS,Regular Season,Away,L 1–2,Charlotte,CF Montréal,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,4,9,44.4,30,5,23.3,29.2,4,50.0,46.5,13,1,7.7,0,17.0,Match Report,e75f9dba,L,2022,True
+585,2022-04-02,Sat,MLS,Regular Season,Home,L 1–3,Inter Miami,Houston Dynamo,Y,GK,90,4,3,2,50.0,0,3.2,1,1,0,0,4,6,66.7,20,1,30.0,36.3,8,0.0,23.4,4,0,0.0,0,11.8,Match Report,f352799f,L,2022,True
+586,2022-04-09,Sat,MLS,Regular Season,Home,W 3–2,Inter Miami,New England,Y,GK,90,2,2,1,50.0,0,1.6,1,1,0,0,6,16,37.5,19,5,57.9,45.2,9,55.6,47.7,16,2,12.5,0,9.3,Match Report,f352799f,W,2022,True
+587,2022-04-16,Sat,MLS,Regular Season,Away,W 1–0,Inter Miami,Seattle,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,10,24,41.7,38,4,52.6,41.7,9,44.4,44.6,16,0,0.0,1,16.7,Match Report,f352799f,W,2022,True
+588,2022-04-24,Sun,MLS,Regular Season,Home,W 2–1,Inter Miami,Atlanta Utd,Y,GK,90,7,1,6,85.7,0,1.6,0,0,0,0,9,26,34.6,31,6,51.6,42.5,11,90.9,59.3,17,0,0.0,1,10.9,Match Report,f352799f,W,2022,True
+589,2022-04-30,Sat,MLS,Regular Season,Away,L 0–2,Inter Miami,New England,Y,GK,90,6,2,4,66.7,0,1.9,0,0,0,0,4,20,20.0,32,9,43.8,39.9,10,60.0,53.8,16,0,0.0,0,15.2,Match Report,f352799f,L,2022,True
+590,2022-08-31,Wed,MLS,Regular Season,Away,L 0–1,Inter Miami,Columbus Crew,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,6,14,42.9,30,6,33.3,32.8,12,33.3,33.6,2,0,0.0,3,17.9,Match Report,f352799f,L,2022,False
+591,2022-09-10,Sat,MLS,Regular Season,Away,L 1–3,Inter Miami,Chicago Fire,Y,GK,90,4,3,1,25.0,0,1.9,0,0,0,0,3,4,75.0,11,2,18.2,33.5,6,33.3,39.3,9,0,0.0,0,11.0,Match Report,f352799f,L,2022,False
+592,2022-05-14,Sat,MLS,Regular Season,Away,W 3–1,FC Dallas,LA Galaxy,Y,GK,90,5,1,3,80.0,0,0.6,0,0,0,0,4,19,21.1,30,2,50.0,40.7,7,57.1,45.1,13,1,7.7,1,16.0,Match Report,ca1c6f3d,W,2022,True
+593,2022-05-18,Wed,MLS,Regular Season,Away,L 1–2,FC Dallas,Vancouver,Y,GK,90,2,2,1,50.0,0,1.1,1,1,0,0,2,9,22.2,21,4,38.1,38.1,6,16.7,23.5,12,0,0.0,0,11.5,Match Report,ca1c6f3d,L,2022,True
+594,2022-05-14,Sat,MLS,Regular Season,Away,L 0–2,Los Angeles FC,Colorado Rapids,Y,GK,90,4,2,4,100.0,0,3.4,2,2,0,0,3,12,25.0,17,5,52.9,42.5,13,23.1,32.0,3,1,33.3,1,16.5,Match Report,249362e9,L,2022,True
+595,2022-09-13,Tue,MLS,Regular Season,Home,W 3–0,Sporting KC,D.C. United,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,2,8,25.0,16,5,43.8,41.5,4,25.0,36.0,7,1,14.3,0,13.0,Match Report,d1f3e74b,W,2022,False
+596,2022-10-09,Sun,MLS,Regular Season,Away,L 1–2,Sporting KC,FC Dallas,Y,GK,90,9,2,7,77.8,0,1.6,0,0,0,0,1,4,25.0,20,7,20.0,25.8,4,0.0,10.3,6,0,0.0,0,11.8,Match Report,d1f3e74b,L,2022,False
+597,2022-05-22,Sun,MLS,Regular Season,Away,L 0–2,NY Red Bulls,Inter Miami,Y,GK,90,6,2,4,66.7,0,1.4,0,0,0,0,3,5,60.0,18,7,22.2,29.0,5,20.0,26.2,3,2,66.7,2,16.8,Match Report,18f0723b,L,2022,True
+598,2022-02-27,Sun,MLS,Regular Season,Away,L 1–3,Sporting KC,Atlanta Utd,Y,GK,90,6,3,3,50.0,0,1.7,0,0,0,0,4,11,36.4,25,5,44.0,36.0,6,0.0,11.7,8,2,25.0,0,10.8,Match Report,cc741f50,L,2022,True
+599,2022-03-05,Sat,MLS,Regular Season,Home,W 1–0,Sporting KC,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,2,6,33.3,20,5,30.0,30.3,2,0.0,19.5,8,1,12.5,0,12.8,Match Report,cc741f50,W,2022,True
+600,2022-03-12,Sat,MLS,Regular Season,Away,L 0–2,Sporting KC,Colorado Rapids,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,4,11,36.4,19,4,52.6,39.8,4,25.0,26.0,10,0,0.0,0,10.7,Match Report,cc741f50,L,2022,True
+601,2022-03-19,Sat,MLS,Regular Season,Away,L 1–3,Sporting KC,Chicago Fire,Y,GK,90,2,3,0,0.0,0,1.3,1,1,0,0,5,13,38.5,24,4,54.2,42.9,3,0.0,17.3,6,0,0.0,0,10.3,Match Report,cc741f50,L,2022,True
+602,2022-03-26,Sat,MLS,Regular Season,Home,W 1–0,Sporting KC,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,2,5,40.0,17,3,11.8,27.1,10,30.0,33.5,10,0,0.0,0,6.7,Match Report,cc741f50,W,2022,True
+603,2022-04-02,Sat,MLS,Regular Season,Away,L 0–1,Sporting KC,Vancouver,Y,GK,90,3,1,2,66.7,0,1.4,0,0,0,0,5,20,25.0,32,6,43.8,38.8,8,75.0,53.0,12,1,8.3,3,18.7,Match Report,cc741f50,L,2022,True
+604,2022-04-09,Sat,MLS,Regular Season,Home,L 1–2,Sporting KC,Nashville,Y,GK,90,5,2,3,60.0,0,1.7,1,0,1,0,6,12,50.0,20,5,35.0,34.5,9,55.6,38.7,9,0,0.0,1,29.0,Match Report,cc741f50,L,2022,True
+605,2022-04-17,Sun,MLS,Regular Season,Away,L 1–3,Sporting KC,Los Angeles FC,Y,GK,90,3,3,0,0.0,0,1.5,0,0,0,0,3,10,30.0,27,7,25.9,31.6,8,37.5,30.9,9,1,11.1,0,15.0,Match Report,cc741f50,L,2022,True
+606,2022-04-23,Sat,MLS,Regular Season,Home,D 0–0,Sporting KC,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,5,8,62.5,29,3,27.6,30.3,4,0.0,14.5,2,0,0.0,0,9.3,Match Report,cc741f50,D,2022,True
+607,2022-04-30,Sat,MLS,Regular Season,Home,D 2–2,Sporting KC,FC Dallas,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,4,9,44.4,25,4,32.0,34.5,2,50.0,41.5,2,0,0.0,0,15.3,Match Report,cc741f50,D,2022,True
+608,2022-05-07,Sat,MLS,Regular Season,Away,D 0–0,Sporting KC,NYCFC,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,10,26,38.5,23,1,73.9,57.2,12,75.0,57.0,13,1,7.7,1,15.6,Match Report,cc741f50,D,2022,True
+609,2022-05-14,Sat,MLS,Regular Season,Away,L 2–7,Sporting KC,Portland Timbers,Y,GK,90,8,7,1,12.5,0,4.4,0,0,0,0,4,8,50.0,20,5,35.0,39.2,7,14.3,29.6,5,0,0.0,1,15.3,Match Report,cc741f50,L,2022,True
+610,2022-05-18,Wed,MLS,Regular Season,Home,W 2–1,Sporting KC,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,1.7,0,0,0,0,8,22,36.4,24,0,58.3,50.3,9,88.9,62.3,6,0,0.0,0,16.3,Match Report,cc741f50,W,2022,True
+611,2022-05-22,Sun,MLS,Regular Season,Away,D 1–1,Sporting KC,San Jose,Y,GK,90,5,1,4,80.0,0,1.0,0,0,0,0,5,22,22.7,16,0,50.0,50.4,14,100.0,68.9,8,0,0.0,0,12.7,Match Report,cc741f50,D,2022,True
+612,2022-05-28,Sat,MLS,Regular Season,Home,L 0–1,Sporting KC,Vancouver,Y,GK,90,0,1,0,,0,0.9,1,1,0,0,1,4,25.0,19,2,15.8,27.6,3,33.3,26.3,3,0,0.0,3,26.0,Match Report,cc741f50,L,2022,True
+613,2022-06-12,Sun,MLS,Regular Season,Home,L 1–2,Sporting KC,New England,Y,GK,90,5,2,3,60.0,0,1.9,0,0,0,0,3,10,30.0,16,2,18.8,29.9,14,50.0,46.1,7,0,0.0,0,7.0,Match Report,cc741f50,L,2022,True
+614,2022-06-19,Sun,MLS,Regular Season,Away,W 2–1,Sporting KC,Nashville,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,7,21,33.3,20,2,65.0,51.4,9,88.9,60.0,18,1,5.6,0,10.5,Match Report,cc741f50,W,2022,True
+615,2022-06-25,Sat,MLS,Regular Season,Away,L 0–3,Sporting KC,Seattle,Y,GK,90,8,3,5,62.5,0,2.8,0,0,0,0,4,8,50.0,17,4,29.4,32.1,9,33.3,36.9,8,0,0.0,0,10.5,Match Report,cc741f50,L,2022,True
+616,2022-07-03,Sun,MLS,Regular Season,Home,L 0–1,Sporting KC,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,7,11,63.6,21,5,38.1,35.2,8,37.5,39.1,1,0,0.0,1,15.7,Match Report,cc741f50,L,2022,True
+617,2022-07-09,Sat,MLS,Regular Season,Away,W 2–1,Sporting KC,CF Montréal,Y,GK,90,6,1,5,83.3,0,1.5,0,0,0,0,9,19,47.4,23,7,47.8,41.7,9,88.9,59.0,12,0,0.0,1,9.9,Match Report,cc741f50,W,2022,True
+618,2022-07-23,Sat,MLS,Regular Season,Home,L 0–2,Sporting KC,Los Angeles FC,Y,GK,52,2,0,2,100.0,0,0.0,0,0,0,0,2,4,50.0,11,3,27.3,32.0,5,20.0,28.4,1,0,0.0,0,15.5,Match Report,cc741f50,L,2022,True
+619,2022-02-26,Sat,MLS,Regular Season,Away,D 1–1,Minnesota Utd,Philadelphia,Y,GK,90,5,1,4,80.0,0,0.6,0,0,0,0,9,19,47.4,21,9,52.4,46.7,8,100.0,67.0,18,2,11.1,1,13.3,Match Report,7827a6b3,D,2022,True
+620,2022-03-05,Sat,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Nashville,Y,GK,90,3,1,1,66.7,0,1.1,0,0,0,0,4,11,36.4,27,8,29.6,30.0,6,50.0,42.8,8,1,12.5,3,19.2,Match Report,7827a6b3,D,2022,True
+621,2022-08-31,Wed,MLS,Regular Season,Away,L 0–3,Minnesota Utd,Real Salt Lake,N,GK,45,4,1,3,75.0,0,1.1,0,0,0,0,3,5,60.0,16,4,18.8,28.3,3,66.7,43.3,3,0,0.0,2,24.0,Match Report,7827a6b3,L,2022,False
+622,2022-05-28,Sat,MLS,Regular Season,Away,L 0–3,Houston Dynamo,Real Salt Lake,Y,GK,90,6,3,3,50.0,0,3.1,0,0,0,0,6,11,54.5,20,1,30.0,29.9,11,45.5,36.2,13,0,0.0,2,16.3,Match Report,f4a12161,L,2022,True
+623,2022-07-30,Sat,MLS,Regular Season,Away,L 0–6,Houston Dynamo,Philadelphia,N,GK,65,8,5,3,37.5,0,3.4,0,0,0,0,0,1,0.0,6,2,16.7,30.3,2,0.0,13.0,7,0,0.0,0,12.0,Match Report,f4a12161,L,2022,True
+624,2022-08-16,Tue,MLS,Regular Season,Away,L 0–1,D.C. United,Los Angeles FC,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,18,32,56.3,36,8,72.2,47.5,9,66.7,51.1,8,2,25.0,0,12.6,Match Report,dba6b279,L,2022,False
+625,2022-08-28,Sun,MLS,Regular Season,Away,L 2–3,D.C. United,Atlanta Utd,Y,GK,90,9,3,6,66.7,0,3.5,0,0,0,0,4,21,19.0,33,8,39.4,35.5,8,100.0,59.6,13,1,7.7,1,13.7,Match Report,dba6b279,L,2022,False
+626,2022-08-31,Wed,MLS,Regular Season,Away,W 2–1,D.C. United,NYCFC,Y,GK,90,3,1,2,66.7,0,0.3,0,0,0,0,9,20,45.0,32,4,34.4,34.8,10,90.0,62.2,6,0,0.0,0,14.5,Match Report,dba6b279,W,2022,False
+627,2022-09-04,Sun,MLS,Regular Season,Home,D 0–0,D.C. United,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,0.9,0,0,0,0,11,24,45.8,44,7,36.4,35.0,10,80.0,61.0,7,0,0.0,1,16.6,Match Report,dba6b279,D,2022,False
+628,2022-09-10,Sat,MLS,Regular Season,Away,D 0–0,D.C. United,Real Salt Lake,Y,GK,90,6,0,6,100.0,1,1.0,0,0,0,0,15,28,53.6,38,2,52.6,44.4,13,61.5,50.5,11,0,0.0,3,14.4,Match Report,dba6b279,D,2022,False
+629,2022-09-13,Tue,MLS,Regular Season,Away,L 0–3,D.C. United,Sporting KC,Y,GK,90,5,3,2,40.0,0,2.0,0,0,0,0,12,22,54.5,41,3,41.5,33.4,7,71.4,48.0,9,0,0.0,1,15.2,Match Report,dba6b279,L,2022,False
+630,2022-09-18,Sun,MLS,Regular Season,Home,L 2–3,D.C. United,Inter Miami,Y,GK,90,5,3,2,40.0,0,2.3,0,0,0,0,9,20,45.0,33,4,51.5,38.4,3,100.0,64.0,5,0,0.0,0,16.3,Match Report,dba6b279,L,2022,False
+631,2022-10-01,Sat,MLS,Regular Season,Away,L 0–1,D.C. United,CF Montréal,Y,GK,90,1,1,1,0.0,0,0.9,1,0,1,0,11,22,50.0,39,2,43.6,39.9,7,71.4,52.7,13,0,0.0,2,14.4,Match Report,dba6b279,L,2022,False
+632,2022-10-09,Sun,MLS,Regular Season,Home,L 2–5,D.C. United,FC Cincinnati,Y,GK,90,8,5,3,37.5,0,3.0,0,0,0,0,3,7,42.9,36,6,16.7,24.1,1,100.0,59.0,5,0,0.0,1,17.0,Match Report,dba6b279,L,2022,False
+633,2022-02-26,Sat,MLS,Regular Season,Home,D 1–1,FC Dallas,Toronto FC,Y,GK,90,2,1,1,50.0,0,1.7,0,0,0,0,5,8,62.5,24,5,33.3,29.3,3,0.0,22.7,4,0,0.0,0,14.0,Match Report,eb343262,D,2022,True
+634,2022-03-05,Sat,MLS,Regular Season,Away,L 0–1,FC Dallas,New England,Y,GK,90,2,1,2,100.0,0,1.5,1,1,0,0,6,12,50.0,25,7,40.0,31.4,2,100.0,84.5,12,2,16.7,0,9.3,Match Report,eb343262,L,2022,True
+635,2022-03-12,Sat,MLS,Regular Season,Home,W 2–0,FC Dallas,Nashville,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,2,14,14.3,23,3,47.8,36.7,4,75.0,51.3,4,0,0.0,1,15.8,Match Report,eb343262,W,2022,True
+636,2022-03-19,Sat,MLS,Regular Season,Home,W 4–1,FC Dallas,Portland Timbers,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,3,11,27.3,22,0,18.2,28.0,12,58.3,41.4,7,2,28.6,0,9.0,Match Report,eb343262,W,2022,True
+637,2022-04-02,Sat,MLS,Regular Season,Away,D 0–0,FC Dallas,Chicago Fire,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,3,14,21.4,42,6,31.0,31.0,7,14.3,30.6,10,2,20.0,0,15.4,Match Report,eb343262,D,2022,True
+638,2022-04-09,Sat,MLS,Regular Season,Home,W 3–1,FC Dallas,Colorado Rapids,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,2,27,7.4,25,3,56.0,42.7,15,86.7,56.3,11,1,9.1,2,16.3,Match Report,eb343262,W,2022,True
+639,2022-04-16,Sat,MLS,Regular Season,Away,D 0–0,FC Dallas,NY Red Bulls,Y,GK,90,6,0,6,100.0,1,1.3,0,0,0,0,6,29,20.7,27,2,74.1,54.0,12,75.0,51.8,20,1,5.0,1,10.4,Match Report,eb343262,D,2022,True
+640,2022-04-23,Sat,MLS,Regular Season,Home,W 2–1,FC Dallas,Houston Dynamo,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,1,4,25.0,13,4,7.7,22.7,9,33.3,27.8,3,0,0.0,1,16.0,Match Report,eb343262,W,2022,True
+641,2022-04-30,Sat,MLS,Regular Season,Away,D 2–2,FC Dallas,Sporting KC,Y,GK,90,3,2,2,66.7,0,2.0,1,1,0,0,5,19,26.3,21,2,47.6,35.7,12,75.0,55.1,10,0,0.0,0,11.0,Match Report,eb343262,D,2022,True
+642,2022-05-07,Sat,MLS,Regular Season,Home,W 2–0,FC Dallas,Seattle,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,2,12,16.7,17,2,41.2,36.6,7,71.4,51.9,12,1,8.3,0,11.5,Match Report,eb343262,W,2022,True
+643,2022-05-22,Sun,MLS,Regular Season,Home,L 1–2,FC Dallas,Minnesota Utd,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,2,3,66.7,19,3,15.8,23.5,1,0.0,16.0,3,0,0.0,0,10.0,Match Report,eb343262,L,2022,True
+644,2022-05-28,Sat,MLS,Regular Season,Away,W 3–1,FC Dallas,Orlando City,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,2,6,33.3,10,2,40.0,33.5,6,33.3,31.3,12,0,0.0,0,10.0,Match Report,eb343262,W,2022,True
+645,2022-06-18,Sat,MLS,Regular Season,Home,L 0–2,FC Dallas,Vancouver,Y,GK,90,2,2,0,0.0,0,1.3,0,0,0,0,1,4,25.0,12,1,25.0,25.9,7,14.3,25.1,2,0,0.0,3,26.8,Match Report,eb343262,L,2022,True
+646,2022-06-25,Sat,MLS,Regular Season,Away,D 2–2,FC Dallas,Austin,Y,GK,90,4,2,2,50.0,0,1.0,0,0,0,0,9,27,33.3,29,4,58.6,45.6,13,76.9,57.0,19,0,0.0,0,7.0,Match Report,eb343262,D,2022,True
+647,2022-06-29,Wed,MLS,Regular Season,Away,L 1–3,FC Dallas,Los Angeles FC,Y,GK,90,9,3,6,66.7,0,2.6,0,0,0,0,2,10,20.0,16,6,43.8,39.6,9,33.3,30.1,4,0,0.0,1,15.0,Match Report,eb343262,L,2022,True
+648,2022-07-04,Mon,MLS,Regular Season,Home,D 1–1,FC Dallas,Inter Miami,Y,GK,90,6,1,5,83.3,0,2.1,0,0,0,0,2,10,20.0,21,7,33.3,29.8,6,50.0,41.7,12,2,16.7,1,12.8,Match Report,eb343262,D,2022,True
+649,2022-07-09,Sat,MLS,Regular Season,Away,D 2–2,FC Dallas,Houston Dynamo,Y,GK,90,8,2,6,75.0,0,2.5,0,0,0,0,10,15,66.7,26,2,50.0,41.6,4,50.0,36.0,15,0,0.0,0,11.4,Match Report,eb343262,D,2022,True
+650,2022-07-13,Wed,MLS,Regular Season,Home,L 0–1,FC Dallas,NYCFC,Y,GK,90,1,1,0,0.0,0,1.0,0,0,0,0,1,1,100.0,12,5,8.3,24.5,1,0.0,10.0,1,1,100.0,0,13.7,Match Report,eb343262,L,2022,True
+651,2022-07-16,Sat,MLS,Regular Season,Home,D 1–1,FC Dallas,Austin,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,2,13,15.4,22,2,50.0,38.4,3,66.7,41.7,3,0,0.0,0,8.0,Match Report,eb343262,D,2022,True
+652,2022-07-23,Sat,MLS,Regular Season,Away,W 1–0,FC Dallas,Real Salt Lake,Y,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,3,20,15.0,15,0,53.3,54.1,13,92.3,68.8,18,0,0.0,1,18.5,Match Report,eb343262,W,2022,True
+653,2022-07-30,Sat,MLS,Regular Season,Home,W 1–0,FC Dallas,LA Galaxy,Y,GK,90,2,0,2,100.0,1,0.9,1,0,1,0,3,11,27.3,18,4,50.0,40.9,6,33.3,29.5,10,1,10.0,0,7.0,Match Report,eb343262,W,2022,True
+654,2022-08-02,Tue,MLS,Regular Season,Away,L 0–1,FC Dallas,Seattle,Y,GK,90,3,1,3,100.0,0,1.5,1,1,0,0,6,14,42.9,26,4,50.0,39.4,7,14.3,23.1,10,1,10.0,0,,Match Report,eb343262,L,2022,True
+655,2022-08-06,Sat,MLS,Regular Season,Away,D 1–1,FC Dallas,Portland Timbers,Y,GK,90,4,1,3,75.0,0,1.0,1,0,1,0,3,11,27.3,27,5,29.6,34.4,4,75.0,55.8,11,0,0.0,0,11.2,Match Report,eb343262,D,2022,True
+656,2022-08-13,Sat,MLS,Regular Season,Home,W 4–1,FC Dallas,San Jose,Y,GK,90,2,1,1,50.0,0,0.2,0,0,0,0,6,12,50.0,20,1,35.0,32.8,5,100.0,64.4,10,1,10.0,0,13.0,Match Report,eb343262,W,2022,False
+657,2022-08-17,Wed,MLS,Regular Season,Home,W 1–0,FC Dallas,Philadelphia,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,6,15,40.0,22,3,31.8,35.1,13,61.5,46.2,13,0,0.0,0,10.4,Match Report,eb343262,W,2022,False
+658,2022-08-21,Sun,MLS,Regular Season,Away,L 0–4,FC Dallas,Nashville,Y,GK,90,8,4,4,50.0,0,1.8,0,0,0,0,2,5,40.0,18,3,27.8,25.4,9,0.0,22.0,8,0,0.0,0,15.0,Match Report,eb343262,L,2022,False
+659,2022-08-27,Sat,MLS,Regular Season,Home,D 1–1,FC Dallas,Real Salt Lake,Y,GK,90,6,1,4,83.3,0,1.9,0,0,0,0,2,7,28.6,18,4,27.8,30.1,11,18.2,23.4,12,1,8.3,1,16.8,Match Report,eb343262,D,2022,False
+660,2022-09-03,Sat,MLS,Regular Season,Away,W 3–0,FC Dallas,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,2,8,25.0,31,4,25.8,26.4,8,0.0,18.8,8,0,0.0,0,11.3,Match Report,eb343262,W,2022,False
+661,2022-09-10,Sat,MLS,Regular Season,Home,W 2–1,FC Dallas,Los Angeles FC,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,1,7,14.3,18,4,33.3,33.7,5,20.0,32.0,3,0,0.0,1,14.3,Match Report,eb343262,W,2022,False
+662,2022-09-17,Sat,MLS,Regular Season,Away,D 1–1,FC Dallas,San Jose,Y,GK,90,2,1,2,100.0,0,1.5,1,1,0,0,6,16,37.5,27,2,33.3,32.9,10,70.0,48.8,10,0,0.0,1,8.4,Match Report,eb343262,D,2022,False
+663,2022-10-01,Sat,MLS,Regular Season,Away,L 0–1,FC Dallas,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,4,16,25.0,39,10,35.9,30.9,4,50.0,40.8,11,1,9.1,3,17.3,Match Report,eb343262,L,2022,False
+664,2022-10-09,Sun,MLS,Regular Season,Home,W 2–1,FC Dallas,Sporting KC,Y,GK,90,7,1,6,85.7,0,2.1,0,0,0,0,5,12,41.7,16,2,50.0,37.1,9,44.4,40.6,7,0,0.0,0,,Match Report,eb343262,W,2022,False
+665,2022-05-28,Sat,MLS,Regular Season,Away,W 3–1,Nashville,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,0.4,0,0,0,0,8,26,30.8,19,1,78.9,50.2,13,84.6,55.8,13,0,0.0,0,4.0,Match Report,e93972ac,W,2022,True
+666,2022-07-03,Sun,MLS,Regular Season,Home,D 2–2,Nashville,Portland Timbers,Y,GK,90,4,2,3,75.0,0,2.4,1,1,0,0,6,10,60.0,16,6,50.0,35.0,8,25.0,34.0,8,1,12.5,0,12.5,Match Report,e93972ac,D,2022,True
+667,2022-07-16,Sat,MLS,Regular Season,Home,W 1–0,CF Montréal,Toronto FC,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,1,4,25.0,9,1,22.2,35.4,5,40.0,36.0,0,0,,0,8.0,Match Report,901408ac,W,2022,True
+668,2022-07-23,Sat,MLS,Regular Season,Away,W 2–1,CF Montréal,D.C. United,Y,GK,90,5,1,4,80.0,0,0.6,0,0,0,0,2,6,33.3,15,3,33.3,34.5,3,33.3,37.3,3,1,33.3,0,11.0,Match Report,901408ac,W,2022,True
+669,2022-07-30,Sat,MLS,Regular Season,Home,D 0–0,CF Montréal,NYCFC,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,4,7,57.1,14,1,35.7,33.1,5,40.0,31.0,2,0,0.0,0,12.8,Match Report,901408ac,D,2022,True
+670,2022-08-06,Sat,MLS,Regular Season,Home,D 2–2,CF Montréal,Inter Miami,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,1,4,25.0,19,5,21.1,27.2,5,0.0,16.8,3,0,0.0,0,12.2,Match Report,901408ac,D,2022,True
+671,2022-08-13,Sat,MLS,Regular Season,Away,W 3–2,CF Montréal,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,1.2,0,0,0,0,0,6,0.0,22,4,27.3,35.5,3,0.0,27.7,5,0,0.0,4,14.2,Match Report,901408ac,W,2022,False
+672,2022-08-20,Sat,MLS,Regular Season,Home,W 4–0,CF Montréal,New England,Y,GK,90,2,0,2,100.0,1,0.9,0,0,0,0,2,8,25.0,18,3,27.8,30.7,10,30.0,27.4,7,3,42.9,1,13.2,Match Report,901408ac,W,2022,False
+673,2022-08-31,Wed,MLS,Regular Season,Home,L 0–1,CF Montréal,NY Red Bulls,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,1,5,20.0,20,2,20.0,22.4,7,14.3,27.3,9,1,11.1,3,16.0,Match Report,901408ac,L,2022,False
+674,2022-09-04,Sun,MLS,Regular Season,Away,W 4–3,CF Montréal,Toronto FC,Y,GK,90,3,3,1,33.3,0,1.7,1,1,0,0,3,10,30.0,20,2,35.0,34.2,7,42.9,33.1,3,0,0.0,0,12.0,Match Report,901408ac,W,2022,False
+675,2022-09-09,Fri,MLS,Regular Season,Home,D 2–2,CF Montréal,Columbus Crew,Y,GK,90,5,2,3,60.0,0,1.7,0,0,0,0,3,10,30.0,20,3,50.0,39.6,8,0.0,17.5,9,1,11.1,1,17.7,Match Report,901408ac,D,2022,False
+676,2022-10-01,Sat,MLS,Regular Season,Home,W 1–0,CF Montréal,D.C. United,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,0,2,0.0,17,0,11.8,21.6,7,0.0,21.4,6,0,0.0,2,21.2,Match Report,901408ac,W,2022,False
+677,2022-10-09,Sun,MLS,Regular Season,Away,W 3–1,CF Montréal,Inter Miami,Y,GK,90,3,1,3,66.7,0,0.2,0,0,0,0,1,3,33.3,17,2,11.8,23.5,6,16.7,22.8,4,1,25.0,1,21.8,Match Report,901408ac,W,2022,False
+678,2022-10-16,Sun,MLS,First Round,Home,W 2–0,CF Montréal,Orlando City,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,3,5,60.0,13,0,30.8,35.7,5,20.0,25.8,5,0,0.0,1,22.0,Match Report,901408ac,W,2022,False
+679,2022-06-12,Sun,MLS,Regular Season,Away,W 2–1,New England,Sporting KC,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,1,7,14.3,22,4,22.7,29.9,6,33.3,41.5,6,1,16.7,2,27.7,Match Report,0cf321c8,W,2022,True
+680,2022-06-15,Wed,MLS,Regular Season,Home,D 1–1,New England,Orlando City,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,4,12,33.3,26,9,34.6,39.1,3,100.0,70.3,12,1,8.3,0,10.8,Match Report,0cf321c8,D,2022,True
+681,2022-06-19,Sun,MLS,Regular Season,Home,W 2–1,New England,Minnesota Utd,Y,GK,90,5,1,4,100.0,0,1.9,1,1,0,0,4,7,57.1,26,8,19.2,28.3,7,28.6,34.6,3,0,0.0,1,11.6,Match Report,0cf321c8,W,2022,True
+682,2022-06-26,Sun,MLS,Regular Season,Away,D 0–0,New England,Vancouver,Y,GK,90,6,0,6,100.0,1,1.1,0,0,0,0,1,2,50.0,22,9,4.5,20.6,13,7.7,23.2,8,0,0.0,1,10.6,Match Report,0cf321c8,D,2022,True
+683,2022-07-03,Sun,MLS,Regular Season,Home,D 2–2,New England,FC Cincinnati,Y,GK,90,3,2,2,33.3,0,0.7,0,0,0,0,5,17,29.4,30,6,40.0,36.3,7,71.4,51.7,6,0,0.0,0,8.0,Match Report,0cf321c8,D,2022,True
+684,2022-07-09,Sat,MLS,Regular Season,Away,L 2–4,New England,NYCFC,Y,GK,90,8,4,6,75.0,0,4.8,3,2,1,0,4,16,25.0,22,9,45.5,43.3,12,50.0,45.3,4,0,0.0,0,14.3,Match Report,0cf321c8,L,2022,True
+685,2022-07-16,Sat,MLS,Regular Season,Away,L 1–2,New England,Philadelphia,Y,GK,90,5,2,4,80.0,0,1.8,1,1,0,0,2,8,25.0,24,8,25.0,34.0,10,20.0,26.1,11,2,18.2,0,10.3,Match Report,0cf321c8,L,2022,True
+686,2022-07-23,Sat,MLS,Regular Season,Away,D 0–0,New England,Columbus Crew,Y,GK,90,6,0,6,100.0,1,0.8,0,0,0,0,5,25,20.0,30,6,46.7,42.5,12,91.7,70.5,14,0,0.0,0,9.3,Match Report,0cf321c8,D,2022,True
+687,2022-07-30,Sat,MLS,Regular Season,Home,D 0–0,New England,Toronto FC,Y,GK,90,2,0,2,100.0,1,1.2,1,0,1,0,5,14,35.7,26,6,46.2,39.5,11,18.2,27.5,8,0,0.0,0,11.6,Match Report,0cf321c8,D,2022,True
+688,2022-08-06,Sat,MLS,Regular Season,Away,W 3–0,New England,Orlando City,Y,GK,90,3,0,3,100.0,1,1.2,0,0,0,0,1,16,6.3,19,5,42.1,43.1,10,80.0,65.7,16,1,6.3,0,10.0,Match Report,0cf321c8,W,2022,True
+689,2022-08-13,Sat,MLS,Regular Season,Home,W 1–0,New England,D.C. United,Y,GK,90,4,0,4,100.0,1,1.3,0,0,0,0,1,14,7.1,19,2,52.6,40.6,9,44.4,40.1,11,1,9.1,0,9.4,Match Report,0cf321c8,W,2022,False
+690,2022-08-17,Wed,MLS,Regular Season,Away,D 2–2,New England,Toronto FC,Y,GK,90,6,2,5,83.3,0,1.3,1,1,0,0,4,17,23.5,18,4,66.7,52.4,9,55.6,48.8,10,1,10.0,0,9.0,Match Report,0cf321c8,D,2022,False
+691,2022-08-20,Sat,MLS,Regular Season,Away,L 0–4,New England,CF Montréal,Y,GK,90,6,4,3,50.0,0,3.6,1,1,0,0,3,10,30.0,27,5,25.9,31.9,8,37.5,38.6,2,0,0.0,0,11.0,Match Report,0cf321c8,L,2022,False
+692,2022-08-28,Sun,MLS,Regular Season,Home,L 1–2,New England,LA Galaxy,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,3,10,30.0,25,3,36.0,33.2,3,33.3,31.7,3,0,0.0,1,21.3,Match Report,0cf321c8,L,2022,False
+693,2022-08-31,Wed,MLS,Regular Season,Home,D 0–0,New England,Chicago Fire,Y,GK,90,1,0,1,100.0,1,1.0,1,0,1,0,3,5,60.0,13,6,23.1,31.9,6,33.3,29.7,6,0,0.0,0,14.3,Match Report,0cf321c8,D,2022,False
+694,2022-09-04,Sun,MLS,Regular Season,Home,W 3–0,New England,NYCFC,Y,GK,90,7,0,7,100.0,1,2.1,0,0,0,0,2,15,13.3,30,7,40.0,41.2,7,42.9,41.1,11,0,0.0,1,12.6,Match Report,0cf321c8,W,2022,False
+695,2022-09-10,Sat,MLS,Regular Season,Away,L 1–2,New England,NY Red Bulls,Y,GK,90,4,2,3,75.0,0,1.8,1,1,0,0,6,27,22.2,28,4,60.7,50.8,11,90.9,67.6,8,1,12.5,0,11.0,Match Report,0cf321c8,L,2022,False
+696,2022-09-13,Tue,MLS,Regular Season,Away,L 1–3,New England,Houston Dynamo,Y,GK,90,9,3,7,77.8,0,4.1,2,1,1,0,4,7,57.1,19,6,26.3,34.4,7,28.6,30.4,4,1,25.0,0,10.8,Match Report,0cf321c8,L,2022,False
+697,2022-09-17,Sat,MLS,Regular Season,Home,L 0–1,New England,CF Montréal,Y,GK,90,3,1,2,66.7,0,1.4,0,0,0,0,4,11,36.4,25,5,24.0,33.2,10,50.0,44.3,13,0,0.0,0,8.7,Match Report,0cf321c8,L,2022,False
+698,2022-10-01,Sat,MLS,Regular Season,Home,W 2–1,New England,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,6,17,35.3,14,6,50.0,41.1,12,83.3,58.4,9,0,0.0,1,11.0,Match Report,0cf321c8,W,2022,False
+699,2022-10-09,Sun,MLS,Regular Season,Away,D 1–1,New England,Chicago Fire,Y,GK,90,5,1,4,80.0,0,1.9,0,0,0,0,3,9,33.3,17,7,35.3,33.3,5,60.0,45.2,7,0,0.0,0,8.8,Match Report,0cf321c8,D,2022,False
+700,2022-07-13,Wed,MLS,Regular Season,Away,D 1–1,Sporting KC,Minnesota Utd,Y,GK,90,3,1,3,66.7,0,0.3,0,0,0,0,2,7,28.6,21,3,23.8,36.2,8,25.0,37.3,9,0,0.0,0,11.5,Match Report,6b306c92,D,2022,True
+701,2022-07-17,Sun,MLS,Regular Season,Away,L 0–3,Sporting KC,Real Salt Lake,Y,GK,90,10,3,7,70.0,0,3.0,0,0,0,0,2,13,15.4,22,3,36.4,42.8,8,62.5,53.3,9,0,0.0,0,17.5,Match Report,6b306c92,L,2022,True
+702,2022-07-23,Sat,MLS,Regular Season,Home,L 0–2,Sporting KC,Los Angeles FC,N,GK,38,2,2,0,0.0,0,0.6,0,0,0,0,0,0,,6,1,0.0,28.3,3,0.0,22.0,0,0,,0,12.0,Match Report,6b306c92,L,2022,True
+703,2022-07-30,Sat,MLS,Regular Season,Home,L 0–2,Sporting KC,Austin,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,4,9,44.4,16,1,37.5,34.9,6,50.0,49.3,2,1,50.0,0,6.0,Match Report,6b306c92,L,2022,True
+704,2022-08-06,Sat,MLS,Regular Season,Home,W 4–2,Sporting KC,LA Galaxy,Y,GK,90,2,2,1,50.0,0,1.0,1,1,0,0,5,14,35.7,23,4,47.8,44.1,6,50.0,53.7,6,1,16.7,0,13.0,Match Report,6b306c92,W,2022,True
+705,2022-08-13,Sat,MLS,Regular Season,Away,L 3–4,Sporting KC,Austin,Y,GK,90,8,4,4,50.0,0,2.7,0,0,0,0,2,18,11.1,16,3,68.8,51.8,11,63.6,51.8,8,1,12.5,0,9.9,Match Report,6b306c92,L,2022,False
+706,2022-08-21,Sun,MLS,Regular Season,Home,W 4–1,Sporting KC,Portland Timbers,Y,GK,90,5,1,4,80.0,0,2.1,0,0,0,0,5,12,41.7,19,7,31.6,34.9,11,54.5,49.2,8,1,12.5,0,12.5,Match Report,6b306c92,W,2022,False
+707,2022-08-27,Sat,MLS,Regular Season,Home,W 1–0,Sporting KC,San Jose,Y,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,4,8,50.0,11,2,54.5,46.0,6,33.3,34.0,8,0,0.0,0,,Match Report,6b306c92,W,2022,False
+708,2022-09-04,Sun,MLS,Regular Season,Away,D 2–2,Sporting KC,LA Galaxy,Y,GK,90,3,2,2,66.7,0,2.9,2,1,1,0,5,12,41.7,21,4,38.1,39.3,4,100.0,49.3,7,1,14.3,0,13.2,Match Report,6b306c92,D,2022,False
+709,2022-09-10,Sat,MLS,Regular Season,Away,D 0–0,Sporting KC,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,4,4,100.0,18,10,16.7,27.1,3,33.3,29.3,7,0,0.0,1,12.9,Match Report,6b306c92,D,2022,False
+710,2022-09-17,Sat,MLS,Regular Season,Home,W 4–1,Sporting KC,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,1,7,14.3,23,2,30.4,33.4,5,0.0,21.6,5,0,0.0,0,13.0,Match Report,6b306c92,W,2022,False
+711,2022-10-02,Sun,MLS,Regular Season,Home,W 1–0,Sporting KC,Seattle,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,7,16,43.8,32,5,31.3,33.3,10,60.0,44.2,14,1,7.1,1,14.8,Match Report,6b306c92,W,2022,False
+712,2022-10-01,Sat,MLS,Regular Season,Away,W 3–2,Chicago Fire,FC Cincinnati,Y,GK,90,4,2,2,50.0,0,2.4,0,0,0,0,8,28,28.6,16,0,87.5,54.3,16,87.5,59.6,10,0,0.0,1,15.8,Match Report,d9178ea2,W,2022,False
+713,2022-06-19,Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,4,7,57.1,28,9,21.4,24.9,4,25.0,26.3,6,2,33.3,0,11.7,Match Report,f59bd2d3,W,2022,True
+714,2022-06-25,Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,GK,90,4,2,2,50.0,0,0.4,0,0,0,0,12,18,66.7,46,9,32.6,33.5,9,33.3,25.8,7,1,14.3,0,12.9,Match Report,f59bd2d3,L,2022,True
+715,2022-06-30,Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,GK,90,2,2,1,50.0,0,1.5,1,1,0,0,5,11,45.5,59,7,15.3,27.1,5,40.0,41.2,5,0,0.0,0,12.2,Match Report,f59bd2d3,L,2022,True
+716,2022-07-03,Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,GK,90,2,2,0,0.0,0,0.7,0,0,0,0,4,9,44.4,50,9,14.0,25.9,6,33.3,29.2,10,1,10.0,0,10.3,Match Report,f59bd2d3,D,2022,True
+717,2022-07-09,Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin,Y,GK,90,4,3,1,25.0,0,3.0,0,0,0,0,3,4,75.0,34,2,8.8,24.2,5,20.0,25.0,6,1,16.7,1,20.5,Match Report,f59bd2d3,L,2022,True
+718,2022-07-13,Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,0.3,0,0,0,0,1,3,33.3,23,3,13.0,22.7,2,0.0,17.0,12,0,0.0,0,10.5,Match Report,f59bd2d3,W,2022,True
+719,2022-07-17,Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,GK,90,1,1,0,0.0,0,0.6,0,0,0,0,1,1,100.0,17,4,5.9,20.4,2,0.0,14.0,5,0,0.0,1,14.2,Match Report,f59bd2d3,D,2022,True
+720,2022-07-24,Sun,MLS,Regular Season,Away,L 0–2,Atlanta Utd,LA Galaxy,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,4,5,80.0,27,6,14.8,22.5,7,14.3,26.0,6,0,0.0,1,15.5,Match Report,f59bd2d3,L,2022,True
+721,2022-07-30,Sat,MLS,Regular Season,Away,D 0–0,Atlanta Utd,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,8,11,72.7,40,3,20.0,27.7,6,50.0,47.3,14,1,7.1,0,13.7,Match Report,f59bd2d3,D,2022,True
+722,2022-08-06,Sat,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Seattle,Y,GK,90,4,1,2,75.0,0,1.2,0,0,0,0,2,5,40.0,31,7,12.9,27.3,8,12.5,20.9,16,0,0.0,0,11.8,Match Report,f59bd2d3,W,2022,True
+723,2022-08-13,Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,FC Cincinnati,Y,GK,90,8,2,5,75.0,0,3.3,0,0,0,0,4,9,44.4,31,7,22.6,29.4,2,100.0,65.0,7,1,14.3,1,13.6,Match Report,f59bd2d3,D,2022,False
+724,2022-08-17,Wed,MLS,Regular Season,Home,L 1–2,Atlanta Utd,NY Red Bulls,Y,GK,90,5,2,3,60.0,0,1.2,0,0,0,0,3,3,100.0,33,2,9.1,24.0,8,0.0,14.8,3,0,0.0,0,12.0,Match Report,f59bd2d3,L,2022,False
+725,2022-08-21,Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Columbus Crew,Y,GK,90,8,2,6,75.0,0,2.0,0,0,0,0,6,18,33.3,30,4,46.7,41.0,5,80.0,52.0,10,0,0.0,0,11.3,Match Report,f59bd2d3,D,2022,False
+726,2022-08-28,Sun,MLS,Regular Season,Home,W 3–2,Atlanta Utd,D.C. United,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,8,16,50.0,29,4,51.7,37.7,6,16.7,20.0,10,0,0.0,0,11.4,Match Report,f59bd2d3,W,2022,False
+727,2022-08-31,Wed,MLS,Regular Season,Away,L 1–4,Atlanta Utd,Philadelphia,Y,GK,90,8,4,4,50.0,0,4.0,0,0,0,0,9,13,69.2,21,4,42.9,35.9,9,44.4,35.9,11,0,0.0,0,17.0,Match Report,f59bd2d3,L,2022,False
+728,2022-10-09,Sun,MLS,Regular Season,Home,L 1–2,Atlanta Utd,NYCFC,N,GK,45,1,1,0,0.0,0,0.8,0,0,0,0,1,5,20.0,21,1,19.0,27.2,3,33.3,26.3,2,0,0.0,1,22.0,Match Report,f59bd2d3,L,2022,False
+729,2022-06-25,Sat,MLS,Regular Season,Away,L 0–3,Colorado Rapids,Portland Timbers,N,GK,46,4,3,2,50.0,0,2.1,1,1,0,0,1,1,100.0,7,4,14.3,21.3,2,0.0,7.5,3,0,0.0,0,7.7,Match Report,c7e14787,L,2022,True
+730,2022-05-07,Sat,MLS,Regular Season,Home,W 2–0,D.C. United,Houston Dynamo,N,GK,42,1,0,1,100.0,1,0.1,0,0,0,0,2,6,33.3,7,2,57.1,51.0,2,100.0,59.5,0,0,,2,16.8,Match Report,8827c189,W,2022,True
+731,2022-05-18,Wed,MLS,Regular Season,Home,L 0–2,D.C. United,NYCFC,Y,GK,90,5,2,4,80.0,0,1.4,1,1,0,0,6,17,35.3,24,9,54.2,44.7,7,57.1,48.0,9,0,0.0,1,14.9,Match Report,8827c189,L,2022,True
+732,2022-06-18,Sat,MLS,Regular Season,Away,L 0–1,D.C. United,Chicago Fire,Y,GK,90,7,1,6,85.7,0,0.7,0,0,0,0,2,15,13.3,26,6,38.5,35.4,11,45.5,38.5,6,0,0.0,1,15.4,Match Report,8827c189,L,2022,True
+733,2022-06-25,Sat,MLS,Regular Season,Home,L 1–3,D.C. United,Nashville,Y,GK,90,5,3,2,40.0,0,2.3,0,0,0,0,1,8,12.5,22,5,36.4,37.6,3,0.0,24.0,7,1,14.3,1,21.0,Match Report,8827c189,L,2022,True
+734,2022-07-04,Mon,MLS,Regular Season,Away,W 5–3,D.C. United,Orlando City,Y,GK,90,6,3,4,66.7,0,3.4,1,1,0,0,6,25,24.0,14,6,78.6,56.1,14,100.0,67.4,15,0,0.0,0,7.8,Match Report,8827c189,W,2022,True
+735,2022-07-08,Fri,MLS,Regular Season,Away,L 0–7,D.C. United,Philadelphia,Y,GK,90,10,7,3,30.0,0,4.9,1,0,1,0,7,18,38.9,25,5,48.0,40.4,6,100.0,57.7,4,0,0.0,1,15.0,Match Report,8827c189,L,2022,True
+736,2022-07-13,Wed,MLS,Regular Season,Home,D 2–2,D.C. United,Columbus Crew,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,6,13,46.2,40,2,27.5,30.6,5,40.0,33.6,4,0,0.0,1,18.3,Match Report,8827c189,D,2022,True
+737,2022-07-16,Sat,MLS,Regular Season,Away,L 0–2,D.C. United,Minnesota Utd,Y,GK,90,5,2,3,60.0,0,1.4,0,0,0,0,7,16,43.8,49,5,26.5,31.4,6,50.0,40.0,10,3,30.0,0,10.4,Match Report,8827c189,L,2022,True
+738,2022-07-23,Sat,MLS,Regular Season,Home,L 1–2,D.C. United,CF Montréal,Y,GK,90,3,2,1,33.3,0,1.8,0,0,0,0,8,20,40.0,45,5,37.8,39.2,7,42.9,32.9,4,1,25.0,2,16.9,Match Report,8827c189,L,2022,True
+739,2022-07-31,Sun,MLS,Regular Season,Home,W 2–1,D.C. United,Orlando City,Y,GK,90,4,1,3,75.0,0,0.6,0,0,0,0,7,11,63.6,61,7,14.8,26.5,8,25.0,31.1,7,0,0.0,1,18.0,Match Report,8827c189,W,2022,True
+740,2022-08-03,Wed,MLS,Regular Season,Away,L 0–3,D.C. United,Charlotte,Y,GK,90,8,3,6,62.5,0,2.9,0,0,0,0,10,23,43.5,35,4,45.7,37.5,9,77.8,55.6,5,0,0.0,1,20.0,Match Report,8827c189,L,2022,True
+741,2022-08-06,Sat,MLS,Regular Season,Home,D 0–0,D.C. United,NY Red Bulls,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,16,33,48.5,49,6,55.1,44.6,7,85.7,60.0,10,0,0.0,0,15.1,Match Report,8827c189,D,2022,True
+742,2022-08-13,Sat,MLS,Regular Season,Away,L 0–1,D.C. United,New England,Y,GK,90,7,1,6,85.7,0,1.0,0,0,0,0,9,24,37.5,45,7,42.2,34.7,9,55.6,46.1,13,2,15.4,1,16.2,Match Report,8827c189,L,2022,False
+743,2022-08-20,Sat,MLS,Regular Season,Home,L 0–6,D.C. United,Philadelphia,Y,GK,90,11,6,6,54.5,0,5.0,1,1,0,0,5,17,29.4,36,5,36.1,36.4,7,57.1,52.3,14,1,7.1,0,12.8,Match Report,8827c189,L,2022,False
+744,2022-02-26,Sat,MLS,Regular Season,Home,W 4–0,Columbus Crew,Vancouver,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,0,5,0.0,11,1,36.4,33.3,3,33.3,34.7,6,0,0.0,0,,Match Report,6b33d86b,W,2022,True
+745,2022-03-05,Sat,MLS,Regular Season,Away,D 3–3,Columbus Crew,San Jose,Y,GK,90,3,3,1,33.3,0,2.4,1,1,0,0,3,8,37.5,18,3,33.3,30.4,4,50.0,35.5,2,0,0.0,0,14.3,Match Report,6b33d86b,D,2022,True
+746,2022-03-12,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,Toronto FC,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,3,9,33.3,16,4,50.0,36.3,5,20.0,25.4,3,0,0.0,0,11.0,Match Report,6b33d86b,W,2022,True
+747,2022-03-20,Sun,MLS,Regular Season,Away,D 1–1,Columbus Crew,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,6,21,28.6,34,6,47.1,36.9,8,62.5,43.9,10,0,0.0,0,10.9,Match Report,6b33d86b,D,2022,True
+748,2022-04-02,Sat,MLS,Regular Season,Home,L 0–1,Columbus Crew,Nashville,Y,GK,90,3,1,2,66.7,0,1.5,0,0,0,0,1,2,50.0,11,3,0.0,22.2,3,66.7,42.3,7,0,0.0,1,28.0,Match Report,6b33d86b,L,2022,True
+749,2022-04-09,Sat,MLS,Regular Season,Away,L 0–1,Columbus Crew,Philadelphia,Y,GK,90,5,1,5,80.0,0,1.4,0,0,0,0,2,6,33.3,19,9,15.8,24.6,6,50.0,34.0,5,0,0.0,0,11.3,Match Report,6b33d86b,L,2022,True
+750,2022-04-16,Sat,MLS,Regular Season,Home,L 0–2,Columbus Crew,Orlando City,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,3,8,37.5,15,4,40.0,33.4,7,28.6,27.3,6,1,16.7,0,4.0,Match Report,6b33d86b,L,2022,True
+751,2022-04-23,Sat,MLS,Regular Season,Away,D 0–0,Columbus Crew,Sporting KC,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,3,25,12.0,28,0,75.0,52.4,5,80.0,56.8,7,0,0.0,0,12.0,Match Report,6b33d86b,D,2022,True
+752,2022-04-30,Sat,MLS,Regular Season,Home,W 3–0,Columbus Crew,D.C. United,Y,GK,90,2,0,2,100.0,1,1.2,0,0,0,0,4,24,16.7,26,3,65.4,48.3,10,70.0,50.7,11,1,9.1,2,16.3,Match Report,6b33d86b,W,2022,True
+753,2022-05-07,Sat,MLS,Regular Season,Away,D 2–2,Columbus Crew,New England,Y,GK,90,2,2,0,0.0,0,1.0,0,0,0,0,6,21,28.6,22,1,63.6,48.1,8,87.5,60.6,19,0,0.0,0,9.4,Match Report,6b33d86b,D,2022,True
+754,2022-05-14,Sat,MLS,Regular Season,Away,L 0–2,Columbus Crew,NYCFC,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,6,8,75.0,15,3,20.0,21.4,8,62.5,48.1,5,0,0.0,0,11.5,Match Report,6b33d86b,L,2022,True
+755,2022-05-21,Sat,MLS,Regular Season,Home,L 0–2,Columbus Crew,Los Angeles FC,Y,GK,90,4,,2,,0,1.1,0,0,0,0,7,12,58.3,19,3,31.6,28.8,10,60.0,42.2,3,0,0.0,1,15.2,Match Report,6b33d86b,L,2022,True
+756,2022-05-28,Sat,MLS,Regular Season,Away,W 2–1,Columbus Crew,Atlanta Utd,Y,GK,90,9,1,8,88.9,0,2.6,0,0,0,0,4,27,14.8,15,2,73.3,54.5,17,94.1,62.4,20,0,0.0,0,9.0,Match Report,6b33d86b,W,2022,True
+757,2022-06-18,Sat,MLS,Regular Season,Home,D 1–1,Columbus Crew,Charlotte,Y*,GK,90,3,1,2,66.7,0,0.3,0,0,0,0,6,9,66.7,14,1,50.0,42.9,10,20.0,30.0,13,0,0.0,0,13.0,Match Report,6b33d86b,D,2022,True
+758,2022-06-25,Sat,MLS,Regular Season,Away,D 0–0,Columbus Crew,Real Salt Lake,Y,GK,90,4,0,3,100.0,1,0.7,0,0,0,0,2,11,18.2,16,4,43.8,40.6,7,57.1,50.7,10,0,0.0,0,8.0,Match Report,6b33d86b,D,2022,True
+759,2022-06-29,Wed,MLS,Regular Season,Away,W 2–1,Columbus Crew,Toronto FC,Y,GK,90,7,1,6,85.7,0,1.3,0,0,0,0,10,20,50.0,21,2,57.1,41.7,9,88.9,57.8,11,1,9.1,1,11.2,Match Report,6b33d86b,W,2022,True
+760,2022-07-03,Sun,MLS,Regular Season,Home,D 0–0,Columbus Crew,Philadelphia,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,5,10,50.0,18,4,44.4,39.3,6,33.3,34.3,9,0,0.0,0,8.0,Match Report,6b33d86b,D,2022,True
+761,2022-07-09,Sat,MLS,Regular Season,Away,W 3–2,Columbus Crew,Chicago Fire,Y,GK,90,5,2,3,60.0,0,1.7,0,0,0,0,8,15,53.3,20,3,55.0,39.6,9,44.4,39.4,13,0,0.0,0,14.5,Match Report,6b33d86b,W,2022,True
+762,2022-07-13,Wed,MLS,Regular Season,Away,D 2–2,Columbus Crew,D.C. United,Y,GK,90,5,2,3,60.0,0,2.1,1,0,0,1,0,10,0.0,11,4,27.3,34.5,10,70.0,56.5,7,0,0.0,0,12.3,Match Report,6b33d86b,D,2022,True
+763,2022-07-17,Sun,MLS,Regular Season,Home,W 2–0,Columbus Crew,FC Cincinnati,Y,GK,90,2,0,2,100.0,1,1.1,0,0,0,0,4,11,36.4,21,4,38.1,36.9,6,50.0,43.5,7,3,42.9,1,24.7,Match Report,6b33d86b,W,2022,True
+764,2022-07-23,Sat,MLS,Regular Season,Home,D 0–0,Columbus Crew,New England,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,5,8,62.5,16,3,31.3,26.4,6,50.0,45.3,4,1,25.0,0,11.0,Match Report,6b33d86b,D,2022,True
+765,2022-08-03,Wed,MLS,Regular Season,Home,L 1–2,Columbus Crew,CF Montréal,Y,GK,90,4,0,2,100.0,0,1.4,0,0,0,0,9,19,47.4,23,2,52.2,43.5,10,70.0,54.3,11,0,0.0,0,10.4,Match Report,6b33d86b,L,2022,True
+766,2022-08-06,Sat,MLS,Regular Season,Home,W 3–2,Columbus Crew,NYCFC,Y,GK,90,5,2,4,60.0,0,2.7,0,0,0,0,2,10,20.0,16,2,31.3,34.4,7,71.4,51.1,7,1,14.3,0,13.8,Match Report,6b33d86b,W,2022,True
+767,2022-08-13,Sat,MLS,Regular Season,Away,D 1–1,Columbus Crew,Colorado Rapids,Y,GK,90,2,1,2,100.0,0,1.3,1,1,0,0,7,14,50.0,21,6,57.1,43.6,12,16.7,24.3,9,0,0.0,1,11.4,Match Report,6b33d86b,D,2022,False
+768,2022-08-21,Sun,MLS,Regular Season,Home,D 2–2,Columbus Crew,Atlanta Utd,Y,GK,90,10,2,8,80.0,0,2.2,0,0,0,0,3,14,21.4,21,4,42.9,36.7,7,71.4,53.3,9,1,11.1,1,13.7,Match Report,6b33d86b,D,2022,False
+769,2022-08-27,Sat,MLS,Regular Season,Away,D 2–2,Columbus Crew,FC Cincinnati,Y,GK,90,6,2,4,66.7,0,2.2,0,0,0,0,3,6,50.0,17,6,23.5,32.1,6,33.3,29.7,3,0,0.0,0,10.4,Match Report,6b33d86b,D,2022,False
+770,2022-08-31,Wed,MLS,Regular Season,Home,W 1–0,Columbus Crew,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,0,9,0.0,25,5,28.0,33.3,5,40.0,43.8,8,0,0.0,1,12.0,Match Report,6b33d86b,W,2022,False
+771,2022-09-03,Sat,MLS,Regular Season,Home,D 0–0,Columbus Crew,Chicago Fire,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,0,2,0.0,16,4,12.5,24.3,6,0.0,17.7,4,0,0.0,0,10.6,Match Report,6b33d86b,D,2022,False
+772,2022-09-09,Fri,MLS,Regular Season,Away,D 2–2,Columbus Crew,CF Montréal,Y,GK,90,10,2,8,80.0,0,1.8,0,0,0,0,4,18,22.2,17,4,58.8,46.2,11,72.7,53.4,15,0,0.0,0,10.7,Match Report,6b33d86b,D,2022,False
+773,2022-09-13,Tue,MLS,Regular Season,Away,L 1–2,Columbus Crew,Inter Miami,Y,GK,90,6,1,4,83.3,0,1.0,0,0,0,0,2,8,25.0,21,6,28.6,30.9,3,66.7,39.0,3,0,0.0,0,12.3,Match Report,6b33d86b,L,2022,False
+774,2022-09-18,Sun,MLS,Regular Season,Home,D 1–1,Columbus Crew,Portland Timbers,Y,GK,90,3,1,2,66.7,0,1.7,0,0,0,0,7,17,41.2,19,2,68.4,47.8,5,80.0,54.2,4,0,0.0,0,9.5,Match Report,6b33d86b,D,2022,False
+775,2022-10-01,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,9,22,40.9,27,3,63.0,46.6,9,55.6,41.7,6,1,16.7,1,15.3,Match Report,6b33d86b,W,2022,False
+776,2022-10-05,Wed,MLS,Regular Season,Away,D 2–2,Columbus Crew,Charlotte,Y,GK,90,8,2,6,75.0,0,1.9,0,0,0,0,8,23,34.8,27,4,59.3,45.7,10,70.0,55.3,20,2,10.0,1,11.9,Match Report,6b33d86b,D,2022,False
+777,2022-10-09,Sun,MLS,Regular Season,Away,L 1–2,Columbus Crew,Orlando City,Y,GK,90,3,2,2,66.7,0,1.8,1,1,0,0,1,8,12.5,17,2,47.1,35.2,3,0.0,14.7,4,0,0.0,0,14.7,Match Report,6b33d86b,L,2022,False
+778,2022-04-16,Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,GK,18,0,0,0,,1,0.0,0,0,0,0,0,0,,4,0,0.0,22.0,1,0.0,37.0,0,0,,0,23.0,Match Report,4598ac94,D,2022,True
+779,2022-04-24,Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,GK,90,2,2,0,0.0,0,1.8,0,0,0,0,3,5,60.0,16,0,18.8,26.1,6,33.3,38.2,7,1,14.3,0,14.0,Match Report,4598ac94,L,2022,True
+780,2022-04-30,Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,GK,90,5,2,3,60.0,0,2.7,0,0,0,0,2,7,28.6,29,1,20.7,28.4,5,20.0,20.0,4,0,0.0,0,9.0,Match Report,4598ac94,L,2022,True
+781,2022-05-07,Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,GK,90,2,1,1,50.0,0,1.2,0,0,0,0,2,6,33.3,41,4,14.6,25.9,9,0.0,16.0,9,0,0.0,0,9.0,Match Report,4598ac94,W,2022,True
+782,2022-05-15,Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,GK,90,4,2,2,50.0,0,1.6,0,0,0,0,4,6,66.7,24,5,25.0,28.0,3,0.0,10.3,10,1,10.0,0,12.4,Match Report,4598ac94,D,2022,True
+783,2022-05-21,Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,GK,90,5,,3,,0,2.4,0,0,0,0,4,9,44.4,20,3,20.0,29.9,6,83.3,48.3,13,0,0.0,0,10.7,Match Report,4598ac94,D,2022,True
+784,2022-05-28,Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,2,2,100.0,17,2,5.9,24.0,7,14.3,29.6,3,0,0.0,0,7.5,Match Report,4598ac94,L,2022,True
+785,2022-10-01,Sat,MLS,Regular Season,Home,W 4–0,Charlotte,Philadelphia,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,12,24,50.0,25,5,68.0,49.2,7,100.0,68.6,11,1,9.1,1,15.2,Match Report,550557e1,W,2022,False
+786,2022-10-09,Sun,MLS,Regular Season,Away,L 0–2,Charlotte,NY Red Bulls,Y,GK,90,8,2,6,75.0,0,1.2,0,0,0,0,2,15,13.3,33,7,33.3,35.2,7,57.1,53.0,2,0,0.0,0,15.7,Match Report,550557e1,L,2022,False
+787,2022-02-26,Sat,MLS,Regular Season,Away,D 0–0,Chicago Fire,Inter Miami,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,6,13,46.2,27,6,25.9,29.0,8,75.0,47.0,9,2,22.2,0,15.5,Match Report,c55a846e,D,2022,True
+788,2022-03-05,Sat,MLS,Regular Season,Home,D 0–0,Chicago Fire,Orlando City,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,5,15,33.3,15,4,46.7,38.1,9,88.9,52.6,9,2,22.2,0,10.7,Match Report,c55a846e,D,2022,True
+789,2022-03-12,Sat,MLS,Regular Season,Away,W 2–0,Chicago Fire,D.C. United,Y,GK,90,3,0,3,100.0,1,1.8,0,0,0,0,4,16,25.0,20,3,55.0,42.7,6,83.3,45.3,14,0,0.0,0,11.4,Match Report,c55a846e,W,2022,True
+790,2022-03-19,Sat,MLS,Regular Season,Home,W 3–1,Chicago Fire,Sporting KC,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,12,20,60.0,38,4,36.8,35.4,8,75.0,49.6,14,1,7.1,2,19.0,Match Report,c55a846e,W,2022,True
+791,2022-04-02,Sat,MLS,Regular Season,Home,D 0–0,Chicago Fire,FC Dallas,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,5,10,50.0,22,1,27.3,30.0,5,80.0,45.8,3,0,0.0,1,20.7,Match Report,c55a846e,D,2022,True
+792,2022-04-09,Sat,MLS,Regular Season,Away,L 0–1,Chicago Fire,Orlando City,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,7,18,38.9,13,1,38.5,37.8,15,86.7,56.4,11,0,0.0,1,16.8,Match Report,c55a846e,L,2022,True
+793,2022-04-16,Sat,MLS,Regular Season,Home,D 0–0,Chicago Fire,LA Galaxy,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,5,13,38.5,25,4,48.0,37.3,6,16.7,24.0,8,1,12.5,0,13.2,Match Report,c55a846e,D,2022,True
+794,2022-04-23,Sat,MLS,Regular Season,Away,L 0–3,Chicago Fire,Minnesota Utd,Y,GK,90,4,3,1,25.0,0,2.8,0,0,0,0,5,17,29.4,22,6,54.5,40.8,6,83.3,54.2,8,0,0.0,0,12.7,Match Report,c55a846e,L,2022,True
+795,2022-04-30,Sat,MLS,Regular Season,Home,L 1–2,Chicago Fire,NY Red Bulls,Y,GK,90,3,2,2,66.7,0,1.4,1,1,0,0,8,20,40.0,18,2,77.8,49.2,7,85.7,53.1,8,0,0.0,0,14.4,Match Report,c55a846e,L,2022,True
+796,2022-05-07,Sat,MLS,Regular Season,Away,L 1–4,Chicago Fire,Atlanta Utd,Y,GK,90,7,4,3,42.9,0,3.5,0,0,0,0,8,9,88.9,14,6,50.0,36.9,4,50.0,42.0,7,0,0.0,1,13.7,Match Report,c55a846e,L,2022,True
+797,2022-05-14,Sat,MLS,Regular Season,Home,L 1–2,Chicago Fire,FC Cincinnati,Y,GK,90,3,2,2,33.3,0,0.7,0,0,0,0,2,10,20.0,21,1,33.3,33.8,7,42.9,35.3,4,0,0.0,0,12.0,Match Report,c55a846e,L,2022,True
+798,2022-05-18,Wed,MLS,Regular Season,Away,D 3–3,Chicago Fire,NY Red Bulls,Y,GK,90,3,3,1,33.3,0,1.7,1,1,0,0,9,21,42.9,15,1,66.7,50.3,11,100.0,64.7,4,0,0.0,2,13.3,Match Report,c55a846e,D,2022,True
+799,2022-05-22,Sun,MLS,Regular Season,Away,L 0–1,Chicago Fire,NYCFC,Y,GK,90,3,1,3,100.0,0,1.3,1,1,0,0,10,21,47.6,17,3,64.7,51.3,13,76.9,58.8,7,0,0.0,0,11.3,Match Report,c55a846e,L,2022,True
+800,2022-05-28,Sat,MLS,Regular Season,Away,L 2–3,Chicago Fire,Toronto FC,Y,GK,90,3,3,1,33.3,0,2.2,1,1,0,0,3,4,75.0,10,2,30.0,35.7,6,16.7,27.5,3,0,0.0,0,20.0,Match Report,c55a846e,L,2022,True
+801,2022-06-18,Sat,MLS,Regular Season,Home,W 1–0,Chicago Fire,D.C. United,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,4,17,23.5,16,5,68.8,48.3,8,75.0,50.4,8,0,0.0,0,10.3,Match Report,c55a846e,W,2022,True
+802,2022-06-25,Sat,MLS,Regular Season,Away,L 0–2,Chicago Fire,Houston Dynamo,Y,GK,90,5,2,3,60.0,0,1.9,0,0,0,0,1,4,25.0,14,2,14.3,25.6,4,50.0,42.3,10,1,10.0,0,14.3,Match Report,c55a846e,L,2022,True
+803,2022-06-29,Wed,MLS,Regular Season,Home,W 1–0,Chicago Fire,Philadelphia,Y,GK,90,2,0,1,100.0,1,0.3,0,0,0,0,7,15,46.7,22,5,45.5,41.4,8,62.5,46.0,10,2,20.0,0,10.2,Match Report,c55a846e,W,2022,True
+804,2022-07-03,Sun,MLS,Regular Season,Away,L 1–2,Chicago Fire,San Jose,Y,GK,90,8,2,6,75.0,0,2.7,0,0,0,0,6,17,35.3,23,6,39.1,35.7,13,61.5,49.3,8,0,0.0,0,13.1,Match Report,c55a846e,L,2022,True
+805,2022-07-09,Sat,MLS,Regular Season,Home,L 2–3,Chicago Fire,Columbus Crew,Y,GK,90,4,3,1,25.0,0,2.5,0,0,0,0,3,9,33.3,12,4,33.3,35.1,10,50.0,40.6,5,1,20.0,1,21.0,Match Report,c55a846e,L,2022,True
+806,2022-07-13,Wed,MLS,Regular Season,Home,W 2–0,Chicago Fire,Toronto FC,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,7,14,50.0,29,5,44.8,36.7,6,16.7,27.0,6,0,0.0,0,9.6,Match Report,c55a846e,W,2022,True
+807,2022-07-16,Sat,MLS,Regular Season,Home,W 1–0,Chicago Fire,Seattle,Y,GK,90,2,0,2,100.0,1,0.4,0,0,0,0,5,14,35.7,22,3,45.5,36.5,12,33.3,34.4,10,1,10.0,0,10.7,Match Report,c55a846e,W,2022,True
+808,2022-07-23,Sat,MLS,Regular Season,Away,W 3–1,Chicago Fire,Vancouver,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,6,17,35.3,32,4,46.9,40.2,4,50.0,39.8,10,2,20.0,1,18.8,Match Report,c55a846e,W,2022,True
+809,2022-07-30,Sat,MLS,Regular Season,Home,D 0–0,Chicago Fire,Atlanta Utd,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,5,15,33.3,24,3,54.2,42.0,4,50.0,38.5,4,0,0.0,0,12.2,Match Report,c55a846e,D,2022,True
+810,2022-08-06,Sat,MLS,Regular Season,Away,W 3–2,Chicago Fire,Charlotte,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,10,26,38.5,29,6,75.9,51.6,5,80.0,58.4,20,0,0.0,0,8.0,Match Report,c55a846e,W,2022,True
+811,2022-08-13,Sat,MLS,Regular Season,Away,L 1–4,Chicago Fire,Philadelphia,Y,GK,90,7,4,3,42.9,0,3.3,0,0,0,0,6,15,40.0,21,4,57.1,39.7,6,50.0,39.8,10,0,0.0,0,12.8,Match Report,c55a846e,L,2022,False
+812,2022-08-21,Sun,MLS,Regular Season,Home,L 0–2,Chicago Fire,NYCFC,Y,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,2,5,40.0,25,5,20.0,23.6,5,0.0,19.4,3,0,0.0,2,19.6,Match Report,c55a846e,L,2022,False
+813,2022-08-27,Sat,MLS,Regular Season,Home,L 0–2,Chicago Fire,CF Montréal,Y,GK,90,7,2,5,71.4,0,2.3,0,0,0,0,7,11,63.6,16,3,50.0,40.4,5,60.0,38.4,5,0,0.0,2,21.0,Match Report,c55a846e,L,2022,False
+814,2022-08-31,Wed,MLS,Regular Season,Away,D 0–0,Chicago Fire,New England,Y,GK,90,6,0,5,100.0,1,1.4,0,0,0,0,13,30,43.3,21,2,95.2,58.8,10,100.0,60.8,20,1,5.0,0,10.8,Match Report,c55a846e,D,2022,False
+815,2022-09-03,Sat,MLS,Regular Season,Away,D 0–0,Chicago Fire,Columbus Crew,Y,GK,90,9,0,9,100.0,1,1.1,0,0,0,0,12,16,75.0,14,2,71.4,47.9,9,66.7,50.2,11,0,0.0,0,12.3,Match Report,c55a846e,D,2022,False
+816,2022-09-10,Sat,MLS,Regular Season,Home,W 3–1,Chicago Fire,Inter Miami,Y,GK,90,2,1,2,100.0,0,1.0,1,1,0,0,8,13,61.5,27,6,37.0,37.1,7,42.9,38.0,5,0,0.0,1,16.0,Match Report,c55a846e,W,2022,False
+817,2022-09-13,Tue,MLS,Regular Season,Away,L 2–3,Chicago Fire,CF Montréal,Y,GK,90,4,3,1,25.0,0,2.2,0,0,0,0,8,19,42.1,26,2,57.7,39.4,7,57.1,36.1,5,0,0.0,0,16.0,Match Report,c55a846e,L,2022,False
+818,2022-09-17,Sat,MLS,Regular Season,Home,L 2–3,Chicago Fire,Charlotte,Y,GK,90,6,3,3,50.0,0,2.7,0,0,0,0,5,17,29.4,25,5,56.0,41.9,7,42.9,40.7,9,1,11.1,2,18.2,Match Report,c55a846e,L,2022,False
+819,2022-03-13,Sun,MLS,Regular Season,Away,W 1–0,Minnesota Utd,NY Red Bulls,Y,GK,90,7,0,7,100.0,1,2.8,1,0,1,0,6,23,26.1,21,3,81.0,47.8,8,75.0,50.9,12,1,8.3,0,4.0,Match Report,3f41d25f,W,2022,True
+820,2022-03-19,Sat,MLS,Regular Season,Home,W 1–0,Minnesota Utd,San Jose,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,6,12,50.0,23,2,39.1,37.3,9,33.3,34.0,11,2,18.2,0,11.2,Match Report,3f41d25f,W,2022,True
+821,2022-04-02,Sat,MLS,Regular Season,Home,L 1–2,Minnesota Utd,Seattle,Y,GK,90,8,2,7,75.0,0,2.3,0,0,0,0,6,10,60.0,14,3,28.6,31.8,6,100.0,56.7,11,0,0.0,1,21.0,Match Report,3f41d25f,L,2022,True
+822,2022-04-10,Sun,MLS,Regular Season,Away,L 0–1,Minnesota Utd,Austin,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,4,21,19.0,25,7,60.0,45.8,9,66.7,48.2,11,0,0.0,0,12.3,Match Report,3f41d25f,L,2022,True
+823,2022-04-16,Sat,MLS,Regular Season,Home,W 3–1,Minnesota Utd,Colorado Rapids,Y,GK,90,8,1,6,87.5,0,1.7,0,0,0,0,6,22,27.3,24,0,66.7,44.1,8,75.0,46.1,6,0,0.0,0,15.0,Match Report,3f41d25f,W,2022,True
+824,2022-04-23,Sat,MLS,Regular Season,Home,W 3–0,Minnesota Utd,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,2,11,18.2,29,6,37.9,40.5,3,0.0,23.7,7,0,0.0,0,14.2,Match Report,3f41d25f,W,2022,True
+825,2022-05-01,Sun,MLS,Regular Season,Away,L 0–2,Minnesota Utd,Los Angeles FC,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,10,25,40.0,23,1,60.9,44.3,11,100.0,63.3,12,0,0.0,0,8.7,Match Report,3f41d25f,L,2022,True
+826,2022-05-07,Sat,MLS,Regular Season,Home,L 0–1,Minnesota Utd,FC Cincinnati,Y,GK,90,6,1,4,83.3,0,1.6,0,0,0,0,3,9,33.3,20,6,35.0,32.9,4,50.0,37.3,9,0,0.0,0,13.3,Match Report,3f41d25f,L,2022,True
+827,2022-05-15,Sun,MLS,Regular Season,Away,L 1–3,Minnesota Utd,Seattle,Y,GK,90,6,3,4,66.7,0,2.4,1,1,0,0,6,19,31.6,17,3,82.4,52.2,6,83.3,59.3,10,0,0.0,0,13.0,Match Report,3f41d25f,L,2022,True
+828,2022-05-18,Wed,MLS,Regular Season,Home,D 1–1,Minnesota Utd,LA Galaxy,Y,GK,90,3,1,3,100.0,0,1.2,1,1,0,0,1,9,11.1,19,6,36.8,39.9,6,33.3,30.8,14,0,0.0,2,16.9,Match Report,3f41d25f,D,2022,True
+829,2022-05-22,Sun,MLS,Regular Season,Away,W 2–1,Minnesota Utd,FC Dallas,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,9,34,26.5,24,2,87.5,55.4,14,92.9,62.2,10,1,10.0,0,11.5,Match Report,3f41d25f,W,2022,True
+830,2022-05-28,Sat,MLS,Regular Season,Home,L 0–1,Minnesota Utd,NYCFC,Y,GK,90,5,1,4,80.0,0,1.1,0,0,0,0,5,14,35.7,25,4,44.0,39.9,9,33.3,34.3,11,0,0.0,0,14.9,Match Report,3f41d25f,L,2022,True
+831,2022-06-19,Sun,MLS,Regular Season,Away,L 1–2,Minnesota Utd,New England,Y,GK,90,2,2,0,0.0,0,0.9,0,0,0,0,4,16,25.0,21,2,38.1,43.2,8,100.0,63.4,6,0,0.0,1,18.0,Match Report,3f41d25f,L,2022,True
+832,2022-06-25,Sat,MLS,Regular Season,Away,L 1–2,Minnesota Utd,Inter Miami,Y,GK,90,8,2,6,75.0,0,2.3,0,0,0,0,5,15,33.3,21,6,38.1,38.0,9,77.8,51.6,12,0,0.0,1,12.0,Match Report,3f41d25f,L,2022,True
+833,2022-06-29,Wed,MLS,Regular Season,Away,W 3–2,Minnesota Utd,LA Galaxy,Y,GK,90,6,2,5,83.3,0,3.2,1,1,0,0,3,11,27.3,21,4,33.3,34.0,10,40.0,41.6,7,0,0.0,0,5.8,Match Report,3f41d25f,W,2022,True
+834,2022-07-03,Sun,MLS,Regular Season,Home,W 3–2,Minnesota Utd,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,6,19,31.6,19,1,73.7,51.8,6,83.3,57.0,8,0,0.0,0,9.8,Match Report,3f41d25f,W,2022,True
+835,2022-07-08,Fri,MLS,Regular Season,Away,W 3–1,Minnesota Utd,Vancouver,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,4,7,57.1,15,3,33.3,34.6,8,25.0,28.8,7,0,0.0,0,6.0,Match Report,3f41d25f,W,2022,True
+836,2022-07-13,Wed,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Sporting KC,Y,GK,90,5,1,4,80.0,0,1.1,0,0,0,0,6,12,50.0,18,1,38.9,35.6,15,33.3,32.4,6,0,0.0,0,8.3,Match Report,3f41d25f,D,2022,True
+837,2022-07-16,Sat,MLS,Regular Season,Home,W 2–0,Minnesota Utd,D.C. United,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,1,5,20.0,14,5,21.4,32.5,6,33.3,37.8,7,1,14.3,0,13.4,Match Report,3f41d25f,W,2022,True
+838,2022-07-23,Sat,MLS,Regular Season,Away,W 2–1,Minnesota Utd,Houston Dynamo,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,1,15,6.7,14,2,64.3,52.6,9,66.7,52.9,23,0,0.0,0,11.0,Match Report,3f41d25f,W,2022,True
+839,2022-07-30,Sat,MLS,Regular Season,Home,D 4–4,Minnesota Utd,Portland Timbers,Y,GK,90,7,4,4,42.9,0,3.3,0,0,0,0,7,21,33.3,23,4,73.9,53.4,8,50.0,37.5,4,1,25.0,1,14.6,Match Report,3f41d25f,D,2022,True
+840,2022-08-06,Sat,MLS,Regular Season,Away,L 3–4,Minnesota Utd,Colorado Rapids,Y,GK,90,9,4,5,55.6,0,3.1,0,0,0,0,7,19,36.8,22,3,50.0,44.2,13,61.5,45.9,6,0,0.0,0,13.0,Match Report,3f41d25f,L,2022,True
+841,2022-08-14,Sun,MLS,Regular Season,Away,W 2–1,Minnesota Utd,Nashville,Y,GK,90,8,1,7,87.5,0,2.4,0,0,0,0,7,26,26.9,25,4,60.0,45.0,11,100.0,63.4,16,0,0.0,2,15.6,Match Report,3f41d25f,W,2022,False
+842,2022-08-20,Sat,MLS,Regular Season,Home,W 2–1,Minnesota Utd,Austin,Y,GK,90,1,1,1,100.0,0,1.0,1,1,0,0,5,20,25.0,21,2,66.7,47.3,8,75.0,50.1,14,1,7.1,1,13.8,Match Report,3f41d25f,W,2022,False
+843,2022-08-27,Sat,MLS,Regular Season,Home,W 2–1,Minnesota Utd,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,4,8,50.0,24,5,25.0,30.6,6,33.3,35.0,7,0,0.0,2,16.7,Match Report,3f41d25f,W,2022,False
+844,2022-08-31,Wed,MLS,Regular Season,Away,L 0–3,Minnesota Utd,Real Salt Lake,Y,GK,45,3,2,1,33.3,0,1.7,0,0,0,0,2,3,66.7,6,1,16.7,29.3,4,50.0,47.0,3,0,0.0,0,10.0,Match Report,3f41d25f,L,2022,False
+845,2022-09-03,Sat,MLS,Regular Season,Home,L 0–3,Minnesota Utd,FC Dallas,Y,GK,90,3,3,1,0.0,0,1.0,0,0,0,0,2,10,20.0,16,5,43.8,37.8,4,75.0,48.5,9,0,0.0,0,13.1,Match Report,3f41d25f,L,2022,False
+846,2022-09-10,Sat,MLS,Regular Season,Away,L 0–1,Minnesota Utd,Portland Timbers,Y,GK,90,1,1,0,0.0,0,1.0,0,0,0,0,3,15,20.0,15,3,60.0,49.7,9,66.7,50.7,10,0,0.0,0,9.6,Match Report,3f41d25f,L,2022,False
+847,2022-09-13,Tue,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Los Angeles FC,Y,GK,90,3,1,2,66.7,0,0.2,0,0,0,0,8,13,61.5,19,6,47.4,34.5,6,66.7,44.5,7,0,0.0,0,13.7,Match Report,3f41d25f,D,2022,False
+848,2022-09-17,Sat,MLS,Regular Season,Away,L 1–4,Minnesota Utd,Sporting KC,Y,GK,90,8,4,5,50.0,0,1.7,0,0,0,0,3,12,25.0,16,3,50.0,39.7,6,66.7,57.7,12,0,0.0,0,9.8,Match Report,3f41d25f,L,2022,False
+849,2022-10-01,Sat,MLS,Regular Season,Away,L 0–2,Minnesota Utd,San Jose,Y,GK,90,6,2,4,66.7,0,2.4,0,0,0,0,10,16,62.5,16,3,37.5,30.3,12,83.3,53.5,10,0,0.0,1,19.5,Match Report,3f41d25f,L,2022,False
+850,2022-10-09,Sun,MLS,Regular Season,Home,W 2–0,Minnesota Utd,Vancouver,Y,GK,90,6,0,6,100.0,1,0.4,0,0,0,0,3,9,33.3,26,9,30.8,29.9,6,16.7,29.2,22,2,9.1,1,14.4,Match Report,3f41d25f,W,2022,False
+851,2022-03-27,Sun,MLS,Regular Season,Away,D 1–1,Orlando City,Portland Timbers,Y,GK,90,2,1,2,100.0,0,1.1,1,1,0,0,6,11,54.5,19,10,42.1,36.2,8,37.5,33.5,10,1,10.0,0,13.3,Match Report,f01df62c,D,2022,True
+852,2022-09-10,Sat,MLS,Regular Season,Away,L 1–5,Orlando City,Philadelphia,Y,GK,90,10,5,7,60.0,0,3.8,1,1,0,0,6,10,60.0,16,7,50.0,42.7,6,33.3,29.3,9,1,11.1,0,13.5,Match Report,f01df62c,L,2022,False
+853,2022-02-26,Sat,MLS,Regular Season,Home,W 5–0,Austin,FC Cincinnati,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,10,16,62.5,51,4,25.5,30.3,14,21.4,26.7,3,0,0.0,0,9.6,Match Report,6a1940d5,W,2022,True
+854,2022-03-06,Sun,MLS,Regular Season,Home,W 5–1,Austin,Inter Miami,Y,GK,90,6,1,5,83.3,0,1.3,0,0,0,0,8,13,61.5,31,3,29.0,31.5,10,40.0,36.7,5,0,0.0,1,17.3,Match Report,6a1940d5,W,2022,True
+855,2022-03-12,Sat,MLS,Regular Season,Away,L 0–1,Austin,Portland Timbers,Y,GK,90,1,1,0,0.0,0,0.9,0,0,0,0,4,14,28.6,32,3,34.4,33.8,6,50.0,38.5,6,0,0.0,4,19.9,Match Report,6a1940d5,L,2022,True
+856,2022-03-20,Sun,MLS,Regular Season,Home,D 1–1,Austin,Seattle,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,2,5,40.0,26,4,7.7,23.0,7,42.9,36.1,6,0,0.0,1,13.7,Match Report,6a1940d5,D,2022,True
+857,2022-04-02,Sat,MLS,Regular Season,Away,D 2–2,Austin,San Jose,Y,GK,90,10,2,8,90.0,0,3.1,1,1,0,0,5,24,20.8,37,3,51.4,40.9,6,83.3,58.3,16,1,6.3,0,8.3,Match Report,6a1940d5,D,2022,True
+858,2022-04-10,Sun,MLS,Regular Season,Home,W 1–0,Austin,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,9,13,69.2,27,0,33.3,31.1,8,50.0,44.1,6,0,0.0,1,14.3,Match Report,6a1940d5,W,2022,True
+859,2022-04-16,Sat,MLS,Regular Season,Away,W 3–2,Austin,D.C. United,Y,GK,90,2,2,0,0.0,0,1.2,0,0,0,0,3,15,20.0,26,4,23.1,32.3,13,69.2,53.6,9,0,0.0,5,21.8,Match Report,6a1940d5,W,2022,True
+860,2022-04-23,Sat,MLS,Regular Season,Home,W 3–0,Austin,Vancouver,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,4,10,40.0,53,5,15.1,27.9,10,20.0,28.1,11,3,27.3,2,17.8,Match Report,6a1940d5,W,2022,True
+861,2022-04-30,Sat,MLS,Regular Season,Away,W 2–1,Austin,Houston Dynamo,Y,GK,8,1,1,0,0.0,0,0.2,0,0,0,0,0,1,0.0,3,0,33.3,28.7,0,,,0,0,,0,,Match Report,6a1940d5,W,2022,True
+862,2022-05-18,Wed,MLS,Regular Season,Away,W 2–1,Austin,Los Angeles FC,Y,GK,90,6,1,6,100.0,0,1.8,1,1,0,0,9,25,36.0,32,9,56.3,41.0,8,87.5,55.8,9,0,0.0,0,9.9,Match Report,6a1940d5,W,2022,True
+863,2022-05-22,Sun,MLS,Regular Season,Home,D 2–2,Austin,Orlando City,Y,GK,90,7,2,5,71.4,0,2.5,0,0,0,0,4,6,66.7,34,6,5.9,24.6,5,80.0,49.4,3,0,0.0,1,15.8,Match Report,6a1940d5,D,2022,True
+864,2022-05-29,Sun,MLS,Regular Season,Away,L 1–4,Austin,LA Galaxy,Y,GK,90,9,4,5,55.6,0,4.4,1,0,1,0,4,12,33.3,27,6,33.3,32.8,6,50.0,45.5,7,0,0.0,0,13.3,Match Report,6a1940d5,L,2022,True
+865,2022-06-18,Sat,MLS,Regular Season,Away,W 1–0,Austin,CF Montréal,Y,GK,90,2,0,2,100.0,1,1.4,0,0,0,0,11,28,39.3,27,4,66.7,47.3,10,100.0,65.4,11,1,9.1,0,10.3,Match Report,6a1940d5,W,2022,True
+866,2022-06-25,Sat,MLS,Regular Season,Home,D 2–2,Austin,FC Dallas,Y,GK,90,6,2,4,66.7,0,2.9,0,0,0,0,11,19,57.9,29,3,48.3,36.8,7,71.4,51.6,6,1,16.7,3,23.3,Match Report,6a1940d5,D,2022,True
+867,2022-06-30,Thu,MLS,Regular Season,Away,W 1–0,Austin,Charlotte,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,10,32,31.3,35,4,62.9,52.7,13,76.9,59.9,9,3,33.3,1,14.9,Match Report,6a1940d5,W,2022,True
+868,2022-07-04,Mon,MLS,Regular Season,Away,W 3–2,Austin,Colorado Rapids,Y,GK,90,3,2,1,33.3,0,2.2,0,0,0,0,3,19,15.8,22,6,36.4,39.5,11,100.0,72.0,13,2,15.4,2,13.8,Match Report,6a1940d5,W,2022,True
+869,2022-07-09,Sat,MLS,Regular Season,Away,W 3–0,Austin,Atlanta Utd,Y,GK,90,4,0,4,100.0,1,1.0,0,0,0,0,9,23,39.1,26,3,57.7,43.6,11,72.7,52.9,8,1,12.5,0,16.3,Match Report,6a1940d5,W,2022,True
+870,2022-07-12,Tue,MLS,Regular Season,Home,W 3–1,Austin,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,4,17,23.5,39,7,38.5,35.4,7,28.6,33.9,5,2,40.0,2,14.4,Match Report,6a1940d5,W,2022,True
+871,2022-07-16,Sat,MLS,Regular Season,Away,D 1–1,Austin,FC Dallas,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,2,15,13.3,48,5,27.1,31.6,6,33.3,36.2,7,0,0.0,2,13.3,Match Report,6a1940d5,D,2022,True
+872,2022-07-30,Sat,MLS,Regular Season,Away,W 2–0,Austin,Sporting KC,Y,GK,90,3,0,3,100.0,1,1.0,1,0,1,0,5,11,45.5,23,6,30.4,29.5,9,44.4,34.6,6,1,16.7,0,14.3,Match Report,6a1940d5,W,2022,True
+873,2022-08-06,Sat,MLS,Regular Season,Home,D 3–3,Austin,San Jose,Y,GK,90,6,3,3,50.0,0,1.7,0,0,0,0,5,12,41.7,14,2,35.7,35.1,8,87.5,58.5,9,2,22.2,0,10.7,Match Report,6a1940d5,D,2022,True
+874,2022-08-13,Sat,MLS,Regular Season,Home,W 4–3,Austin,Sporting KC,Y,GK,90,6,3,4,66.7,0,3.1,1,1,0,0,6,10,60.0,27,2,25.9,29.0,8,37.5,38.0,0,0,,5,37.0,Match Report,6a1940d5,W,2022,False
+875,2022-08-20,Sat,MLS,Regular Season,Away,L 1–2,Austin,Minnesota Utd,Y,GK,90,5,2,4,80.0,0,1.6,1,1,0,0,4,7,57.1,23,3,17.4,25.3,11,27.3,32.8,7,0,0.0,1,39.0,Match Report,6a1940d5,L,2022,False
+876,2022-08-26,Fri,MLS,Regular Season,Home,W 4–1,Austin,Los Angeles FC,Y,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,10,22,45.5,26,9,42.3,37.1,13,84.6,60.3,6,1,16.7,0,12.7,Match Report,6a1940d5,W,2022,False
+877,2022-08-31,Wed,MLS,Regular Season,Home,L 1–2,Austin,Portland Timbers,Y,GK,90,6,1,4,83.3,0,2.0,0,0,0,0,4,6,66.7,28,8,14.3,24.0,6,33.3,27.0,3,0,0.0,0,10.4,Match Report,6a1940d5,L,2022,False
+878,2022-09-03,Sat,MLS,Regular Season,Away,L 0–3,Austin,Nashville,Y,GK,90,6,3,3,50.0,0,2.5,0,0,0,0,5,9,55.6,25,8,32.0,31.4,3,33.3,37.7,10,0,0.0,0,11.8,Match Report,6a1940d5,L,2022,False
+879,2022-09-10,Sat,MLS,Regular Season,Away,L 0–3,Austin,Seattle,Y,GK,90,4,3,2,25.0,0,1.3,0,0,0,0,3,8,37.5,28,5,25.0,28.0,6,16.7,22.0,9,1,11.1,1,15.0,Match Report,6a1940d5,L,2022,False
+880,2022-09-14,Wed,MLS,Regular Season,Home,W 3–0,Austin,Real Salt Lake,Y,GK,90,6,0,6,100.0,1,0.8,0,0,0,0,6,15,40.0,32,6,28.1,31.8,8,75.0,58.3,15,3,20.0,1,26.0,Match Report,6a1940d5,W,2022,False
+881,2022-09-17,Sat,MLS,Regular Season,Home,D 1–1,Austin,Nashville,Y,GK,90,0,1,0,,0,0.9,1,1,0,0,7,14,50.0,30,6,33.3,33.5,5,80.0,57.0,13,0,0.0,1,14.7,Match Report,6a1940d5,D,2022,False
+882,2022-10-01,Sat,MLS,Regular Season,Away,L 0–2,Austin,Vancouver,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,3,3,100.0,27,7,7.4,21.6,5,20.0,22.2,2,0,0.0,5,23.7,Match Report,6a1940d5,L,2022,False
+883,2022-10-09,Sun,MLS,Regular Season,Home,D 1–1,Austin,Colorado Rapids,Y,GK,90,5,1,4,80.0,0,1.7,0,0,0,0,7,15,46.7,35,6,28.6,30.5,8,62.5,49.1,10,0,0.0,2,22.8,Match Report,6a1940d5,D,2022,False
+884,2022-10-16,Sun,MLS,First Round,Home,D 2 (3)–2 (1),Austin,Real Salt Lake,Y,GK,120,3,2,2,66.7,0,1.8,1,1,0,0,4,4,100.0,32,10,6.3,22.4,4,50.0,42.3,8,0,0.0,2,21.2,Match Report,6a1940d5,D,2022,False
+885,2022-04-30,Sat,MLS,Regular Season,Away,W 2–1,Austin,Houston Dynamo,N,GK,82,4,0,4,100.0,0,0.3,0,0,0,0,2,7,28.6,30,6,16.7,26.7,4,50.0,37.5,5,2,40.0,1,13.6,Match Report,c5487a34,W,2022,True
+886,2022-05-08,Sun,MLS,Regular Season,Home,L 0–1,Austin,LA Galaxy,Y,GK,90,3,1,2,66.7,0,0.3,0,0,0,0,1,6,16.7,41,4,12.2,25.9,6,16.7,32.0,4,0,0.0,1,14.0,Match Report,c5487a34,L,2022,True
+887,2022-05-14,Sat,MLS,Regular Season,Away,L 1–2,Austin,Real Salt Lake,Y,GK,90,7,2,5,71.4,0,2.0,0,0,0,0,6,14,42.9,40,9,17.5,25.6,10,70.0,54.2,13,2,15.4,0,14.4,Match Report,c5487a34,L,2022,True
+888,2022-07-24,Sun,MLS,Regular Season,Home,L 3–4,Austin,NY Red Bulls,Y,GK,90,8,4,4,50.0,0,2.0,0,0,0,0,4,6,66.7,46,8,10.9,24.7,8,12.5,23.5,2,0,0.0,1,12.7,Match Report,c5487a34,L,2022,True
+889,2022-04-30,Sat,MLS,Regular Season,Home,W 2–0,New England,Inter Miami,Y,GK,90,3,0,3,100.0,1,0.9,0,0,0,0,3,6,50.0,31,6,19.4,30.2,3,0.0,18.3,7,0,0.0,0,12.0,Match Report,4a51ba65,W,2022,True
+890,2022-05-07,Sat,MLS,Regular Season,Home,D 2–2,New England,Columbus Crew,Y,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,2,5,40.0,30,2,16.7,27.7,4,0.0,20.3,5,1,20.0,1,17.0,Match Report,4a51ba65,D,2022,True
+891,2022-05-15,Sun,MLS,Regular Season,Away,D 2–2,New England,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,1.9,0,0,0,0,6,17,35.3,23,6,39.1,37.9,10,80.0,58.5,14,0,0.0,0,11.6,Match Report,4a51ba65,D,2022,True
+892,2022-05-21,Sat,MLS,Regular Season,Away,W 3–2,New England,FC Cincinnati,Y,GK,90,2,2,0,0.0,0,1.8,0,0,0,0,9,18,50.0,24,2,66.7,48.6,7,28.6,28.4,8,1,12.5,0,11.5,Match Report,4a51ba65,W,2022,True
+893,2022-05-28,Sat,MLS,Regular Season,Home,D 1–1,New England,Philadelphia,Y,GK,90,2,1,1,50.0,0,1.2,0,0,0,0,2,5,40.0,29,10,17.2,29.7,4,0.0,24.0,7,4,57.1,0,10.6,Match Report,4a51ba65,D,2022,True
+894,2022-05-28,Sat,MLS,Regular Season,Home,W 3–2,Toronto FC,Chicago Fire,Y,GK,90,9,2,7,77.8,0,2.8,0,0,0,0,7,28,25.0,31,3,58.1,45.6,16,62.5,48.0,26,1,3.8,0,12.8,Match Report,5480ae05,W,2022,True
+895,2022-06-18,Sat,MLS,Regular Season,Away,L 0–2,Toronto FC,NY Red Bulls,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,5,21,23.8,37,3,51.4,40.4,8,25.0,29.0,6,0,0.0,2,17.3,Match Report,5480ae05,L,2022,True
+896,2022-06-25,Sat,MLS,Regular Season,Home,W 2–1,Toronto FC,Atlanta Utd,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,11,26,42.3,27,4,66.7,48.0,11,72.7,47.4,9,1,11.1,1,16.9,Match Report,5480ae05,W,2022,True
+897,2022-07-02,Sat,MLS,Regular Season,Home,L 0–2,Toronto FC,Seattle,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,1,2,50.0,17,5,11.8,20.2,9,0.0,14.7,7,0,0.0,0,7.2,Match Report,5480ae05,L,2022,True
+898,2022-07-09,Sat,MLS,Regular Season,Home,D 2–2,Toronto FC,San Jose,Y,GK,90,3,2,1,33.3,0,1.9,0,0,0,0,7,16,43.8,32,3,46.9,35.1,7,14.3,22.7,11,0,0.0,3,20.4,Match Report,5480ae05,D,2022,True
+899,2022-07-13,Wed,MLS,Regular Season,Away,L 0–2,Toronto FC,Chicago Fire,Y,GK,90,6,2,4,66.7,0,0.9,0,0,0,0,3,11,27.3,32,5,31.3,33.2,3,33.3,29.3,4,2,50.0,2,20.8,Match Report,5480ae05,L,2022,True
+900,2022-09-10,Sat,MLS,Regular Season,Away,L 2–4,Toronto FC,Atlanta Utd,Y,GK,90,10,4,6,60.0,0,5.2,1,0,1,0,5,18,27.8,39,7,43.6,33.9,7,14.3,26.1,10,1,10.0,1,16.3,Match Report,5480ae05,L,2022,False
+901,2022-09-17,Sat,MLS,Regular Season,Away,L 0–4,Toronto FC,Orlando City,Y,GK,90,7,4,4,42.9,0,1.8,0,0,0,0,6,13,46.2,33,5,33.3,31.3,5,40.0,34.8,6,0,0.0,0,13.0,Match Report,5480ae05,L,2022,False
+902,2022-09-30,Fri,MLS,Regular Season,Home,L 0–1,Toronto FC,Inter Miami,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,8,16,50.0,24,6,41.7,36.4,11,54.5,42.1,12,0,0.0,0,13.2,Match Report,5480ae05,L,2022,False
+903,2022-10-09,Sun,MLS,Regular Season,Away,L 0–4,Toronto FC,Philadelphia,Y,GK,90,8,4,5,62.5,0,3.2,1,1,0,0,4,13,30.8,23,4,47.8,38.3,3,66.7,48.0,5,0,0.0,7,25.4,Match Report,5480ae05,L,2022,False
+904,2022-02-27,Sun,MLS,Regular Season,Away,W 1–0,Nashville,Seattle,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,13,19,68.4,16,1,87.5,52.3,6,83.3,56.5,14,2,14.3,0,8.5,Match Report,467f09c8,W,2022,True
+905,2022-03-05,Sat,MLS,Regular Season,Away,D 1–1,Nashville,Minnesota Utd,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,7,21,33.3,22,2,59.1,46.2,9,88.9,53.8,7,0,0.0,0,17.3,Match Report,467f09c8,D,2022,True
+906,2022-03-12,Sat,MLS,Regular Season,Away,L 0–2,Nashville,FC Dallas,Y,GK,90,3,2,2,66.7,0,1.7,1,1,0,0,6,18,33.3,32,6,46.9,35.1,7,42.9,33.6,6,1,16.7,1,13.6,Match Report,467f09c8,L,2022,True
+907,2022-03-19,Sat,MLS,Regular Season,Away,L 1–2,Nashville,Real Salt Lake,Y,GK,90,2,2,0,0.0,0,0.6,0,0,0,0,3,6,50.0,20,5,20.0,26.7,11,18.2,26.6,8,2,25.0,0,12.0,Match Report,467f09c8,L,2022,True
+908,2022-04-02,Sat,MLS,Regular Season,Away,W 1–0,Nashville,Columbus Crew,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,16,30,53.3,22,3,68.2,47.0,16,93.8,66.8,16,2,12.5,0,7.0,Match Report,467f09c8,W,2022,True
+909,2022-04-09,Sat,MLS,Regular Season,Away,W 2–1,Nashville,Sporting KC,Y,GK,90,5,1,4,80.0,0,0.6,0,0,0,0,6,18,33.3,24,3,54.2,37.4,8,62.5,51.4,7,1,14.3,0,13.5,Match Report,467f09c8,W,2022,True
+910,2022-04-16,Sat,MLS,Regular Season,Away,D 2–2,Nashville,San Jose,Y,GK,90,5,2,3,60.0,0,1.5,0,0,0,0,11,22,50.0,19,2,63.2,45.9,11,90.9,63.8,7,0,0.0,0,10.3,Match Report,467f09c8,D,2022,True
+911,2022-04-23,Sat,MLS,Regular Season,Away,L 0–1,Nashville,LA Galaxy,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,12,21,57.1,25,3,60.0,44.2,15,40.0,38.4,6,0,0.0,0,6.0,Match Report,467f09c8,L,2022,True
+912,2022-05-01,Sun,MLS,Regular Season,Home,D 1–1,Nashville,Philadelphia,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,3,5,60.0,20,5,20.0,33.8,1,100.0,60.0,5,1,20.0,0,11.3,Match Report,467f09c8,D,2022,True
+913,2022-05-08,Sun,MLS,Regular Season,Home,W 2–0,Nashville,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,11,45.5,21,9,42.9,33.0,8,25.0,29.6,7,2,28.6,0,15.0,Match Report,467f09c8,W,2022,True
+914,2022-05-14,Sat,MLS,Regular Season,Away,L 0–2,Nashville,Houston Dynamo,Y,GK,90,3,2,2,66.7,0,1.6,1,1,0,0,6,8,75.0,28,11,25.0,30.2,2,50.0,48.5,4,1,25.0,1,13.0,Match Report,467f09c8,L,2022,True
+915,2022-05-18,Wed,MLS,Regular Season,Home,W 2–1,Nashville,CF Montréal,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,7,21,33.3,30,8,53.3,36.9,6,83.3,59.3,10,1,10.0,0,14.6,Match Report,467f09c8,W,2022,True
+916,2022-05-21,Sat,MLS,Regular Season,Home,D 2–2,Nashville,Atlanta Utd,Y,GK,90,4,,2,,0,1.8,0,0,0,0,10,21,47.6,22,3,72.7,50.0,8,62.5,52.9,7,0,0.0,0,14.2,Match Report,467f09c8,D,2022,True
+917,2022-06-11,Sat,MLS,Regular Season,Home,D 0–0,Nashville,San Jose,Y,GK,90,6,0,6,100.0,1,0.9,0,0,0,0,5,12,41.7,20,3,55.0,40.1,5,20.0,25.2,1,0,0.0,0,14.5,Match Report,467f09c8,D,2022,True
+918,2022-06-19,Sun,MLS,Regular Season,Home,L 1–2,Nashville,Sporting KC,Y,GK,90,4,2,2,50.0,0,1.0,0,0,0,0,4,8,50.0,23,4,34.8,30.9,6,0.0,18.5,3,0,0.0,0,16.0,Match Report,467f09c8,L,2022,True
+919,2022-06-25,Sat,MLS,Regular Season,Away,W 3–1,Nashville,D.C. United,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,8,21,38.1,21,5,57.1,50.5,10,90.0,69.8,9,0,0.0,0,12.8,Match Report,467f09c8,W,2022,True
+920,2022-07-09,Sat,MLS,Regular Season,Away,L 1–4,Nashville,Charlotte,Y,GK,90,5,4,2,40.0,0,2.7,1,1,0,0,4,10,40.0,16,5,37.5,38.1,6,66.7,52.8,7,0,0.0,0,11.0,Match Report,467f09c8,L,2022,True
+921,2022-07-13,Wed,MLS,Regular Season,Home,W 1–0,Nashville,Seattle,Y,GK,90,2,0,1,100.0,1,0.2,0,0,0,0,2,14,14.3,18,4,50.0,39.2,9,55.6,43.2,11,0,0.0,0,6.3,Match Report,467f09c8,W,2022,True
+922,2022-07-17,Sun,MLS,Regular Season,Home,L 1–2,Nashville,Los Angeles FC,Y,GK,90,5,2,3,60.0,0,1.5,0,0,0,0,11,12,91.7,24,3,45.8,38.9,5,20.0,26.0,0,0,,0,10.3,Match Report,467f09c8,L,2022,True
+923,2022-07-23,Sat,MLS,Regular Season,Away,D 1–1,Nashville,FC Cincinnati,Y,GK,90,4,1,3,75.0,0,2.0,0,0,0,0,10,24,41.7,31,5,51.6,41.2,13,61.5,43.3,7,0,0.0,1,12.4,Match Report,467f09c8,D,2022,True
+924,2022-07-30,Sat,MLS,Regular Season,Home,D 1–1,Nashville,Vancouver,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,3,12,25.0,19,7,42.1,32.2,9,44.4,38.9,13,1,7.7,0,8.8,Match Report,467f09c8,D,2022,True
+925,2022-08-03,Wed,MLS,Regular Season,Away,D 1–1,Nashville,Portland Timbers,Y,GK,90,3,1,2,66.7,0,0.3,0,0,0,0,11,16,68.8,18,3,50.0,40.5,16,43.8,38.1,4,0,0.0,0,13.0,Match Report,467f09c8,D,2022,True
+926,2022-08-06,Sat,MLS,Regular Season,Home,L 3–4,Nashville,Toronto FC,Y,GK,90,7,4,4,57.1,0,3.0,1,1,0,0,2,4,50.0,12,5,16.7,28.1,4,50.0,40.3,1,0,0.0,1,34.0,Match Report,467f09c8,L,2022,True
+927,2022-08-14,Sun,MLS,Regular Season,Home,L 1–2,Nashville,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,2.0,0,0,0,0,5,7,71.4,11,2,36.4,36.3,8,37.5,39.6,3,0,0.0,0,9.0,Match Report,467f09c8,L,2022,False
+928,2022-08-21,Sun,MLS,Regular Season,Home,W 4–0,Nashville,FC Dallas,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,7,11,63.6,21,5,42.9,34.3,4,50.0,49.3,5,1,20.0,0,11.3,Match Report,467f09c8,W,2022,False
+929,2022-08-27,Sat,MLS,Regular Season,Away,W 3–0,Nashville,Vancouver,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,2,17,11.8,20,4,60.0,48.1,7,71.4,54.1,15,2,13.3,0,13.3,Match Report,467f09c8,W,2022,False
+930,2022-08-31,Wed,MLS,Regular Season,Home,W 4–1,Nashville,Colorado Rapids,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,6,14,42.9,19,4,36.8,35.5,11,63.6,46.9,9,0,0.0,0,10.2,Match Report,467f09c8,W,2022,False
+931,2022-09-03,Sat,MLS,Regular Season,Home,W 3–0,Nashville,Austin,Y,GK,90,5,0,5,100.0,1,0.4,0,0,0,0,3,14,21.4,28,3,32.1,32.2,6,83.3,53.7,12,0,0.0,0,13.8,Match Report,467f09c8,W,2022,False
+932,2022-09-10,Sat,MLS,Regular Season,Home,D 1–1,Nashville,LA Galaxy,Y,GK,90,6,1,6,100.0,0,2.6,2,1,1,0,5,16,31.3,19,4,63.2,42.2,9,44.4,42.4,11,0,0.0,0,5.7,Match Report,467f09c8,D,2022,False
+933,2022-09-17,Sat,MLS,Regular Season,Away,D 1–1,Nashville,Austin,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,5,15,33.3,14,6,64.3,49.4,9,66.7,50.2,15,2,13.3,0,10.8,Match Report,467f09c8,D,2022,False
+934,2022-10-02,Sun,MLS,Regular Season,Home,L 1–2,Nashville,Houston Dynamo,Y,GK,90,2,2,1,50.0,0,2.2,1,1,0,0,5,10,50.0,20,7,40.0,32.4,4,50.0,46.8,2,0,0.0,2,15.8,Match Report,467f09c8,L,2022,False
+935,2022-10-09,Sun,MLS,Regular Season,Away,W 1–0,Nashville,Los Angeles FC,Y,GK,90,13,0,13,100.0,1,3.7,1,0,1,0,7,25,28.0,30,7,56.7,45.1,13,61.5,49.0,7,0,0.0,0,7.7,Match Report,467f09c8,W,2022,False
+936,2022-10-15,Sat,MLS,First Round,Away,L 0–1,Nashville,LA Galaxy,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,8,15,53.3,22,3,45.5,41.4,6,83.3,60.3,7,1,14.3,0,11.0,Match Report,467f09c8,L,2022,False
+937,2022-02-26,Sat,MLS,Regular Season,Away,L 0–3,Colorado Rapids,Los Angeles FC,Y,GK,90,6,3,4,66.7,0,2.9,1,1,0,0,4,9,44.4,25,6,36.0,33.8,7,0.0,13.1,7,0,0.0,1,14.3,Match Report,ec646e88,L,2022,True
+938,2022-03-05,Sat,MLS,Regular Season,Home,W 3–0,Colorado Rapids,Atlanta Utd,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,9,17,52.9,21,3,66.7,47.9,7,42.9,33.4,5,0,0.0,1,19.0,Match Report,ec646e88,W,2022,True
+939,2022-03-12,Sat,MLS,Regular Season,Home,W 2–0,Colorado Rapids,Sporting KC,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,11,23,47.8,30,5,70.0,52.5,4,50.0,40.5,5,0,0.0,1,12.6,Match Report,ec646e88,W,2022,True
+940,2022-03-19,Sat,MLS,Regular Season,Away,D 1–1,Colorado Rapids,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,5,15,33.3,22,4,40.9,35.2,9,66.7,44.0,11,2,18.2,2,15.0,Match Report,ec646e88,D,2022,True
+941,2022-04-02,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Real Salt Lake,Y,GK,90,1,1,1,100.0,0,1.3,1,1,0,0,6,8,75.0,26,7,30.8,29.7,0,,,3,0,0.0,2,16.1,Match Report,ec646e88,D,2022,True
+942,2022-04-09,Sat,MLS,Regular Season,Away,L 1–3,Colorado Rapids,FC Dallas,Y,GK,90,7,3,3,57.1,0,2.1,0,0,0,0,6,8,75.0,27,3,29.6,28.6,5,0.0,18.8,2,0,0.0,2,18.9,Match Report,ec646e88,L,2022,True
+943,2022-04-16,Sat,MLS,Regular Season,Away,L 1–3,Colorado Rapids,Minnesota Utd,Y,GK,90,6,3,3,50.0,0,2.1,0,0,0,0,5,12,41.7,23,2,43.5,38.6,8,25.0,29.6,10,0,0.0,1,17.0,Match Report,ec646e88,L,2022,True
+944,2022-04-23,Sat,MLS,Regular Season,Home,D 0–0,Colorado Rapids,Charlotte,Y,GK,90,5,0,5,100.0,1,0.5,0,0,0,0,0,4,0.0,15,5,26.7,32.1,12,0.0,14.0,3,0,0.0,1,20.2,Match Report,ec646e88,D,2022,True
+945,2022-04-30,Sat,MLS,Regular Season,Home,W 2–0,Colorado Rapids,Portland Timbers,Y*,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,7,13,53.8,23,6,30.4,34.8,10,60.0,49.2,10,1,10.0,0,14.9,Match Report,ec646e88,W,2022,True
+946,2022-05-07,Sat,MLS,Regular Season,Away,L 0–1,Colorado Rapids,San Jose,Y*,GK,90,4,1,3,75.0,0,2.0,0,0,0,0,9,18,50.0,31,1,41.9,37.4,6,83.3,60.3,10,1,10.0,1,18.0,Match Report,ec646e88,L,2022,True
+947,2022-05-14,Sat,MLS,Regular Season,Home,W 2–0,Colorado Rapids,Los Angeles FC,Y*,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,7,14,50.0,13,3,53.8,43.5,11,63.6,49.2,10,1,10.0,0,10.1,Match Report,ec646e88,W,2022,True
+948,2022-05-18,Wed,MLS,Regular Season,Away,L 1–2,Colorado Rapids,Sporting KC,Y,GK,90,2,2,0,0.0,0,1.2,0,0,0,0,2,6,33.3,14,1,35.7,33.0,3,33.3,39.7,2,0,0.0,1,25.3,Match Report,ec646e88,L,2022,True
+949,2022-05-22,Sun,MLS,Regular Season,Home,W 1–0,Colorado Rapids,Seattle,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,5,14,35.7,15,1,53.3,41.3,14,42.9,33.6,8,0,0.0,0,14.0,Match Report,ec646e88,W,2022,True
+950,2022-05-28,Sat,MLS,Regular Season,Home,L 1–3,Colorado Rapids,Nashville,Y,GK,90,5,3,2,40.0,0,2.3,0,0,0,0,4,8,50.0,17,1,41.2,33.5,4,25.0,26.3,8,0,0.0,0,9.0,Match Report,ec646e88,L,2022,True
+951,2022-06-19,Sun,MLS,Regular Season,Away,D 1–1,Colorado Rapids,NYCFC,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,5,23,21.7,23,2,69.6,59.3,11,63.6,46.1,14,0,0.0,0,16.8,Match Report,ec646e88,D,2022,True
+952,2022-06-25,Sat,MLS,Regular Season,Away,L 0–3,Colorado Rapids,Portland Timbers,Y*,GK,44,2,0,2,100.0,0,0.4,0,0,0,0,2,9,22.2,12,4,66.7,48.1,5,20.0,21.8,4,1,25.0,0,15.8,Match Report,ec646e88,L,2022,True
+953,2022-07-04,Mon,MLS,Regular Season,Home,L 2–3,Colorado Rapids,Austin,Y*,GK,90,5,3,2,40.0,0,2.5,0,0,0,0,3,10,30.0,15,1,40.0,35.3,8,50.0,48.3,4,0,0.0,0,21.0,Match Report,ec646e88,L,2022,True
+954,2022-07-09,Sat,MLS,Regular Season,Away,D 2–2,Colorado Rapids,Real Salt Lake,Y*,GK,90,2,2,0,0.0,0,0.3,0,0,0,0,3,5,60.0,12,4,25.0,35.3,8,25.0,32.5,16,1,6.3,1,19.6,Match Report,ec646e88,D,2022,True
+955,2022-07-13,Wed,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Orlando City,Y*,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,3,5,60.0,19,7,21.1,29.3,8,12.5,29.0,6,0,0.0,0,10.2,Match Report,ec646e88,D,2022,True
+956,2022-07-16,Sat,MLS,Regular Season,Home,W 2–0,Colorado Rapids,LA Galaxy,Y*,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,7,12,58.3,12,2,41.7,35.8,13,53.8,44.3,7,0,0.0,0,14.5,Match Report,ec646e88,W,2022,True
+957,2022-07-23,Sat,MLS,Regular Season,Away,L 1–2,Colorado Rapids,Seattle,Y*,GK,90,5,2,4,80.0,0,2.5,1,1,0,0,2,12,16.7,15,4,53.3,40.3,12,33.3,29.2,13,0,0.0,0,13.5,Match Report,ec646e88,L,2022,True
+958,2022-08-02,Tue,MLS,Regular Season,Away,W 5–4,Colorado Rapids,NY Red Bulls,Y*,GK,90,4,4,2,50.0,0,2.9,2,2,0,0,6,17,35.3,22,4,50.0,44.6,12,50.0,48.3,6,0,0.0,1,16.8,Match Report,ec646e88,W,2022,True
+959,2022-08-06,Sat,MLS,Regular Season,Home,W 4–3,Colorado Rapids,Minnesota Utd,Y,GK,90,7,3,4,57.1,0,2.2,0,0,0,0,4,9,44.4,23,9,26.1,34.3,8,37.5,35.4,10,0,0.0,0,12.5,Match Report,ec646e88,W,2022,True
+960,2022-08-13,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Columbus Crew,Y*,GK,90,6,1,5,83.3,0,2.0,0,0,0,0,2,8,25.0,18,3,38.9,38.8,7,14.3,23.1,7,0,0.0,0,14.6,Match Report,ec646e88,D,2022,False
+961,2022-08-17,Wed,MLS,Regular Season,Away,L 1–2,Colorado Rapids,Vancouver,Y*,GK,90,3,2,1,33.3,0,0.9,0,0,0,0,10,15,66.7,29,9,41.4,38.0,10,30.0,36.1,4,0,0.0,1,14.1,Match Report,ec646e88,L,2022,False
+962,2022-08-20,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Houston Dynamo,Y*,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,4,17,23.5,23,4,69.6,55.9,5,20.0,25.8,7,0,0.0,1,14.8,Match Report,ec646e88,D,2022,False
+963,2022-08-27,Sat,MLS,Regular Season,Away,L 0–6,Colorado Rapids,Philadelphia,Y*,GK,90,12,6,8,66.7,0,5.3,2,2,0,0,1,7,14.3,24,7,20.8,30.0,6,33.3,35.8,5,0,0.0,0,12.3,Match Report,ec646e88,L,2022,False
+964,2022-08-31,Wed,MLS,Regular Season,Away,L 1–4,Colorado Rapids,Nashville,Y,GK,90,9,4,6,66.7,0,3.8,1,1,0,0,1,3,33.3,15,6,13.3,24.8,5,20.0,33.8,3,0,0.0,0,10.5,Match Report,ec646e88,L,2022,False
+965,2022-09-04,Sun,MLS,Regular Season,Away,D 0–0,Colorado Rapids,D.C. United,Y,GK,90,2,0,2,100.0,1,1.1,1,0,1,0,4,15,26.7,21,4,52.4,46.8,8,50.0,44.4,15,2,13.3,0,14.0,Match Report,ec646e88,D,2022,False
+966,2022-09-10,Sat,MLS,Regular Season,Home,W 3–1,Colorado Rapids,Vancouver,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,5,11,45.5,22,5,45.5,41.6,7,14.3,24.4,16,0,0.0,0,7.8,Match Report,ec646e88,W,2022,False
+967,2022-09-14,Wed,MLS,Regular Season,Home,W 2–1,Colorado Rapids,San Jose,Y,GK,90,3,1,2,66.7,0,1.5,0,0,0,0,7,14,50.0,24,5,29.2,34.3,10,70.0,48.4,7,2,28.6,0,17.4,Match Report,ec646e88,W,2022,False
+968,2022-09-17,Sat,MLS,Regular Season,Away,L 1–4,Colorado Rapids,LA Galaxy,Y,GK,90,12,4,8,66.7,0,3.7,0,0,0,0,5,8,62.5,14,3,35.7,37.3,7,42.9,38.1,2,0,0.0,2,14.8,Match Report,ec646e88,L,2022,False
+969,2022-10-01,Sat,MLS,Regular Season,Home,W 1–0,Colorado Rapids,FC Dallas,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,3,10,30.0,17,3,23.5,29.9,11,54.5,38.1,15,0,0.0,0,11.0,Match Report,ec646e88,W,2022,False
+970,2022-10-09,Sun,MLS,Regular Season,Away,D 1–1,Colorado Rapids,Austin,Y,GK,90,3,1,3,100.0,0,1.0,1,1,0,0,4,10,40.0,20,4,30.0,30.9,8,50.0,43.0,13,2,15.4,3,16.3,Match Report,ec646e88,D,2022,False

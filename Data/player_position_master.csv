@@ -1,0 +1,17 @@
+Position,Abbv,Master_Pos,Master_Abbv
+Goalkeeper,GK,Goalkeeper,GK
+Defender,DF,Defender,DF
+Midfielder,MF,Midfielder,MF
+Forward,FW,Forward,FW
+Fullback,FB,Defender,DF
+Left Back,LB,Defender,DF
+Right Back,RB,Defender,DF
+Center Back,CB,Defender,DF
+Defensive Midfielder,DM,Midfielder,MF
+Central Midfielder,CM,Midfielder,MF
+Left Midfielder,LM,Midfielder,MF
+Right Midfielder,RM,Midfielder,MF
+Wide Midfielder,WM,Midfielder,MF
+Left Winger,LW,,
+Right Winger,RW,,
+Attacking Midfielder,AM,Midfielder,MF

@@ -1,0 +1,849 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PSxG,PKatt,PKA,PKsv,PKm,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,AvgDist,Match Report,fbref_ID,Win_Loss_Draw,Season,Before_All_Star
+0,2019-03-02,Sat,MLS,Regular Season,Away,D 3–3,Portland Timbers,Colorado Rapids,Y,GK,90,5,3,2,40.0,0,2.5,0,0,0,0,9,14,64.3,17,7,47.1,41.2,9,66.7,45.3,9,2,22.2,0,13.0,Match Report,4277b946,D,2019,True
+1,2019-03-10,Sun,MLS,Regular Season,Away,L 1–4,Portland Timbers,Los Angeles FC,Y,GK,90,7,4,3,42.9,0,3.8,0,0,0,0,13,19,68.4,22,8,40.9,37.3,11,90.9,56.2,5,0,0.0,1,13.3,Match Report,4277b946,L,2019,True
+2,2019-03-17,Sun,MLS,Regular Season,Away,L 0–3,Portland Timbers,FC Cincinnati,Y,GK,90,7,3,4,57.1,0,2.4,0,0,0,0,12,21,57.1,25,8,40.0,34.4,12,91.7,57.0,10,1,10.0,0,18.7,Match Report,4277b946,L,2019,True
+3,2019-03-31,Sun,MLS,Regular Season,Away,L 1–2,Portland Timbers,LA Galaxy,Y,GK,90,0,2,0,,0,1.3,2,2,0,0,10,24,41.7,31,9,54.8,40.4,9,77.8,48.3,13,0,0.0,1,15.2,Match Report,4277b946,L,2019,True
+4,2019-04-06,Sat,MLS,Regular Season,Away,L 0–3,Portland Timbers,San Jose,Y,GK,90,13,3,10,76.9,0,4.4,0,0,0,0,4,5,80.0,22,12,18.2,30.5,4,25.0,36.3,6,2,33.3,0,12.9,Match Report,4277b946,L,2019,True
+5,2019-04-13,Sat,MLS,Regular Season,Away,L 1–2,Portland Timbers,FC Dallas,Y,GK,90,4,2,3,75.0,0,1.8,1,1,0,0,4,20,20.0,16,3,75.0,52.8,8,100.0,68.4,11,1,9.1,0,11.5,Match Report,4277b946,L,2019,True
+6,2019-04-20,Sat,MLS,Regular Season,Away,W 3–1,Portland Timbers,Columbus Crew,Y,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,7,24,29.2,20,7,60.0,46.8,13,92.3,62.8,14,0,0.0,1,11.1,Match Report,4277b946,W,2019,True
+7,2019-05-15,Wed,MLS,Regular Season,Away,D 1–1,Portland Timbers,Houston Dynamo,Y,GK,90,10,1,9,90.0,0,2.6,0,0,0,0,6,18,33.3,23,9,47.8,41.3,8,87.5,65.0,15,0,0.0,0,14.8,Match Report,4277b946,D,2019,True
+8,2019-06-01,Sat,MLS,Regular Season,Home,L 2–3,Portland Timbers,Los Angeles FC,Y,GK,90,5,3,2,40.0,0,2.5,0,0,0,0,4,14,28.6,28,14,39.3,36.1,9,33.3,37.6,6,1,16.7,0,13.1,Match Report,4277b946,L,2019,True
+9,2019-06-26,Wed,MLS,Regular Season,Away,L 1–2,Portland Timbers,Montreal Impact,Y*,GK,90,4,2,1,50.0,0,2.0,0,0,0,0,10,21,47.6,18,2,66.7,48.8,13,69.2,53.8,8,1,12.5,0,12.7,Match Report,4277b946,L,2019,True
+10,2019-03-23,Sat,MLS,Regular Season,Away,L 0–3,Columbus Crew,Philadelphia,Y,GK,90,5,3,2,40.0,0,2.0,0,0,0,0,2,6,33.3,25,3,24.0,29.0,5,0.0,24.6,7,0,0.0,1,16.8,Match Report,c3e50b67,L,2019,True
+11,2019-05-11,Sat,MLS,Regular Season,Home,L 0–3,Columbus Crew,Los Angeles FC,Y,GK,90,8,3,5,62.5,0,2.1,0,0,0,0,4,21,19.0,31,5,45.2,41.2,14,50.0,48.2,6,1,16.7,0,13.8,Match Report,c3e50b67,L,2019,True
+12,2019-07-03,Wed,MLS,Regular Season,Away,L 0–1,Columbus Crew,Real Salt Lake,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,4,11,36.4,14,4,35.7,33.9,8,75.0,63.6,3,1,33.3,1,17.5,Match Report,c3e50b67,L,2019,True
+13,2019-07-06,Sat,MLS,Regular Season,Home,L 1–2,Columbus Crew,Seattle,Y,GK,90,3,2,2,66.7,0,2.0,1,1,0,0,4,14,28.6,12,2,41.7,43.6,11,81.8,72.8,7,1,14.3,0,9.3,Match Report,c3e50b67,L,2019,True
+14,2019-07-13,Sat,MLS,Regular Season,Away,L 0–1,Columbus Crew,Orlando City,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,4,8,50.0,15,2,53.3,45.3,4,0.0,24.0,5,1,20.0,0,8.2,Match Report,c3e50b67,L,2019,True
+15,2019-07-17,Wed,MLS,Regular Season,Away,D 2–2,Columbus Crew,Chicago Fire,Y,GK,90,6,2,3,66.7,0,1.2,0,0,0,0,3,8,37.5,19,6,31.6,37.6,10,20.0,32.2,12,0,0.0,0,15.3,Match Report,c3e50b67,D,2019,True
+16,2019-03-02,Sat,MLS,Regular Season,Home,W 2–1,LA Galaxy,Chicago Fire,Y,GK,90,5,1,4,80.0,0,1.5,0,0,0,0,9,15,60.0,18,5,44.4,38.1,13,53.8,47.1,12,0,0.0,0,11.9,Match Report,7fd42a85,W,2019,True
+17,2019-03-09,Sat,MLS,Regular Season,Away,L 0–2,LA Galaxy,FC Dallas,Y,GK,90,3,2,2,66.7,0,1.5,1,1,0,0,4,13,30.8,16,6,43.8,38.9,7,85.7,70.3,2,0,0.0,1,15.0,Match Report,7fd42a85,L,2019,True
+18,2019-03-16,Sat,MLS,Regular Season,Home,W 3–2,LA Galaxy,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,1.2,0,0,0,0,5,12,41.7,12,4,58.3,43.4,10,50.0,40.8,10,0,0.0,0,12.5,Match Report,7fd42a85,W,2019,True
+19,2019-03-31,Sun,MLS,Regular Season,Home,W 2–1,LA Galaxy,Portland Timbers,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,3,10,30.0,13,4,38.5,37.1,7,71.4,51.4,3,0,0.0,0,14.3,Match Report,7fd42a85,W,2019,True
+20,2019-04-05,Fri,MLS,Regular Season,Away,W 2–0,LA Galaxy,Vancouver,Y,GK,90,4,0,4,100.0,1,1.8,1,0,1,0,10,19,52.6,17,2,76.5,50.7,6,100.0,62.0,4,1,25.0,0,12.8,Match Report,7fd42a85,W,2019,True
+21,2019-04-13,Sat,MLS,Regular Season,Home,W 2–0,LA Galaxy,Philadelphia,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,8,16,50.0,19,2,57.9,44.2,9,55.6,45.7,10,2,20.0,0,17.8,Match Report,7fd42a85,W,2019,True
+22,2019-04-19,Fri,MLS,Regular Season,Home,W 2–1,LA Galaxy,Houston Dynamo,Y,GK,90,2,1,2,100.0,0,1.1,1,1,0,0,6,9,66.7,17,4,29.4,34.2,11,36.4,38.0,10,1,10.0,0,12.5,Match Report,7fd42a85,W,2019,True
+23,2019-04-24,Wed,MLS,Regular Season,Away,D 0–0,LA Galaxy,Minnesota Utd,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,10,21,47.6,14,2,78.6,51.4,13,76.9,58.2,9,2,22.2,0,11.0,Match Report,7fd42a85,D,2019,True
+24,2019-04-28,Sun,MLS,Regular Season,Home,W 2–1,LA Galaxy,Real Salt Lake,Y,GK,90,7,1,6,85.7,0,1.4,0,0,0,0,9,27,33.3,37,6,64.9,47.9,6,50.0,42.3,13,0,0.0,0,9.9,Match Report,7fd42a85,W,2019,True
+25,2019-05-04,Sat,MLS,Regular Season,Away,L 2–3,LA Galaxy,NY Red Bulls,Y,GK,90,7,3,4,57.1,0,2.2,0,0,0,0,12,26,46.2,30,5,66.7,48.2,8,75.0,51.3,3,0,0.0,0,14.2,Match Report,7fd42a85,L,2019,True
+26,2019-05-08,Wed,MLS,Regular Season,Away,L 1–3,LA Galaxy,Columbus Crew,Y,GK,90,4,3,1,25.0,0,2.0,0,0,0,0,10,17,58.8,28,6,53.6,43.2,5,40.0,49.2,6,0,0.0,2,16.5,Match Report,7fd42a85,L,2019,True
+27,2019-05-11,Sat,MLS,Regular Season,Home,L 0–2,LA Galaxy,NYCFC,Y,GK,90,4,2,3,75.0,0,1.4,1,1,0,0,8,15,53.3,23,7,47.8,40.1,5,80.0,56.4,6,1,16.7,0,15.0,Match Report,7fd42a85,L,2019,True
+28,2019-05-19,Sun,MLS,Regular Season,Home,L 0–1,LA Galaxy,Colorado Rapids,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,6,19,31.6,22,4,40.9,36.1,10,100.0,59.6,8,2,25.0,0,16.0,Match Report,7fd42a85,L,2019,True
+29,2019-05-24,Fri,MLS,Regular Season,Away,W 1–0,LA Galaxy,Orlando City,Y,GK,90,5,0,5,100.0,1,2.5,1,0,1,0,6,25,24.0,18,6,72.2,49.1,12,100.0,73.8,15,2,13.3,0,11.0,Match Report,7fd42a85,W,2019,True
+30,2019-05-29,Wed,MLS,Regular Season,Away,W 2–0,LA Galaxy,Sporting KC,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,8,25,32.0,17,1,70.6,51.6,13,100.0,68.5,14,3,21.4,0,10.8,Match Report,7fd42a85,W,2019,True
+31,2019-06-02,Sun,MLS,Regular Season,Home,L 1–2,LA Galaxy,New England,Y,GK,90,7,2,5,71.4,0,2.0,0,0,0,0,6,9,66.7,19,10,31.6,30.9,7,42.9,40.3,8,0,0.0,0,10.3,Match Report,7fd42a85,L,2019,True
+32,2019-06-22,Sat,MLS,Regular Season,Away,W 2–0,LA Galaxy,FC Cincinnati,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,16,31,51.6,21,3,81.0,55.5,16,87.5,62.5,13,0,0.0,1,10.9,Match Report,7fd42a85,W,2019,True
+33,2019-06-29,Sat,MLS,Regular Season,Away,L 0–3,LA Galaxy,San Jose,Y,GK,90,8,3,6,62.5,0,0.9,0,0,0,0,7,15,46.7,22,3,40.9,40.2,11,54.5,54.6,11,0,0.0,0,9.0,Match Report,7fd42a85,L,2019,True
+34,2019-07-04,Thu,MLS,Regular Season,Home,W 2–0,LA Galaxy,Toronto FC,Y,GK,90,5,0,5,100.0,1,0.5,0,0,0,0,17,23,73.9,23,2,65.2,46.3,9,88.9,65.0,8,2,25.0,0,9.5,Match Report,7fd42a85,W,2019,True
+35,2019-07-12,Fri,MLS,Regular Season,Home,L 1–3,LA Galaxy,San Jose,Y,GK,90,17,3,14,82.4,0,3.6,0,0,0,0,8,19,42.1,27,3,44.4,39.6,8,87.5,57.3,8,1,12.5,1,18.7,Match Report,7fd42a85,L,2019,True
+36,2019-07-19,Fri,MLS,Regular Season,Home,W 3–2,LA Galaxy,Los Angeles FC,Y,GK,90,4,2,3,75.0,0,2.2,1,1,0,0,14,26,53.8,15,1,86.7,60.0,16,81.3,59.3,2,0,0.0,0,12.7,Match Report,7fd42a85,W,2019,True
+37,2019-07-27,Sat,MLS,Regular Season,Away,L 0–4,LA Galaxy,Portland Timbers,Y,GK,90,10,4,6,60.0,0,3.9,0,0,0,0,6,18,33.3,17,5,64.7,50.4,9,77.8,57.2,18,2,11.1,0,10.7,Match Report,7fd42a85,L,2019,True
+38,2019-08-03,Sat,MLS,Regular Season,Away,L 0–3,LA Galaxy,Atlanta Utd,Y,GK,90,6,3,5,66.7,0,3.1,1,1,0,0,12,23,52.2,21,1,66.7,44.7,9,100.0,69.4,11,1,9.1,0,14.0,Match Report,7fd42a85,L,2019,False
+39,2019-08-11,Sun,MLS,Regular Season,Away,L 1–2,LA Galaxy,D.C. United,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,4,14,28.6,20,6,40.0,38.6,6,100.0,67.8,7,1,14.3,1,15.8,Match Report,7fd42a85,L,2019,False
+40,2019-08-14,Wed,MLS,Regular Season,Home,W 2–0,LA Galaxy,FC Dallas,Y,GK,90,1,0,0,100.0,1,0.3,0,0,0,0,5,18,27.8,15,2,46.7,40.3,11,100.0,70.6,8,0,0.0,0,12.8,Match Report,7fd42a85,W,2019,False
+41,2019-08-17,Sat,MLS,Regular Season,Home,D 2–2,LA Galaxy,Seattle,Y,GK,90,7,2,6,71.4,0,3.2,0,0,0,0,13,29,44.8,28,3,82.1,57.6,6,100.0,70.8,16,2,12.5,1,10.5,Match Report,7fd42a85,D,2019,False
+42,2019-08-25,Sun,MLS,Regular Season,Away,D 3–3,LA Galaxy,Los Angeles FC,Y,GK,90,9,3,6,66.7,0,3.4,0,0,0,0,18,34,52.9,25,4,80.0,56.2,16,87.5,66.0,9,2,22.2,1,11.0,Match Report,7fd42a85,D,2019,False
+43,2019-09-01,Sun,MLS,Regular Season,Away,L 3–4,LA Galaxy,Seattle,Y,GK,90,6,4,2,33.3,0,3.5,0,0,0,0,6,15,40.0,26,4,42.3,38.3,8,50.0,45.5,7,1,14.3,0,12.9,Match Report,7fd42a85,L,2019,False
+44,2019-09-11,Wed,MLS,Regular Season,Away,L 1–2,LA Galaxy,Colorado Rapids,Y,GK,90,11,2,10,90.9,0,2.7,1,1,0,0,9,25,36.0,22,5,72.7,57.1,9,100.0,70.7,5,1,20.0,2,21.7,Match Report,7fd42a85,L,2019,False
+45,2019-09-15,Sun,MLS,Regular Season,Home,W 7–2,LA Galaxy,Sporting KC,Y,GK,90,6,2,4,66.7,0,2.2,0,0,0,0,13,16,81.3,19,6,47.4,36.4,14,50.0,42.4,13,2,15.4,0,12.4,Match Report,7fd42a85,W,2019,False
+46,2019-09-21,Sat,MLS,Regular Season,Home,W 2–1,LA Galaxy,Montreal Impact,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,10,14,71.4,20,2,40.0,36.5,10,60.0,40.9,14,2,14.3,0,9.7,Match Report,7fd42a85,W,2019,False
+47,2019-09-25,Wed,MLS,Regular Season,Away,W 2–1,LA Galaxy,Real Salt Lake,Y,GK,90,5,1,4,80.0,0,0.4,0,0,0,0,11,26,42.3,35,4,51.4,42.5,16,50.0,52.7,7,0,0.0,1,20.0,Match Report,7fd42a85,W,2019,False
+48,2019-10-06,Sun,MLS,Regular Season,Away,L 2–4,LA Galaxy,Houston Dynamo,Y,GK,90,8,4,4,50.0,0,3.8,0,0,0,0,6,9,66.7,26,4,30.8,30.6,10,10.0,28.3,5,0,0.0,0,,Match Report,7fd42a85,L,2019,False
+49,2019-10-20,Sun,MLS,Round 1,Away,W 2–1,LA Galaxy,Minnesota Utd,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,7,20,35.0,25,5,52.0,42.0,12,58.3,47.3,19,1,5.3,1,14.2,Match Report,7fd42a85,W,2019,False
+50,2019-10-24,Thu,MLS,Conference Semifinals,Away,L 3–5,LA Galaxy,Los Angeles FC,Y,GK,90,7,5,2,28.6,0,3.6,0,0,0,0,4,8,50.0,15,2,46.7,39.1,6,16.7,28.0,1,0,0.0,2,13.7,Match Report,7fd42a85,L,2019,False
+51,2019-03-02,Sat,MLS,Regular Season,Home,L 1–3,Philadelphia,Toronto FC,Y,GK,90,4,3,1,25.0,0,2.4,1,0,1,0,3,9,33.3,16,6,37.5,31.4,5,60.0,46.2,10,0,0.0,1,13.8,Match Report,b3b21a11,L,2019,True
+52,2019-03-10,Sun,MLS,Regular Season,Away,L 0–2,Philadelphia,Sporting KC,Y,GK,90,2,2,2,50.0,0,1.2,1,1,0,0,7,14,50.0,13,3,61.5,46.0,6,100.0,61.7,9,0,0.0,0,10.0,Match Report,b3b21a11,L,2019,True
+53,2019-03-17,Sun,MLS,Regular Season,Away,D 1–1,Philadelphia,Atlanta Utd,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,6,23,26.1,25,7,56.0,47.1,10,90.0,64.3,12,2,16.7,0,11.2,Match Report,b3b21a11,D,2019,True
+54,2019-03-30,Sat,MLS,Regular Season,Away,W 2–0,Philadelphia,FC Cincinnati,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,5,11,45.5,22,2,36.4,34.7,4,75.0,52.0,9,0,0.0,0,16.0,Match Report,b3b21a11,W,2019,True
+55,2019-04-06,Sat,MLS,Regular Season,Home,W 2–1,Philadelphia,FC Dallas,Y,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,0,6,0.0,14,4,35.7,35.1,3,33.3,35.0,6,0,0.0,0,13.0,Match Report,b3b21a11,W,2019,True
+56,2019-04-13,Sat,MLS,Regular Season,Away,L 0–2,Philadelphia,LA Galaxy,Y,GK,90,4,2,3,75.0,0,1.2,1,1,0,0,6,13,46.2,25,6,44.0,36.8,5,40.0,43.0,11,1,9.1,0,11.3,Match Report,b3b21a11,L,2019,True
+57,2019-04-20,Sat,MLS,Regular Season,Home,W 3–0,Philadelphia,Montreal Impact,Y,GK,53,1,0,1,100.0,1,0.2,0,0,0,0,2,11,18.2,8,3,75.0,48.1,5,100.0,70.6,6,0,0.0,0,17.0,Match Report,b3b21a11,W,2019,True
+58,2019-05-18,Sat,MLS,Regular Season,Home,D 0–0,Philadelphia,Seattle,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,4,8,50.0,21,6,28.6,32.2,7,28.6,37.6,5,0,0.0,0,15.0,Match Report,b3b21a11,D,2019,True
+59,2019-05-25,Sat,MLS,Regular Season,Home,L 1–3,Philadelphia,Portland Timbers,Y,GK,90,7,3,4,57.1,0,2.1,0,0,0,0,1,3,33.3,14,9,14.3,28.1,2,50.0,48.5,5,3,60.0,0,14.7,Match Report,b3b21a11,L,2019,True
+60,2019-05-29,Wed,MLS,Regular Season,Home,D 1–1,Philadelphia,Colorado Rapids,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,12,24,50.0,28,8,50.0,40.6,12,83.3,53.9,7,0,0.0,1,14.7,Match Report,b3b21a11,D,2019,True
+61,2019-06-02,Sun,MLS,Regular Season,Away,W 3–2,Philadelphia,Minnesota Utd,Y,GK,90,6,2,4,66.7,0,1.4,0,0,0,0,6,25,24.0,21,5,61.9,43.4,12,100.0,67.4,18,0,0.0,1,17.0,Match Report,b3b21a11,W,2019,True
+62,2019-06-08,Sat,MLS,Regular Season,Home,W 3–2,Philadelphia,NY Red Bulls,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,5,12,41.7,18,2,50.0,39.1,8,37.5,39.6,7,0,0.0,2,20.0,Match Report,b3b21a11,W,2019,True
+63,2019-07-07,Sun,MLS,Regular Season,Home,D 2–2,Philadelphia,Orlando City,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,3,8,37.5,22,7,31.8,33.6,5,20.0,40.6,6,1,16.7,0,11.7,Match Report,b3b21a11,D,2019,True
+64,2019-07-13,Sat,MLS,Regular Season,Away,L 0–4,Philadelphia,Real Salt Lake,Y,GK,90,8,4,4,50.0,0,2.6,0,0,0,0,7,15,46.7,13,4,46.2,41.0,10,90.0,59.1,4,1,25.0,0,15.0,Match Report,b3b21a11,L,2019,True
+65,2019-07-20,Sat,MLS,Regular Season,Home,W 2–0,Philadelphia,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,4,11,36.4,24,5,37.5,36.4,9,22.2,34.2,7,0,0.0,0,15.3,Match Report,b3b21a11,W,2019,True
+66,2019-07-27,Sat,MLS,Regular Season,Away,L 0–4,Philadelphia,Montreal Impact,Y,GK,90,6,4,2,33.3,0,2.4,0,0,0,0,5,7,71.4,12,2,25.0,28.5,6,66.7,40.5,2,0,0.0,1,15.8,Match Report,b3b21a11,L,2019,True
+67,2019-08-04,Sun,MLS,Regular Season,Away,W 5–1,Philadelphia,D.C. United,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,8,20,40.0,25,6,48.0,43.0,9,88.9,64.1,9,0,0.0,1,12.5,Match Report,b3b21a11,W,2019,False
+68,2019-08-11,Sun,MLS,Regular Season,Home,W 2–1,Philadelphia,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,11,19,57.9,24,4,62.5,44.3,7,57.1,48.1,9,0,0.0,1,17.0,Match Report,b3b21a11,W,2019,False
+69,2019-08-17,Sat,MLS,Regular Season,Away,L 0–2,Philadelphia,Chicago Fire,Y,GK,90,2,2,1,50.0,0,2.2,1,1,0,0,5,9,55.6,22,5,36.4,34.1,1,100.0,68.0,7,0,0.0,1,16.4,Match Report,b3b21a11,L,2019,False
+70,2019-08-24,Sat,MLS,Regular Season,Home,W 3–1,Philadelphia,D.C. United,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,9,17,52.9,25,5,48.0,39.1,5,100.0,53.8,12,0,0.0,2,16.3,Match Report,b3b21a11,W,2019,False
+71,2019-08-31,Sat,MLS,Regular Season,Home,W 3–1,Philadelphia,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,10,19,52.6,22,3,59.1,42.0,8,75.0,51.3,6,1,16.7,0,14.6,Match Report,b3b21a11,W,2019,False
+72,2019-09-14,Sat,MLS,Regular Season,Home,D 1–1,Philadelphia,Los Angeles FC,Y,GK,90,4,1,3,75.0,0,1.9,0,0,0,0,13,22,59.1,26,8,57.7,41.1,12,58.3,46.2,3,0,0.0,0,12.2,Match Report,b3b21a11,D,2019,False
+73,2019-09-22,Sun,MLS,Regular Season,Away,L 0–2,Philadelphia,NY Red Bulls,Y,GK,90,7,2,5,71.4,0,1.9,0,0,0,0,4,9,44.4,25,3,20.0,29.0,9,44.4,44.1,10,1,10.0,3,13.3,Match Report,b3b21a11,L,2019,False
+74,2019-09-25,Wed,MLS,Regular Season,Away,W 2–1,Philadelphia,San Jose,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,7,20,35.0,20,8,60.0,41.4,9,88.9,63.7,9,0,0.0,0,9.4,Match Report,b3b21a11,W,2019,False
+75,2019-09-29,Sun,MLS,Regular Season,Away,L 0–2,Philadelphia,Columbus Crew,Y,GK,90,7,2,5,71.4,0,0.7,0,0,0,0,3,8,37.5,21,3,28.6,31.2,7,28.6,37.6,9,0,0.0,2,24.7,Match Report,b3b21a11,L,2019,False
+76,2019-10-06,Sun,MLS,Regular Season,Home,L 1–2,Philadelphia,NYCFC,Y,GK,90,2,2,1,0.0,0,1.0,0,0,0,0,4,8,50.0,17,5,29.4,32.8,6,50.0,41.0,5,0,0.0,0,9.3,Match Report,b3b21a11,L,2019,False
+77,2019-10-20,Sun,MLS,Round 1,Home,W 4–3,Philadelphia,NY Red Bulls,Y,GK,120,5,3,2,40.0,0,1.9,0,0,0,0,4,13,30.8,26,9,34.6,34.3,9,44.4,40.1,9,0,0.0,1,14.1,Match Report,b3b21a11,W,2019,False
+78,2019-10-24,Thu,MLS,Conference Semifinals,Away,L 0–2,Philadelphia,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,3,9,33.3,17,8,35.3,34.3,4,75.0,51.3,6,0,0.0,0,9.1,Match Report,b3b21a11,L,2019,False
+79,2019-03-02,Sat,MLS,Regular Season,Away,W 3–1,Toronto FC,Philadelphia,Y,GK,90,2,1,2,100.0,0,1.6,1,1,0,0,4,18,22.2,16,4,75.0,50.4,9,66.7,43.8,9,0,0.0,1,14.9,Match Report,aa28a396,W,2019,True
+80,2019-03-17,Sun,MLS,Regular Season,Home,W 3–2,Toronto FC,New England,Y,GK,90,2,2,1,50.0,0,1.7,1,1,0,0,1,9,11.1,19,4,36.8,29.9,4,50.0,45.8,5,1,20.0,0,14.8,Match Report,aa28a396,W,2019,True
+81,2019-03-29,Fri,MLS,Regular Season,Home,W 4–0,Toronto FC,NYCFC,Y,GK,90,3,0,3,100.0,1,1.4,0,0,0,0,4,11,36.4,25,4,32.0,35.6,5,60.0,46.6,4,1,25.0,2,21.4,Match Report,aa28a396,W,2019,True
+82,2019-04-06,Sat,MLS,Regular Season,Home,D 2–2,Toronto FC,Chicago Fire,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,4,5,80.0,14,8,14.3,26.4,6,50.0,48.7,5,0,0.0,1,19.0,Match Report,aa28a396,D,2019,True
+83,2019-04-19,Fri,MLS,Regular Season,Home,W 4–3,Toronto FC,Minnesota Utd,Y,GK,90,5,3,3,60.0,0,3.1,1,1,0,0,3,13,23.1,21,2,33.3,33.1,8,75.0,53.8,9,0,0.0,1,12.7,Match Report,aa28a396,W,2019,True
+84,2019-05-08,Wed,MLS,Regular Season,Away,L 0–2,Toronto FC,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,1.8,0,0,0,0,8,12,66.7,19,8,36.8,29.5,10,50.0,42.6,9,3,33.3,2,20.7,Match Report,aa28a396,L,2019,True
+85,2019-09-29,Sun,MLS,Regular Season,Away,D 2–2,Toronto FC,Chicago Fire,N,GK,16,2,1,1,50.0,0,0.8,0,0,0,0,0,7,0.0,6,0,83.3,70.8,2,100.0,69.5,3,0,0.0,0,3.5,Match Report,aa28a396,D,2019,False
+86,2019-03-02,Sat,MLS,Regular Season,Away,W 2–1,Montreal Impact,San Jose,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,6,19,31.6,26,5,42.3,42.0,8,100.0,61.5,15,0,0.0,0,7.8,Match Report,69a57596,W,2019,True
+87,2019-03-09,Sat,MLS,Regular Season,Away,L 1–2,Montreal Impact,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,7,14,50.0,27,7,29.6,32.4,8,75.0,59.5,8,0,0.0,1,16.4,Match Report,69a57596,L,2019,True
+88,2019-03-16,Sat,MLS,Regular Season,Away,W 3–1,Montreal Impact,Orlando City,Y,GK,90,2,1,1,50.0,0,1.4,0,0,0,0,8,24,33.3,22,4,63.6,46.5,10,100.0,63.4,9,0,0.0,0,14.5,Match Report,69a57596,W,2019,True
+89,2019-03-30,Sat,MLS,Regular Season,Away,L 1–7,Montreal Impact,Sporting KC,Y,GK,90,9,7,2,22.2,0,4.2,0,0,0,0,8,16,50.0,30,9,36.7,34.4,5,100.0,61.0,3,0,0.0,1,15.0,Match Report,69a57596,L,2019,True
+90,2019-04-06,Sat,MLS,Regular Season,Away,D 0–0,Montreal Impact,NYCFC,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,9,32,28.1,26,2,80.8,51.4,11,100.0,65.5,9,1,11.1,1,11.5,Match Report,69a57596,D,2019,True
+91,2019-04-09,Tue,MLS,Regular Season,Away,D 0–0,Montreal Impact,D.C. United,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,5,25,20.0,35,4,42.9,37.7,11,90.9,60.8,8,1,12.5,1,13.8,Match Report,69a57596,D,2019,True
+92,2019-04-13,Sat,MLS,Regular Season,Home,W 1–0,Montreal Impact,Columbus Crew,Y,GK,90,5,0,5,100.0,1,1.0,0,0,0,0,6,15,40.0,29,4,44.8,37.6,7,28.6,33.4,3,0,0.0,1,16.0,Match Report,69a57596,W,2019,True
+93,2019-04-20,Sat,MLS,Regular Season,Away,L 0–3,Montreal Impact,Philadelphia,Y,GK,90,2,3,0,0.0,0,1.7,1,1,0,0,5,10,50.0,24,5,33.3,34.9,5,40.0,37.4,3,0,0.0,3,18.4,Match Report,69a57596,L,2019,True
+94,2019-04-24,Wed,MLS,Regular Season,Away,W 3–0,Montreal Impact,New England,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,3,15,20.0,21,3,61.9,45.7,4,50.0,45.8,5,1,20.0,0,13.0,Match Report,69a57596,W,2019,True
+95,2019-04-28,Sun,MLS,Regular Season,Home,W 1–0,Montreal Impact,Chicago Fire,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,7,16,43.8,25,5,56.0,39.3,2,100.0,62.0,2,0,0.0,0,13.3,Match Report,69a57596,W,2019,True
+96,2019-05-04,Sat,MLS,Regular Season,Home,L 0–2,Montreal Impact,NYCFC,Y,GK,90,5,2,3,60.0,0,1.5,0,0,0,0,6,17,35.3,20,7,70.0,45.4,5,60.0,43.0,4,0,0.0,0,15.1,Match Report,69a57596,L,2019,True
+97,2019-05-08,Wed,MLS,Regular Season,Away,W 2–1,Montreal Impact,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,5,25,20.0,29,7,69.0,50.5,5,100.0,62.8,6,0,0.0,1,17.9,Match Report,69a57596,W,2019,True
+98,2019-05-11,Sat,MLS,Regular Season,Away,L 1–2,Montreal Impact,FC Cincinnati,Y,GK,90,2,2,0,0.0,0,1.4,0,0,0,0,1,4,25.0,16,5,18.8,26.2,4,25.0,33.3,1,0,0.0,2,20.7,Match Report,69a57596,L,2019,True
+99,2019-05-18,Sat,MLS,Regular Season,Home,D 0–0,Montreal Impact,New England,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,3,5,60.0,18,5,16.7,32.1,3,66.7,54.3,8,0,0.0,0,14.5,Match Report,69a57596,D,2019,True
+100,2019-05-24,Fri,MLS,Regular Season,Away,L 2–4,Montreal Impact,Los Angeles FC,Y,GK,90,10,4,6,60.0,0,3.0,0,0,0,0,11,23,47.8,35,8,51.4,41.3,8,62.5,45.1,1,0,0.0,0,12.7,Match Report,69a57596,L,2019,True
+101,2019-05-29,Wed,MLS,Regular Season,Home,W 2–1,Montreal Impact,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,7,18,38.9,25,5,52.0,40.0,6,83.3,53.8,5,1,20.0,0,12.0,Match Report,69a57596,W,2019,True
+102,2019-06-01,Sat,MLS,Regular Season,Home,L 0–3,Montreal Impact,Orlando City,Y,GK,90,4,3,2,50.0,0,2.2,1,1,0,0,7,9,77.8,19,8,31.6,31.8,5,60.0,45.4,3,1,33.3,0,12.3,Match Report,69a57596,L,2019,True
+103,2019-06-05,Wed,MLS,Regular Season,Home,W 2–1,Montreal Impact,Seattle,Y*,GK,90,0,1,0,,0,1.0,1,1,0,0,2,7,28.6,17,1,29.4,37.8,4,50.0,48.0,5,0,0.0,1,17.7,Match Report,69a57596,W,2019,True
+104,2019-06-26,Wed,MLS,Regular Season,Home,W 2–1,Montreal Impact,Portland Timbers,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,5,14,35.7,20,3,45.0,39.7,5,100.0,54.2,2,1,50.0,0,8.0,Match Report,69a57596,W,2019,True
+105,2019-06-29,Sat,MLS,Regular Season,Away,L 1–2,Montreal Impact,Atlanta Utd,Y,GK,90,4,2,2,50.0,0,1.6,0,0,0,0,7,22,31.8,26,8,61.5,44.3,11,54.5,49.5,9,2,22.2,1,14.5,Match Report,69a57596,L,2019,True
+106,2019-07-06,Sat,MLS,Regular Season,Home,L 2–3,Montreal Impact,Minnesota Utd,Y,GK,90,4,3,2,50.0,0,1.8,1,1,0,0,6,10,60.0,22,6,27.3,31.1,6,66.7,60.2,7,0,0.0,0,15.6,Match Report,69a57596,L,2019,True
+107,2019-07-13,Sat,MLS,Regular Season,Home,L 0–2,Montreal Impact,Toronto FC,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,7,15,46.7,24,5,50.0,40.1,7,42.9,37.1,9,0,0.0,0,15.2,Match Report,69a57596,L,2019,True
+108,2019-07-20,Sat,MLS,Regular Season,Away,L 1–2,Montreal Impact,Columbus Crew,Y,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,8,11,72.7,21,5,38.1,33.3,12,25.0,31.2,6,0,0.0,1,16.0,Match Report,69a57596,L,2019,True
+109,2019-07-27,Sat,MLS,Regular Season,Home,W 4–0,Montreal Impact,Philadelphia,Y,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,9,20,45.0,22,3,50.0,41.7,11,81.8,54.2,8,1,12.5,1,15.7,Match Report,69a57596,W,2019,True
+110,2019-08-03,Sat,MLS,Regular Season,Away,L 3–6,Montreal Impact,Colorado Rapids,Y,GK,90,6,6,2,16.7,0,4.0,1,1,0,0,5,14,35.7,17,5,52.9,39.5,11,45.5,47.4,10,1,10.0,0,12.4,Match Report,69a57596,L,2019,False
+111,2019-08-10,Sat,MLS,Regular Season,Away,L 2–3,Montreal Impact,Chicago Fire,Y,GK,90,4,3,1,25.0,0,2.0,0,0,0,0,2,6,33.3,19,8,26.3,30.7,2,50.0,40.5,8,1,12.5,0,13.6,Match Report,69a57596,L,2019,False
+112,2019-08-17,Sat,MLS,Regular Season,Home,D 3–3,Montreal Impact,FC Dallas,Y,GK,90,6,3,4,66.7,0,2.8,1,1,0,0,8,16,50.0,25,7,36.0,32.9,8,87.5,56.1,6,0,0.0,0,9.5,Match Report,69a57596,D,2019,False
+113,2019-08-24,Sat,MLS,Regular Season,Away,L 1–2,Montreal Impact,Toronto FC,Y,GK,90,5,2,3,60.0,0,1.0,0,0,0,0,9,22,40.9,36,12,47.2,40.2,11,45.5,46.9,14,6,42.9,2,14.7,Match Report,69a57596,L,2019,False
+114,2019-08-28,Wed,MLS,Regular Season,Home,W 2–1,Montreal Impact,Vancouver,Y,GK,90,6,1,5,83.3,0,2.4,1,0,1,0,3,10,30.0,15,3,40.0,45.1,4,100.0,56.5,6,1,16.7,1,16.4,Match Report,69a57596,W,2019,False
+115,2019-08-31,Sat,MLS,Regular Season,Home,L 0–3,Montreal Impact,D.C. United,Y,GK,90,4,3,1,25.0,0,1.7,0,0,0,0,4,8,50.0,22,4,27.3,34.3,5,40.0,39.0,4,0,0.0,1,16.8,Match Report,69a57596,L,2019,False
+116,2019-09-14,Sat,MLS,Regular Season,Home,L 0–1,Montreal Impact,FC Cincinnati,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,7,13,53.8,17,5,47.1,39.9,7,71.4,51.7,3,0,0.0,2,16.9,Match Report,69a57596,L,2019,False
+117,2019-09-21,Sat,MLS,Regular Season,Away,L 1–2,Montreal Impact,LA Galaxy,Y,GK,90,12,2,10,83.3,0,3.2,0,0,0,0,5,9,55.6,14,8,21.4,26.6,8,75.0,51.5,18,2,11.1,0,8.6,Match Report,69a57596,L,2019,False
+118,2019-04-27,Sat,MLS,Regular Season,Away,W 2–1,Portland Timbers,Toronto FC,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,6,13,46.2,30,7,36.7,34.0,4,50.0,48.8,15,1,6.7,1,19.3,Match Report,ed6320b7,W,2019,True
+119,2019-05-04,Sat,MLS,Regular Season,Away,W 2–1,Portland Timbers,Real Salt Lake,Y,GK,90,6,1,5,83.3,0,1.5,1,0,1,0,8,20,40.0,30,8,46.7,39.4,10,60.0,47.6,10,1,10.0,2,18.9,Match Report,ed6320b7,W,2019,True
+120,2019-05-10,Fri,MLS,Regular Season,Away,L 0–1,Portland Timbers,Vancouver,Y,GK,90,4,1,2,75.0,0,1.9,0,0,0,0,8,13,61.5,15,5,33.3,31.1,9,88.9,54.8,10,0,0.0,0,14.6,Match Report,ed6320b7,L,2019,True
+121,2019-05-25,Sat,MLS,Regular Season,Away,W 3–1,Portland Timbers,Philadelphia,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,17,35,48.6,30,4,70.0,50.3,16,87.5,55.9,18,2,11.1,0,16.0,Match Report,ed6320b7,W,2019,True
+122,2019-06-22,Sat,MLS,Regular Season,Home,W 4–0,Portland Timbers,Houston Dynamo,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,4,12,33.3,25,3,32.0,31.5,5,80.0,55.2,7,2,28.6,0,,Match Report,ed6320b7,W,2019,True
+123,2019-06-30,Sun,MLS,Regular Season,Home,W 1–0,Portland Timbers,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,8,24,33.3,26,3,61.5,46.6,10,80.0,61.1,9,1,11.1,1,17.3,Match Report,ed6320b7,W,2019,True
+124,2019-07-07,Sun,MLS,Regular Season,Away,W 1–0,Portland Timbers,NYCFC,Y,GK,90,5,0,5,100.0,1,0.4,0,0,0,0,10,30,33.3,27,9,74.1,46.9,10,100.0,68.7,16,1,6.3,1,11.0,Match Report,ed6320b7,W,2019,True
+125,2019-07-13,Sat,MLS,Regular Season,Home,D 2–2,Portland Timbers,Colorado Rapids,Y,GK,90,8,2,5,75.0,0,2.8,0,0,0,0,5,14,35.7,25,7,32.0,35.2,8,75.0,55.8,13,1,7.7,0,9.7,Match Report,ed6320b7,D,2019,True
+126,2019-07-18,Thu,MLS,Regular Season,Home,D 1–1,Portland Timbers,Orlando City,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,1,2,50.0,14,1,0.0,21.4,4,50.0,42.8,4,0,0.0,0,,Match Report,ed6320b7,D,2019,True
+127,2019-07-21,Sun,MLS,Regular Season,Away,W 2–1,Portland Timbers,Seattle,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,14,30,46.7,31,5,61.3,43.8,13,84.6,55.8,18,1,5.6,1,16.6,Match Report,ed6320b7,W,2019,True
+128,2019-07-27,Sat,MLS,Regular Season,Home,W 4–0,Portland Timbers,LA Galaxy,Y,GK,90,6,0,6,100.0,1,2.9,0,0,0,0,8,18,44.4,38,8,31.6,34.4,7,85.7,63.3,15,3,20.0,0,11.6,Match Report,ed6320b7,W,2019,True
+129,2019-08-04,Sun,MLS,Regular Season,Away,L 0–1,Portland Timbers,Minnesota Utd,Y,GK,90,3,1,3,100.0,0,1.2,1,1,0,0,7,17,41.2,29,10,34.5,37.9,11,63.6,52.5,9,1,11.1,1,14.5,Match Report,ed6320b7,L,2019,False
+130,2019-08-10,Sat,MLS,Regular Season,Home,W 3–1,Portland Timbers,Vancouver,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,10,13,76.9,24,7,29.2,29.5,12,50.0,41.5,16,1,6.3,0,16.3,Match Report,ed6320b7,W,2019,False
+131,2019-08-14,Wed,MLS,Regular Season,Home,W 3–2,Portland Timbers,Chicago Fire,Y,GK,90,2,2,0,0.0,0,1.3,0,0,0,0,4,5,80.0,21,3,9.5,26.8,6,50.0,50.3,7,1,14.3,0,7.0,Match Report,ed6320b7,W,2019,False
+132,2019-08-18,Sun,MLS,Regular Season,Home,L 0–2,Portland Timbers,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,4,12,33.3,14,3,35.7,34.9,14,50.0,45.5,12,0,0.0,0,13.7,Match Report,ed6320b7,L,2019,False
+133,2019-08-23,Fri,MLS,Regular Season,Home,L 1–2,Portland Timbers,Seattle,Y,GK,90,4,2,2,50.0,0,1.6,0,0,0,0,8,10,80.0,25,11,28.0,30.8,4,75.0,48.3,8,2,25.0,0,13.4,Match Report,ed6320b7,L,2019,False
+134,2019-08-31,Sat,MLS,Regular Season,Home,W 1–0,Portland Timbers,Real Salt Lake,Y,GK,90,6,0,6,100.0,1,0.9,0,0,0,0,7,19,36.8,28,7,46.4,41.9,10,60.0,50.0,9,1,11.1,0,13.8,Match Report,ed6320b7,W,2019,False
+135,2019-09-07,Sat,MLS,Regular Season,Home,W 2–1,Portland Timbers,Sporting KC,Y,GK,90,5,1,3,80.0,0,0.7,0,0,0,0,5,9,55.6,24,6,12.5,28.5,9,66.7,52.0,13,3,23.1,1,15.6,Match Report,ed6320b7,W,2019,False
+136,2019-09-15,Sun,MLS,Regular Season,Home,L 0–1,Portland Timbers,D.C. United,Y,GK,90,4,1,4,75.0,0,0.3,0,0,0,0,2,6,33.3,30,8,16.7,26.7,4,25.0,33.8,6,0,0.0,1,19.8,Match Report,ed6320b7,L,2019,False
+137,2019-09-18,Wed,MLS,Regular Season,Home,L 0–2,Portland Timbers,NY Red Bulls,Y,GK,90,4,2,3,75.0,0,2.7,1,1,0,0,5,9,55.6,20,7,20.0,27.2,11,45.5,39.4,11,0,0.0,0,9.8,Match Report,ed6320b7,L,2019,False
+138,2019-09-22,Sun,MLS,Regular Season,Home,D 0–0,Portland Timbers,Minnesota Utd,Y,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,2,6,33.3,28,15,7.1,27.4,15,26.7,37.6,15,0,0.0,0,10.6,Match Report,ed6320b7,D,2019,False
+139,2019-09-25,Wed,MLS,Regular Season,Home,D 2–2,Portland Timbers,New England,Y,GK,90,6,2,5,83.3,0,2.7,1,1,0,0,12,21,57.1,19,4,52.6,40.6,11,100.0,58.7,16,0,0.0,0,15.0,Match Report,ed6320b7,D,2019,False
+140,2019-09-29,Sun,MLS,Regular Season,Away,D 2–2,Portland Timbers,Sporting KC,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,8,11,72.7,25,8,16.0,27.4,9,77.8,48.7,5,0,0.0,0,12.0,Match Report,ed6320b7,D,2019,False
+141,2019-10-06,Sun,MLS,Regular Season,Home,W 3–1,Portland Timbers,San Jose,Y,GK,90,4,1,3,75.0,0,0.6,0,0,0,0,8,18,44.4,25,6,56.0,47.9,4,100.0,68.5,15,0,0.0,1,13.0,Match Report,ed6320b7,W,2019,False
+142,2019-10-19,Sat,MLS,Round 1,Away,L 1–2,Portland Timbers,Real Salt Lake,Y,GK,90,7,2,5,71.4,0,1.6,0,0,0,0,13,23,56.5,32,6,50.0,41.8,7,100.0,53.3,7,1,14.3,5,20.6,Match Report,ed6320b7,L,2019,False
+143,2019-03-23,Sat,MLS,Regular Season,Home,W 3–0,Philadelphia,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,2,10,20.0,20,7,40.0,36.9,2,100.0,63.5,11,2,18.2,1,12.3,Match Report,5c07e176,W,2019,True
+144,2019-05-01,Wed,MLS,Regular Season,Home,W 2–0,Philadelphia,FC Cincinnati,N,GK,50,2,0,2,100.0,1,0.4,0,0,0,0,4,14,28.6,10,1,70.0,47.7,7,100.0,63.1,3,0,0.0,0,14.3,Match Report,5c07e176,W,2019,True
+145,2019-05-04,Sat,MLS,Regular Season,Home,W 6–1,Philadelphia,New England,Y,GK,90,4,1,2,75.0,0,1.8,0,0,0,0,6,16,37.5,17,5,47.1,38.1,8,100.0,65.1,10,2,20.0,0,12.3,Match Report,5c07e176,W,2019,True
+146,2019-05-11,Sat,MLS,Regular Season,Away,W 2–1,Philadelphia,Toronto FC,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,11,24,45.8,31,7,58.1,46.7,6,100.0,67.3,12,1,8.3,0,7.4,Match Report,5c07e176,W,2019,True
+147,2019-03-02,Sat,MLS,Regular Season,Home,L 2–3,Vancouver,Minnesota Utd,Y,GK,90,3,3,2,33.3,0,1.3,1,1,0,0,9,20,45.0,20,3,50.0,41.2,15,66.7,54.5,11,2,18.2,0,9.6,Match Report,ea42e480,L,2019,True
+148,2019-03-09,Sat,MLS,Regular Season,Away,L 0–1,Vancouver,Real Salt Lake,Y,GK,90,5,1,4,100.0,0,2.0,1,1,0,0,6,22,27.3,25,2,56.0,41.6,11,72.7,53.9,7,1,14.3,2,16.2,Match Report,ea42e480,L,2019,True
+149,2019-03-16,Sat,MLS,Regular Season,Away,L 2–3,Vancouver,Houston Dynamo,Y,GK,90,5,3,3,60.0,0,2.8,1,1,0,0,7,17,41.2,22,2,59.1,41.0,11,36.4,36.1,7,0,0.0,0,,Match Report,ea42e480,L,2019,True
+150,2019-03-30,Sat,MLS,Regular Season,Home,D 0–0,Vancouver,Seattle,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,6,18,33.3,28,8,28.6,31.6,14,71.4,52.6,16,2,12.5,1,11.7,Match Report,ea42e480,D,2019,True
+151,2019-04-05,Fri,MLS,Regular Season,Home,L 0–2,Vancouver,LA Galaxy,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,13,23,56.5,23,7,43.5,35.5,14,92.9,60.4,17,3,17.6,0,12.3,Match Report,ea42e480,L,2019,True
+152,2019-04-12,Fri,MLS,Regular Season,Away,D 1–1,Vancouver,Chicago Fire,Y,GK,90,5,1,5,100.0,0,1.6,1,1,0,0,4,19,21.1,20,5,45.0,40.1,14,71.4,47.7,20,2,10.0,2,17.8,Match Report,ea42e480,D,2019,True
+153,2019-04-17,Wed,MLS,Regular Season,Home,W 1–0,Vancouver,Los Angeles FC,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,10,22,45.5,24,4,66.7,42.2,14,42.9,43.2,6,1,16.7,0,12.4,Match Report,ea42e480,W,2019,True
+154,2019-04-27,Sat,MLS,Regular Season,Home,D 1–1,Vancouver,Philadelphia,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,10,14,71.4,21,6,42.9,38.5,14,35.7,37.0,9,0,0.0,2,15.0,Match Report,ea42e480,D,2019,True
+155,2019-05-03,Fri,MLS,Regular Season,Away,W 3–2,Vancouver,Colorado Rapids,Y,GK,90,1,2,1,100.0,0,2.0,2,2,0,0,8,15,53.3,23,5,43.5,40.7,15,33.3,39.6,17,0,0.0,0,9.3,Match Report,ea42e480,W,2019,True
+156,2019-05-10,Fri,MLS,Regular Season,Home,W 1–0,Vancouver,Portland Timbers,Y,GK,90,5,0,4,100.0,1,1.2,0,0,0,0,6,19,31.6,20,5,45.0,37.3,13,76.9,56.0,20,0,0.0,0,9.5,Match Report,ea42e480,W,2019,True
+157,2019-05-15,Wed,MLS,Regular Season,Home,L 0–1,Vancouver,Atlanta Utd,Y,GK,90,6,1,6,100.0,0,1.5,1,1,0,0,2,4,50.0,19,1,10.5,30.0,10,20.0,35.4,7,0,0.0,2,20.0,Match Report,ea42e480,L,2019,True
+158,2019-05-18,Sat,MLS,Regular Season,Away,D 1–1,Vancouver,Sporting KC,Y,GK,90,7,1,6,85.7,0,1.2,0,0,0,0,10,13,76.9,37,5,35.1,32.4,7,0.0,24.9,10,1,10.0,0,10.0,Match Report,ea42e480,D,2019,True
+159,2019-05-25,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,FC Dallas,Y,GK,90,6,1,5,83.3,0,0.8,0,0,0,0,7,19,36.8,24,2,45.8,40.0,17,47.1,45.5,20,2,10.0,0,6.0,Match Report,ea42e480,W,2019,True
+160,2019-05-31,Fri,MLS,Regular Season,Home,D 1–1,Vancouver,Toronto FC,Y,GK,90,5,1,4,80.0,0,0.6,0,0,0,0,6,10,60.0,35,12,22.9,30.1,8,25.0,35.4,18,0,0.0,0,8.7,Match Report,ea42e480,D,2019,True
+161,2019-07-06,Sat,MLS,Regular Season,Away,L 1–6,Vancouver,Los Angeles FC,Y,GK,90,14,6,8,57.1,0,3.6,0,0,0,0,10,20,50.0,28,5,50.0,41.5,10,60.0,52.4,10,0,0.0,1,11.8,Match Report,ea42e480,L,2019,True
+162,2019-07-17,Wed,MLS,Regular Season,Away,L 0–4,Vancouver,New England,Y,GK,90,12,4,8,66.7,0,3.4,0,0,0,0,5,18,27.8,25,6,40.0,36.8,14,57.1,48.7,12,0,0.0,0,8.7,Match Report,ea42e480,L,2019,True
+163,2019-07-20,Sat,MLS,Regular Season,Home,L 1–3,Vancouver,San Jose,Y,GK,90,10,3,7,70.0,0,2.9,0,0,0,0,9,22,40.9,19,3,63.2,42.3,13,76.9,55.9,14,1,7.1,0,9.0,Match Report,ea42e480,L,2019,True
+164,2019-07-27,Sat,MLS,Regular Season,Away,D 0–0,Vancouver,Minnesota Utd,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,4,25,16.0,34,7,44.1,40.3,12,83.3,59.3,27,3,11.1,0,8.4,Match Report,ea42e480,D,2019,True
+165,2019-08-03,Sat,MLS,Regular Season,Away,W 2–1,Vancouver,FC Cincinnati,Y,GK,90,3,1,1,66.7,0,0.7,0,0,0,0,11,25,44.0,30,3,43.3,37.7,18,66.7,51.7,18,0,0.0,0,7.7,Match Report,ea42e480,W,2019,False
+166,2019-08-10,Sat,MLS,Regular Season,Away,L 1–3,Vancouver,Portland Timbers,Y,GK,90,8,3,5,62.5,0,1.5,0,0,0,0,9,17,52.9,21,7,42.9,39.5,8,100.0,70.1,9,2,22.2,0,8.2,Match Report,ea42e480,L,2019,False
+167,2019-08-17,Sat,MLS,Regular Season,Home,W 1–0,Vancouver,D.C. United,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,19,34,55.9,31,5,74.2,46.8,12,91.7,62.2,17,2,11.8,0,8.6,Match Report,ea42e480,W,2019,False
+168,2019-08-24,Sat,MLS,Regular Season,Away,L 1–3,Vancouver,San Jose,Y,GK,90,18,3,14,83.3,0,4.4,0,0,0,0,9,19,47.4,16,3,75.0,50.7,13,53.8,45.3,21,3,14.3,1,25.0,Match Report,ea42e480,L,2019,False
+169,2019-08-28,Wed,MLS,Regular Season,Away,L 1–2,Vancouver,Montreal Impact,Y,GK,90,8,2,7,75.0,0,2.2,0,0,0,0,4,10,40.0,27,7,29.6,29.4,9,22.2,30.0,13,0,0.0,0,18.0,Match Report,ea42e480,L,2019,False
+170,2019-08-31,Sat,MLS,Regular Season,Home,L 1–3,Vancouver,NYCFC,Y,GK,90,5,3,2,40.0,0,1.8,0,0,0,0,9,18,50.0,22,3,68.2,43.5,6,50.0,47.3,2,0,0.0,0,7.0,Match Report,ea42e480,L,2019,False
+171,2019-09-29,Sun,MLS,Regular Season,Away,W 4–3,Vancouver,LA Galaxy,Y,GK,90,8,3,5,62.5,0,2.9,0,0,0,0,12,25,48.0,21,6,66.7,46.8,12,91.7,59.2,34,5,14.7,0,7.3,Match Report,ea42e480,W,2019,False
+172,2019-10-06,Sun,MLS,Regular Season,Home,L 0–1,Vancouver,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,8,14,57.1,22,1,36.4,32.6,7,85.7,48.9,5,0,0.0,1,14.7,Match Report,ea42e480,L,2019,False
+173,2019-03-30,Sat,MLS,Regular Season,Home,W 2–1,New England,Minnesota Utd,Y,GK,90,2,1,1,100.0,0,1.4,1,1,0,0,2,10,20.0,13,4,46.2,39.2,5,80.0,52.4,5,0,0.0,2,18.2,Match Report,aa133046,W,2019,True
+174,2019-04-06,Sat,MLS,Regular Season,Away,L 0–1,New England,Columbus Crew,Y,GK,90,1,1,0,0.0,0,0.8,0,0,0,0,6,11,54.5,19,4,47.4,38.5,6,33.3,39.3,6,0,0.0,2,19.7,Match Report,aa133046,L,2019,True
+175,2019-04-13,Sat,MLS,Regular Season,Home,L 0–2,New England,Atlanta Utd,Y,GK,90,6,2,4,66.7,0,1.7,0,0,0,0,5,7,71.4,19,5,26.3,33.8,6,33.3,35.3,3,0,0.0,1,14.3,Match Report,aa133046,L,2019,True
+176,2019-04-20,Sat,MLS,Regular Season,Home,W 1–0,New England,NY Red Bulls,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,7,14,50.0,32,12,28.1,34.3,7,71.4,54.1,4,1,25.0,1,14.9,Match Report,aa133046,W,2019,True
+177,2019-04-24,Wed,MLS,Regular Season,Home,L 0–3,New England,Montreal Impact,Y,GK,90,8,3,5,62.5,0,3.6,0,0,0,0,6,12,50.0,17,6,35.3,37.9,6,100.0,61.2,5,0,0.0,0,13.3,Match Report,aa133046,L,2019,True
+178,2019-04-27,Sat,MLS,Regular Season,Away,D 4–4,New England,Sporting KC,Y,GK,90,6,4,3,50.0,0,4.2,1,1,0,0,8,27,29.6,10,1,80.0,56.3,19,100.0,67.7,21,0,0.0,2,18.0,Match Report,aa133046,D,2019,True
+179,2019-05-04,Sat,MLS,Regular Season,Away,L 1–6,New England,Philadelphia,Y,GK,90,15,6,9,60.0,0,4.5,0,0,0,0,5,8,62.5,22,7,27.3,31.3,3,66.7,43.7,3,0,0.0,4,16.4,Match Report,aa133046,L,2019,True
+180,2019-03-02,Sat,MLS,Regular Season,Home,L 1–2,San Jose,Montreal Impact,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,3,6,50.0,13,1,30.8,33.3,8,25.0,32.8,3,0,0.0,0,19.0,Match Report,6904a59a,L,2019,True
+181,2019-03-09,Sat,MLS,Regular Season,Home,L 0–3,San Jose,Minnesota Utd,Y,GK,90,5,3,4,60.0,0,2.1,1,1,0,0,2,6,33.3,27,1,22.2,28.0,6,0.0,20.0,2,0,0.0,0,17.7,Match Report,6904a59a,L,2019,True
+182,2019-03-16,Sat,MLS,Regular Season,Away,L 1–4,San Jose,NY Red Bulls,Y,GK,90,6,4,2,33.3,0,3.2,0,0,0,0,9,25,36.0,35,6,65.7,43.6,9,22.2,31.6,10,3,30.0,0,12.6,Match Report,6904a59a,L,2019,True
+183,2019-03-30,Sat,MLS,Regular Season,Home,L 0–5,San Jose,Los Angeles FC,Y,GK,90,9,5,4,44.4,0,4.0,0,0,0,0,6,12,50.0,34,11,29.4,32.2,10,20.0,30.5,8,1,12.5,2,16.1,Match Report,6904a59a,L,2019,True
+184,2019-04-06,Sat,MLS,Regular Season,Home,W 3–0,San Jose,Portland Timbers,Y,GK,90,3,0,3,100.0,1,1.1,1,0,1,0,7,17,41.2,26,5,46.2,40.9,7,71.4,50.9,11,1,9.1,0,13.5,Match Report,6904a59a,W,2019,True
+185,2019-04-13,Sat,MLS,Regular Season,Away,L 1–2,San Jose,Houston Dynamo,Y,GK,90,7,2,5,71.4,0,2.7,1,0,0,1,7,14,50.0,24,1,45.8,35.7,7,42.9,37.3,2,0,0.0,0,9.0,Match Report,6904a59a,L,2019,True
+186,2019-04-20,Sat,MLS,Regular Season,Home,W 4–1,San Jose,Sporting KC,Y,GK,90,6,1,6,100.0,0,3.0,2,1,0,1,15,27,55.6,42,4,45.2,38.5,14,57.1,40.6,7,1,14.3,0,21.0,Match Report,6904a59a,W,2019,True
+187,2019-04-24,Wed,MLS,Regular Season,Away,D 2–2,San Jose,Seattle,Y,GK,90,8,2,6,75.0,0,1.8,0,0,0,0,6,19,31.6,27,4,37.0,34.6,9,100.0,56.9,9,0,0.0,0,8.8,Match Report,6904a59a,D,2019,True
+188,2019-04-27,Sat,MLS,Regular Season,Away,D 0–0,San Jose,FC Dallas,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,4,6,66.7,37,8,13.5,25.7,9,11.1,29.7,2,0,0.0,0,14.6,Match Report,6904a59a,D,2019,True
+189,2019-05-04,Sat,MLS,Regular Season,Home,W 1–0,San Jose,FC Cincinnati,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,7,22,31.8,36,6,38.9,36.1,9,88.9,58.4,10,1,10.0,0,7.7,Match Report,6904a59a,W,2019,True
+190,2019-05-11,Sat,MLS,Regular Season,Away,L 1–3,San Jose,New England,Y,GK,90,2,3,0,0.0,0,2.1,1,1,0,0,2,7,28.6,17,1,17.6,26.9,10,40.0,36.9,3,0,0.0,0,6.0,Match Report,6904a59a,L,2019,True
+191,2019-05-18,Sat,MLS,Regular Season,Home,W 4–1,San Jose,Chicago Fire,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,4,8,50.0,31,1,22.6,30.4,11,9.1,30.4,6,0,0.0,0,15.3,Match Report,6904a59a,W,2019,True
+192,2019-05-26,Sun,MLS,Regular Season,Away,W 2–1,San Jose,Toronto FC,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,5,9,55.6,20,2,35.0,33.2,11,18.2,32.0,4,1,25.0,0,10.0,Match Report,6904a59a,W,2019,True
+193,2019-06-01,Sat,MLS,Regular Season,Away,D 1–1,San Jose,D.C. United,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,6,15,40.0,26,1,30.8,34.8,10,70.0,47.3,5,0,0.0,0,12.5,Match Report,6904a59a,D,2019,True
+194,2019-06-08,Sat,MLS,Regular Season,Home,D 2–2,San Jose,FC Dallas,Y,GK,90,2,2,1,0.0,0,0.2,0,0,0,0,2,5,40.0,28,4,17.9,25.9,4,0.0,25.8,2,0,0.0,0,9.5,Match Report,6904a59a,D,2019,True
+195,2019-06-26,Wed,MLS,Regular Season,Home,W 2–0,San Jose,Houston Dynamo,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,1,14,7.1,26,3,53.8,41.7,10,0.0,28.0,4,0,0.0,0,16.0,Match Report,6904a59a,W,2019,True
+196,2019-06-29,Sat,MLS,Regular Season,Home,W 3–0,San Jose,LA Galaxy,Y,GK,90,6,0,6,100.0,1,2.0,0,0,0,0,7,23,30.4,29,4,55.2,41.8,11,63.6,49.4,10,2,20.0,0,4.0,Match Report,6904a59a,W,2019,True
+197,2019-07-03,Wed,MLS,Regular Season,Away,L 1–3,San Jose,Minnesota Utd,Y,GK,90,4,3,1,25.0,0,2.5,0,0,0,0,3,5,60.0,19,2,21.1,29.6,6,16.7,29.5,6,1,16.7,0,11.0,Match Report,6904a59a,L,2019,True
+198,2019-07-06,Sat,MLS,Regular Season,Home,W 1–0,San Jose,Real Salt Lake,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,9,18,50.0,23,3,47.8,40.3,10,70.0,48.1,9,0,0.0,0,13.0,Match Report,6904a59a,W,2019,True
+199,2019-07-12,Fri,MLS,Regular Season,Away,W 3–1,San Jose,LA Galaxy,Y,GK,90,1,1,0,0.0,0,0.8,0,0,0,0,4,11,36.4,12,2,58.3,42.2,4,100.0,59.5,3,0,0.0,0,9.0,Match Report,6904a59a,W,2019,True
+200,2019-07-20,Sat,MLS,Regular Season,Away,W 3–1,San Jose,Vancouver,Y,GK,90,1,1,0,0.0,0,0.6,0,0,0,0,5,15,33.3,21,1,47.6,41.3,7,71.4,48.9,4,1,25.0,0,10.0,Match Report,6904a59a,W,2019,True
+201,2019-07-27,Sat,MLS,Regular Season,Home,W 3–1,San Jose,Colorado Rapids,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,8,18,44.4,29,2,41.4,37.5,7,85.7,52.7,4,0,0.0,0,8.0,Match Report,6904a59a,W,2019,True
+202,2019-08-03,Sat,MLS,Regular Season,Home,D 1–1,San Jose,Columbus Crew,Y,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,2,10,20.0,31,2,16.1,29.1,8,62.5,58.6,5,0,0.0,0,12.8,Match Report,6904a59a,D,2019,False
+203,2019-08-10,Sat,MLS,Regular Season,Away,L 1–2,San Jose,Colorado Rapids,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,2,6,33.3,18,4,27.8,30.0,8,12.5,33.8,5,0,0.0,0,13.8,Match Report,6904a59a,L,2019,False
+204,2019-08-17,Sat,MLS,Regular Season,Away,L 1–2,San Jose,Sporting KC,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,9,22,40.9,22,1,45.5,38.1,15,80.0,55.1,7,0,0.0,0,13.0,Match Report,6904a59a,L,2019,False
+205,2019-08-21,Wed,MLS,Regular Season,Away,L 0–4,San Jose,Los Angeles FC,Y,GK,90,10,4,7,70.0,0,4.5,1,1,0,0,9,12,75.0,21,3,52.4,40.3,3,33.3,37.7,1,0,0.0,0,13.5,Match Report,6904a59a,L,2019,False
+206,2019-08-24,Sat,MLS,Regular Season,Home,W 3–1,San Jose,Vancouver,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,2,7,28.6,22,3,22.7,27.5,7,28.6,40.1,4,0,0.0,0,14.4,Match Report,6904a59a,W,2019,False
+207,2019-08-31,Sat,MLS,Regular Season,Home,W 3–0,San Jose,Orlando City,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,6,10,60.0,24,4,29.2,36.3,6,50.0,38.5,8,0,0.0,0,10.0,Match Report,6904a59a,W,2019,False
+208,2019-09-11,Wed,MLS,Regular Season,Away,L 0–1,San Jose,Real Salt Lake,Y,GK,90,6,1,5,83.3,0,0.9,0,0,0,0,6,18,33.3,34,2,38.2,34.0,11,45.5,44.0,6,0,0.0,0,12.8,Match Report,6904a59a,L,2019,False
+209,2019-09-14,Sat,MLS,Regular Season,Away,L 1–2,San Jose,NYCFC,Y,GK,90,7,2,5,71.4,0,2.0,0,0,0,0,8,19,42.1,31,6,45.2,38.8,10,50.0,48.0,5,0,0.0,0,11.9,Match Report,6904a59a,L,2019,False
+210,2019-09-21,Sat,MLS,Regular Season,Away,L 1–3,San Jose,Atlanta Utd,Y,GK,90,12,3,9,75.0,0,3.6,0,0,0,0,9,30,30.0,28,1,67.9,50.0,13,84.6,57.2,6,0,0.0,0,10.8,Match Report,6904a59a,L,2019,False
+211,2019-09-25,Wed,MLS,Regular Season,Home,L 1–2,San Jose,Philadelphia,Y,GK,90,5,2,3,60.0,0,1.7,0,0,0,0,4,11,36.4,24,3,45.8,36.3,5,0.0,30.4,11,1,9.1,0,6.7,Match Report,6904a59a,L,2019,False
+212,2019-09-29,Sun,MLS,Regular Season,Home,L 0–1,San Jose,Seattle,Y,GK,90,6,1,5,83.3,0,1.3,0,0,0,0,4,6,66.7,27,7,22.2,32.4,4,0.0,29.0,8,0,0.0,0,14.2,Match Report,6904a59a,L,2019,False
+213,2019-10-06,Sun,MLS,Regular Season,Away,L 1–3,San Jose,Portland Timbers,Y,GK,90,7,3,4,57.1,0,2.3,0,0,0,0,10,14,71.4,27,1,40.7,34.3,11,27.3,33.6,10,0,0.0,0,12.3,Match Report,6904a59a,L,2019,False
+214,2019-07-17,Wed,MLS,Regular Season,Away,L 0–5,Houston Dynamo,Atlanta Utd,Y,GK,90,8,5,3,37.5,0,4.2,0,0,0,0,5,32,15.6,27,3,74.1,50.8,13,92.3,67.5,16,3,18.8,0,10.3,Match Report,8a37dd84,L,2019,True
+215,2019-07-20,Sat,MLS,Regular Season,Away,W 3–1,Houston Dynamo,Toronto FC,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,4,18,22.2,17,4,58.8,50.2,10,80.0,63.5,21,4,19.0,0,8.5,Match Report,8a37dd84,W,2019,True
+216,2019-07-27,Sat,MLS,Regular Season,Home,L 0–1,Houston Dynamo,Seattle,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,2,7,28.6,23,7,26.1,33.1,7,14.3,24.1,6,1,16.7,1,17.1,Match Report,8a37dd84,L,2019,True
+217,2019-08-03,Sat,MLS,Regular Season,Home,L 0–1,Houston Dynamo,Chicago Fire,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,6,15,40.0,23,5,43.5,36.6,9,55.6,51.2,6,1,16.7,4,21.9,Match Report,8a37dd84,L,2019,False
+218,2019-08-08,Thu,MLS,Regular Season,Away,L 2–3,Houston Dynamo,NYCFC,Y,GK,90,9,3,6,66.7,0,2.2,0,0,0,0,6,30,20.0,19,1,84.2,64.3,14,100.0,71.9,13,0,0.0,0,10.1,Match Report,8a37dd84,L,2019,False
+219,2019-09-29,Sun,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,0.6,0,0,0,0,9,21,42.9,22,3,63.6,45.0,10,70.0,50.8,7,0,0.0,2,19.5,Match Report,8a37dd84,L,2019,False
+220,2019-10-06,Sun,MLS,Regular Season,Home,W 4–2,Houston Dynamo,LA Galaxy,Y,GK,90,6,2,4,66.7,0,2.9,0,0,0,0,7,18,38.9,21,6,52.4,40.2,11,63.6,50.6,8,0,0.0,0,7.6,Match Report,8a37dd84,W,2019,False
+221,2019-10-06,Sun,MLS,Regular Season,Away,L 0–6,Sporting KC,FC Dallas,Y,GK,90,9,6,3,33.3,0,4.1,0,0,0,0,5,15,33.3,22,5,45.5,42.8,6,83.3,53.8,8,0,0.0,1,13.6,Match Report,bf8e9c98,L,2019,False
+222,2019-09-29,Sun,MLS,Regular Season,Home,D 1–1,Montreal Impact,Atlanta Utd,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,2,13,15.4,14,2,50.0,39.9,7,85.7,65.0,0,0,,0,11.7,Match Report,0d5c0218,D,2019,False
+223,2019-10-06,Sun,MLS,Regular Season,Home,W 3–0,Montreal Impact,NY Red Bulls,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,4,17,23.5,27,7,40.7,36.8,8,75.0,51.8,4,0,0.0,0,14.6,Match Report,0d5c0218,W,2019,False
+224,2019-04-20,Sat,MLS,Regular Season,Home,W 3–0,Philadelphia,Montreal Impact,N,GK,37,0,0,0,,1,0.0,0,0,0,0,1,9,11.1,8,1,62.5,43.0,4,100.0,56.8,3,0,0.0,1,15.7,Match Report,2f49476c,W,2019,True
+225,2019-04-27,Sat,MLS,Regular Season,Away,D 1–1,Philadelphia,Vancouver,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,11,17,64.7,21,8,52.4,43.5,7,85.7,56.7,5,0,0.0,0,11.1,Match Report,2f49476c,D,2019,True
+226,2019-05-01,Wed,MLS,Regular Season,Home,W 2–0,Philadelphia,FC Cincinnati,Y,GK,40,1,0,1,100.0,1,0.4,0,0,0,0,3,6,50.0,6,0,50.0,37.2,4,75.0,51.3,1,0,0.0,1,25.0,Match Report,2f49476c,W,2019,True
+227,2019-06-26,Wed,MLS,Regular Season,Away,D 1–1,Philadelphia,New England,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,11,17,64.7,20,6,40.0,38.5,11,81.8,54.6,9,0,0.0,1,13.7,Match Report,2f49476c,D,2019,True
+228,2019-06-29,Sat,MLS,Regular Season,Away,L 2–4,Philadelphia,NYCFC,Y,GK,90,7,4,5,71.4,0,3.9,2,2,0,0,4,25,16.0,22,4,81.8,55.1,7,100.0,68.9,5,0,0.0,0,11.0,Match Report,2f49476c,L,2019,True
+229,2019-07-03,Wed,MLS,Regular Season,Away,W 3–1,Philadelphia,Orlando City,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,0,3,0.0,13,3,7.7,26.9,6,33.3,33.5,3,1,33.3,0,15.0,Match Report,2f49476c,W,2019,True
+230,2019-03-02,Sat,MLS,Regular Season,Home,W 4–1,Seattle,FC Cincinnati,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,4,8,50.0,26,5,26.9,33.6,1,100.0,63.0,5,1,20.0,0,10.7,Match Report,1d0a0f3e,W,2019,True
+231,2019-03-09,Sat,MLS,Regular Season,Home,W 2–0,Seattle,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,8,18,44.4,24,4,62.5,44.2,10,30.0,34.6,6,0,0.0,1,11.3,Match Report,1d0a0f3e,W,2019,True
+232,2019-03-16,Sat,MLS,Regular Season,Away,W 4–2,Seattle,Chicago Fire,Y,GK,90,11,2,9,81.8,0,2.9,0,0,0,0,3,13,23.1,27,7,40.7,36.0,10,20.0,30.2,12,0,0.0,0,9.1,Match Report,1d0a0f3e,W,2019,True
+233,2019-03-30,Sat,MLS,Regular Season,Away,D 0–0,Seattle,Vancouver,Y,GK,90,3,0,3,100.0,1,1.3,0,0,0,0,2,5,40.0,11,5,27.3,36.2,5,40.0,33.2,11,2,18.2,0,11.0,Match Report,1d0a0f3e,D,2019,True
+234,2019-04-06,Sat,MLS,Regular Season,Home,W 1–0,Seattle,Real Salt Lake,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,7,12,58.3,17,4,58.8,43.8,4,50.0,47.0,6,2,33.3,1,19.7,Match Report,1d0a0f3e,W,2019,True
+235,2019-04-13,Sat,MLS,Regular Season,Home,W 3–2,Seattle,Toronto FC,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,2,10,20.0,23,2,34.8,37.1,6,33.3,36.5,3,0,0.0,1,15.2,Match Report,1d0a0f3e,W,2019,True
+236,2019-04-21,Sun,MLS,Regular Season,Away,L 1–4,Seattle,Los Angeles FC,Y,GK,90,8,4,4,50.0,0,3.2,0,0,0,0,10,22,45.5,26,6,69.2,42.3,6,66.7,55.8,4,0,0.0,0,11.9,Match Report,1d0a0f3e,L,2019,True
+237,2019-04-24,Wed,MLS,Regular Season,Home,D 2–2,Seattle,San Jose,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,5,13,38.5,30,7,26.7,33.7,9,55.6,44.6,8,0,0.0,0,13.5,Match Report,1d0a0f3e,D,2019,True
+238,2019-04-28,Sun,MLS,Regular Season,Home,D 1–1,Seattle,Los Angeles FC,Y,GK,90,5,1,4,80.0,0,1.9,0,0,0,0,14,37,37.8,17,1,94.1,55.2,21,100.0,65.1,8,0,0.0,0,9.8,Match Report,1d0a0f3e,D,2019,True
+239,2019-05-04,Sat,MLS,Regular Season,Away,D 1–1,Seattle,Minnesota Utd,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,6,20,30.0,19,4,68.4,49.8,9,77.8,51.6,10,0,0.0,0,8.2,Match Report,1d0a0f3e,D,2019,True
+240,2019-05-11,Sat,MLS,Regular Season,Home,W 1–0,Seattle,Houston Dynamo,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,7,15,46.7,29,8,37.9,36.6,10,40.0,41.2,12,1,8.3,1,14.5,Match Report,1d0a0f3e,W,2019,True
+241,2019-05-15,Wed,MLS,Regular Season,Home,W 2–1,Seattle,Orlando City,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,3,6,50.0,16,3,25.0,35.6,8,25.0,32.3,5,1,20.0,1,12.2,Match Report,1d0a0f3e,W,2019,True
+242,2019-05-18,Sat,MLS,Regular Season,Away,D 0–0,Seattle,Philadelphia,Y,GK,90,6,0,6,100.0,1,0.8,0,0,0,0,11,19,57.9,19,3,47.4,38.3,18,55.6,43.4,8,1,12.5,0,18.0,Match Report,1d0a0f3e,D,2019,True
+243,2019-05-26,Sun,MLS,Regular Season,Away,L 2–3,Seattle,Sporting KC,Y,GK,90,7,3,4,57.1,0,2.1,0,0,0,0,3,8,37.5,25,8,24.0,35.9,5,40.0,36.4,7,0,0.0,1,14.0,Match Report,1d0a0f3e,L,2019,True
+244,2019-06-01,Sat,MLS,Regular Season,Away,L 1–2,Seattle,FC Dallas,Y,GK,90,1,2,1,-100.0,0,0.1,0,0,0,0,4,8,50.0,30,5,20.0,34.1,15,13.3,30.9,10,0,0.0,1,14.3,Match Report,1d0a0f3e,L,2019,True
+245,2019-06-05,Wed,MLS,Regular Season,Away,L 1–2,Seattle,Montreal Impact,Y*,GK,90,2,2,1,50.0,0,2.2,1,1,0,0,3,15,20.0,23,1,56.5,45.2,7,28.6,34.7,3,0,0.0,0,13.5,Match Report,1d0a0f3e,L,2019,True
+246,2019-06-29,Sat,MLS,Regular Season,Home,W 1–0,Seattle,Vancouver,Y*,GK,90,5,0,5,100.0,1,0.2,0,0,0,0,7,12,58.3,27,6,29.6,33.1,7,57.1,48.1,7,1,14.3,0,9.5,Match Report,1d0a0f3e,W,2019,True
+247,2019-07-03,Wed,MLS,Regular Season,Away,L 0–3,Seattle,NYCFC,Y*,GK,90,6,3,3,50.0,0,1.7,0,0,0,0,11,25,44.0,25,6,68.0,48.6,10,80.0,61.4,8,0,0.0,0,9.2,Match Report,1d0a0f3e,L,2019,True
+248,2019-07-06,Sat,MLS,Regular Season,Away,W 2–1,Seattle,Columbus Crew,Y,GK,90,1,1,1,100.0,0,1.1,1,1,0,0,8,12,66.7,34,9,17.6,31.1,11,54.5,43.3,9,0,0.0,1,11.9,Match Report,1d0a0f3e,W,2019,True
+249,2019-07-14,Sun,MLS,Regular Season,Home,W 2–1,Seattle,Atlanta Utd,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,10,19,52.6,26,4,46.2,39.7,9,77.8,45.6,11,0,0.0,2,15.3,Match Report,1d0a0f3e,W,2019,True
+250,2019-07-21,Sun,MLS,Regular Season,Home,L 1–2,Seattle,Portland Timbers,Y,GK,90,4,2,2,50.0,0,2.1,0,0,0,0,2,7,28.6,14,4,28.6,33.9,12,25.0,33.9,7,0,0.0,1,16.8,Match Report,1d0a0f3e,L,2019,True
+251,2019-07-27,Sat,MLS,Regular Season,Away,W 1–0,Seattle,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,9,14,64.3,26,5,34.6,36.8,11,45.5,39.1,12,0,0.0,0,10.3,Match Report,1d0a0f3e,W,2019,True
+252,2019-08-04,Sun,MLS,Regular Season,Home,L 2–3,Seattle,Sporting KC,Y,GK,90,5,3,3,60.0,0,2.0,1,1,0,0,5,12,41.7,28,4,35.7,36.5,5,40.0,36.0,3,0,0.0,1,16.0,Match Report,1d0a0f3e,L,2019,False
+253,2019-08-10,Sat,MLS,Regular Season,Home,D 3–3,Seattle,New England,Y,GK,90,6,3,3,66.7,0,2.1,1,1,0,0,12,19,63.2,29,6,44.8,35.1,10,60.0,43.2,9,1,11.1,0,10.8,Match Report,1d0a0f3e,D,2019,False
+254,2019-08-14,Wed,MLS,Regular Season,Away,L 0–3,Seattle,Real Salt Lake,Y,GK,90,4,3,1,25.0,0,1.6,0,0,0,0,7,15,46.7,24,7,41.7,36.7,10,50.0,39.9,5,0,0.0,0,7.8,Match Report,1d0a0f3e,L,2019,False
+255,2019-08-17,Sat,MLS,Regular Season,Away,D 2–2,Seattle,LA Galaxy,Y,GK,90,3,2,2,66.7,0,1.2,1,1,0,0,3,6,50.0,13,6,30.8,34.1,5,40.0,43.6,8,1,12.5,0,13.0,Match Report,1d0a0f3e,D,2019,False
+256,2019-08-23,Fri,MLS,Regular Season,Away,W 2–1,Seattle,Portland Timbers,Y,GK,90,6,1,5,83.3,0,2.3,0,0,0,0,11,27,40.7,32,8,62.5,46.5,15,46.7,45.9,26,4,15.4,0,10.8,Match Report,1d0a0f3e,W,2019,False
+257,2019-09-01,Sun,MLS,Regular Season,Home,W 4–3,Seattle,LA Galaxy,Y,GK,90,9,3,6,66.7,0,2.6,0,0,0,0,6,12,50.0,27,9,33.3,35.3,6,50.0,41.0,11,0,0.0,0,11.7,Match Report,1d0a0f3e,W,2019,False
+258,2019-09-07,Sat,MLS,Regular Season,Away,L 0–2,Seattle,Colorado Rapids,Y,GK,90,9,2,7,77.8,0,2.2,0,0,0,0,7,12,58.3,26,8,26.9,34.7,15,33.3,41.8,9,0,0.0,1,11.9,Match Report,1d0a0f3e,L,2019,False
+259,2019-09-15,Sun,MLS,Regular Season,Home,W 4–2,Seattle,NY Red Bulls,Y,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,5,12,41.7,26,8,30.8,34.2,8,50.0,49.0,12,2,16.7,2,12.6,Match Report,1d0a0f3e,W,2019,False
+260,2019-09-18,Wed,MLS,Regular Season,Home,D 0–0,Seattle,FC Dallas,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,8,13,61.5,27,7,44.4,36.1,5,20.0,35.0,10,0,0.0,1,11.2,Match Report,1d0a0f3e,D,2019,False
+261,2019-09-22,Sun,MLS,Regular Season,Away,L 0–2,Seattle,D.C. United,Y*,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,4,4,100.0,25,4,16.0,26.2,6,0.0,24.2,6,0,0.0,1,15.4,Match Report,1d0a0f3e,L,2019,False
+262,2019-09-29,Sun,MLS,Regular Season,Away,W 1–0,Seattle,San Jose,Y*,GK,90,10,0,10,100.0,1,3.4,0,0,0,0,11,20,55.0,41,8,41.5,38.1,4,75.0,57.3,10,0,0.0,0,12.7,Match Report,1d0a0f3e,W,2019,False
+263,2019-10-06,Sun,MLS,Regular Season,Home,W 1–0,Seattle,Minnesota Utd,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,7,15,46.7,34,11,29.4,34.9,8,62.5,48.9,8,0,0.0,1,14.7,Match Report,1d0a0f3e,W,2019,False
+264,2019-10-19,Sat,MLS,Round 1,Home,W 4–3,Seattle,FC Dallas,Y,GK,120,8,3,5,62.5,0,3.1,0,0,0,0,12,24,50.0,27,4,44.4,39.8,18,66.7,49.6,17,1,5.9,0,9.8,Match Report,1d0a0f3e,W,2019,False
+265,2019-10-23,Wed,MLS,Conference Semifinals,Home,W 2–0,Seattle,Real Salt Lake,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,2,7,28.6,11,2,54.5,39.9,2,50.0,37.5,8,0,0.0,0,11.0,Match Report,1d0a0f3e,W,2019,False
+266,2019-10-29,Tue,MLS,Conference Finals,Away,W 3–1,Seattle,Los Angeles FC,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,8,20,40.0,15,2,66.7,44.9,12,83.3,55.7,4,0,0.0,0,8.3,Match Report,1d0a0f3e,W,2019,False
+267,2019-11-10,Sun,MLS,MLS Cup 2019,Home,W 3–1,Seattle,Toronto FC,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,5,14,35.7,15,3,53.3,45.9,8,75.0,48.8,18,1,5.6,0,10.4,Match Report,1d0a0f3e,W,2019,False
+268,2019-03-02,Sat,MLS,Regular Season,Home,D 1–1,FC Dallas,New England,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,2,7,28.6,45,4,11.1,24.6,9,22.2,33.9,6,0,0.0,1,17.0,Match Report,203a7651,D,2019,True
+269,2019-03-09,Sat,MLS,Regular Season,Home,W 2–0,FC Dallas,LA Galaxy,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,2,7,28.6,24,4,20.8,30.2,10,20.0,30.6,14,0,0.0,0,14.0,Match Report,203a7651,W,2019,True
+270,2019-03-16,Sat,MLS,Regular Season,Away,L 0–1,FC Dallas,Columbus Crew,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,5,9,55.6,34,4,20.6,28.9,8,25.0,33.5,8,1,12.5,0,13.2,Match Report,203a7651,L,2019,True
+271,2019-03-23,Sat,MLS,Regular Season,Home,W 2–1,FC Dallas,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,1,6,16.7,24,8,20.8,30.3,5,20.0,32.6,14,0,0.0,0,9.8,Match Report,203a7651,W,2019,True
+272,2019-03-30,Sat,MLS,Regular Season,Away,W 4–2,FC Dallas,Real Salt Lake,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,4,9,44.4,18,2,27.8,30.8,7,57.1,41.0,3,0,0.0,0,15.5,Match Report,203a7651,W,2019,True
+273,2019-04-13,Sat,MLS,Regular Season,Home,W 2–1,FC Dallas,Portland Timbers,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,6,12,50.0,26,1,42.3,39.2,4,25.0,29.0,14,2,14.3,0,,Match Report,203a7651,W,2019,True
+274,2019-04-20,Sat,MLS,Regular Season,Away,W 2–1,FC Dallas,Atlanta Utd,Y,GK,90,8,1,8,100.0,0,2.9,1,1,0,0,8,22,36.4,19,5,57.9,44.7,16,68.8,47.7,20,1,5.0,0,11.2,Match Report,203a7651,W,2019,True
+275,2019-04-27,Sat,MLS,Regular Season,Home,D 0–0,FC Dallas,San Jose,Y,GK,90,2,0,2,100.0,1,0.7,0,0,0,0,6,17,35.3,30,2,36.7,36.4,10,60.0,50.4,9,0,0.0,0,8.5,Match Report,203a7651,D,2019,True
+276,2019-05-04,Sat,MLS,Regular Season,Away,L 1–2,FC Dallas,Houston Dynamo,Y,GK,90,3,2,2,66.7,0,1.8,1,1,0,0,2,5,40.0,24,4,16.7,26.7,14,7.1,24.0,5,1,20.0,1,12.5,Match Report,203a7651,L,2019,True
+277,2019-05-11,Sat,MLS,Regular Season,Home,L 1–3,FC Dallas,NY Red Bulls,Y,GK,90,4,3,1,25.0,0,1.7,0,0,0,0,2,6,33.3,25,2,12.0,25.3,6,50.0,39.3,8,0,0.0,2,18.8,Match Report,203a7651,L,2019,True
+278,2019-05-16,Thu,MLS,Regular Season,Away,L 0–2,FC Dallas,Los Angeles FC,Y,GK,90,5,2,3,60.0,0,2.1,0,0,0,0,5,16,31.3,33,8,30.3,29.6,17,35.3,39.6,5,0,0.0,0,11.0,Match Report,203a7651,L,2019,True
+279,2019-05-19,Sun,MLS,Regular Season,Home,D 1–1,FC Dallas,Los Angeles FC,Y,GK,90,4,1,3,100.0,0,2.0,2,1,1,0,6,16,37.5,24,4,54.2,45.2,10,30.0,39.7,9,0,0.0,1,16.8,Match Report,203a7651,D,2019,True
+280,2019-05-25,Sat,MLS,Regular Season,Away,L 1–2,FC Dallas,Vancouver,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,0,1,0.0,15,3,6.7,27.8,1,0.0,22.0,5,0,0.0,0,6.0,Match Report,203a7651,L,2019,True
+281,2019-06-01,Sat,MLS,Regular Season,Home,W 2–1,FC Dallas,Seattle,Y,GK,90,2,1,1,50.0,0,0.3,0,0,0,0,2,7,28.6,14,1,35.7,37.4,2,100.0,62.5,6,0,0.0,1,21.7,Match Report,203a7651,W,2019,True
+282,2019-06-22,Sat,MLS,Regular Season,Home,W 3–0,FC Dallas,Toronto FC,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,2,2,100.0,21,1,9.5,29.0,4,0.0,25.0,7,0,0.0,0,15.3,Match Report,203a7651,W,2019,True
+283,2019-06-26,Wed,MLS,Regular Season,Home,D 2–2,FC Dallas,Vancouver,Y,GK,90,4,2,2,50.0,0,1.2,0,0,0,0,3,4,75.0,15,3,13.3,31.7,6,33.3,35.2,3,0,0.0,0,13.0,Match Report,203a7651,D,2019,True
+284,2019-06-30,Sun,MLS,Regular Season,Away,L 0–1,FC Dallas,Portland Timbers,Y,GK,90,4,1,3,75.0,0,0.6,0,0,0,0,5,12,41.7,21,1,42.9,40.6,12,25.0,35.3,13,0,0.0,1,19.0,Match Report,203a7651,L,2019,True
+285,2019-07-04,Thu,MLS,Regular Season,Home,W 2–0,FC Dallas,D.C. United,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,2,9,22.2,19,1,31.6,37.2,5,60.0,49.8,4,0,0.0,0,13.0,Match Report,203a7651,W,2019,True
+286,2019-07-13,Sat,MLS,Regular Season,Away,L 0–1,FC Dallas,Minnesota Utd,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,8,11,72.7,21,3,47.6,35.9,7,14.3,31.6,11,1,9.1,0,9.4,Match Report,203a7651,L,2019,True
+287,2019-07-20,Sat,MLS,Regular Season,Away,W 2–0,FC Dallas,Sporting KC,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,9,19,47.4,33,9,36.4,36.0,18,38.9,42.5,12,0,0.0,1,12.5,Match Report,203a7651,W,2019,True
+288,2019-07-27,Sat,MLS,Regular Season,Home,D 0–0,FC Dallas,Real Salt Lake,Y,GK,90,5,0,5,100.0,1,0.7,0,0,0,0,4,10,40.0,28,5,21.4,30.1,11,36.4,38.8,7,0,0.0,1,19.8,Match Report,203a7651,D,2019,True
+289,2019-08-03,Sat,MLS,Regular Season,Away,L 0–2,FC Dallas,Orlando City,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,4,6,66.7,21,3,14.3,27.9,9,33.3,31.3,3,0,0.0,2,19.8,Match Report,203a7651,L,2019,False
+290,2019-08-10,Sat,MLS,Regular Season,Home,W 5–3,FC Dallas,Minnesota Utd,Y,GK,90,5,3,2,40.0,0,1.7,0,0,0,0,1,5,20.0,20,5,15.0,28.7,8,25.0,31.9,3,0,0.0,0,11.3,Match Report,203a7651,W,2019,False
+291,2019-08-14,Wed,MLS,Regular Season,Away,L 0–2,FC Dallas,LA Galaxy,Y,GK,90,4,2,3,75.0,0,1.6,1,1,0,0,5,9,55.6,23,4,26.1,31.5,10,30.0,32.9,10,1,10.0,0,8.6,Match Report,203a7651,L,2019,False
+292,2019-08-17,Sat,MLS,Regular Season,Away,D 3–3,FC Dallas,Montreal Impact,Y,GK,90,4,3,1,25.0,0,2.2,0,0,0,0,1,1,100.0,13,3,0.0,22.2,5,20.0,32.6,1,0,0.0,1,21.7,Match Report,203a7651,D,2019,False
+293,2019-08-25,Sun,MLS,Regular Season,Home,W 5–1,FC Dallas,Houston Dynamo,Y,GK,90,4,1,3,75.0,0,1.5,0,0,0,0,4,6,66.7,32,3,18.8,28.3,8,0.0,23.8,6,0,0.0,0,11.0,Match Report,203a7651,W,2019,False
+294,2019-08-31,Sat,MLS,Regular Season,Home,W 3–1,FC Dallas,FC Cincinnati,Y,GK,90,1,1,1,100.0,0,1.0,1,1,0,0,5,7,71.4,28,3,25.0,30.9,3,0.0,19.3,7,0,0.0,0,7.3,Match Report,203a7651,W,2019,False
+295,2019-09-14,Sat,MLS,Regular Season,Away,L 0–4,FC Dallas,Chicago Fire,Y,GK,90,7,4,2,42.9,0,2.5,0,0,0,0,0,2,0.0,16,6,0.0,21.8,9,22.2,35.9,7,1,14.3,1,33.0,Match Report,203a7651,L,2019,False
+296,2019-09-18,Wed,MLS,Regular Season,Away,D 0–0,FC Dallas,Seattle,Y,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,5,11,45.5,27,7,22.2,33.0,10,50.0,45.2,9,0,0.0,0,12.8,Match Report,203a7651,D,2019,False
+297,2019-09-22,Sun,MLS,Regular Season,Home,D 1–1,FC Dallas,NYCFC,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,4,9,44.4,21,1,33.3,37.1,5,40.0,37.6,2,0,0.0,0,8.0,Match Report,203a7651,D,2019,False
+298,2019-09-29,Sun,MLS,Regular Season,Away,L 0–3,FC Dallas,Colorado Rapids,Y,GK,90,9,3,5,66.7,0,3.3,1,0,1,0,7,11,63.6,20,5,35.0,35.1,7,57.1,39.4,10,0,0.0,0,9.3,Match Report,203a7651,L,2019,False
+299,2019-10-06,Sun,MLS,Regular Season,Home,W 6–0,FC Dallas,Sporting KC,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4,5,80.0,31,5,16.1,26.5,8,0.0,25.5,4,0,0.0,1,12.6,Match Report,203a7651,W,2019,False
+300,2019-10-19,Sat,MLS,Round 1,Away,L 3–4,FC Dallas,Seattle,Y,GK,120,9,4,4,55.6,0,2.5,0,0,0,0,5,17,29.4,22,3,50.0,35.4,10,60.0,47.8,7,0,0.0,1,9.0,Match Report,203a7651,L,2019,False
+301,2019-03-03,Sun,MLS,Regular Season,Away,L 0–2,Atlanta Utd,D.C. United,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,7,11,63.6,23,4,43.5,39.0,8,12.5,28.3,13,1,7.7,1,10.5,Match Report,d899e3bf,L,2019,True
+302,2019-03-10,Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,FC Cincinnati,Y,GK,90,1,1,0,0.0,0,0.5,0,0,0,0,10,16,62.5,27,4,40.7,37.3,7,71.4,49.4,4,0,0.0,0,20.3,Match Report,d899e3bf,D,2019,True
+303,2019-03-17,Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Philadelphia,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,18,20,90.0,44,6,36.4,34.4,12,33.3,31.4,4,1,25.0,1,17.2,Match Report,d899e3bf,D,2019,True
+304,2019-03-30,Sat,MLS,Regular Season,Away,L 0–2,Atlanta Utd,Columbus Crew,Y*,GK,90,2,2,0,0.0,0,1.5,1,0,1,0,3,8,37.5,14,3,35.7,36.7,7,42.9,39.0,5,1,20.0,0,9.5,Match Report,d899e3bf,L,2019,True
+305,2019-04-13,Sat,MLS,Regular Season,Away,W 2–0,Atlanta Utd,New England,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,12,28,42.9,29,2,75.9,47.2,8,75.0,54.8,7,0,0.0,0,11.6,Match Report,d899e3bf,W,2019,True
+306,2019-04-20,Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,FC Dallas,Y,GK,90,6,2,4,66.7,0,1.9,0,0,0,0,6,10,60.0,32,6,28.1,35.1,2,50.0,34.5,6,0,0.0,1,18.0,Match Report,d899e3bf,L,2019,True
+307,2019-04-27,Sat,MLS,Regular Season,Home,W 1–0,Atlanta Utd,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,3,9,33.3,25,6,24.0,32.1,4,75.0,51.8,8,0,0.0,1,16.0,Match Report,d899e3bf,W,2019,True
+308,2019-05-05,Sun,MLS,Regular Season,Away,W 3–0,Atlanta Utd,Sporting KC,Y,GK,90,2,0,2,100.0,1,0.7,0,0,0,0,6,11,54.5,30,10,26.7,31.3,8,37.5,37.3,6,0,0.0,0,15.3,Match Report,d899e3bf,W,2019,True
+309,2019-05-08,Wed,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Toronto FC,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,8,11,72.7,25,4,32.0,34.3,6,50.0,40.0,8,1,12.5,0,11.4,Match Report,d899e3bf,W,2019,True
+310,2019-05-12,Sun,MLS,Regular Season,Home,W 1–0,Atlanta Utd,Orlando City,Y,GK,90,4,0,4,100.0,1,1.8,0,0,0,0,7,17,41.2,31,8,38.7,35.5,9,55.6,44.6,4,0,0.0,2,17.9,Match Report,d899e3bf,W,2019,True
+311,2019-05-15,Wed,MLS,Regular Season,Away,W 1–0,Atlanta Utd,Vancouver,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,6,17,35.3,31,6,45.2,43.6,7,42.9,41.0,7,1,14.3,0,11.9,Match Report,d899e3bf,W,2019,True
+312,2019-05-19,Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,6,16,37.5,26,2,30.8,33.2,11,72.7,47.4,6,1,16.7,1,18.3,Match Report,d899e3bf,L,2019,True
+313,2019-05-24,Fri,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,0.6,0,0,0,0,9,19,47.4,37,3,43.2,39.7,9,33.3,37.0,8,2,25.0,1,17.3,Match Report,d899e3bf,L,2019,True
+314,2019-05-29,Wed,MLS,Regular Season,Home,W 3–0,Atlanta Utd,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,11,20,55.0,37,4,40.5,39.2,7,71.4,48.0,9,2,22.2,2,19.7,Match Report,d899e3bf,W,2019,True
+315,2019-06-01,Sat,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,8,29,27.6,25,4,64.0,46.2,18,72.2,52.8,14,1,7.1,0,12.6,Match Report,d899e3bf,W,2019,True
+316,2019-06-26,Wed,MLS,Regular Season,Away,L 2–3,Atlanta Utd,Toronto FC,Y,GK,90,3,3,1,33.3,0,2.4,1,1,0,0,2,3,66.7,10,3,20.0,29.9,12,8.3,28.7,10,1,10.0,1,17.4,Match Report,d899e3bf,L,2019,True
+317,2019-06-29,Sat,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Montreal Impact,Y*,GK,90,1,1,0,0.0,0,0.5,0,0,0,0,5,8,62.5,19,3,42.1,38.3,5,0.0,31.0,6,0,0.0,0,11.0,Match Report,d899e3bf,W,2019,True
+318,2019-07-03,Wed,MLS,Regular Season,Away,L 1–5,Atlanta Utd,Chicago Fire,Y,GK,90,9,5,5,55.6,0,2.8,1,1,0,0,9,27,33.3,25,3,64.0,48.3,13,84.6,57.8,5,0,0.0,1,14.1,Match Report,d899e3bf,L,2019,True
+319,2019-07-07,Sun,MLS,Regular Season,Home,D 3–3,Atlanta Utd,NY Red Bulls,Y*,GK,90,6,3,3,50.0,0,2.3,0,0,0,0,10,26,38.5,28,4,67.9,46.9,10,70.0,55.5,5,1,20.0,0,14.5,Match Report,d899e3bf,D,2019,True
+320,2019-07-14,Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Seattle,Y*,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,10,23,43.5,20,7,60.0,41.6,13,84.6,52.0,10,0,0.0,0,12.4,Match Report,d899e3bf,L,2019,True
+321,2019-07-17,Wed,MLS,Regular Season,Home,W 5–0,Atlanta Utd,Houston Dynamo,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,2,2,100.0,19,2,10.5,29.7,4,0.0,28.3,2,0,0.0,0,15.5,Match Report,d899e3bf,W,2019,True
+322,2019-07-21,Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,D.C. United,Y*,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,9,16,56.3,26,5,50.0,38.2,6,50.0,38.7,5,0,0.0,0,9.5,Match Report,d899e3bf,W,2019,True
+323,2019-07-26,Fri,MLS,Regular Season,Away,L 3–4,Atlanta Utd,Los Angeles FC,Y*,GK,90,9,4,6,66.7,0,1.9,1,1,0,0,7,20,35.0,24,6,70.8,49.3,6,50.0,41.2,3,0,0.0,2,19.9,Match Report,d899e3bf,L,2019,True
+324,2019-08-03,Sat,MLS,Regular Season,Home,W 3–0,Atlanta Utd,LA Galaxy,Y*,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,8,16,50.0,29,5,41.4,39.5,6,66.7,45.5,6,0,0.0,0,13.5,Match Report,d899e3bf,W,2019,False
+325,2019-08-11,Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,NYCFC,Y*,GK,90,4,1,3,75.0,0,1.5,0,0,0,0,11,25,44.0,41,6,53.7,42.9,5,60.0,41.0,6,1,16.7,1,23.5,Match Report,d899e3bf,W,2019,False
+326,2019-08-18,Sun,MLS,Regular Season,Away,W 2–0,Atlanta Utd,Portland Timbers,Y,GK,90,5,0,5,100.0,1,0.9,0,0,0,0,12,25,48.0,30,3,66.7,51.7,15,33.3,37.7,13,0,0.0,0,11.3,Match Report,d899e3bf,W,2019,False
+327,2019-08-23,Fri,MLS,Regular Season,Away,W 1–0,Atlanta Utd,Orlando City,Y*,GK,90,5,0,5,100.0,1,0.8,0,0,0,0,10,26,38.5,31,8,51.6,40.6,13,76.9,55.3,5,0,0.0,0,11.1,Match Report,d899e3bf,W,2019,False
+328,2019-08-31,Sat,MLS,Regular Season,Away,L 1–3,Atlanta Utd,Philadelphia,Y,GK,90,7,3,3,57.1,0,2.2,0,0,0,0,5,9,55.6,25,5,28.0,33.7,7,28.6,34.9,8,0,0.0,0,11.7,Match Report,d899e3bf,L,2019,False
+329,2019-09-14,Sat,MLS,Regular Season,Home,L 1–3,Atlanta Utd,Columbus Crew,Y*,GK,90,5,3,3,40.0,0,1.1,0,0,0,0,12,17,70.6,33,6,33.3,33.3,8,75.0,43.6,5,1,20.0,3,25.0,Match Report,d899e3bf,L,2019,False
+330,2019-09-18,Wed,MLS,Regular Season,Away,W 2–0,Atlanta Utd,FC Cincinnati,Y*,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,8,21,38.1,26,4,50.0,44.1,9,88.9,54.4,7,2,28.6,1,14.0,Match Report,d899e3bf,W,2019,False
+331,2019-09-21,Sat,MLS,Regular Season,Home,W 3–1,Atlanta Utd,San Jose,Y*,GK,90,2,1,2,50.0,0,1.2,0,0,0,0,0,4,0.0,24,3,12.5,25.6,3,33.3,39.0,6,0,0.0,0,7.0,Match Report,d899e3bf,W,2019,False
+332,2019-09-25,Wed,MLS,Regular Season,Away,L 1–4,Atlanta Utd,NYCFC,Y*,GK,90,8,4,4,50.0,0,2.8,1,0,0,1,13,28,46.4,38,10,55.3,44.5,9,77.8,54.8,4,0,0.0,0,16.8,Match Report,d899e3bf,L,2019,False
+333,2019-09-29,Sun,MLS,Regular Season,Away,D 1–1,Atlanta Utd,Montreal Impact,Y,GK,90,4,1,3,75.0,0,1.6,0,0,0,0,7,16,43.8,28,5,39.3,39.9,11,45.5,39.7,10,3,30.0,0,12.0,Match Report,d899e3bf,D,2019,False
+334,2019-10-06,Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,New England,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,9,20,45.0,33,6,36.4,33.9,11,72.7,51.3,4,0,0.0,1,16.8,Match Report,d899e3bf,W,2019,False
+335,2019-10-19,Sat,MLS,Round 1,Home,W 1–0,Atlanta Utd,New England,Y,GK,90,6,0,6,100.0,1,0.6,0,0,0,0,13,27,48.1,43,10,48.8,40.0,7,85.7,53.4,3,0,0.0,1,16.7,Match Report,d899e3bf,W,2019,False
+336,2019-10-24,Thu,MLS,Conference Semifinals,Home,W 2–0,Atlanta Utd,Philadelphia,Y,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,13,17,76.5,29,4,41.4,37.3,12,41.7,35.4,9,0,0.0,1,15.8,Match Report,d899e3bf,W,2019,False
+337,2019-10-30,Wed,MLS,Conference Finals,Home,L 1–2,Atlanta Utd,Toronto FC,Y,GK,90,4,2,2,50.0,0,0.8,0,0,0,0,6,9,66.7,27,2,33.3,32.0,4,0.0,27.5,2,0,0.0,1,24.7,Match Report,d899e3bf,L,2019,False
+338,2019-03-03,Sun,MLS,Regular Season,Home,W 2–0,D.C. United,Atlanta Utd,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4,16,25.0,12,1,58.3,44.8,9,100.0,69.4,6,0,0.0,0,12.0,Match Report,012fc030,W,2019,True
+339,2019-03-10,Sun,MLS,Regular Season,Away,D 0–0,D.C. United,NYCFC,Y,GK,90,6,0,6,100.0,1,1.3,0,0,0,0,5,21,23.8,16,2,68.8,54.4,12,83.3,62.0,8,0,0.0,0,12.0,Match Report,012fc030,D,2019,True
+340,2019-03-16,Sat,MLS,Regular Season,Home,W 5–0,D.C. United,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4,7,57.1,10,0,20.0,29.4,5,100.0,54.6,7,0,0.0,0,,Match Report,012fc030,W,2019,True
+341,2019-03-31,Sun,MLS,Regular Season,Away,W 2–1,D.C. United,Orlando City,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,4,19,21.1,12,4,58.3,51.6,13,92.3,65.2,19,1,5.3,0,3.0,Match Report,012fc030,W,2019,True
+342,2019-04-06,Sat,MLS,Regular Season,Home,L 0–4,D.C. United,Los Angeles FC,Y,GK,90,7,4,3,42.9,0,3.0,1,0,1,0,2,17,11.8,22,3,59.1,44.0,5,80.0,57.2,3,0,0.0,0,12.0,Match Report,012fc030,L,2019,True
+343,2019-04-09,Tue,MLS,Regular Season,Home,D 0–0,D.C. United,Montreal Impact,Y,GK,90,1,0,1,100.0,1,0.4,0,0,0,0,0,2,0.0,7,2,28.6,27.9,5,0.0,24.4,8,0,0.0,1,12.5,Match Report,012fc030,D,2019,True
+344,2019-04-13,Sat,MLS,Regular Season,Away,W 3–2,D.C. United,Colorado Rapids,Y,GK,90,6,2,4,66.7,0,2.3,0,0,0,0,4,19,21.1,15,2,66.7,48.6,11,81.8,61.4,23,0,0.0,0,8.0,Match Report,012fc030,W,2019,True
+345,2019-04-21,Sun,MLS,Regular Season,Home,L 0–2,D.C. United,NYCFC,Y,GK,90,6,2,4,66.7,0,1.8,1,0,0,1,2,20,10.0,22,3,40.9,39.9,13,84.6,59.8,8,1,12.5,0,13.7,Match Report,012fc030,L,2019,True
+346,2019-04-24,Wed,MLS,Regular Season,Away,W 1–0,D.C. United,Columbus Crew,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,6,22,27.3,15,5,80.0,50.2,10,100.0,64.9,24,2,8.3,0,13.0,Match Report,012fc030,W,2019,True
+347,2019-04-28,Sun,MLS,Regular Season,Away,L 0–1,D.C. United,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,1.5,0,0,0,0,5,17,29.4,16,4,75.0,54.1,5,100.0,62.6,14,1,7.1,0,9.3,Match Report,012fc030,L,2019,True
+348,2019-05-04,Sat,MLS,Regular Season,Home,W 3–1,D.C. United,Columbus Crew,Y,GK,90,2,1,2,50.0,0,0.5,0,0,0,0,6,14,42.9,15,3,46.7,38.1,9,77.8,55.7,13,1,7.7,1,14.0,Match Report,012fc030,W,2019,True
+349,2019-05-12,Sun,MLS,Regular Season,Home,W 1–0,D.C. United,Sporting KC,Y,GK,90,4,0,4,100.0,1,1.6,0,0,0,0,10,16,62.5,29,4,34.5,35.2,8,75.0,58.8,11,1,9.1,0,9.0,Match Report,012fc030,W,2019,True
+350,2019-05-15,Wed,MLS,Regular Season,Away,D 0–0,D.C. United,Toronto FC,Y,GK,90,12,0,12,100.0,1,1.7,0,0,0,0,7,19,36.8,16,6,62.5,46.8,18,50.0,45.8,15,0,0.0,0,14.0,Match Report,012fc030,D,2019,True
+351,2019-05-18,Sat,MLS,Regular Season,Away,L 1–2,D.C. United,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,7,14,50.0,20,1,50.0,43.1,11,36.4,45.5,9,0,0.0,0,15.5,Match Report,012fc030,L,2019,True
+352,2019-05-25,Sat,MLS,Regular Season,Away,D 1–1,D.C. United,New England,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,4,7,57.1,13,6,15.4,27.8,7,71.4,47.7,10,2,20.0,0,15.3,Match Report,012fc030,D,2019,True
+353,2019-05-29,Wed,MLS,Regular Season,Home,D 3–3,D.C. United,Chicago Fire,Y,GK,90,11,3,8,72.7,0,2.6,0,0,0,0,5,8,62.5,20,7,25.0,32.6,11,27.3,33.7,10,0,0.0,0,10.7,Match Report,012fc030,D,2019,True
+354,2019-06-01,Sat,MLS,Regular Season,Home,D 1–1,D.C. United,San Jose,Y,GK,90,7,1,6,85.7,0,1.2,0,0,0,0,4,9,44.4,24,11,25.0,29.7,8,37.5,36.0,12,2,16.7,0,8.7,Match Report,012fc030,D,2019,True
+355,2019-06-26,Wed,MLS,Regular Season,Home,W 1–0,D.C. United,Orlando City,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,8,17,47.1,9,3,77.8,54.3,15,66.7,52.2,12,2,16.7,0,16.0,Match Report,012fc030,W,2019,True
+356,2019-06-29,Sat,MLS,Regular Season,Home,D 1–1,D.C. United,Toronto FC,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,3,4,75.0,14,7,28.6,31.2,6,0.0,24.2,6,0,0.0,0,14.0,Match Report,012fc030,D,2019,True
+357,2019-07-04,Thu,MLS,Regular Season,Away,L 0–2,D.C. United,FC Dallas,Y,GK,90,9,2,7,77.8,0,2.5,0,0,0,0,6,18,33.3,17,2,58.8,42.9,13,61.5,45.2,11,1,9.1,0,12.5,Match Report,012fc030,L,2019,True
+358,2019-07-12,Fri,MLS,Regular Season,Home,D 2–2,D.C. United,New England,Y,GK,90,6,2,3,66.7,0,1.8,0,0,0,0,7,11,63.6,20,7,30.0,35.6,6,83.3,51.2,6,1,16.7,2,22.5,Match Report,012fc030,D,2019,True
+359,2019-07-21,Sun,MLS,Regular Season,Away,L 0–2,D.C. United,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,2.5,1,0,0,1,3,22,13.6,18,2,66.7,53.4,10,100.0,64.2,13,1,7.7,0,5.0,Match Report,012fc030,L,2019,True
+360,2019-07-27,Sat,MLS,Regular Season,Away,D 0–0,D.C. United,Chicago Fire,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,15,33.3,22,8,36.4,33.2,13,53.8,39.8,12,0,0.0,0,12.3,Match Report,012fc030,D,2019,True
+361,2019-08-04,Sun,MLS,Regular Season,Home,L 1–5,D.C. United,Philadelphia,Y,GK,90,14,5,9,64.3,0,4.2,1,0,0,1,8,15,53.3,21,5,57.1,42.8,10,30.0,41.3,12,2,16.7,0,9.5,Match Report,012fc030,L,2019,False
+362,2019-08-11,Sun,MLS,Regular Season,Home,W 2–1,D.C. United,LA Galaxy,Y,GK,90,4,1,3,75.0,0,2.1,0,0,0,0,10,22,45.5,21,6,52.4,45.3,13,84.6,56.2,19,0,0.0,1,12.5,Match Report,012fc030,W,2019,False
+363,2019-08-17,Sat,MLS,Regular Season,Away,L 0–1,D.C. United,Vancouver,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,5,10,50.0,13,3,38.5,34.3,7,71.4,46.3,6,2,33.3,0,12.4,Match Report,012fc030,L,2019,False
+364,2019-08-21,Wed,MLS,Regular Season,Home,L 1–2,D.C. United,NY Red Bulls,Y,GK,90,6,2,5,83.3,0,2.7,1,1,0,0,7,20,35.0,24,5,62.5,48.7,8,62.5,55.4,10,1,10.0,2,15.3,Match Report,012fc030,L,2019,False
+365,2019-08-24,Sat,MLS,Regular Season,Away,L 1–3,D.C. United,Philadelphia,Y,GK,90,6,3,3,50.0,0,2.8,0,0,0,0,1,6,16.7,10,5,40.0,33.1,8,25.0,32.5,10,0,0.0,0,9.8,Match Report,012fc030,L,2019,False
+366,2019-08-31,Sat,MLS,Regular Season,Away,W 3–0,D.C. United,Montreal Impact,Y,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,4,25,16.0,20,3,70.0,48.7,11,100.0,58.5,29,2,6.9,0,4.0,Match Report,012fc030,W,2019,False
+367,2019-09-15,Sun,MLS,Regular Season,Away,W 1–0,D.C. United,Portland Timbers,Y,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,6,24,25.0,15,2,66.7,50.1,15,93.3,65.3,22,2,9.1,0,13.8,Match Report,012fc030,W,2019,False
+368,2019-09-22,Sun,MLS,Regular Season,Home,W 2–0,D.C. United,Seattle,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,3,12,25.0,15,4,53.3,38.2,6,66.7,50.2,7,2,28.6,0,10.7,Match Report,012fc030,W,2019,False
+369,2019-09-29,Sun,MLS,Regular Season,Away,D 0–0,D.C. United,NY Red Bulls,Y,GK,90,2,0,2,100.0,1,0.4,0,0,0,0,6,24,25.0,20,5,75.0,50.7,9,100.0,64.4,22,4,18.2,0,10.4,Match Report,012fc030,D,2019,False
+370,2019-10-06,Sun,MLS,Regular Season,Home,D 0–0,D.C. United,FC Cincinnati,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,1,3,33.3,14,4,7.1,25.4,4,50.0,48.5,5,0,0.0,0,13.0,Match Report,012fc030,D,2019,False
+371,2019-10-19,Sat,MLS,Round 1,Away,L 1–5,D.C. United,Toronto FC,Y,GK,120,16,5,11,68.8,0,3.7,0,0,0,0,9,25,36.0,25,5,64.0,46.4,11,81.8,57.8,8,2,25.0,0,10.8,Match Report,012fc030,L,2019,False
+372,2019-03-02,Sat,MLS,Regular Season,Home,D 3–3,Colorado Rapids,Portland Timbers,Y*,GK,90,5,3,3,40.0,0,2.5,1,0,1,0,4,12,33.3,12,1,58.3,48.9,6,83.3,52.5,13,1,7.7,0,9.5,Match Report,c444465e,D,2019,True
+373,2019-03-09,Sat,MLS,Regular Season,Away,L 0–2,Colorado Rapids,Seattle,Y*,GK,90,3,2,1,33.3,0,2.2,0,0,0,0,3,10,30.0,13,1,46.2,38.6,7,57.1,46.4,10,2,20.0,0,7.8,Match Report,c444465e,L,2019,True
+374,2019-03-17,Sun,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Sporting KC,Y*,GK,90,4,1,3,75.0,0,0.6,0,0,0,0,10,29,34.5,30,6,66.7,46.8,11,81.8,58.8,11,0,0.0,2,16.6,Match Report,c444465e,D,2019,True
+375,2019-03-23,Sat,MLS,Regular Season,Away,L 1–2,Colorado Rapids,FC Dallas,Y*,GK,90,6,2,4,66.7,0,1.4,0,0,0,0,8,12,66.7,29,8,31.0,32.0,9,33.3,38.1,6,0,0.0,1,12.6,Match Report,c444465e,L,2019,True
+376,2019-03-30,Sat,MLS,Regular Season,Home,L 1–4,Colorado Rapids,Houston Dynamo,Y*,GK,90,6,4,4,33.3,0,2.1,0,0,0,0,1,8,12.5,19,3,42.1,38.6,1,0.0,24.0,0,0,,0,14.3,Match Report,c444465e,L,2019,True
+377,2019-04-06,Sat,MLS,Regular Season,Away,L 3–4,Colorado Rapids,Orlando City,Y*,GK,90,6,4,3,50.0,0,3.6,1,1,0,0,8,19,42.1,21,3,47.6,44.8,9,100.0,66.7,11,0,0.0,1,13.8,Match Report,c444465e,L,2019,True
+378,2019-04-13,Sat,MLS,Regular Season,Home,L 2–3,Colorado Rapids,D.C. United,Y*,GK,90,4,3,1,25.0,0,1.3,0,0,0,0,5,13,38.5,17,6,52.9,45.8,4,100.0,67.8,7,1,14.3,0,17.0,Match Report,c444465e,L,2019,True
+379,2019-04-20,Sat,MLS,Regular Season,Away,L 1–4,Colorado Rapids,Chicago Fire,Y*,GK,90,5,4,1,20.0,0,2.7,0,0,0,0,14,25,56.0,28,9,39.3,33.0,18,77.8,49.9,4,0,0.0,3,20.4,Match Report,c444465e,L,2019,True
+380,2019-04-27,Sat,MLS,Regular Season,Away,L 0–1,Colorado Rapids,Atlanta Utd,Y*,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,12,22,54.5,19,7,52.6,40.4,12,100.0,62.5,13,0,0.0,0,12.4,Match Report,c444465e,L,2019,True
+381,2019-05-03,Fri,MLS,Regular Season,Home,L 2–3,Colorado Rapids,Vancouver,Y*,GK,90,4,3,1,25.0,0,1.9,0,0,0,0,11,25,44.0,28,6,67.9,50.3,8,75.0,56.1,6,0,0.0,0,10.5,Match Report,c444465e,L,2019,True
+382,2019-05-11,Sat,MLS,Regular Season,Home,L 2–3,Colorado Rapids,Real Salt Lake,Y*,GK,90,5,3,3,60.0,0,2.5,1,1,0,0,4,15,26.7,15,3,60.0,52.7,8,75.0,51.6,6,1,16.7,1,17.0,Match Report,c444465e,L,2019,True
+383,2019-05-19,Sun,MLS,Regular Season,Away,W 1–0,Colorado Rapids,LA Galaxy,Y*,GK,90,6,0,6,100.0,1,0.6,0,0,0,0,10,26,38.5,22,10,63.6,47.9,13,92.3,60.5,18,2,11.1,0,11.2,Match Report,c444465e,W,2019,True
+384,2019-05-25,Sat,MLS,Regular Season,Home,W 3–2,Colorado Rapids,Columbus Crew,Y*,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,7,17,41.2,27,7,37.0,38.6,7,100.0,69.9,13,0,0.0,1,12.9,Match Report,c444465e,W,2019,True
+385,2019-06-01,Sat,MLS,Regular Season,Home,W 3–1,Colorado Rapids,FC Cincinnati,Y*,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,4,21,19.0,19,5,52.6,45.9,11,100.0,71.3,8,0,0.0,0,14.4,Match Report,c444465e,W,2019,True
+386,2019-06-08,Sat,MLS,Regular Season,Home,W 1–0,Colorado Rapids,Minnesota Utd,Y*,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,10,36,27.8,23,3,87.0,65.6,17,94.1,64.5,12,0,0.0,0,9.2,Match Report,c444465e,W,2019,True
+387,2019-06-22,Sat,MLS,Regular Season,Away,D 2–2,Colorado Rapids,Vancouver,Y*,GK,90,8,2,7,87.5,0,2.0,1,1,0,0,7,27,25.9,17,0,100.0,62.7,10,100.0,65.0,16,1,6.3,1,17.5,Match Report,c444465e,D,2019,True
+388,2019-06-28,Fri,MLS,Regular Season,Home,W 1–0,Colorado Rapids,Los Angeles FC,Y*,GK,90,2,0,2,100.0,1,0.8,0,0,0,0,16,30,53.3,20,4,60.0,48.8,18,100.0,65.2,7,1,14.3,0,9.9,Match Report,c444465e,W,2019,True
+389,2019-07-04,Thu,MLS,Regular Season,Home,L 1–2,Colorado Rapids,New England,Y*,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,9,22,40.9,26,2,57.7,49.2,12,58.3,46.3,3,0,0.0,0,15.1,Match Report,c444465e,L,2019,True
+390,2019-07-13,Sat,MLS,Regular Season,Away,D 2–2,Colorado Rapids,Portland Timbers,Y*,GK,90,4,2,4,75.0,0,1.5,1,1,0,0,12,26,46.2,19,2,68.4,46.3,15,86.7,68.6,6,0,0.0,0,11.0,Match Report,c444465e,D,2019,True
+391,2019-07-20,Sat,MLS,Regular Season,Home,L 1–2,Colorado Rapids,NYCFC,Y*,GK,44,3,1,2,66.7,0,1.1,0,0,0,0,6,20,30.0,14,3,78.6,61.0,9,100.0,71.6,4,1,25.0,0,14.8,Match Report,c444465e,L,2019,True
+392,2019-08-03,Sat,MLS,Regular Season,Home,W 6–3,Colorado Rapids,Montreal Impact,Y,GK,45,1,1,1,0.0,0,0.3,0,0,0,0,5,10,50.0,9,2,66.7,47.0,4,100.0,63.0,3,1,33.3,0,11.0,Match Report,c444465e,W,2019,False
+393,2019-08-24,Sat,MLS,Regular Season,Away,L 0–2,Colorado Rapids,Real Salt Lake,Y*,GK,90,5,2,4,80.0,0,1.6,1,1,0,0,12,28,42.9,21,5,66.7,47.7,17,82.4,63.1,16,1,6.3,0,16.3,Match Report,c444465e,L,2019,False
+394,2019-08-31,Sat,MLS,Regular Season,Away,W 2–0,Colorado Rapids,NY Red Bulls,Y*,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,6,27,22.2,19,4,63.2,46.5,16,93.8,56.4,12,1,8.3,1,16.0,Match Report,c444465e,W,2019,False
+395,2019-09-29,Sun,MLS,Regular Season,Home,W 3–0,Colorado Rapids,FC Dallas,Y*,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,7,25,28.0,19,3,42.1,40.6,18,94.4,61.1,11,0,0.0,0,8.2,Match Report,c444465e,W,2019,False
+396,2019-10-06,Sun,MLS,Regular Season,Away,L 1–3,Colorado Rapids,Los Angeles FC,Y*,GK,90,5,3,2,40.0,0,1.7,0,0,0,0,7,17,41.2,18,4,66.7,43.6,8,62.5,49.5,4,0,0.0,0,14.4,Match Report,c444465e,L,2019,False
+397,2019-05-29,Wed,MLS,Regular Season,Away,D 1–1,Colorado Rapids,Philadelphia,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,12,30,40.0,27,4,77.8,52.2,9,100.0,63.1,6,2,33.3,0,14.2,Match Report,c1205184,D,2019,True
+398,2019-07-20,Sat,MLS,Regular Season,Home,L 1–2,Colorado Rapids,NYCFC,N,GK,46,6,1,5,83.3,0,1.0,0,0,0,0,4,19,21.1,9,0,100.0,76.7,10,100.0,76.6,6,0,0.0,0,9.7,Match Report,c1205184,L,2019,True
+399,2019-07-27,Sat,MLS,Regular Season,Away,L 1–3,Colorado Rapids,San Jose,Y,GK,90,4,3,2,25.0,0,1.7,0,0,0,0,10,22,45.5,19,1,63.2,46.7,11,90.9,58.8,9,0,0.0,0,16.7,Match Report,c1205184,L,2019,True
+400,2019-08-03,Sat,MLS,Regular Season,Home,W 6–3,Colorado Rapids,Montreal Impact,N,GK,45,2,2,1,50.0,0,1.1,1,1,0,0,2,6,33.3,5,1,80.0,64.8,2,100.0,74.0,5,1,20.0,0,14.0,Match Report,c1205184,W,2019,False
+401,2019-08-10,Sat,MLS,Regular Season,Home,W 2–1,Colorado Rapids,San Jose,Y,GK,90,2,1,1,50.0,0,1.1,0,0,0,0,8,21,38.1,14,1,64.3,49.6,14,85.7,59.0,11,0,0.0,0,9.8,Match Report,c1205184,W,2019,False
+402,2019-08-14,Wed,MLS,Regular Season,Away,L 0–1,Colorado Rapids,Minnesota Utd,Y,GK,90,7,1,6,85.7,0,1.6,1,0,1,0,6,26,23.1,22,3,72.7,48.9,11,90.9,58.2,9,0,0.0,0,12.3,Match Report,c1205184,L,2019,False
+403,2019-08-17,Sat,MLS,Regular Season,Away,D 2–2,Colorado Rapids,Houston Dynamo,Y,GK,90,8,2,5,75.0,0,2.0,0,0,0,0,19,31,61.3,23,5,78.3,55.3,14,92.9,61.5,10,1,10.0,0,9.8,Match Report,c1205184,D,2019,False
+404,2019-09-07,Sat,MLS,Regular Season,Home,W 2–0,Colorado Rapids,Seattle,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,5,13,38.5,10,2,50.0,43.7,9,88.9,62.4,3,1,33.3,1,16.3,Match Report,c1205184,W,2019,False
+405,2019-09-11,Wed,MLS,Regular Season,Home,W 2–1,Colorado Rapids,LA Galaxy,Y,GK,90,7,1,6,85.7,0,1.3,0,0,0,0,4,13,30.8,20,8,30.0,29.5,10,70.0,53.2,7,0,0.0,2,16.7,Match Report,c1205184,W,2019,False
+406,2019-09-15,Sun,MLS,Regular Season,Away,L 2–3,Colorado Rapids,Toronto FC,Y,GK,90,5,3,3,60.0,0,2.6,1,1,0,0,9,16,56.3,22,5,59.1,45.1,4,75.0,52.8,8,0,0.0,0,8.2,Match Report,c1205184,L,2019,False
+407,2019-09-21,Sat,MLS,Regular Season,Away,W 3–2,Colorado Rapids,Sporting KC,Y,GK,90,2,2,1,0.0,0,0.8,0,0,0,0,7,10,70.0,15,4,46.7,32.9,10,30.0,34.6,9,1,11.1,0,15.3,Match Report,c1205184,W,2019,False
+408,2019-03-02,Sat,MLS,Regular Season,Away,D 2–2,NYCFC,Orlando City,Y,GK,90,4,2,2,50.0,0,1.7,0,0,0,0,8,28,28.6,32,2,71.9,54.2,6,83.3,49.5,9,0,0.0,1,14.1,Match Report,c164335e,D,2019,True
+409,2019-03-10,Sun,MLS,Regular Season,Home,D 0–0,NYCFC,D.C. United,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,6,18,33.3,40,1,40.0,36.2,6,33.3,38.5,3,0,0.0,0,11.5,Match Report,c164335e,D,2019,True
+410,2019-03-17,Sun,MLS,Regular Season,Home,D 2–2,NYCFC,Los Angeles FC,Y,GK,90,3,2,2,66.7,0,1.4,1,1,0,0,4,8,50.0,30,3,20.0,27.4,12,16.7,34.1,4,0,0.0,1,12.8,Match Report,c164335e,D,2019,True
+411,2019-03-29,Fri,MLS,Regular Season,Away,L 0–4,NYCFC,Toronto FC,Y,GK,90,8,4,5,62.5,0,3.9,1,1,0,0,4,7,57.1,35,2,14.3,24.7,4,50.0,44.8,4,0,0.0,1,18.7,Match Report,c164335e,L,2019,True
+412,2019-04-06,Sat,MLS,Regular Season,Home,D 0–0,NYCFC,Montreal Impact,Y,GK,90,1,0,1,100.0,1,0.6,0,0,0,0,4,7,57.1,29,7,17.2,26.7,8,25.0,37.6,8,2,25.0,0,11.4,Match Report,c164335e,D,2019,True
+413,2019-04-13,Sat,MLS,Regular Season,Away,D 3–3,NYCFC,Minnesota Utd,Y,GK,90,3,3,1,0.0,0,1.5,0,0,0,0,1,8,12.5,26,4,23.1,30.7,7,28.6,30.3,9,0,0.0,0,8.0,Match Report,c164335e,D,2019,True
+414,2019-04-21,Sun,MLS,Regular Season,Away,W 2–0,NYCFC,D.C. United,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,17,29.4,15,3,73.3,50.6,9,66.7,50.4,11,1,9.1,0,13.0,Match Report,c164335e,W,2019,True
+415,2019-04-24,Wed,MLS,Regular Season,Home,W 1–0,NYCFC,Chicago Fire,Y,GK,90,1,0,1,100.0,1,,0,0,0,0,,,,,,,,,,,,,,,,Match Report,c164335e,W,2019,True
+416,2019-04-27,Sat,MLS,Regular Season,Home,D 1–1,NYCFC,Orlando City,Y,GK,90,1,1,0,0.0,0,0.8,0,0,0,0,4,11,36.4,21,4,42.9,37.5,4,50.0,34.8,5,1,20.0,4,20.6,Match Report,c164335e,D,2019,True
+417,2019-05-04,Sat,MLS,Regular Season,Away,W 2–0,NYCFC,Montreal Impact,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,8,21,38.1,24,3,50.0,42.3,12,75.0,49.8,10,2,20.0,1,16.3,Match Report,c164335e,W,2019,True
+418,2019-05-11,Sat,MLS,Regular Season,Away,W 2–0,NYCFC,LA Galaxy,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,8,19,42.1,21,2,47.6,41.6,10,90.0,54.6,6,0,0.0,0,14.7,Match Report,c164335e,W,2019,True
+419,2019-05-25,Sat,MLS,Regular Season,Away,D 1–1,NYCFC,Chicago Fire,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,7,23,30.4,29,5,48.3,43.0,13,69.2,46.5,11,0,0.0,0,13.9,Match Report,c164335e,D,2019,True
+420,2019-06-01,Sat,MLS,Regular Season,Away,D 2–2,NYCFC,Columbus Crew,Y,GK,90,3,2,2,66.7,0,1.5,1,1,0,0,5,12,41.7,22,3,36.4,35.1,11,36.4,39.0,7,0,0.0,0,13.8,Match Report,c164335e,D,2019,True
+421,2019-07-14,Sun,MLS,Regular Season,Away,L 1–2,NYCFC,NY Red Bulls,Y,GK,90,4,2,3,75.0,0,2.2,1,1,0,0,8,17,47.1,36,7,33.3,32.9,7,71.4,47.9,6,1,16.7,0,13.0,Match Report,c164335e,L,2019,True
+422,2019-07-20,Sat,MLS,Regular Season,Away,W 2–1,NYCFC,Colorado Rapids,Y*,GK,90,2,1,2,50.0,0,0.1,0,0,0,0,5,9,55.6,14,1,42.9,39.1,8,37.5,43.9,3,0,0.0,0,21.0,Match Report,c164335e,W,2019,True
+423,2019-07-26,Fri,MLS,Regular Season,Home,W 3–1,NYCFC,Sporting KC,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,5,20,25.0,33,6,42.4,39.2,12,50.0,42.0,14,1,7.1,0,13.5,Match Report,c164335e,W,2019,True
+424,2019-08-03,Sat,MLS,Regular Season,Away,L 1–3,NYCFC,Real Salt Lake,Y,GK,90,4,3,1,25.0,0,1.8,0,0,0,0,7,17,41.2,25,4,32.0,36.6,13,69.2,47.2,8,0,0.0,0,15.3,Match Report,c164335e,L,2019,False
+425,2019-08-08,Thu,MLS,Regular Season,Home,W 3–2,NYCFC,Houston Dynamo,Y,GK,90,2,2,0,0.0,0,0.9,0,0,0,0,1,2,50.0,22,6,9.1,23.9,7,0.0,25.3,5,0,0.0,0,14.1,Match Report,c164335e,W,2019,False
+426,2019-08-11,Sun,MLS,Regular Season,Away,L 1–2,NYCFC,Atlanta Utd,Y,GK,90,8,2,7,87.5,0,2.8,1,1,0,0,8,22,36.4,31,6,35.5,37.9,12,91.7,68.8,12,2,16.7,0,14.0,Match Report,c164335e,L,2019,False
+427,2019-08-17,Sat,MLS,Regular Season,Away,W 4–1,NYCFC,FC Cincinnati,Y,GK,90,5,1,4,80.0,0,1.5,1,0,1,0,6,13,46.2,28,6,14.3,28.5,12,75.0,51.9,12,2,16.7,1,16.5,Match Report,c164335e,W,2019,False
+428,2019-08-21,Wed,MLS,Regular Season,Home,W 1–0,NYCFC,Columbus Crew,Y,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,9,17,52.9,37,7,32.4,34.8,8,62.5,54.3,9,1,11.1,2,17.0,Match Report,c164335e,W,2019,False
+429,2019-08-24,Sat,MLS,Regular Season,Home,W 2–1,NYCFC,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,6,13,46.2,25,5,32.0,34.9,10,50.0,46.5,11,0,0.0,0,9.7,Match Report,c164335e,W,2019,False
+430,2019-08-31,Sat,MLS,Regular Season,Away,W 3–1,NYCFC,Vancouver,Y,GK,90,7,1,6,85.7,0,1.0,0,0,0,0,8,13,61.5,35,4,17.1,25.0,12,58.3,42.5,14,0,0.0,0,12.0,Match Report,c164335e,W,2019,False
+431,2019-09-11,Wed,MLS,Regular Season,Home,D 1–1,NYCFC,Toronto FC,Y,GK,90,3,1,3,100.0,0,2.4,2,1,1,0,1,8,12.5,33,7,15.2,29.3,12,25.0,34.8,12,2,16.7,1,24.4,Match Report,c164335e,D,2019,False
+432,2019-09-14,Sat,MLS,Regular Season,Home,W 2–1,NYCFC,San Jose,Y,GK,90,7,1,6,85.7,0,1.8,0,0,0,0,14,28,50.0,33,4,60.6,48.5,8,100.0,62.8,7,0,0.0,0,12.9,Match Report,c164335e,W,2019,False
+433,2019-09-22,Sun,MLS,Regular Season,Away,D 1–1,NYCFC,FC Dallas,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,10,23,43.5,30,5,43.3,38.8,15,66.7,49.5,17,2,11.8,0,13.0,Match Report,c164335e,D,2019,False
+434,2019-09-25,Wed,MLS,Regular Season,Home,W 4–1,NYCFC,Atlanta Utd,Y,GK,90,3,1,3,100.0,0,1.2,1,1,0,0,6,25,24.0,43,6,46.5,42.7,9,55.6,43.1,2,1,50.0,1,12.3,Match Report,c164335e,W,2019,False
+435,2019-09-29,Sun,MLS,Regular Season,Away,L 0–2,NYCFC,New England,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,7,13,53.8,28,3,25.0,31.5,10,60.0,44.8,7,0,0.0,1,18.3,Match Report,c164335e,L,2019,False
+436,2019-10-06,Sun,MLS,Regular Season,Away,W 2–1,NYCFC,Philadelphia,Y,GK,90,4,1,4,100.0,0,1.5,1,1,0,0,5,14,35.7,52,2,17.3,26.8,12,41.7,39.2,12,0,0.0,1,17.7,Match Report,c164335e,W,2019,False
+437,2019-10-23,Wed,MLS,Conference Semifinals,Home,L 1–2,NYCFC,Toronto FC,Y,GK,90,6,2,5,83.3,0,2.7,1,1,0,0,5,12,41.7,40,8,27.5,32.4,3,33.3,45.7,6,0,0.0,0,13.1,Match Report,c164335e,L,2019,False
+438,2019-05-18,Sat,MLS,Regular Season,Away,L 0–1,Columbus Crew,Minnesota Utd,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,5,21,23.8,20,8,35.0,36.0,15,93.3,62.2,9,2,22.2,0,15.3,Match Report,063adc5e,L,2019,True
+439,2019-06-23,Sun,MLS,Regular Season,Home,L 0–1,Columbus Crew,Sporting KC,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,7,20,35.0,23,4,47.8,38.9,12,75.0,57.5,5,0,0.0,2,13.8,Match Report,063adc5e,L,2019,True
+440,2019-06-29,Sat,MLS,Regular Season,Home,L 0–2,Columbus Crew,Orlando City,Y,GK,90,3,2,1,33.3,0,0.8,0,0,0,0,5,10,50.0,20,8,45.0,38.0,2,50.0,48.5,3,0,0.0,2,20.2,Match Report,063adc5e,L,2019,True
+441,2019-03-02,Sat,MLS,Regular Season,Away,D 1–1,New England,FC Dallas,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,4,16,25.0,14,3,78.6,51.0,5,100.0,61.2,2,1,50.0,0,21.3,Match Report,9903a3cb,D,2019,True
+442,2019-03-09,Sat,MLS,Regular Season,Home,L 0–2,New England,Columbus Crew,Y,GK,90,4,2,2,50.0,0,1.7,0,0,0,0,4,7,57.1,15,6,46.7,46.3,1,0.0,18.0,1,1,100.0,2,20.8,Match Report,9903a3cb,L,2019,True
+443,2019-03-17,Sun,MLS,Regular Season,Away,L 2–3,New England,Toronto FC,Y,GK,90,3,3,0,0.0,0,1.9,0,0,0,0,8,18,44.4,17,4,58.8,45.6,9,88.9,56.9,8,0,0.0,0,11.5,Match Report,9903a3cb,L,2019,True
+444,2019-03-24,Sun,MLS,Regular Season,Home,L 0–2,New England,FC Cincinnati,Y,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,7,14,50.0,20,6,35.0,32.7,8,87.5,56.3,5,0,0.0,1,19.3,Match Report,9903a3cb,L,2019,True
+445,2019-05-25,Sat,MLS,Regular Season,Home,D 1–1,New England,D.C. United,N,GK,33,3,1,3,100.0,0,1.1,2,1,1,0,5,17,29.4,11,0,100.0,69.3,6,100.0,72.8,9,1,11.1,1,19.3,Match Report,9903a3cb,D,2019,True
+446,2019-06-02,Sun,MLS,Regular Season,Away,W 2–1,New England,LA Galaxy,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,8,20,40.0,22,4,63.6,49.4,11,54.5,47.3,16,2,12.5,1,12.6,Match Report,9903a3cb,W,2019,True
+447,2019-06-26,Wed,MLS,Regular Season,Home,D 1–1,New England,Philadelphia,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,8,17,47.1,20,6,65.0,51.4,8,50.0,40.1,11,2,18.2,0,14.7,Match Report,9903a3cb,D,2019,True
+448,2019-09-25,Wed,MLS,Regular Season,Away,D 2–2,New England,Portland Timbers,Y,GK,90,6,2,4,66.7,0,1.7,0,0,0,0,7,21,33.3,27,4,59.3,50.9,8,62.5,49.1,12,0,0.0,1,13.0,Match Report,9903a3cb,D,2019,False
+449,2019-05-25,Sat,MLS,Regular Season,Home,D 1–1,Chicago Fire,NYCFC,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,7,13,53.8,31,6,25.8,31.3,10,50.0,48.1,4,0,0.0,1,13.9,Match Report,e3b198bc,D,2019,True
+450,2019-05-29,Wed,MLS,Regular Season,Away,D 3–3,Chicago Fire,D.C. United,Y,GK,90,4,3,1,25.0,0,2.3,0,0,0,0,7,13,53.8,22,5,36.4,38.0,9,55.6,44.3,13,3,23.1,2,20.8,Match Report,e3b198bc,D,2019,True
+451,2019-06-01,Sat,MLS,Regular Season,Away,L 0–2,Chicago Fire,Atlanta Utd,Y,GK,90,9,2,7,77.8,0,1.8,0,0,0,0,3,5,60.0,24,5,16.7,25.6,3,33.3,40.3,4,1,25.0,0,21.0,Match Report,e3b198bc,L,2019,True
+452,2019-06-22,Sat,MLS,Regular Season,Home,D 1–1,Chicago Fire,Real Salt Lake,Y,GK,90,0,1,0,,0,0.2,1,1,0,0,3,12,25.0,25,7,48.0,36.9,6,0.0,25.2,8,4,50.0,3,26.5,Match Report,e3b198bc,D,2019,True
+453,2019-06-28,Fri,MLS,Regular Season,Away,L 1–3,Chicago Fire,NY Red Bulls,Y,GK,90,5,3,2,40.0,0,2.9,0,0,0,0,5,10,50.0,32,3,31.3,32.6,2,0.0,32.0,6,1,16.7,2,14.6,Match Report,e3b198bc,L,2019,True
+454,2019-07-03,Wed,MLS,Regular Season,Home,W 5–1,Chicago Fire,Atlanta Utd,Y,GK,90,0,1,0,,0,1.0,1,1,0,0,4,4,100.0,21,5,19.0,22.1,2,0.0,27.5,1,0,0.0,1,19.8,Match Report,e3b198bc,W,2019,True
+455,2019-07-06,Sat,MLS,Regular Season,Away,L 0–1,Chicago Fire,Sporting KC,Y,GK,90,9,1,8,88.9,0,2.4,0,0,0,0,6,24,25.0,42,8,38.1,33.8,11,72.7,51.8,6,2,33.3,0,17.0,Match Report,e3b198bc,L,2019,True
+456,2019-07-13,Sat,MLS,Regular Season,Home,L 1–2,Chicago Fire,FC Cincinnati,Y,GK,90,2,2,0,0.0,0,1.3,0,0,0,0,2,5,40.0,24,4,8.3,21.8,3,100.0,53.3,6,0,0.0,1,21.5,Match Report,e3b198bc,L,2019,True
+457,2019-07-17,Wed,MLS,Regular Season,Home,D 2–2,Chicago Fire,Columbus Crew,Y,GK,90,5,2,3,60.0,0,1.1,0,0,0,0,4,7,57.1,23,4,17.4,29.3,11,27.3,37.7,7,0,0.0,1,17.3,Match Report,e3b198bc,D,2019,True
+458,2019-07-20,Sat,MLS,Regular Season,Away,L 0–2,Chicago Fire,Philadelphia,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,4,7,57.1,15,5,33.3,29.7,7,28.6,29.4,7,1,14.3,1,23.8,Match Report,e3b198bc,L,2019,True
+459,2019-07-27,Sat,MLS,Regular Season,Home,D 0–0,Chicago Fire,D.C. United,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,4,11,36.4,21,7,42.9,34.2,7,28.6,38.3,9,1,11.1,1,14.3,Match Report,e3b198bc,D,2019,True
+460,2019-08-03,Sat,MLS,Regular Season,Away,W 1–0,Chicago Fire,Houston Dynamo,Y,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,6,19,31.6,20,7,55.0,47.3,10,80.0,60.2,15,3,20.0,2,17.7,Match Report,e3b198bc,W,2019,False
+461,2019-08-10,Sat,MLS,Regular Season,Home,W 3–2,Chicago Fire,Montreal Impact,Y,GK,90,2,2,1,50.0,0,1.7,1,1,0,0,5,12,41.7,20,4,35.0,32.8,9,55.6,42.7,11,0,0.0,0,14.0,Match Report,e3b198bc,W,2019,False
+462,2019-08-17,Sat,MLS,Regular Season,Home,W 2–0,Chicago Fire,Philadelphia,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,6,24,25.0,26,5,53.8,45.0,13,76.9,54.5,16,0,0.0,1,10.7,Match Report,e3b198bc,W,2019,False
+463,2019-08-24,Sat,MLS,Regular Season,Away,L 1–2,Chicago Fire,New England,Y,GK,90,5,2,3,60.0,0,1.2,0,0,0,0,14,29,48.3,31,5,67.7,44.8,8,100.0,63.4,10,1,10.0,1,10.3,Match Report,e3b198bc,L,2019,False
+464,2019-08-31,Sat,MLS,Regular Season,Away,D 1–1,Chicago Fire,Columbus Crew,Y,GK,90,7,1,6,85.7,0,0.9,0,0,0,0,3,12,25.0,28,1,21.4,30.1,9,66.7,50.9,3,0,0.0,2,16.7,Match Report,e3b198bc,D,2019,False
+465,2019-09-14,Sat,MLS,Regular Season,Home,W 4–0,Chicago Fire,FC Dallas,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,2,18,11.1,29,13,31.0,32.1,10,90.0,52.4,13,2,15.4,1,14.0,Match Report,e3b198bc,W,2019,False
+466,2019-09-21,Sat,MLS,Regular Season,Away,D 0–0,Chicago Fire,FC Cincinnati,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,7,10,70.0,18,8,27.8,31.6,8,62.5,51.8,3,0,0.0,1,16.8,Match Report,e3b198bc,D,2019,False
+467,2019-09-29,Sun,MLS,Regular Season,Home,D 2–2,Chicago Fire,Toronto FC,Y,GK,90,4,2,2,50.0,0,1.7,0,0,0,0,8,13,61.5,33,9,33.3,30.5,6,33.3,39.7,4,0,0.0,0,11.5,Match Report,e3b198bc,D,2019,False
+468,2019-10-06,Sun,MLS,Regular Season,Away,W 5–2,Chicago Fire,Orlando City,Y,GK,90,9,2,8,77.8,0,2.2,0,0,0,0,5,8,62.5,25,7,24.0,28.6,10,20.0,30.4,7,2,28.6,2,17.0,Match Report,e3b198bc,W,2019,False
+469,2019-09-29,Sun,MLS,Regular Season,Home,L 3–4,LA Galaxy,Vancouver,Y,GK,90,6,4,2,33.3,0,3.2,0,0,0,0,4,5,80.0,17,7,17.6,25.8,4,50.0,37.5,5,0,0.0,1,14.9,Match Report,44a7dc84,L,2019,False
+470,2019-04-20,Sat,MLS,Regular Season,Away,L 0–1,Vancouver,Orlando City,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,7,21,33.3,23,5,56.5,41.5,12,66.7,57.6,11,0,0.0,1,12.2,Match Report,06caac45,L,2019,True
+471,2019-05-22,Wed,MLS,Regular Season,Away,D 2–2,Vancouver,NY Red Bulls,Y,GK,90,2,2,1,0.0,0,1.0,0,0,0,0,9,30,30.0,32,4,65.6,43.9,12,75.0,54.8,18,1,5.6,0,11.4,Match Report,06caac45,D,2019,True
+472,2019-06-22,Sat,MLS,Regular Season,Home,D 2–2,Vancouver,Colorado Rapids,Y,GK,90,4,2,2,50.0,0,2.3,0,0,0,0,0,0,,17,4,0.0,21.7,5,0.0,22.6,13,0,0.0,1,17.0,Match Report,06caac45,D,2019,True
+473,2019-06-26,Wed,MLS,Regular Season,Away,D 2–2,Vancouver,FC Dallas,Y,GK,90,9,2,7,77.8,0,2.5,0,0,0,0,7,15,46.7,27,6,18.5,30.1,12,83.3,58.0,9,1,11.1,0,14.2,Match Report,06caac45,D,2019,True
+474,2019-06-29,Sat,MLS,Regular Season,Away,L 0–1,Vancouver,Seattle,Y,GK,90,8,1,7,87.5,0,2.2,0,0,0,0,8,18,44.4,40,5,30.0,34.2,12,50.0,47.6,6,0,0.0,0,8.5,Match Report,06caac45,L,2019,True
+475,2019-07-13,Sat,MLS,Regular Season,Home,L 0–3,Vancouver,Sporting KC,Y,GK,90,9,3,7,66.7,0,2.1,0,0,0,0,8,23,34.8,39,12,48.7,40.4,5,80.0,56.6,8,2,25.0,0,14.1,Match Report,06caac45,L,2019,True
+476,2019-09-14,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,Houston Dynamo,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,9,28,32.1,32,6,59.4,45.6,14,64.3,54.6,12,0,0.0,2,18.8,Match Report,06caac45,W,2019,False
+477,2019-09-21,Sat,MLS,Regular Season,Home,D 1–1,Vancouver,Columbus Crew,Y,GK,90,7,1,7,100.0,0,1.7,1,1,0,0,4,11,36.4,28,7,28.6,32.3,6,50.0,52.5,10,1,10.0,0,15.8,Match Report,06caac45,D,2019,False
+478,2019-03-02,Sat,MLS,Regular Season,Away,W 3–2,Minnesota Utd,Vancouver,Y,GK,90,4,2,2,50.0,0,1.0,0,0,0,0,2,13,15.4,24,9,41.7,35.4,4,75.0,46.8,6,1,16.7,1,21.3,Match Report,c4173f1a,W,2019,True
+479,2019-03-09,Sat,MLS,Regular Season,Away,W 3–0,Minnesota Utd,San Jose,Y,GK,90,5,0,5,100.0,1,0.2,0,0,0,0,6,20,30.0,28,1,50.0,40.0,8,75.0,51.4,21,0,0.0,0,10.8,Match Report,c4173f1a,W,2019,True
+480,2019-03-16,Sat,MLS,Regular Season,Away,L 2–3,Minnesota Utd,LA Galaxy,Y,GK,90,5,3,3,60.0,0,2.8,1,1,0,0,11,28,39.3,25,4,68.0,45.9,14,78.6,52.6,22,2,9.1,1,9.3,Match Report,c4173f1a,L,2019,True
+481,2019-03-30,Sat,MLS,Regular Season,Away,L 1–2,Minnesota Utd,New England,Y,GK,90,5,2,3,60.0,0,1.2,0,0,0,0,6,34,17.6,33,5,66.7,45.4,17,70.6,51.1,13,1,7.7,1,17.7,Match Report,c4173f1a,L,2019,True
+482,2019-04-06,Sat,MLS,Regular Season,Away,W 2–1,Minnesota Utd,NY Red Bulls,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,7,32,21.9,29,3,75.9,58.6,10,100.0,67.0,19,4,21.1,0,12.6,Match Report,c4173f1a,W,2019,True
+483,2019-04-13,Sat,MLS,Regular Season,Home,D 3–3,Minnesota Utd,NYCFC,Y,GK,90,6,3,3,50.0,0,2.0,0,0,0,0,9,20,45.0,17,1,76.5,51.5,9,77.8,55.3,5,0,0.0,1,16.2,Match Report,c4173f1a,D,2019,True
+484,2019-04-19,Fri,MLS,Regular Season,Away,L 3–4,Minnesota Utd,Toronto FC,Y,GK,90,7,4,3,42.9,0,2.5,0,0,0,0,3,10,30.0,18,2,27.8,30.4,6,83.3,57.0,5,0,0.0,1,29.0,Match Report,c4173f1a,L,2019,True
+485,2019-04-24,Wed,MLS,Regular Season,Home,D 0–0,Minnesota Utd,LA Galaxy,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,6,20,30.0,19,5,63.2,48.2,10,80.0,59.5,16,0,0.0,1,11.3,Match Report,c4173f1a,D,2019,True
+486,2019-04-28,Sun,MLS,Regular Season,Home,W 1–0,Minnesota Utd,D.C. United,Y,GK,90,1,0,1,100.0,1,0.4,0,0,0,0,4,15,26.7,16,2,56.3,41.3,6,100.0,68.3,8,1,12.5,1,20.0,Match Report,c4173f1a,W,2019,True
+487,2019-05-04,Sat,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Seattle,Y,GK,90,1,1,0,0.0,0,0.5,0,0,0,0,5,12,41.7,21,5,38.1,37.6,4,100.0,70.3,8,0,0.0,0,12.8,Match Report,c4173f1a,D,2019,True
+488,2019-05-11,Sat,MLS,Regular Season,Away,L 0–2,Minnesota Utd,Chicago Fire,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,4,9,44.4,20,5,30.0,33.5,6,50.0,44.8,2,0,0.0,0,7.5,Match Report,c4173f1a,L,2019,True
+489,2019-05-18,Sat,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Columbus Crew,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,1,14,7.1,26,5,34.6,35.2,5,100.0,71.6,8,1,12.5,0,14.4,Match Report,c4173f1a,W,2019,True
+490,2019-05-25,Sat,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Houston Dynamo,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,9,27,33.3,20,2,75.0,52.5,12,100.0,70.5,11,0,0.0,0,9.0,Match Report,c4173f1a,W,2019,True
+491,2019-05-29,Wed,MLS,Regular Season,Away,L 0–3,Minnesota Utd,Atlanta Utd,Y,GK,90,8,3,5,62.5,0,1.9,0,0,0,0,11,20,55.0,22,1,63.6,46.7,9,66.7,50.6,2,0,0.0,0,9.0,Match Report,c4173f1a,L,2019,True
+492,2019-06-02,Sun,MLS,Regular Season,Home,L 2–3,Minnesota Utd,Philadelphia,Y,GK,90,5,3,3,60.0,0,2.7,1,1,0,0,6,9,66.7,23,3,17.4,27.5,6,83.3,45.0,4,0,0.0,2,23.8,Match Report,c4173f1a,L,2019,True
+493,2019-06-08,Sat,MLS,Regular Season,Away,L 0–1,Minnesota Utd,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,2,7,28.6,17,5,17.6,27.2,13,30.8,41.8,7,0,0.0,2,16.4,Match Report,c4173f1a,L,2019,True
+494,2019-06-29,Sat,MLS,Regular Season,Home,W 7–1,Minnesota Utd,FC Cincinnati,Y,GK,90,5,1,3,80.0,0,0.4,0,0,0,0,4,14,28.6,25,6,36.0,36.6,6,83.3,57.0,4,0,0.0,0,14.6,Match Report,c4173f1a,W,2019,True
+495,2019-07-03,Wed,MLS,Regular Season,Home,W 3–1,Minnesota Utd,San Jose,Y,GK,90,8,1,7,87.5,0,1.8,0,0,0,0,8,25,32.0,30,7,56.7,43.2,14,57.1,49.1,15,0,0.0,0,13.5,Match Report,c4173f1a,W,2019,True
+496,2019-07-06,Sat,MLS,Regular Season,Away,W 3–2,Minnesota Utd,Montreal Impact,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,5,19,26.3,14,0,64.3,50.4,11,90.9,66.6,8,1,12.5,0,,Match Report,c4173f1a,W,2019,True
+497,2019-07-13,Sat,MLS,Regular Season,Home,W 1–0,Minnesota Utd,FC Dallas,Y,GK,90,5,0,5,100.0,1,1.4,1,0,1,0,6,20,30.0,25,7,44.0,40.3,14,64.3,54.9,7,0,0.0,0,15.7,Match Report,c4173f1a,W,2019,True
+498,2019-07-20,Sat,MLS,Regular Season,Away,D 1–1,Minnesota Utd,Real Salt Lake,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,5,16,31.3,16,4,50.0,41.7,8,100.0,70.8,16,0,0.0,0,13.3,Match Report,c4173f1a,D,2019,True
+499,2019-07-27,Sat,MLS,Regular Season,Home,D 0–0,Minnesota Utd,Vancouver,Y,GK,90,5,0,5,100.0,1,0.2,0,0,0,0,4,10,40.0,24,11,20.8,27.5,12,41.7,40.5,3,0,0.0,2,22.6,Match Report,c4173f1a,D,2019,True
+500,2019-08-04,Sun,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Portland Timbers,Y,GK,90,6,0,6,100.0,1,1.0,0,0,0,0,4,12,33.3,18,6,38.9,38.4,8,62.5,51.9,12,1,8.3,0,12.7,Match Report,c4173f1a,W,2019,False
+501,2019-08-10,Sat,MLS,Regular Season,Away,L 3–5,Minnesota Utd,FC Dallas,Y,GK,90,9,5,4,44.4,0,3.8,0,0,0,0,7,22,31.8,26,9,38.5,37.9,12,100.0,63.3,9,0,0.0,1,12.7,Match Report,c4173f1a,L,2019,False
+502,2019-08-14,Wed,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,7,15,46.7,24,7,45.8,40.7,6,66.7,59.0,11,2,18.2,1,15.0,Match Report,c4173f1a,W,2019,False
+503,2019-08-17,Sat,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Orlando City,Y,GK,90,2,1,2,100.0,0,1.0,1,1,0,0,5,9,55.6,23,6,39.1,37.1,3,0.0,22.0,5,0,0.0,0,15.0,Match Report,c4173f1a,D,2019,False
+504,2019-08-22,Thu,MLS,Regular Season,Away,L 0–1,Minnesota Utd,Sporting KC,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,9,27,33.3,20,6,50.0,39.5,18,94.4,65.2,8,0,0.0,2,14.3,Match Report,c4173f1a,L,2019,False
+505,2019-09-01,Sun,MLS,Regular Season,Away,W 2–0,Minnesota Utd,Los Angeles FC,Y,GK,90,8,0,8,100.0,1,1.6,0,0,0,0,9,38,23.7,25,3,84.0,59.7,17,100.0,71.8,10,0,0.0,0,12.8,Match Report,c4173f1a,W,2019,False
+506,2019-09-11,Wed,MLS,Regular Season,Away,L 0–2,Minnesota Utd,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,1.2,0,0,0,0,3,7,42.9,25,8,24.0,28.1,3,33.3,30.3,2,0,0.0,1,17.1,Match Report,c4173f1a,L,2019,False
+507,2019-09-15,Sun,MLS,Regular Season,Home,W 3–1,Minnesota Utd,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,1,11,9.1,12,4,50.0,41.4,6,83.3,57.3,10,0,0.0,0,11.0,Match Report,c4173f1a,W,2019,False
+508,2019-09-22,Sun,MLS,Regular Season,Away,D 0–0,Minnesota Utd,Portland Timbers,Y,GK,90,12,0,12,100.0,1,2.7,0,0,0,0,6,22,27.3,35,15,40.0,41.1,10,80.0,59.5,20,1,5.0,0,11.8,Match Report,c4173f1a,D,2019,False
+509,2019-09-25,Wed,MLS,Regular Season,Home,W 2–1,Minnesota Utd,Sporting KC,Y,GK,90,9,1,8,88.9,0,2.6,0,0,0,0,8,14,57.1,25,7,32.0,32.4,11,54.5,42.1,10,0,0.0,0,13.2,Match Report,c4173f1a,W,2019,False
+510,2019-09-29,Sun,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Los Angeles FC,Y,GK,90,6,1,5,83.3,0,1.6,0,0,0,0,10,23,43.5,21,5,66.7,45.3,11,81.8,56.3,7,0,0.0,0,11.2,Match Report,c4173f1a,D,2019,False
+511,2019-10-06,Sun,MLS,Regular Season,Away,L 0–1,Minnesota Utd,Seattle,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,9,14,64.3,20,8,40.0,35.6,9,66.7,46.4,9,1,11.1,3,17.4,Match Report,c4173f1a,L,2019,False
+512,2019-10-20,Sun,MLS,Round 1,Home,L 1–2,Minnesota Utd,LA Galaxy,Y,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,4,14,28.6,29,5,37.9,34.8,5,60.0,51.0,4,0,0.0,1,13.0,Match Report,c4173f1a,L,2019,False
+513,2019-04-06,Sat,MLS,Regular Season,Away,L 1–2,FC Dallas,Philadelphia,Y,GK,90,7,2,5,71.4,0,2.1,1,0,1,0,6,10,60.0,20,5,35.0,36.1,13,23.1,32.5,14,0,0.0,0,13.4,Match Report,ca1c6f3d,L,2019,True
+514,2019-06-08,Sat,MLS,Regular Season,Away,D 2–2,FC Dallas,San Jose,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,2,9,22.2,18,5,16.7,31.5,10,60.0,45.6,17,0,0.0,0,13.0,Match Report,ca1c6f3d,D,2019,True
+515,2019-05-11,Sat,MLS,Regular Season,Away,W 3–1,NY Red Bulls,FC Dallas,Y*,GK,90,6,1,5,83.3,0,2.1,0,0,0,0,5,24,20.8,20,4,70.0,55.9,10,100.0,68.7,8,1,12.5,0,15.0,Match Report,18f0723b,W,2019,True
+516,2019-03-03,Sun,MLS,Regular Season,Away,L 1–2,Sporting KC,Los Angeles FC,Y,GK,90,6,2,4,66.7,0,1.0,0,0,0,0,6,11,54.5,22,5,22.7,30.2,7,85.7,54.9,7,0,0.0,1,18.3,Match Report,cc741f50,L,2019,True
+517,2019-03-10,Sun,MLS,Regular Season,Home,W 2–0,Sporting KC,Philadelphia,Y,GK,90,4,0,4,100.0,1,1.5,1,0,1,0,4,8,50.0,36,6,22.2,26.7,6,0.0,27.2,12,0,0.0,0,14.6,Match Report,cc741f50,W,2019,True
+518,2019-03-17,Sun,MLS,Regular Season,Away,D 1–1,Sporting KC,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,6,12,50.0,35,7,28.6,33.6,10,20.0,30.9,9,0,0.0,2,17.0,Match Report,cc741f50,D,2019,True
+519,2019-03-30,Sat,MLS,Regular Season,Home,W 7–1,Sporting KC,Montreal Impact,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,0,6,0.0,26,2,23.1,31.4,6,0.0,27.7,6,1,16.7,0,15.0,Match Report,cc741f50,W,2019,True
+520,2019-04-14,Sun,MLS,Regular Season,Home,D 2–2,Sporting KC,NY Red Bulls,Y,GK,90,6,2,4,66.7,0,1.7,0,0,0,0,6,15,40.0,38,7,34.2,36.3,4,50.0,46.0,8,1,12.5,0,16.8,Match Report,cc741f50,D,2019,True
+521,2019-04-20,Sat,MLS,Regular Season,Away,L 1–4,Sporting KC,San Jose,Y,GK,90,7,4,3,42.9,0,2.2,0,0,0,0,4,11,36.4,21,5,38.1,39.4,7,42.9,39.4,5,0,0.0,2,18.6,Match Report,cc741f50,L,2019,True
+522,2019-04-27,Sat,MLS,Regular Season,Home,D 4–4,Sporting KC,New England,Y,GK,90,6,4,2,33.3,0,3.4,1,0,1,0,2,4,50.0,15,3,26.7,30.9,3,0.0,19.0,4,0,0.0,0,6.7,Match Report,cc741f50,D,2019,True
+523,2019-05-05,Sun,MLS,Regular Season,Home,L 0–3,Sporting KC,Atlanta Utd,Y,GK,90,8,3,5,62.5,0,2.4,0,0,0,0,3,8,37.5,20,8,25.0,31.9,9,33.3,35.8,2,0,0.0,1,16.0,Match Report,cc741f50,L,2019,True
+524,2019-05-12,Sun,MLS,Regular Season,Away,L 0–1,Sporting KC,D.C. United,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,7,17,41.2,26,3,42.3,38.0,8,75.0,55.9,13,0,0.0,1,14.2,Match Report,cc741f50,L,2019,True
+525,2019-05-18,Sat,MLS,Regular Season,Home,D 1–1,Sporting KC,Vancouver,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,6,10,60.0,23,6,30.4,31.4,8,37.5,43.0,10,0,0.0,0,18.3,Match Report,cc741f50,D,2019,True
+526,2019-05-26,Sun,MLS,Regular Season,Home,W 3–2,Sporting KC,Seattle,Y,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,9,20,45.0,45,3,35.6,37.9,7,57.1,53.0,6,0,0.0,1,12.8,Match Report,cc741f50,W,2019,True
+527,2019-05-29,Wed,MLS,Regular Season,Home,L 0–2,Sporting KC,LA Galaxy,Y,GK,90,5,2,3,60.0,0,1.8,0,0,0,0,6,11,54.5,36,7,27.8,30.1,5,20.0,31.8,10,2,20.0,0,16.0,Match Report,cc741f50,L,2019,True
+528,2019-06-01,Sat,MLS,Regular Season,Away,D 1–1,Sporting KC,Houston Dynamo,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,6,23,26.1,39,5,43.6,36.7,12,50.0,50.0,14,1,7.1,3,20.9,Match Report,cc741f50,D,2019,True
+529,2019-06-07,Fri,MLS,Regular Season,Away,D 2–2,Sporting KC,Toronto FC,Y,GK,90,5,2,3,60.0,0,2.5,0,0,0,0,3,13,23.1,23,7,26.1,30.0,9,77.8,54.9,10,1,10.0,0,10.5,Match Report,cc741f50,D,2019,True
+530,2019-06-23,Sun,MLS,Regular Season,Away,W 1–0,Sporting KC,Columbus Crew,Y,GK,90,3,0,3,100.0,1,1.2,0,0,0,0,7,18,38.9,42,6,35.7,37.5,8,37.5,35.1,13,2,15.4,0,13.3,Match Report,cc741f50,W,2019,True
+531,2019-06-29,Sat,MLS,Regular Season,Away,L 0–2,Sporting KC,Real Salt Lake,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,6,12,50.0,27,4,40.7,38.7,4,25.0,28.8,7,0,0.0,1,18.0,Match Report,cc741f50,L,2019,True
+532,2019-07-03,Wed,MLS,Regular Season,Home,L 1–5,Sporting KC,Los Angeles FC,Y,GK,90,7,5,2,28.6,0,2.8,0,0,0,0,1,6,16.7,25,3,24.0,29.4,6,0.0,25.3,1,0,0.0,2,19.0,Match Report,cc741f50,L,2019,True
+533,2019-07-06,Sat,MLS,Regular Season,Home,W 1–0,Sporting KC,Chicago Fire,Y,GK,90,2,0,2,100.0,1,0.7,0,0,0,0,7,13,53.8,25,6,36.0,37.3,7,57.1,38.6,5,2,40.0,0,8.8,Match Report,cc741f50,W,2019,True
+534,2019-07-13,Sat,MLS,Regular Season,Away,W 3–0,Sporting KC,Vancouver,Y,GK,90,6,0,6,100.0,1,0.8,0,0,0,0,6,16,37.5,28,5,46.4,44.1,5,60.0,46.6,4,0,0.0,0,11.7,Match Report,cc741f50,W,2019,True
+535,2019-07-20,Sat,MLS,Regular Season,Home,L 0–2,Sporting KC,FC Dallas,Y,GK,90,6,2,4,66.7,0,1.9,0,0,0,0,2,4,50.0,30,7,3.3,21.6,9,33.3,33.4,2,0,0.0,1,20.8,Match Report,cc741f50,L,2019,True
+536,2019-07-26,Fri,MLS,Regular Season,Away,L 1–3,Sporting KC,NYCFC,Y,GK,90,7,3,4,57.1,0,1.8,0,0,0,0,4,15,26.7,17,3,52.9,48.9,12,50.0,43.5,4,0,0.0,0,14.3,Match Report,cc741f50,L,2019,True
+537,2019-08-04,Sun,MLS,Regular Season,Away,W 3–2,Sporting KC,Seattle,Y,GK,90,5,2,3,60.0,0,1.2,0,0,0,0,7,12,58.3,14,4,21.4,26.6,10,90.0,58.9,15,0,0.0,0,14.3,Match Report,cc741f50,W,2019,False
+538,2019-08-10,Sat,MLS,Regular Season,Home,L 1–2,Sporting KC,Real Salt Lake,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,2,6,33.3,16,4,25.0,31.3,4,50.0,40.8,3,0,0.0,2,20.3,Match Report,cc741f50,L,2019,False
+539,2019-08-14,Wed,MLS,Regular Season,Away,L 0–1,Sporting KC,Orlando City,Y,GK,90,2,1,1,50.0,0,1.3,0,0,0,0,3,8,37.5,16,4,25.0,29.1,6,66.7,47.8,5,0,0.0,2,22.3,Match Report,cc741f50,L,2019,False
+540,2019-08-17,Sat,MLS,Regular Season,Home,W 2–1,Sporting KC,San Jose,Y,GK,90,5,1,4,80.0,0,1.9,0,0,0,0,8,25,32.0,31,6,58.1,45.8,11,63.6,51.7,9,1,11.1,1,13.3,Match Report,cc741f50,W,2019,False
+541,2019-08-22,Thu,MLS,Regular Season,Home,W 1–0,Sporting KC,Minnesota Utd,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,1,4,25.0,21,6,14.3,28.7,8,12.5,27.1,7,2,28.6,3,18.1,Match Report,cc741f50,W,2019,False
+542,2019-08-31,Sat,MLS,Regular Season,Home,W 1–0,Sporting KC,Houston Dynamo,Y,GK,90,5,0,5,100.0,1,0.8,0,0,0,0,2,5,40.0,18,8,22.2,32.1,7,14.3,29.3,6,2,33.3,0,12.7,Match Report,cc741f50,W,2019,False
+543,2019-09-07,Sat,MLS,Regular Season,Away,L 1–2,Sporting KC,Portland Timbers,Y,GK,90,4,2,2,50.0,0,2.1,0,0,0,0,11,23,47.8,26,8,61.5,44.7,10,70.0,54.2,13,1,7.7,0,10.1,Match Report,cc741f50,L,2019,False
+544,2019-09-15,Sun,MLS,Regular Season,Away,L 2–7,Sporting KC,LA Galaxy,Y,GK,90,12,7,5,41.7,0,5.8,1,0,1,0,3,5,60.0,11,3,27.3,29.1,5,40.0,41.6,14,1,7.1,1,15.0,Match Report,cc741f50,L,2019,False
+545,2019-09-21,Sat,MLS,Regular Season,Home,L 2–3,Sporting KC,Colorado Rapids,Y,GK,90,8,3,5,62.5,0,1.9,0,0,0,0,5,20,25.0,18,1,61.1,47.9,12,75.0,58.1,21,0,0.0,0,12.0,Match Report,cc741f50,L,2019,False
+546,2019-09-25,Wed,MLS,Regular Season,Away,L 1–2,Sporting KC,Minnesota Utd,Y,GK,90,6,2,4,66.7,0,2.2,0,0,0,0,5,18,27.8,26,6,46.2,39.8,6,100.0,71.2,14,4,28.6,0,10.0,Match Report,cc741f50,L,2019,False
+547,2019-09-29,Sun,MLS,Regular Season,Home,D 2–2,Sporting KC,Portland Timbers,Y,GK,90,5,2,4,80.0,0,2.2,1,1,0,0,4,7,57.1,16,4,31.3,34.6,9,22.2,29.3,8,0,0.0,0,13.3,Match Report,cc741f50,D,2019,False
+548,2019-03-03,Sun,MLS,Regular Season,Home,W 2–1,Los Angeles FC,Sporting KC,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,4,11,36.4,20,8,45.0,42.8,7,28.6,34.3,7,0,0.0,1,15.4,Match Report,7827a6b3,W,2019,True
+549,2019-03-10,Sun,MLS,Regular Season,Home,W 4–1,Los Angeles FC,Portland Timbers,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,4,9,44.4,25,8,28.0,31.5,5,40.0,38.0,7,2,28.6,1,15.7,Match Report,7827a6b3,W,2019,True
+550,2019-03-17,Sun,MLS,Regular Season,Away,D 2–2,Los Angeles FC,NYCFC,Y,GK,90,5,2,3,60.0,0,1.2,0,0,0,0,5,14,35.7,19,5,52.6,40.7,6,66.7,49.2,14,0,0.0,0,11.2,Match Report,7827a6b3,D,2019,True
+551,2019-03-23,Sat,MLS,Regular Season,Home,W 2–1,Los Angeles FC,Real Salt Lake,Y,GK,90,0,1,0,,0,0.9,1,1,0,0,1,4,25.0,23,1,13.0,26.6,3,33.3,37.7,2,0,0.0,1,45.0,Match Report,7827a6b3,W,2019,True
+552,2019-03-30,Sat,MLS,Regular Season,Away,W 5–0,Los Angeles FC,San Jose,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,16,31.3,34,9,41.2,38.1,3,66.7,39.3,8,2,25.0,1,19.6,Match Report,7827a6b3,W,2019,True
+553,2019-04-06,Sat,MLS,Regular Season,Away,W 4–0,Los Angeles FC,D.C. United,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,5,12,41.7,20,2,40.0,34.3,8,50.0,47.4,10,1,10.0,1,15.5,Match Report,7827a6b3,W,2019,True
+554,2019-04-13,Sat,MLS,Regular Season,Home,W 2–0,Los Angeles FC,FC Cincinnati,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,12,41.7,19,2,36.8,31.4,9,55.6,43.8,4,0,0.0,1,19.0,Match Report,7827a6b3,W,2019,True
+555,2019-04-17,Wed,MLS,Regular Season,Away,L 0–1,Los Angeles FC,Vancouver,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,5,7,71.4,17,6,23.5,27.7,8,37.5,35.1,5,0,0.0,1,18.5,Match Report,7827a6b3,L,2019,True
+556,2019-04-21,Sun,MLS,Regular Season,Home,W 4–1,Los Angeles FC,Seattle,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,3,6,50.0,19,4,21.1,31.3,4,50.0,41.0,5,0,0.0,0,12.5,Match Report,7827a6b3,W,2019,True
+557,2019-04-28,Sun,MLS,Regular Season,Away,D 1–1,Los Angeles FC,Seattle,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,2,3,66.7,16,6,18.8,26.2,2,0.0,15.5,1,1,100.0,2,32.0,Match Report,7827a6b3,D,2019,True
+558,2019-05-04,Sat,MLS,Regular Season,Home,D 0–0,Los Angeles FC,Chicago Fire,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,7,7,100.0,11,3,36.4,31.4,7,42.9,34.6,5,1,20.0,2,27.2,Match Report,7827a6b3,D,2019,True
+559,2019-05-11,Sat,MLS,Regular Season,Away,W 3–0,Los Angeles FC,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,6,11,54.5,32,8,28.1,33.5,7,28.6,34.0,3,1,33.3,2,18.8,Match Report,7827a6b3,W,2019,True
+560,2019-05-16,Thu,MLS,Regular Season,Home,W 2–0,Los Angeles FC,FC Dallas,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,4,5,80.0,16,5,25.0,30.1,4,25.0,44.8,0,0,,0,16.4,Match Report,7827a6b3,W,2019,True
+561,2019-05-19,Sun,MLS,Regular Season,Away,D 1–1,Los Angeles FC,FC Dallas,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,2,7,28.6,23,8,21.7,29.2,4,50.0,41.3,4,0,0.0,5,26.1,Match Report,7827a6b3,D,2019,True
+562,2019-05-24,Fri,MLS,Regular Season,Home,W 4–2,Los Angeles FC,Montreal Impact,Y,GK,90,5,2,5,80.0,0,1.5,1,1,0,0,4,8,50.0,22,9,27.3,32.0,7,28.6,37.3,10,0,0.0,0,15.6,Match Report,7827a6b3,W,2019,True
+563,2019-06-01,Sat,MLS,Regular Season,Away,W 3–2,Los Angeles FC,Portland Timbers,Y,GK,90,7,2,5,71.4,0,2.5,0,0,0,0,8,13,61.5,20,7,50.0,44.5,7,42.9,47.1,19,2,10.5,1,15.4,Match Report,7827a6b3,W,2019,True
+564,2019-07-12,Fri,MLS,Regular Season,Away,W 3–1,Los Angeles FC,Houston Dynamo,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,4,15,26.7,25,5,32.0,38.1,14,50.0,52.1,13,1,7.7,4,22.1,Match Report,7827a6b3,W,2019,True
+565,2019-07-19,Fri,MLS,Regular Season,Away,L 2–3,Los Angeles FC,LA Galaxy,Y,GK,90,8,3,5,62.5,0,1.8,0,0,0,0,6,8,75.0,22,6,31.8,33.0,3,33.3,34.0,8,1,12.5,2,15.8,Match Report,7827a6b3,L,2019,True
+566,2019-08-03,Sat,MLS,Regular Season,Away,W 2–0,Los Angeles FC,New England,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,7,12,58.3,35,10,28.6,33.2,8,25.0,37.5,12,3,25.0,0,11.8,Match Report,7827a6b3,W,2019,False
+567,2019-08-11,Sun,MLS,Regular Season,Home,W 4–2,Los Angeles FC,NY Red Bulls,Y,GK,90,4,2,3,50.0,0,1.0,0,0,0,0,7,23,30.4,35,5,48.6,40.8,6,100.0,54.3,5,0,0.0,3,20.3,Match Report,7827a6b3,W,2019,False
+568,2019-08-17,Sat,MLS,Regular Season,Away,W 2–0,Los Angeles FC,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,9,18,50.0,30,8,43.3,39.7,6,83.3,66.5,13,1,7.7,1,14.2,Match Report,7827a6b3,W,2019,False
+569,2019-08-21,Wed,MLS,Regular Season,Home,W 4–0,Los Angeles FC,San Jose,Y,GK,90,7,0,6,100.0,1,1.1,0,0,0,0,4,16,25.0,30,5,33.3,36.3,10,60.0,56.9,7,0,0.0,0,14.8,Match Report,7827a6b3,W,2019,False
+570,2019-08-25,Sun,MLS,Regular Season,Home,D 3–3,Los Angeles FC,LA Galaxy,Y,GK,90,6,3,3,50.0,0,2.1,0,0,0,0,6,8,75.0,25,8,20.0,28.4,9,33.3,37.1,5,1,20.0,1,19.0,Match Report,7827a6b3,D,2019,False
+571,2019-09-07,Sat,MLS,Regular Season,Away,D 2–2,Los Angeles FC,Orlando City,Y,GK,90,2,2,0,0.0,0,1.5,0,0,0,0,5,9,55.6,27,5,33.3,32.8,3,0.0,30.3,5,1,20.0,2,15.6,Match Report,7827a6b3,D,2019,False
+572,2019-09-14,Sat,MLS,Regular Season,Away,D 1–1,Los Angeles FC,Philadelphia,Y,GK,90,3,1,2,66.7,0,1.5,0,0,0,0,4,10,40.0,28,8,28.6,30.9,8,25.0,34.8,11,1,9.1,1,18.7,Match Report,7827a6b3,D,2019,False
+573,2019-09-21,Sat,MLS,Regular Season,Home,D 1–1,Los Angeles FC,Toronto FC,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,7,15,46.7,23,2,47.8,46.4,7,57.1,42.9,3,1,33.3,2,19.6,Match Report,7827a6b3,D,2019,False
+574,2019-09-25,Wed,MLS,Regular Season,Home,W 3–1,Los Angeles FC,Houston Dynamo,Y,GK,90,2,1,2,50.0,0,0.2,0,0,0,0,3,4,75.0,16,4,25.0,28.8,2,0.0,29.0,7,2,28.6,4,24.2,Match Report,7827a6b3,W,2019,False
+575,2019-10-06,Sun,MLS,Regular Season,Home,W 3–1,Los Angeles FC,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,2.6,0,0,0,0,5,10,50.0,27,8,29.6,31.8,6,33.3,34.2,12,1,8.3,1,30.0,Match Report,7827a6b3,W,2019,False
+576,2019-10-24,Thu,MLS,Conference Semifinals,Home,W 5–3,Los Angeles FC,LA Galaxy,Y,GK,90,6,3,3,50.0,0,1.6,0,0,0,0,10,17,58.8,20,5,65.0,43.9,7,57.1,37.7,17,0,0.0,0,11.3,Match Report,7827a6b3,W,2019,False
+577,2019-10-29,Tue,MLS,Conference Finals,Home,L 1–3,Los Angeles FC,Seattle,Y,GK,90,5,3,2,40.0,0,2.1,0,0,0,0,2,4,50.0,21,2,19.0,25.7,8,0.0,20.6,2,0,0.0,3,24.6,Match Report,7827a6b3,L,2019,False
+578,2019-03-02,Sat,MLS,Regular Season,Away,L 1–2,Chicago Fire,LA Galaxy,Y,GK,90,5,2,3,60.0,0,2.4,0,0,0,0,0,2,0.0,8,3,12.5,23.6,8,12.5,29.1,12,2,16.7,1,8.7,Match Report,28269907,L,2019,True
+579,2019-03-09,Sat,MLS,Regular Season,Home,D 1–1,Chicago Fire,Orlando City,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,9,13,69.2,22,6,50.0,39.3,2,100.0,48.0,3,0,0.0,2,17.6,Match Report,28269907,D,2019,True
+580,2019-03-16,Sat,MLS,Regular Season,Home,L 2–4,Chicago Fire,Seattle,Y,GK,90,6,4,3,50.0,0,4.9,1,1,0,0,2,4,50.0,16,4,25.0,32.1,3,0.0,26.3,6,1,16.7,1,15.0,Match Report,28269907,L,2019,True
+581,2019-03-30,Sat,MLS,Regular Season,Home,W 1–0,Chicago Fire,NY Red Bulls,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,7,24,29.2,22,3,72.7,50.1,8,100.0,58.0,21,1,4.8,2,12.6,Match Report,28269907,W,2019,True
+582,2019-04-06,Sat,MLS,Regular Season,Away,D 2–2,Chicago Fire,Toronto FC,Y,GK,90,8,2,6,75.0,0,2.6,0,0,0,0,9,17,52.9,21,7,52.4,43.7,7,85.7,64.7,15,0,0.0,0,8.7,Match Report,28269907,D,2019,True
+583,2019-04-12,Fri,MLS,Regular Season,Home,D 1–1,Chicago Fire,Vancouver,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,6,11,54.5,18,4,33.3,30.6,7,71.4,50.3,4,0,0.0,0,13.6,Match Report,28269907,D,2019,True
+584,2019-04-20,Sat,MLS,Regular Season,Home,W 4–1,Chicago Fire,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,6,22,27.3,28,7,53.6,41.2,9,77.8,54.1,16,0,0.0,0,8.6,Match Report,28269907,W,2019,True
+585,2019-04-24,Wed,MLS,Regular Season,Away,L 0–1,Chicago Fire,NYCFC,Y,GK,90,3,1,3,66.7,0,,1,0,1,0,,,,,,,,,,,,,,,,Match Report,28269907,L,2019,True
+586,2019-04-28,Sun,MLS,Regular Season,Away,L 0–1,Chicago Fire,Montreal Impact,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,7,15,46.7,20,4,45.0,39.7,8,75.0,49.8,7,1,14.3,0,14.0,Match Report,28269907,L,2019,True
+587,2019-05-04,Sat,MLS,Regular Season,Away,D 0–0,Chicago Fire,Los Angeles FC,Y,GK,90,4,0,4,100.0,1,1.1,0,0,0,0,10,20,50.0,13,3,46.2,42.1,17,82.4,56.0,11,0,0.0,1,16.0,Match Report,28269907,D,2019,True
+588,2019-05-08,Wed,MLS,Regular Season,Home,W 5–0,Chicago Fire,New England,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,3,7,42.9,14,5,28.6,35.0,5,60.0,57.6,10,1,10.0,0,17.0,Match Report,28269907,W,2019,True
+589,2019-05-11,Sat,MLS,Regular Season,Home,W 2–0,Chicago Fire,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,4,14,28.6,23,5,47.8,39.0,4,75.0,49.3,6,2,33.3,0,13.0,Match Report,28269907,W,2019,True
+590,2019-05-18,Sat,MLS,Regular Season,Away,L 1–4,Chicago Fire,San Jose,Y,GK,90,7,4,3,42.9,0,3.1,0,0,0,0,6,13,46.2,22,7,36.4,33.3,5,100.0,73.6,14,2,14.3,1,26.5,Match Report,28269907,L,2019,True
+591,2019-08-14,Wed,MLS,Regular Season,Away,L 2–3,Chicago Fire,Portland Timbers,Y,GK,90,6,3,3,50.0,0,2.5,0,0,0,0,8,26,30.8,31,7,48.4,40.7,12,91.7,63.9,16,0,0.0,0,8.2,Match Report,28269907,L,2019,False
+592,2019-04-19,Fri,MLS,Regular Season,Away,W 3–0,Real Salt Lake,FC Cincinnati,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,6,29,20.7,30,5,56.7,48.8,14,85.7,63.1,13,0,0.0,0,10.5,Match Report,5ba8a3f3,W,2019,True
+593,2019-04-28,Sun,MLS,Regular Season,Away,L 1–2,Real Salt Lake,LA Galaxy,Y,GK,90,7,2,5,71.4,0,2.5,0,0,0,0,6,21,28.6,22,2,63.6,49.8,9,77.8,64.2,11,1,9.1,0,18.0,Match Report,5ba8a3f3,L,2019,True
+594,2019-05-04,Sat,MLS,Regular Season,Home,L 1–2,Real Salt Lake,Portland Timbers,Y,GK,90,3,2,1,33.3,0,1.5,0,0,0,0,4,13,30.8,20,4,45.0,41.5,5,80.0,63.8,7,0,0.0,2,15.7,Match Report,5ba8a3f3,L,2019,True
+595,2019-05-11,Sat,MLS,Regular Season,Away,W 3–2,Real Salt Lake,Colorado Rapids,Y,GK,90,3,2,1,33.3,0,1.6,1,0,1,0,9,26,34.6,26,2,76.9,49.8,6,100.0,77.0,12,0,0.0,2,23.7,Match Report,5ba8a3f3,W,2019,True
+596,2019-09-21,Sat,MLS,Regular Season,Away,D 0–0,Real Salt Lake,New England,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,13,36,36.1,31,7,74.2,50.3,13,100.0,68.5,10,0,0.0,1,14.1,Match Report,5ba8a3f3,D,2019,False
+597,2019-05-15,Wed,MLS,Regular Season,Away,L 1–2,Orlando City,Seattle,Y,GK,90,3,2,1,33.3,0,2.0,0,0,0,0,11,19,57.9,22,0,50.0,41.6,9,88.9,60.4,10,1,10.0,2,14.6,Match Report,4b1cbf4d,L,2019,True
+598,2019-07-18,Thu,MLS,Regular Season,Away,D 1–1,Orlando City,Portland Timbers,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,11,38,28.9,25,4,76.0,52.6,21,90.5,64.0,30,4,13.3,0,12.7,Match Report,4b1cbf4d,D,2019,True
+599,2019-03-10,Sun,MLS,Regular Season,Away,D 1–1,FC Cincinnati,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,7,27,25.9,28,7,64.3,46.9,10,90.0,56.8,12,1,8.3,0,11.6,Match Report,d9178ea2,D,2019,True
+600,2019-03-17,Sun,MLS,Regular Season,Home,W 3–0,FC Cincinnati,Portland Timbers,Y,GK,90,3,0,3,100.0,1,1.4,0,0,0,0,10,21,47.6,23,5,60.9,42.0,7,100.0,63.0,9,0,0.0,0,13.2,Match Report,d9178ea2,W,2019,True
+601,2019-03-24,Sun,MLS,Regular Season,Away,W 2–0,FC Cincinnati,New England,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,8,24,33.3,30,4,46.7,40.2,13,76.9,56.5,14,2,14.3,1,18.0,Match Report,d9178ea2,W,2019,True
+602,2019-03-30,Sat,MLS,Regular Season,Home,L 0–2,FC Cincinnati,Philadelphia,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,7,12,58.3,20,6,40.0,37.1,6,66.7,43.5,6,1,16.7,1,17.8,Match Report,d9178ea2,L,2019,True
+603,2019-04-07,Sun,MLS,Regular Season,Home,D 1–1,FC Cincinnati,Sporting KC,Y,GK,90,4,1,3,75.0,0,1.6,0,0,0,0,4,20,20.0,28,5,46.4,42.2,10,70.0,50.4,5,0,0.0,0,11.0,Match Report,d9178ea2,D,2019,True
+604,2019-04-13,Sat,MLS,Regular Season,Away,L 0–2,FC Cincinnati,Los Angeles FC,Y,GK,90,7,2,5,71.4,0,2.2,0,0,0,0,13,24,54.2,25,9,52.0,39.5,11,100.0,69.3,5,0,0.0,0,11.8,Match Report,d9178ea2,L,2019,True
+605,2019-04-19,Fri,MLS,Regular Season,Home,L 0–3,FC Cincinnati,Real Salt Lake,Y,GK,90,5,3,3,60.0,0,2.9,1,1,0,0,5,11,45.5,20,6,40.0,34.9,7,42.9,44.3,6,0,0.0,2,16.4,Match Report,d9178ea2,L,2019,True
+606,2019-05-01,Wed,MLS,Regular Season,Away,L 0–2,FC Cincinnati,Philadelphia,Y,GK,90,8,2,6,75.0,0,2.8,0,0,0,0,10,27,37.0,25,5,80.0,48.9,7,100.0,72.4,13,0,0.0,0,5.7,Match Report,d9178ea2,L,2019,True
+607,2019-05-11,Sat,MLS,Regular Season,Home,W 2–1,FC Cincinnati,Montreal Impact,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,5,19,26.3,31,6,32.3,35.3,12,75.0,54.6,10,0,0.0,1,20.9,Match Report,d9178ea2,W,2019,True
+608,2019-05-19,Sun,MLS,Regular Season,Away,L 1–5,FC Cincinnati,Orlando City,Y,GK,90,8,5,3,37.5,0,3.0,1,0,1,0,6,19,31.6,27,4,44.4,38.0,8,87.5,52.0,9,0,0.0,0,10.2,Match Report,d9178ea2,L,2019,True
+609,2019-05-25,Sat,MLS,Regular Season,Home,L 0–2,FC Cincinnati,NY Red Bulls,Y,GK,90,2,2,0,0.0,0,1.3,0,0,0,0,10,21,47.6,20,5,60.0,44.2,11,81.8,61.9,8,2,25.0,1,15.9,Match Report,d9178ea2,L,2019,True
+610,2019-06-01,Sat,MLS,Regular Season,Away,L 1–3,FC Cincinnati,Colorado Rapids,Y,GK,90,6,3,3,50.0,0,2.5,0,0,0,0,1,11,9.1,34,7,20.6,28.1,13,30.8,39.1,8,1,12.5,0,14.0,Match Report,d9178ea2,L,2019,True
+611,2019-06-06,Thu,MLS,Regular Season,Away,L 2–5,FC Cincinnati,NYCFC,Y,GK,90,9,5,4,44.4,0,3.8,0,0,0,0,9,15,60.0,27,10,40.7,38.7,7,57.1,50.0,4,0,0.0,0,14.5,Match Report,d9178ea2,L,2019,True
+612,2019-06-22,Sat,MLS,Regular Season,Home,L 0–2,FC Cincinnati,LA Galaxy,Y,GK,90,7,2,5,71.4,0,2.1,0,0,0,0,6,8,75.0,26,14,19.2,25.6,8,37.5,38.5,8,1,12.5,1,15.1,Match Report,d9178ea2,L,2019,True
+613,2019-06-29,Sat,MLS,Regular Season,Away,L 1–7,FC Cincinnati,Minnesota Utd,Y,GK,90,7,7,0,0.0,0,3.7,0,0,0,0,1,9,11.1,22,5,13.6,28.8,11,54.5,46.0,9,1,11.1,0,9.3,Match Report,d9178ea2,L,2019,True
+614,2019-07-06,Sat,MLS,Regular Season,Home,W 3–2,FC Cincinnati,Houston Dynamo,Y,GK,90,1,2,1,0.0,0,1.1,1,1,0,0,9,22,40.9,28,5,50.0,39.7,8,100.0,67.8,6,0,0.0,0,16.5,Match Report,d9178ea2,W,2019,True
+615,2019-07-13,Sat,MLS,Regular Season,Away,W 2–1,FC Cincinnati,Chicago Fire,Y,GK,90,6,1,5,83.3,0,2.1,0,0,0,0,11,31,35.5,30,6,56.7,47.9,14,100.0,68.6,20,2,10.0,0,8.2,Match Report,d9178ea2,W,2019,True
+616,2019-07-18,Thu,MLS,Regular Season,Home,L 1–4,FC Cincinnati,D.C. United,Y,GK,90,8,4,4,50.0,0,2.1,0,0,0,0,7,16,43.8,23,7,56.5,42.9,8,37.5,39.4,4,0,0.0,1,18.8,Match Report,d9178ea2,L,2019,True
+617,2019-07-21,Sun,MLS,Regular Season,Home,L 0–2,FC Cincinnati,New England,Y,GK,90,7,2,5,71.4,0,2.8,0,0,0,0,2,6,33.3,21,6,19.0,27.6,7,28.6,36.6,8,0,0.0,2,15.0,Match Report,d9178ea2,L,2019,True
+618,2019-03-02,Sat,MLS,Regular Season,Away,D 1–1,Real Salt Lake,Houston Dynamo,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,15,26,57.7,24,3,79.2,48.3,10,70.0,49.7,8,1,12.5,0,8.0,Match Report,cf975d73,D,2019,True
+619,2019-03-09,Sat,MLS,Regular Season,Home,W 1–0,Real Salt Lake,Vancouver,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,14,21,66.7,21,1,66.7,45.2,11,63.6,45.5,6,1,16.7,1,20.8,Match Report,cf975d73,W,2019,True
+620,2019-03-16,Sat,MLS,Regular Season,Away,L 0–5,Real Salt Lake,D.C. United,Y,GK,90,6,5,2,33.3,0,4.1,1,1,0,0,13,29,44.8,30,2,50.0,36.3,14,100.0,60.1,6,2,33.3,0,14.3,Match Report,cf975d73,L,2019,True
+621,2019-03-23,Sat,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Los Angeles FC,Y,GK,90,7,2,5,71.4,0,1.3,0,0,0,0,7,27,25.9,23,1,82.6,53.6,10,80.0,56.2,11,0,0.0,0,10.8,Match Report,cf975d73,L,2019,True
+622,2019-03-30,Sat,MLS,Regular Season,Home,L 2–4,Real Salt Lake,FC Dallas,Y,GK,90,6,4,2,33.3,0,2.5,0,0,0,0,5,12,41.7,25,3,24.0,33.6,8,75.0,47.4,5,0,0.0,1,14.8,Match Report,cf975d73,L,2019,True
+623,2019-04-06,Sat,MLS,Regular Season,Away,L 0–1,Real Salt Lake,Seattle,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,5,15,33.3,26,5,26.9,32.6,10,80.0,59.1,9,1,11.1,0,10.6,Match Report,cf975d73,L,2019,True
+624,2019-04-13,Sat,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Orlando City,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,4,20,20.0,22,4,36.4,33.2,13,92.3,57.9,11,0,0.0,0,14.4,Match Report,cf975d73,W,2019,True
+625,2019-05-18,Sat,MLS,Regular Season,Home,W 3–0,Real Salt Lake,Toronto FC,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,11,14,78.6,20,3,25.0,35.1,15,60.0,42.9,8,0,0.0,0,14.5,Match Report,cf975d73,W,2019,True
+626,2019-05-24,Fri,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Atlanta Utd,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,9,15,60.0,21,3,19.0,29.0,11,100.0,61.2,6,1,16.7,0,18.5,Match Report,cf975d73,W,2019,True
+627,2019-05-29,Wed,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Montreal Impact,Y,GK,90,3,2,2,66.7,0,2.0,1,1,0,0,10,13,76.9,12,2,41.7,32.6,10,80.0,57.7,8,1,12.5,1,14.8,Match Report,cf975d73,L,2019,True
+628,2019-06-01,Sat,MLS,Regular Season,Away,L 0–4,Real Salt Lake,NY Red Bulls,Y*,GK,90,8,4,5,50.0,0,2.0,0,0,0,0,7,22,31.8,26,2,61.5,47.6,6,100.0,59.2,8,1,12.5,0,11.7,Match Report,cf975d73,L,2019,True
+629,2019-06-22,Sat,MLS,Regular Season,Away,D 1–1,Real Salt Lake,Chicago Fire,Y,GK,90,2,1,1,50.0,0,0.3,0,0,0,0,6,13,46.2,20,3,35.0,31.4,9,66.7,48.9,10,1,10.0,0,9.4,Match Report,cf975d73,D,2019,True
+630,2019-06-29,Sat,MLS,Regular Season,Home,W 2–0,Real Salt Lake,Sporting KC,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,10,24,41.7,23,1,56.5,42.7,11,100.0,68.4,3,0,0.0,0,9.3,Match Report,cf975d73,W,2019,True
+631,2019-07-03,Wed,MLS,Regular Season,Home,W 1–0,Real Salt Lake,Columbus Crew,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,9,23,39.1,33,6,45.5,38.6,9,88.9,61.3,9,0,0.0,0,10.9,Match Report,cf975d73,W,2019,True
+632,2019-07-06,Sat,MLS,Regular Season,Away,L 0–1,Real Salt Lake,San Jose,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,10,20,50.0,28,3,50.0,43.4,7,85.7,55.7,6,1,16.7,1,13.6,Match Report,cf975d73,L,2019,True
+633,2019-07-13,Sat,MLS,Regular Season,Home,W 4–0,Real Salt Lake,Philadelphia,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,12,20,60.0,20,2,40.0,35.8,17,70.6,51.7,8,1,12.5,1,11.7,Match Report,cf975d73,W,2019,True
+634,2019-07-20,Sat,MLS,Regular Season,Home,D 1–1,Real Salt Lake,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,6,9,66.7,25,4,16.0,27.4,9,55.6,49.3,10,2,20.0,0,10.7,Match Report,cf975d73,D,2019,True
+635,2019-07-27,Sat,MLS,Regular Season,Away,D 0–0,Real Salt Lake,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,6,12,50.0,30,7,23.3,27.8,7,71.4,54.4,8,0,0.0,0,10.5,Match Report,cf975d73,D,2019,True
+636,2019-08-03,Sat,MLS,Regular Season,Home,W 3–1,Real Salt Lake,NYCFC,Y,GK,90,7,1,6,85.7,0,0.9,0,0,0,0,10,17,58.8,18,2,55.6,43.1,8,87.5,54.3,7,0,0.0,0,10.0,Match Report,cf975d73,W,2019,False
+637,2019-08-10,Sat,MLS,Regular Season,Away,W 2–1,Real Salt Lake,Sporting KC,Y,GK,90,3,1,2,66.7,0,0.8,1,0,0,1,11,24,45.8,23,2,60.9,45.4,10,100.0,61.0,11,1,9.1,0,10.9,Match Report,cf975d73,W,2019,False
+638,2019-08-14,Wed,MLS,Regular Season,Home,W 3–0,Real Salt Lake,Seattle,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,8,13,61.5,25,3,36.0,36.0,8,50.0,43.0,10,1,10.0,0,13.8,Match Report,cf975d73,W,2019,False
+639,2019-08-17,Sat,MLS,Regular Season,Home,L 0–2,Real Salt Lake,Los Angeles FC,Y,GK,90,4,2,3,75.0,0,3.0,1,1,0,0,9,17,52.9,41,8,29.3,34.5,9,55.6,43.3,5,0,0.0,0,12.8,Match Report,cf975d73,L,2019,False
+640,2019-08-24,Sat,MLS,Regular Season,Home,W 2–0,Real Salt Lake,Colorado Rapids,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,6,11,54.5,30,2,23.3,33.1,9,44.4,42.9,13,1,7.7,2,19.3,Match Report,cf975d73,W,2019,False
+641,2019-08-31,Sat,MLS,Regular Season,Away,L 0–1,Real Salt Lake,Portland Timbers,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,6,17,35.3,30,6,36.7,36.5,9,66.7,51.8,3,0,0.0,1,16.8,Match Report,cf975d73,L,2019,False
+642,2019-09-11,Wed,MLS,Regular Season,Home,W 1–0,Real Salt Lake,San Jose,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,13,23,56.5,33,2,63.6,41.7,4,50.0,42.0,8,0,0.0,5,31.7,Match Report,cf975d73,W,2019,False
+643,2019-09-15,Sun,MLS,Regular Season,Away,L 1–3,Real Salt Lake,Minnesota Utd,Y,GK,90,5,3,2,40.0,0,2.1,0,0,0,0,6,13,46.2,27,5,25.9,32.3,9,66.7,43.6,10,0,0.0,0,8.9,Match Report,cf975d73,L,2019,False
+644,2019-09-25,Wed,MLS,Regular Season,Home,L 1–2,Real Salt Lake,LA Galaxy,Y,GK,90,2,2,0,0.0,0,1.5,0,0,0,0,6,17,35.3,29,10,31.0,32.1,10,80.0,56.3,4,0,0.0,1,14.6,Match Report,cf975d73,L,2019,False
+645,2019-09-29,Sun,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,11,21,52.4,19,2,52.6,40.5,11,100.0,58.0,10,0,0.0,0,10.5,Match Report,cf975d73,W,2019,False
+646,2019-10-06,Sun,MLS,Regular Season,Away,W 1–0,Real Salt Lake,Vancouver,Y,GK,90,5,0,4,100.0,1,1.1,0,0,0,0,14,20,70.0,18,1,50.0,36.3,11,100.0,57.5,17,0,0.0,0,16.0,Match Report,cf975d73,W,2019,False
+647,2019-10-19,Sat,MLS,Round 1,Home,W 2–1,Real Salt Lake,Portland Timbers,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,7,22,31.8,28,4,60.7,41.1,6,83.3,63.7,9,0,0.0,0,11.0,Match Report,cf975d73,W,2019,False
+648,2019-10-23,Wed,MLS,Conference Semifinals,Away,L 0–2,Real Salt Lake,Seattle,Y,GK,90,8,2,6,75.0,0,1.3,0,0,0,0,11,25,44.0,30,4,53.3,41.1,9,100.0,63.6,9,0,0.0,1,17.0,Match Report,cf975d73,L,2019,False
+649,2019-03-02,Sat,MLS,Regular Season,Away,D 1–1,NY Red Bulls,Columbus Crew,Y*,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,11,20,55.0,12,2,100.0,54.4,8,100.0,62.3,13,1,7.7,1,13.4,Match Report,15e6b513,D,2019,True
+650,2019-03-16,Sat,MLS,Regular Season,Home,W 4–1,NY Red Bulls,San Jose,Y*,GK,90,1,1,0,0.0,0,0.2,0,0,0,0,3,9,33.3,6,2,50.0,42.5,7,85.7,60.0,7,0,0.0,0,19.6,Match Report,15e6b513,W,2019,True
+651,2019-03-23,Sat,MLS,Regular Season,Home,L 0–1,NY Red Bulls,Orlando City,Y*,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,4,17,23.5,21,4,71.4,41.7,2,100.0,58.5,6,1,16.7,2,16.3,Match Report,15e6b513,L,2019,True
+652,2019-03-30,Sat,MLS,Regular Season,Away,L 0–1,NY Red Bulls,Chicago Fire,Y*,GK,90,4,1,4,75.0,0,0.6,0,0,0,0,8,17,47.1,26,11,34.6,34.8,8,100.0,58.8,8,1,12.5,0,10.2,Match Report,15e6b513,L,2019,True
+653,2019-04-06,Sat,MLS,Regular Season,Home,L 1–2,NY Red Bulls,Minnesota Utd,Y*,GK,90,5,2,3,60.0,0,1.7,0,0,0,0,1,2,50.0,15,4,6.7,19.3,3,33.3,40.0,3,0,0.0,1,20.5,Match Report,15e6b513,L,2019,True
+654,2019-04-14,Sun,MLS,Regular Season,Away,D 2–2,NY Red Bulls,Sporting KC,Y*,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,9,24,37.5,17,3,70.6,49.1,12,100.0,72.2,15,1,6.7,2,16.0,Match Report,15e6b513,D,2019,True
+655,2019-04-20,Sat,MLS,Regular Season,Away,L 0–1,NY Red Bulls,New England,Y*,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,3,18,16.7,16,1,68.8,47.7,7,100.0,71.9,5,0,0.0,2,21.6,Match Report,15e6b513,L,2019,True
+656,2019-04-27,Sat,MLS,Regular Season,Home,W 1–0,NY Red Bulls,FC Cincinnati,Y*,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,4,24,16.7,26,1,69.2,48.8,6,100.0,65.8,4,0,0.0,0,8.8,Match Report,15e6b513,W,2019,True
+657,2019-05-04,Sat,MLS,Regular Season,Home,W 3–2,NY Red Bulls,LA Galaxy,Y*,GK,90,5,2,3,60.0,0,1.9,0,0,0,0,6,19,31.6,16,3,56.3,42.0,11,90.9,65.6,11,0,0.0,2,18.6,Match Report,15e6b513,W,2019,True
+658,2019-05-08,Wed,MLS,Regular Season,Home,L 1–2,NY Red Bulls,Montreal Impact,Y*,GK,90,3,2,2,66.7,0,1.4,1,1,0,0,5,17,29.4,22,4,54.5,40.4,6,83.3,50.5,7,0,0.0,2,20.2,Match Report,15e6b513,L,2019,True
+659,2019-05-19,Sun,MLS,Regular Season,Home,W 1–0,NY Red Bulls,Atlanta Utd,Y*,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,5,23,21.7,20,1,80.0,54.9,8,87.5,60.4,16,2,12.5,0,13.8,Match Report,15e6b513,W,2019,True
+660,2019-05-22,Wed,MLS,Regular Season,Home,D 2–2,NY Red Bulls,Vancouver,Y*,GK,90,6,2,4,83.3,0,3.3,1,1,0,0,2,8,25.0,12,1,41.7,41.3,5,60.0,53.4,7,0,0.0,1,20.3,Match Report,15e6b513,D,2019,True
+661,2019-05-25,Sat,MLS,Regular Season,Away,W 2–0,NY Red Bulls,FC Cincinnati,Y*,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,3,18,16.7,16,1,68.8,52.3,7,100.0,68.3,8,1,12.5,1,19.0,Match Report,15e6b513,W,2019,True
+662,2019-06-01,Sat,MLS,Regular Season,Home,W 4–0,NY Red Bulls,Real Salt Lake,Y*,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,7,18,38.9,23,5,39.1,37.0,12,75.0,53.8,3,1,33.3,0,12.0,Match Report,15e6b513,W,2019,True
+663,2019-06-08,Sat,MLS,Regular Season,Away,L 2–3,NY Red Bulls,Philadelphia,Y*,GK,90,6,3,3,50.0,0,2.5,1,0,1,0,9,22,40.9,18,3,66.7,45.1,11,90.9,60.6,9,1,11.1,3,20.0,Match Report,15e6b513,L,2019,True
+664,2019-06-28,Fri,MLS,Regular Season,Home,W 3–1,NY Red Bulls,Chicago Fire,Y*,GK,90,7,1,6,85.7,0,1.3,0,0,0,0,8,23,34.8,13,5,61.5,46.8,16,93.8,62.6,14,0,0.0,0,9.8,Match Report,15e6b513,W,2019,True
+665,2019-07-03,Wed,MLS,Regular Season,Away,L 0–4,NY Red Bulls,Houston Dynamo,Y*,GK,90,5,4,1,20.0,0,2.6,0,0,0,0,7,15,46.7,16,4,68.8,44.9,5,80.0,55.2,6,0,0.0,4,21.4,Match Report,15e6b513,L,2019,True
+666,2019-07-07,Sun,MLS,Regular Season,Away,D 3–3,NY Red Bulls,Atlanta Utd,Y*,GK,90,3,3,1,33.3,0,1.6,1,1,0,0,5,20,25.0,21,4,61.9,44.6,8,87.5,64.1,6,2,33.3,1,14.7,Match Report,15e6b513,D,2019,True
+667,2019-07-14,Sun,MLS,Regular Season,Home,W 2–1,NY Red Bulls,NYCFC,Y*,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,7,20,35.0,16,2,87.5,66.6,6,100.0,70.7,2,0,0.0,1,16.9,Match Report,15e6b513,W,2019,True
+668,2019-07-17,Wed,MLS,Regular Season,Away,L 1–3,NY Red Bulls,Toronto FC,Y*,GK,90,3,3,1,33.3,0,2.2,1,1,0,0,3,8,37.5,16,1,31.3,30.6,4,75.0,65.3,4,0,0.0,4,27.2,Match Report,15e6b513,L,2019,True
+669,2019-07-21,Sun,MLS,Regular Season,Away,W 1–0,NY Red Bulls,Orlando City,Y*,GK,90,4,0,4,100.0,1,0.8,0,0,0,0,5,23,21.7,13,4,69.2,43.6,14,100.0,69.5,9,0,0.0,0,11.5,Match Report,15e6b513,W,2019,True
+670,2019-07-27,Sat,MLS,Regular Season,Home,L 2–3,NY Red Bulls,Columbus Crew,Y*,GK,90,6,3,3,50.0,0,2.0,0,0,0,0,8,16,50.0,20,5,50.0,36.2,10,60.0,47.2,3,0,0.0,4,18.1,Match Report,15e6b513,L,2019,True
+671,2019-08-03,Sat,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Toronto FC,Y*,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,5,22,22.7,18,2,72.2,50.6,9,100.0,64.8,6,1,16.7,0,10.2,Match Report,15e6b513,W,2019,False
+672,2019-08-11,Sun,MLS,Regular Season,Away,L 2–4,NY Red Bulls,Los Angeles FC,Y*,GK,90,4,4,1,25.0,0,2.9,1,1,0,0,8,22,36.4,18,5,77.8,46.2,8,100.0,61.9,8,0,0.0,2,16.6,Match Report,15e6b513,L,2019,False
+673,2019-08-17,Sat,MLS,Regular Season,Home,D 1–1,NY Red Bulls,New England,Y*,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,3,19,15.8,20,2,65.0,48.8,6,100.0,65.3,1,0,0.0,2,17.6,Match Report,15e6b513,D,2019,False
+674,2019-08-21,Wed,MLS,Regular Season,Away,W 2–1,NY Red Bulls,D.C. United,Y*,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,3,24,12.5,18,2,88.9,57.8,8,100.0,66.8,9,1,11.1,1,13.5,Match Report,15e6b513,W,2019,False
+675,2019-08-24,Sat,MLS,Regular Season,Away,L 1–2,NY Red Bulls,NYCFC,Y*,GK,90,7,2,6,85.7,0,1.6,1,1,0,0,6,21,28.6,15,0,93.3,69.5,7,100.0,72.4,6,0,0.0,1,19.3,Match Report,15e6b513,L,2019,False
+676,2019-08-31,Sat,MLS,Regular Season,Home,L 0–2,NY Red Bulls,Colorado Rapids,Y*,GK,90,5,2,3,60.0,0,2.5,0,0,0,0,5,11,45.5,15,3,53.3,37.8,9,33.3,40.1,5,0,0.0,2,17.2,Match Report,15e6b513,L,2019,False
+677,2019-09-15,Sun,MLS,Regular Season,Away,L 2–4,NY Red Bulls,Seattle,Y*,GK,90,6,4,3,33.3,0,2.6,0,0,0,0,4,17,23.5,15,4,66.7,50.2,7,100.0,68.3,7,0,0.0,2,11.9,Match Report,15e6b513,L,2019,False
+678,2019-09-18,Wed,MLS,Regular Season,Away,W 2–0,NY Red Bulls,Portland Timbers,Y*,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,10,26,38.5,17,2,88.2,55.3,11,100.0,71.2,13,1,7.7,0,15.5,Match Report,15e6b513,W,2019,False
+679,2019-09-22,Sun,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Philadelphia,Y*,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,6,19,31.6,19,1,63.2,45.6,7,100.0,60.3,4,0,0.0,1,15.6,Match Report,15e6b513,W,2019,False
+680,2019-09-29,Sun,MLS,Regular Season,Home,D 0–0,NY Red Bulls,D.C. United,Y*,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,3,17,17.6,17,3,64.7,46.4,6,100.0,61.3,4,1,25.0,0,15.4,Match Report,15e6b513,D,2019,False
+681,2019-10-06,Sun,MLS,Regular Season,Away,L 0–3,NY Red Bulls,Montreal Impact,Y*,GK,90,4,3,1,25.0,0,1.8,0,0,0,0,6,13,46.2,14,6,57.1,39.7,5,100.0,61.6,9,0,0.0,0,11.8,Match Report,15e6b513,L,2019,False
+682,2019-10-20,Sun,MLS,Round 1,Away,L 3–4,NY Red Bulls,Philadelphia,Y*,GK,120,9,4,5,55.6,0,3.7,0,0,0,0,13,38,34.2,27,0,92.6,56.1,13,100.0,59.5,18,0,0.0,2,17.0,Match Report,15e6b513,L,2019,False
+683,2019-07-20,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,Montreal Impact,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,1,9,11.1,17,2,29.4,34.8,9,44.4,45.4,8,0,0.0,0,10.7,Match Report,6b33d86b,W,2019,True
+684,2019-07-27,Sat,MLS,Regular Season,Away,W 3–2,Columbus Crew,NY Red Bulls,Y,GK,90,1,2,0,0.0,0,1.5,1,1,0,0,4,18,22.2,16,2,56.3,44.1,10,90.0,56.6,13,2,15.4,0,12.5,Match Report,6b33d86b,W,2019,True
+685,2019-08-03,Sat,MLS,Regular Season,Away,D 1–1,Columbus Crew,San Jose,Y,GK,90,4,1,4,100.0,0,1.4,1,1,0,0,8,27,29.6,39,2,51.3,42.6,12,58.3,48.3,10,0,0.0,0,15.5,Match Report,6b33d86b,D,2019,False
+686,2019-08-10,Sat,MLS,Regular Season,Home,D 2–2,Columbus Crew,FC Cincinnati,Y,GK,90,3,2,1,33.3,0,0.5,0,0,0,0,3,15,20.0,19,1,47.4,39.7,10,60.0,45.0,8,0,0.0,0,14.5,Match Report,6b33d86b,D,2019,False
+687,2019-08-17,Sat,MLS,Regular Season,Home,D 2–2,Columbus Crew,Toronto FC,Y,GK,90,3,2,1,33.3,0,1.0,0,0,0,0,6,11,54.5,20,7,15.0,28.2,13,61.5,48.6,8,0,0.0,0,10.8,Match Report,6b33d86b,D,2019,False
+688,2019-08-21,Wed,MLS,Regular Season,Away,L 0–1,Columbus Crew,NYCFC,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,9,21,42.9,18,4,50.0,41.3,12,100.0,67.0,13,0,0.0,0,8.8,Match Report,6b33d86b,L,2019,False
+689,2019-08-25,Sun,MLS,Regular Season,Away,W 3–1,Columbus Crew,FC Cincinnati,Y,GK,90,6,1,5,83.3,0,1.3,0,0,0,0,8,32,25.0,31,0,71.0,50.7,13,76.9,53.0,7,0,0.0,0,14.0,Match Report,6b33d86b,W,2019,False
+690,2019-08-31,Sat,MLS,Regular Season,Home,D 1–1,Columbus Crew,Chicago Fire,Y,GK,90,6,1,5,83.3,0,1.7,0,0,0,0,4,19,21.1,29,3,44.8,42.1,11,54.5,51.2,14,0,0.0,0,5.8,Match Report,6b33d86b,D,2019,False
+691,2019-09-14,Sat,MLS,Regular Season,Away,W 3–1,Columbus Crew,Atlanta Utd,Y,GK,90,3,1,3,66.7,0,0.3,0,0,0,0,3,17,17.6,22,3,45.5,40.1,10,70.0,53.7,17,0,0.0,0,12.8,Match Report,6b33d86b,W,2019,False
+692,2019-09-21,Sat,MLS,Regular Season,Away,D 1–1,Columbus Crew,Vancouver,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,7,14,50.0,24,4,37.5,36.6,6,83.3,54.2,14,0,0.0,0,7.7,Match Report,6b33d86b,D,2019,False
+693,2019-09-29,Sun,MLS,Regular Season,Home,W 2–0,Columbus Crew,Philadelphia,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,3,7,42.9,26,4,19.2,31.0,12,16.7,32.9,8,2,25.0,0,12.5,Match Report,6b33d86b,W,2019,False
+694,2019-10-06,Sun,MLS,Regular Season,Away,L 0–1,Columbus Crew,Toronto FC,Y,GK,90,4,1,3,75.0,0,1.6,0,0,0,0,6,11,54.5,33,5,15.2,24.0,11,54.5,42.5,6,0,0.0,1,12.3,Match Report,6b33d86b,L,2019,False
+695,2019-03-02,Sat,MLS,Regular Season,Home,D 2–2,Orlando City,NYCFC,Y,GK,90,6,2,4,66.7,0,1.2,0,0,0,0,5,21,23.8,21,3,66.7,51.9,8,87.5,62.9,7,0,0.0,1,13.1,Match Report,fff21763,D,2019,True
+696,2019-03-09,Sat,MLS,Regular Season,Away,D 1–1,Orlando City,Chicago Fire,Y,GK,90,2,1,1,50.0,0,0.2,0,0,0,0,6,23,26.1,21,6,61.9,46.9,15,66.7,53.6,10,0,0.0,3,16.1,Match Report,fff21763,D,2019,True
+697,2019-03-16,Sat,MLS,Regular Season,Home,L 1–3,Orlando City,Montreal Impact,Y,GK,90,11,3,8,72.7,0,2.0,0,0,0,0,4,15,26.7,20,8,60.0,47.2,6,50.0,47.2,7,0,0.0,0,16.2,Match Report,fff21763,L,2019,True
+698,2019-03-23,Sat,MLS,Regular Season,Away,W 1–0,Orlando City,NY Red Bulls,Y,GK,90,4,0,4,100.0,1,1.1,0,0,0,0,4,23,17.4,18,3,77.8,52.9,9,100.0,67.1,14,1,7.1,1,11.4,Match Report,fff21763,W,2019,True
+699,2019-03-31,Sun,MLS,Regular Season,Home,L 1–2,Orlando City,D.C. United,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,3,12,25.0,13,4,61.5,47.3,4,100.0,71.3,6,1,16.7,2,15.4,Match Report,fff21763,L,2019,True
+700,2019-04-06,Sat,MLS,Regular Season,Home,W 4–3,Orlando City,Colorado Rapids,Y,GK,90,5,3,2,40.0,0,1.9,0,0,0,0,4,20,20.0,20,0,85.0,56.3,3,100.0,68.0,11,0,0.0,1,12.7,Match Report,fff21763,W,2019,True
+701,2019-04-13,Sat,MLS,Regular Season,Away,L 1–2,Orlando City,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,0.6,0,0,0,0,4,13,30.8,12,3,50.0,38.3,7,100.0,70.0,2,0,0.0,1,12.2,Match Report,fff21763,L,2019,True
+702,2019-04-20,Sat,MLS,Regular Season,Home,W 1–0,Orlando City,Vancouver,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,5,10,50.0,15,6,33.3,38.6,6,83.3,55.3,5,0,0.0,1,19.7,Match Report,fff21763,W,2019,True
+703,2019-04-27,Sat,MLS,Regular Season,Away,D 1–1,Orlando City,NYCFC,Y,GK,90,5,1,3,80.0,0,1.7,0,0,0,0,9,32,28.1,26,4,84.6,63.5,10,100.0,72.4,11,1,9.1,2,18.2,Match Report,fff21763,D,2019,True
+704,2019-05-04,Sat,MLS,Regular Season,Home,L 0–2,Orlando City,Toronto FC,Y,GK,90,9,2,7,77.8,0,1.9,0,0,0,0,3,7,42.9,21,9,14.3,26.1,9,44.4,48.9,6,0,0.0,3,18.6,Match Report,fff21763,L,2019,True
+705,2019-05-12,Sun,MLS,Regular Season,Away,L 0–1,Orlando City,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,4,14,28.6,15,1,66.7,51.0,9,44.4,49.4,1,0,0.0,0,16.6,Match Report,fff21763,L,2019,True
+706,2019-05-19,Sun,MLS,Regular Season,Home,W 5–1,Orlando City,FC Cincinnati,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,5,11,45.5,24,4,29.2,34.7,4,100.0,66.5,4,0,0.0,1,16.3,Match Report,fff21763,W,2019,True
+707,2019-05-24,Fri,MLS,Regular Season,Home,L 0–1,Orlando City,LA Galaxy,Y,GK,90,1,1,0,0.0,0,0.6,0,0,0,0,1,4,25.0,22,5,13.6,27.7,6,16.7,32.7,7,0,0.0,1,17.0,Match Report,fff21763,L,2019,True
+708,2019-06-01,Sat,MLS,Regular Season,Away,W 3–0,Orlando City,Montreal Impact,Y,GK,90,1,0,1,100.0,1,0.8,0,0,0,0,7,20,35.0,15,3,53.3,47.6,12,100.0,68.8,12,1,8.3,0,14.3,Match Report,fff21763,W,2019,True
+709,2019-06-26,Wed,MLS,Regular Season,Away,L 0–1,Orlando City,D.C. United,Y,GK,90,4,1,3,75.0,0,0.2,0,0,0,0,7,18,38.9,18,5,44.4,42.5,14,71.4,53.9,4,1,25.0,1,13.5,Match Report,fff21763,L,2019,True
+710,2019-06-29,Sat,MLS,Regular Season,Away,W 2–0,Orlando City,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,9,22,40.9,15,2,73.3,57.9,15,73.3,61.5,14,0,0.0,0,9.7,Match Report,fff21763,W,2019,True
+711,2019-07-03,Wed,MLS,Regular Season,Home,L 1–3,Orlando City,Philadelphia,Y,GK,90,8,3,5,62.5,0,2.8,0,0,0,0,8,12,66.7,22,7,36.4,38.9,10,40.0,38.8,15,1,6.7,0,13.0,Match Report,fff21763,L,2019,True
+712,2019-07-07,Sun,MLS,Regular Season,Away,D 2–2,Orlando City,Philadelphia,Y,GK,90,7,2,5,71.4,0,2.4,0,0,0,0,9,23,39.1,19,9,42.1,36.3,17,88.2,59.4,8,1,12.5,0,13.2,Match Report,fff21763,D,2019,True
+713,2019-07-13,Sat,MLS,Regular Season,Home,W 1–0,Orlando City,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,2,8,25.0,20,6,25.0,30.3,11,27.3,39.7,16,2,12.5,0,13.4,Match Report,fff21763,W,2019,True
+714,2019-07-21,Sun,MLS,Regular Season,Home,L 0–1,Orlando City,NY Red Bulls,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,4,10,40.0,23,5,30.4,35.3,7,42.9,42.3,10,0,0.0,2,13.7,Match Report,fff21763,L,2019,True
+715,2019-07-27,Sat,MLS,Regular Season,Away,L 1–4,Orlando City,New England,Y,GK,90,4,4,1,25.0,0,2.9,1,1,0,0,7,17,41.2,16,4,68.8,53.3,9,66.7,53.2,10,0,0.0,1,15.3,Match Report,fff21763,L,2019,True
+716,2019-08-03,Sat,MLS,Regular Season,Home,W 2–0,Orlando City,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4,18,22.2,23,6,52.2,49.2,7,85.7,61.7,11,1,9.1,0,11.0,Match Report,fff21763,W,2019,False
+717,2019-08-10,Sat,MLS,Regular Season,Away,D 1–1,Orlando City,Toronto FC,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,11,20,55.0,19,5,47.4,48.2,14,78.6,60.8,15,2,13.3,1,17.4,Match Report,fff21763,D,2019,False
+718,2019-08-14,Wed,MLS,Regular Season,Home,W 1–0,Orlando City,Sporting KC,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,8,22,36.4,19,3,47.4,45.4,13,100.0,67.5,18,1,5.6,0,15.8,Match Report,fff21763,W,2019,False
+719,2019-08-17,Sat,MLS,Regular Season,Away,D 1–1,Orlando City,Minnesota Utd,Y,GK,90,7,1,6,85.7,0,2.2,0,0,0,0,9,30,30.0,19,5,78.9,53.1,18,83.3,65.4,12,2,16.7,2,18.0,Match Report,fff21763,D,2019,False
+720,2019-08-23,Fri,MLS,Regular Season,Home,L 0–1,Orlando City,Atlanta Utd,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,4,19,21.1,13,2,76.9,51.5,11,81.8,58.8,10,0,0.0,1,13.8,Match Report,fff21763,L,2019,False
+721,2019-08-31,Sat,MLS,Regular Season,Away,L 0–3,Orlando City,San Jose,Y,GK,90,9,3,6,66.7,0,2.7,0,0,0,0,4,7,57.1,27,10,22.2,31.7,7,14.3,31.1,10,1,10.0,0,7.8,Match Report,fff21763,L,2019,False
+722,2019-09-07,Sat,MLS,Regular Season,Home,D 2–2,Orlando City,Los Angeles FC,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,6,29,20.7,24,5,70.8,54.1,12,100.0,77.9,8,0,0.0,2,15.8,Match Report,fff21763,D,2019,False
+723,2019-09-14,Sat,MLS,Regular Season,Home,D 3–3,Orlando City,New England,Y,GK,90,6,3,4,50.0,0,1.8,0,0,0,0,4,8,50.0,19,11,26.3,33.0,5,60.0,56.4,7,0,0.0,0,13.4,Match Report,fff21763,D,2019,False
+724,2019-09-21,Sat,MLS,Regular Season,Away,L 1–2,Orlando City,Houston Dynamo,Y,GK,90,6,2,4,66.7,0,2.4,0,0,0,0,7,19,36.8,18,9,55.6,47.3,11,81.8,64.5,17,3,17.6,1,11.0,Match Report,fff21763,L,2019,False
+725,2019-09-29,Sun,MLS,Regular Season,Away,D 1–1,Orlando City,FC Cincinnati,Y,GK,90,7,1,5,85.7,0,2.0,0,0,0,0,12,21,57.1,18,7,50.0,41.9,16,75.0,58.6,6,1,16.7,0,11.0,Match Report,fff21763,D,2019,False
+726,2019-10-06,Sun,MLS,Regular Season,Home,L 2–5,Orlando City,Chicago Fire,Y,GK,90,9,5,5,44.4,0,3.0,0,0,0,0,4,11,36.4,16,6,25.0,36.1,10,70.0,55.1,11,1,9.1,0,,Match Report,fff21763,L,2019,False
+727,2019-07-18,Thu,MLS,Regular Season,Away,W 4–1,D.C. United,FC Cincinnati,Y,GK,90,2,1,2,100.0,0,1.2,1,1,0,0,1,13,7.7,17,2,58.8,50.2,3,100.0,58.3,8,2,25.0,0,8.0,Match Report,8b388dd5,W,2019,True
+728,2019-06-28,Fri,MLS,Regular Season,Away,L 0–1,Los Angeles FC,Colorado Rapids,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,2,3,66.7,22,7,9.1,21.4,3,33.3,33.0,7,0,0.0,0,15.4,Match Report,550557e1,L,2019,True
+729,2019-07-03,Wed,MLS,Regular Season,Away,W 5–1,Los Angeles FC,Sporting KC,Y,GK,90,5,1,4,80.0,0,2.6,1,0,1,0,6,21,28.6,23,5,69.6,48.0,12,41.7,43.0,9,2,22.2,1,16.0,Match Report,550557e1,W,2019,True
+730,2019-07-06,Sat,MLS,Regular Season,Home,W 6–1,Los Angeles FC,Vancouver,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,2,7,28.6,14,2,42.9,38.9,1,100.0,60.0,1,0,0.0,3,22.2,Match Report,550557e1,W,2019,True
+731,2019-07-26,Fri,MLS,Regular Season,Home,W 4–3,Los Angeles FC,Atlanta Utd,Y,GK,90,3,3,1,0.0,0,1.3,0,0,0,0,3,14,21.4,24,5,45.8,38.0,4,75.0,55.0,7,0,0.0,1,15.2,Match Report,550557e1,W,2019,True
+732,2019-09-01,Sun,MLS,Regular Season,Home,L 0–2,Los Angeles FC,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,0.9,0,0,0,0,1,2,50.0,21,5,4.8,19.4,3,33.3,39.3,3,0,0.0,3,27.3,Match Report,550557e1,L,2019,False
+733,2019-09-29,Sun,MLS,Regular Season,Away,D 1–1,Los Angeles FC,Minnesota Utd,Y,GK,90,7,1,6,85.7,0,3.2,0,0,0,0,9,15,60.0,24,6,37.5,29.9,11,54.5,37.6,5,0,0.0,2,19.8,Match Report,550557e1,D,2019,False
+734,2019-03-02,Sat,MLS,Regular Season,Home,D 1–1,Columbus Crew,NY Red Bulls,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,4,7,57.1,31,12,19.4,29.9,7,14.3,32.9,6,0,0.0,0,16.0,Match Report,42130443,D,2019,True
+735,2019-03-09,Sat,MLS,Regular Season,Away,W 2–0,Columbus Crew,New England,Y,GK,90,2,0,2,100.0,1,1.1,1,0,1,0,8,16,50.0,36,9,30.6,33.3,9,55.6,51.3,15,1,6.7,0,13.9,Match Report,42130443,W,2019,True
+736,2019-03-16,Sat,MLS,Regular Season,Home,W 1–0,Columbus Crew,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,4,13,30.8,21,5,38.1,32.6,7,71.4,55.3,12,0,0.0,0,13.3,Match Report,42130443,W,2019,True
+737,2019-03-30,Sat,MLS,Regular Season,Home,W 2–0,Columbus Crew,Atlanta Utd,Y,GK,90,5,0,5,100.0,1,1.6,0,0,0,0,7,22,31.8,18,2,55.6,45.7,14,85.7,58.1,4,0,0.0,0,13.0,Match Report,42130443,W,2019,True
+738,2019-04-06,Sat,MLS,Regular Season,Home,W 1–0,Columbus Crew,New England,Y,GK,90,2,0,2,100.0,1,1.0,0,0,0,0,2,16,12.5,25,2,32.0,37.8,12,66.7,56.3,15,1,6.7,1,13.7,Match Report,42130443,W,2019,True
+739,2019-04-13,Sat,MLS,Regular Season,Away,L 0–1,Columbus Crew,Montreal Impact,Y,GK,90,7,1,6,85.7,0,1.4,0,0,0,0,2,5,40.0,16,3,18.8,30.3,6,33.3,35.7,3,1,33.3,0,6.0,Match Report,42130443,L,2019,True
+740,2019-04-20,Sat,MLS,Regular Season,Home,L 1–3,Columbus Crew,Portland Timbers,Y,GK,90,5,3,2,40.0,0,1.5,0,0,0,0,0,1,0.0,17,5,0.0,19.6,7,14.3,32.0,10,1,10.0,1,18.7,Match Report,42130443,L,2019,True
+741,2019-04-24,Wed,MLS,Regular Season,Home,L 0–1,Columbus Crew,D.C. United,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,5,6,83.3,21,7,28.6,31.0,0,,,3,1,33.3,0,10.0,Match Report,42130443,L,2019,True
+742,2019-04-27,Sat,MLS,Regular Season,Away,L 0–2,Columbus Crew,Houston Dynamo,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,6,17,35.3,24,7,50.0,41.6,8,62.5,55.5,5,0,0.0,0,8.6,Match Report,42130443,L,2019,True
+743,2019-05-04,Sat,MLS,Regular Season,Away,L 1–3,Columbus Crew,D.C. United,Y,GK,90,4,3,2,50.0,0,2.0,1,1,0,0,3,9,33.3,17,2,47.1,40.0,2,50.0,32.5,2,0,0.0,2,25.7,Match Report,42130443,L,2019,True
+744,2019-05-08,Wed,MLS,Regular Season,Home,W 3–1,Columbus Crew,LA Galaxy,Y,GK,90,3,1,2,66.7,0,1.5,0,0,0,0,12,27,44.4,30,4,60.0,43.2,13,69.2,61.1,11,1,9.1,0,13.3,Match Report,42130443,W,2019,True
+745,2019-05-25,Sat,MLS,Regular Season,Away,L 2–3,Columbus Crew,Colorado Rapids,Y,GK,90,4,3,1,25.0,0,2.0,0,0,0,0,5,10,50.0,21,6,33.3,33.4,16,18.8,30.8,9,2,22.2,0,8.0,Match Report,42130443,L,2019,True
+746,2019-06-01,Sat,MLS,Regular Season,Home,D 2–2,Columbus Crew,NYCFC,Y,GK,90,4,2,2,50.0,0,0.7,0,0,0,0,6,14,42.9,17,3,41.2,41.7,12,58.3,44.8,9,0,0.0,0,8.0,Match Report,42130443,D,2019,True
+747,2019-06-06,Thu,MLS,Regular Season,Home,W 5–2,NYCFC,FC Cincinnati,Y,GK,90,4,2,4,50.0,0,0.6,0,0,0,0,2,14,14.3,36,4,27.8,32.0,7,57.1,51.0,9,0,0.0,1,13.3,Match Report,6a1940d5,W,2019,True
+748,2019-06-29,Sat,MLS,Regular Season,Home,W 4–2,NYCFC,Philadelphia,Y,GK,90,2,2,0,0.0,0,1.4,0,0,0,0,7,19,36.8,39,4,38.5,37.2,9,44.4,44.7,10,0,0.0,2,15.4,Match Report,6a1940d5,W,2019,True
+749,2019-07-03,Wed,MLS,Regular Season,Home,W 3–0,NYCFC,Seattle,Y,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,3,3,100.0,28,3,10.7,27.9,6,0.0,26.3,3,0,0.0,1,17.0,Match Report,6a1940d5,W,2019,True
+750,2019-07-07,Sun,MLS,Regular Season,Home,L 0–1,NYCFC,Portland Timbers,Y,GK,90,3,1,1,66.7,0,0.8,0,0,0,0,6,7,85.7,29,4,17.2,30.1,7,28.6,30.6,6,0,0.0,0,12.8,Match Report,6a1940d5,L,2019,True
+751,2019-09-07,Sat,MLS,Regular Season,Home,W 2–1,NYCFC,New England,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,2,5,40.0,20,6,20.0,29.0,4,25.0,30.3,2,1,50.0,1,18.2,Match Report,6a1940d5,W,2019,False
+752,2019-05-08,Wed,MLS,Regular Season,Away,L 0–5,New England,Chicago Fire,Y,GK,90,7,5,2,28.6,0,4.2,0,0,0,0,4,8,50.0,15,8,20.0,31.8,8,62.5,57.0,4,1,25.0,0,14.8,Match Report,4a51ba65,L,2019,True
+753,2019-05-11,Sat,MLS,Regular Season,Home,W 3–1,New England,San Jose,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,10,20,50.0,14,0,92.9,62.3,7,100.0,69.6,7,0,0.0,1,12.1,Match Report,4a51ba65,W,2019,True
+754,2019-05-18,Sat,MLS,Regular Season,Away,D 0–0,New England,Montreal Impact,Y,GK,90,1,0,1,100.0,1,0.8,0,0,0,0,8,23,34.8,16,2,75.0,57.1,11,100.0,68.7,12,1,8.3,1,13.3,Match Report,4a51ba65,D,2019,True
+755,2019-05-25,Sat,MLS,Regular Season,Home,D 1–1,New England,D.C. United,Y,"GK,RM",55,2,0,2,100.0,0,0.6,0,0,0,0,3,13,23.1,11,1,72.7,50.2,5,100.0,71.0,7,1,14.3,0,9.7,Match Report,4a51ba65,D,2019,True
+756,2019-06-29,Sat,MLS,Regular Season,Home,W 2–1,New England,Houston Dynamo,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,4,6,66.7,20,8,20.0,28.7,2,100.0,63.5,5,0,0.0,0,12.6,Match Report,4a51ba65,W,2019,True
+757,2019-07-04,Thu,MLS,Regular Season,Away,W 2–1,New England,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,1.6,0,0,0,0,3,13,23.1,15,2,40.0,45.1,14,50.0,47.6,8,1,12.5,1,17.5,Match Report,4a51ba65,W,2019,True
+758,2019-07-12,Fri,MLS,Regular Season,Away,D 2–2,New England,D.C. United,Y,GK,90,3,2,1,33.3,0,1.0,0,0,0,0,5,24,20.8,17,2,82.4,58.2,11,90.9,66.0,11,0,0.0,0,13.2,Match Report,4a51ba65,D,2019,True
+759,2019-07-17,Wed,MLS,Regular Season,Home,W 4–0,New England,Vancouver,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,4,11,36.4,18,5,38.9,35.7,4,100.0,70.5,5,0,0.0,1,12.5,Match Report,4a51ba65,W,2019,True
+760,2019-07-21,Sun,MLS,Regular Season,Away,W 2–0,New England,FC Cincinnati,Y,GK,90,6,0,6,100.0,1,0.8,0,0,0,0,5,19,26.3,27,9,44.4,42.3,12,58.3,46.4,13,0,0.0,0,12.8,Match Report,4a51ba65,W,2019,True
+761,2019-07-27,Sat,MLS,Regular Season,Home,W 4–1,New England,Orlando City,Y,GK,90,6,1,5,83.3,0,1.9,0,0,0,0,5,8,62.5,14,9,42.9,35.6,5,40.0,41.8,7,0,0.0,0,10.5,Match Report,4a51ba65,W,2019,True
+762,2019-08-03,Sat,MLS,Regular Season,Home,L 0–2,New England,Los Angeles FC,Y,GK,90,8,2,6,75.0,0,2.0,0,0,0,0,3,8,37.5,14,7,35.7,35.3,9,33.3,34.6,3,1,33.3,0,9.5,Match Report,4a51ba65,L,2019,False
+763,2019-08-10,Sat,MLS,Regular Season,Away,D 3–3,New England,Seattle,Y,GK,90,7,3,4,57.1,0,2.3,0,0,0,0,8,21,38.1,18,6,66.7,46.5,13,69.2,55.8,13,0,0.0,1,15.0,Match Report,4a51ba65,D,2019,False
+764,2019-08-17,Sat,MLS,Regular Season,Away,D 1–1,New England,NY Red Bulls,Y,GK,90,11,1,10,90.9,0,1.8,0,0,0,0,5,9,55.6,21,12,38.1,38.0,7,14.3,24.9,10,2,20.0,2,20.1,Match Report,4a51ba65,D,2019,False
+765,2019-08-24,Sat,MLS,Regular Season,Home,W 2–1,New England,Chicago Fire,Y,GK,90,5,1,4,80.0,0,0.7,0,0,0,0,8,15,53.3,17,6,47.1,37.0,8,87.5,60.8,13,2,15.4,0,17.0,Match Report,4a51ba65,W,2019,False
+766,2019-08-31,Sat,MLS,Regular Season,Home,D 1–1,New England,Toronto FC,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,5,7,71.4,23,2,17.4,27.7,7,42.9,44.0,7,0,0.0,0,,Match Report,4a51ba65,D,2019,False
+767,2019-09-07,Sat,MLS,Regular Season,Away,L 1–2,New England,NYCFC,Y,GK,90,9,2,8,88.9,0,3.9,1,1,0,0,4,32,12.5,23,4,82.6,63.1,13,100.0,70.6,13,0,0.0,0,12.4,Match Report,4a51ba65,L,2019,False
+768,2019-09-14,Sat,MLS,Regular Season,Away,D 3–3,New England,Orlando City,Y,GK,90,7,3,3,57.1,0,2.7,0,0,0,0,4,17,23.5,21,7,38.1,36.2,14,64.3,53.4,9,1,11.1,0,12.8,Match Report,4a51ba65,D,2019,False
+769,2019-09-21,Sat,MLS,Regular Season,Home,D 0–0,New England,Real Salt Lake,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,5,5,100.0,19,9,26.3,29.6,6,0.0,25.3,8,0,0.0,1,14.8,Match Report,4a51ba65,D,2019,False
+770,2019-09-29,Sun,MLS,Regular Season,Home,W 2–0,New England,NYCFC,Y,GK,90,6,0,6,100.0,1,1.0,0,0,0,0,7,26,26.9,27,4,66.7,48.5,9,88.9,61.2,9,0,0.0,0,9.5,Match Report,4a51ba65,W,2019,False
+771,2019-10-06,Sun,MLS,Regular Season,Away,L 1–3,New England,Atlanta Utd,Y,GK,90,9,3,6,66.7,0,3.0,0,0,0,0,9,14,64.3,20,4,60.0,47.7,6,33.3,35.8,4,1,25.0,0,12.2,Match Report,4a51ba65,L,2019,False
+772,2019-10-19,Sat,MLS,Round 1,Away,L 0–1,New England,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,5,14,35.7,20,6,40.0,42.5,8,75.0,63.5,11,1,9.1,2,21.6,Match Report,4a51ba65,L,2019,False
+773,2019-03-02,Sat,MLS,Regular Season,Away,L 1–4,FC Cincinnati,Seattle,Y,GK,90,7,4,3,42.9,0,2.6,0,0,0,0,2,16,12.5,17,5,41.2,40.5,12,75.0,47.8,14,0,0.0,1,12.2,Match Report,1fa85681,L,2019,True
+774,2019-04-27,Sat,MLS,Regular Season,Away,L 0–1,FC Cincinnati,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,8,18,44.4,21,3,57.1,42.7,9,66.7,48.2,10,1,10.0,0,13.8,Match Report,1fa85681,L,2019,True
+775,2019-05-04,Sat,MLS,Regular Season,Away,L 0–1,FC Cincinnati,San Jose,Y,GK,90,1,1,0,0.0,0,0.1,0,0,0,0,5,11,45.5,12,3,33.3,33.6,10,70.0,56.0,2,0,0.0,0,15.0,Match Report,1fa85681,L,2019,True
+776,2019-07-27,Sat,MLS,Regular Season,Away,L 1–2,FC Cincinnati,Toronto FC,Y,GK,90,3,2,1,33.3,0,0.8,0,0,0,0,7,19,36.8,28,3,60.7,41.1,10,20.0,34.9,9,0,0.0,0,15.0,Match Report,1fa85681,L,2019,True
+777,2019-08-03,Sat,MLS,Regular Season,Home,L 1–2,FC Cincinnati,Vancouver,Y,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,2,6,33.3,20,5,15.0,26.9,7,42.9,39.3,3,0,0.0,1,17.5,Match Report,1fa85681,L,2019,False
+778,2019-08-10,Sat,MLS,Regular Season,Away,D 2–2,FC Cincinnati,Columbus Crew,Y,GK,90,4,2,3,75.0,0,1.8,1,1,0,0,8,21,38.1,33,8,39.4,37.7,12,66.7,50.8,15,1,6.7,0,12.6,Match Report,1fa85681,D,2019,False
+779,2019-08-17,Sat,MLS,Regular Season,Home,L 1–4,FC Cincinnati,NYCFC,Y,GK,90,4,4,0,0.0,0,2.8,1,0,1,0,3,11,27.3,19,5,47.4,41.5,5,40.0,45.8,4,0,0.0,2,15.6,Match Report,1fa85681,L,2019,False
+780,2019-08-25,Sun,MLS,Regular Season,Home,L 1–3,FC Cincinnati,Columbus Crew,Y,GK,90,6,3,3,50.0,0,2.3,0,0,0,0,4,9,44.4,21,4,33.3,32.3,9,22.2,29.7,9,1,11.1,1,16.0,Match Report,1fa85681,L,2019,False
+781,2019-08-31,Sat,MLS,Regular Season,Away,L 1–3,FC Cincinnati,FC Dallas,Y,GK,90,8,3,5,62.5,0,3.0,0,0,0,0,7,19,36.8,27,4,37.0,35.7,10,90.0,58.2,13,0,0.0,1,14.8,Match Report,1fa85681,L,2019,False
+782,2019-09-07,Sat,MLS,Regular Season,Home,L 1–5,FC Cincinnati,Toronto FC,Y,GK,90,5,5,0,0.0,0,2.0,0,0,0,0,3,6,50.0,24,4,16.7,25.2,2,100.0,60.5,6,0,0.0,1,24.5,Match Report,1fa85681,L,2019,False
+783,2019-09-14,Sat,MLS,Regular Season,Away,W 1–0,FC Cincinnati,Montreal Impact,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,11,28,39.3,19,1,63.2,43.2,19,84.2,58.5,13,0,0.0,0,14.3,Match Report,1fa85681,W,2019,False
+784,2019-09-18,Wed,MLS,Regular Season,Home,L 0–2,FC Cincinnati,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,6,21,28.6,18,3,50.0,39.1,14,85.7,58.4,10,1,10.0,0,13.6,Match Report,1fa85681,L,2019,False
+785,2019-09-21,Sat,MLS,Regular Season,Home,D 0–0,FC Cincinnati,Chicago Fire,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,13,30,43.3,23,5,78.3,49.0,14,85.7,59.9,24,1,4.2,0,12.5,Match Report,1fa85681,D,2019,False
+786,2019-09-29,Sun,MLS,Regular Season,Home,D 1–1,FC Cincinnati,Orlando City,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,6,11,54.5,12,3,75.0,48.7,7,28.6,36.4,10,0,0.0,0,9.0,Match Report,1fa85681,D,2019,False
+787,2019-10-06,Sun,MLS,Regular Season,Away,D 0–0,FC Cincinnati,D.C. United,Y,GK,90,3,0,3,100.0,1,0.9,0,0,0,0,12,35,34.3,23,2,91.3,60.6,18,77.8,61.8,17,3,17.6,0,11.6,Match Report,1fa85681,D,2019,False
+788,2019-04-13,Sat,MLS,Regular Season,Away,L 2–3,Toronto FC,Seattle,Y,GK,90,5,3,2,40.0,0,2.4,0,0,0,0,10,22,45.5,37,4,54.1,38.4,6,33.3,39.0,13,2,15.4,2,20.3,Match Report,5480ae05,L,2019,True
+789,2019-04-27,Sat,MLS,Regular Season,Home,L 1–2,Toronto FC,Portland Timbers,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,4,11,36.4,27,5,29.6,28.0,6,50.0,39.5,18,2,11.1,2,21.3,Match Report,5480ae05,L,2019,True
+790,2019-05-04,Sat,MLS,Regular Season,Away,W 2–0,Toronto FC,Orlando City,Y,GK,90,2,0,2,100.0,1,0.8,0,0,0,0,9,15,60.0,24,2,29.2,31.6,11,72.7,50.2,14,2,14.3,1,16.8,Match Report,5480ae05,W,2019,True
+791,2019-05-11,Sat,MLS,Regular Season,Home,L 1–2,Toronto FC,Philadelphia,Y,GK,90,4,2,3,50.0,0,1.4,0,0,0,0,6,12,50.0,42,11,26.2,29.7,5,20.0,27.8,7,1,14.3,0,15.6,Match Report,5480ae05,L,2019,True
+792,2019-05-15,Wed,MLS,Regular Season,Home,D 0–0,Toronto FC,D.C. United,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,3,4,75.0,19,4,21.1,29.2,2,0.0,26.5,2,0,0.0,0,14.3,Match Report,5480ae05,D,2019,True
+793,2019-05-18,Sat,MLS,Regular Season,Away,L 0–3,Toronto FC,Real Salt Lake,Y,GK,90,4,3,1,25.0,0,1.0,0,0,0,0,10,23,43.5,30,4,46.7,35.7,11,81.8,60.4,5,0,0.0,4,24.5,Match Report,5480ae05,L,2019,True
+794,2019-05-26,Sun,MLS,Regular Season,Home,L 1–2,Toronto FC,San Jose,Y,GK,90,3,2,1,33.3,0,2.0,0,0,0,0,10,16,62.5,22,3,40.9,34.5,12,58.3,44.6,10,0,0.0,1,14.7,Match Report,5480ae05,L,2019,True
+795,2019-05-31,Fri,MLS,Regular Season,Away,D 1–1,Toronto FC,Vancouver,Y,GK,90,0,1,0,,0,0.8,1,1,0,0,11,16,68.8,23,6,39.1,34.6,12,58.3,45.7,9,1,11.1,3,15.6,Match Report,5480ae05,D,2019,True
+796,2019-06-07,Fri,MLS,Regular Season,Home,D 2–2,Toronto FC,Sporting KC,Y,GK,90,2,2,2,100.0,0,1.8,2,2,0,0,3,8,37.5,29,7,27.6,33.3,2,0.0,24.5,8,4,50.0,3,22.7,Match Report,5480ae05,D,2019,True
+797,2019-06-22,Sat,MLS,Regular Season,Away,L 0–3,Toronto FC,FC Dallas,Y,GK,90,12,3,9,75.0,0,4.1,0,0,0,0,4,13,30.8,28,2,28.6,35.8,5,100.0,67.8,3,0,0.0,0,12.0,Match Report,5480ae05,L,2019,True
+798,2019-06-26,Wed,MLS,Regular Season,Home,W 3–2,Toronto FC,Atlanta Utd,Y*,GK,90,3,2,2,66.7,0,1.3,2,1,0,1,8,10,80.0,29,9,24.1,31.0,15,20.0,28.6,14,0,0.0,0,10.4,Match Report,5480ae05,W,2019,True
+799,2019-06-29,Sat,MLS,Regular Season,Away,D 1–1,Toronto FC,D.C. United,Y*,GK,90,4,1,4,100.0,0,1.1,1,1,0,0,6,19,31.6,29,4,48.3,43.5,11,45.5,44.9,11,1,9.1,0,9.4,Match Report,5480ae05,D,2019,True
+800,2019-07-04,Thu,MLS,Regular Season,Away,L 0–2,Toronto FC,LA Galaxy,Y*,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,8,15,53.3,37,2,37.8,33.9,7,14.3,31.4,9,0,0.0,2,21.7,Match Report,5480ae05,L,2019,True
+801,2019-07-13,Sat,MLS,Regular Season,Away,W 2–0,Toronto FC,Montreal Impact,Y,GK,90,4,0,4,100.0,1,1.1,0,0,0,0,7,16,43.8,25,3,24.0,26.6,15,66.7,49.8,11,1,9.1,2,18.2,Match Report,5480ae05,W,2019,True
+802,2019-07-17,Wed,MLS,Regular Season,Home,W 3–1,Toronto FC,NY Red Bulls,Y,GK,90,8,1,7,87.5,0,1.7,0,0,0,0,9,28,32.1,30,2,53.3,42.4,13,92.3,62.1,9,1,11.1,0,16.5,Match Report,5480ae05,W,2019,True
+803,2019-07-20,Sat,MLS,Regular Season,Home,L 1–3,Toronto FC,Houston Dynamo,Y*,GK,90,6,3,3,50.0,0,2.2,0,0,0,0,0,0,,25,1,0.0,21.0,6,0.0,26.8,1,0,0.0,3,30.4,Match Report,5480ae05,L,2019,True
+804,2019-07-27,Sat,MLS,Regular Season,Home,W 2–1,Toronto FC,FC Cincinnati,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,4,13,30.8,35,5,22.9,30.4,9,55.6,48.1,6,1,16.7,2,14.9,Match Report,5480ae05,W,2019,True
+805,2019-08-03,Sat,MLS,Regular Season,Away,L 0–2,Toronto FC,NY Red Bulls,Y,GK,90,6,2,5,66.7,0,1.5,1,0,0,1,6,11,54.5,34,8,29.4,29.3,9,11.1,23.4,1,0,0.0,0,11.8,Match Report,5480ae05,L,2019,False
+806,2019-08-10,Sat,MLS,Regular Season,Home,D 1–1,Toronto FC,Orlando City,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,7,16,43.8,24,5,41.7,37.9,7,85.7,57.6,2,0,0.0,3,16.1,Match Report,5480ae05,D,2019,False
+807,2019-08-17,Sat,MLS,Regular Season,Away,D 2–2,Toronto FC,Columbus Crew,Y,GK,90,4,2,1,50.0,0,0.8,0,0,0,0,6,19,31.6,27,4,22.2,35.5,20,65.0,52.3,9,0,0.0,0,11.4,Match Report,5480ae05,D,2019,False
+808,2019-08-24,Sat,MLS,Regular Season,Home,W 2–1,Toronto FC,Montreal Impact,Y,GK,90,1,1,0,0.0,0,0.1,0,0,0,0,5,7,71.4,22,2,27.3,31.5,3,33.3,28.3,3,0,0.0,2,20.0,Match Report,5480ae05,W,2019,False
+809,2019-08-31,Sat,MLS,Regular Season,Away,D 1–1,Toronto FC,New England,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,15,29,51.7,33,3,57.6,42.6,11,90.9,61.0,11,1,9.1,1,17.4,Match Report,5480ae05,D,2019,False
+810,2019-09-07,Sat,MLS,Regular Season,Away,W 5–1,Toronto FC,FC Cincinnati,Y,GK,90,3,1,3,100.0,0,1.3,1,1,0,0,3,12,25.0,26,3,34.6,32.4,5,60.0,51.4,11,0,0.0,1,15.8,Match Report,5480ae05,W,2019,False
+811,2019-09-11,Wed,MLS,Regular Season,Away,D 1–1,Toronto FC,NYCFC,Y,GK,90,1,1,0,0.0,0,0.6,0,0,0,0,8,23,34.8,23,6,65.2,46.9,10,80.0,53.7,7,0,0.0,1,13.4,Match Report,5480ae05,D,2019,False
+812,2019-09-15,Sun,MLS,Regular Season,Home,W 3–2,Toronto FC,Colorado Rapids,Y,GK,90,4,2,2,50.0,0,1.4,1,0,1,0,8,16,50.0,26,1,46.2,38.3,5,80.0,58.6,6,0,0.0,3,21.1,Match Report,5480ae05,W,2019,False
+813,2019-09-21,Sat,MLS,Regular Season,Away,D 1–1,Toronto FC,Los Angeles FC,Y,GK,90,4,1,4,100.0,0,1.4,1,1,0,0,14,30,46.7,31,4,64.5,44.2,10,100.0,59.4,3,0,0.0,1,16.4,Match Report,5480ae05,D,2019,False
+814,2019-09-29,Sun,MLS,Regular Season,Away,D 2–2,Toronto FC,Chicago Fire,Y,GK,74,5,1,4,80.0,0,1.9,0,0,0,0,7,13,53.8,24,4,33.3,38.0,7,71.4,48.0,9,0,0.0,1,17.9,Match Report,5480ae05,D,2019,False
+815,2019-10-06,Sun,MLS,Regular Season,Home,W 1–0,Toronto FC,Columbus Crew,Y,GK,90,2,0,1,100.0,1,0.2,0,0,0,0,6,16,37.5,33,7,36.4,35.0,6,66.7,52.0,14,0,0.0,1,9.9,Match Report,5480ae05,W,2019,False
+816,2019-10-19,Sat,MLS,Round 1,Home,W 5–1,Toronto FC,D.C. United,Y,GK,120,6,1,5,83.3,0,1.7,0,0,0,0,11,35,31.4,40,2,67.5,47.0,8,100.0,65.4,9,1,11.1,1,13.7,Match Report,5480ae05,W,2019,False
+817,2019-10-23,Wed,MLS,Conference Semifinals,Away,W 2–1,Toronto FC,NYCFC,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,5,33,15.2,34,4,82.4,61.7,5,100.0,71.4,9,0,0.0,0,12.3,Match Report,5480ae05,W,2019,False
+818,2019-10-30,Wed,MLS,Conference Finals,Away,W 2–1,Toronto FC,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,2.0,1,0,1,0,6,18,33.3,28,3,39.3,36.1,10,70.0,55.6,12,3,25.0,0,8.3,Match Report,5480ae05,W,2019,False
+819,2019-11-10,Sun,MLS,MLS Cup 2019,Away,L 1–3,Toronto FC,Seattle,Y,GK,90,6,3,3,50.0,0,1.9,0,0,0,0,1,5,20.0,23,3,13.0,29.2,6,33.3,42.7,10,1,10.0,1,22.0,Match Report,5480ae05,L,2019,False
+820,2019-03-02,Sat,MLS,Regular Season,Home,D 1–1,Houston Dynamo,Real Salt Lake,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,7,13,53.8,26,7,42.3,33.7,5,40.0,42.4,8,2,25.0,0,12.3,Match Report,467f09c8,D,2019,True
+821,2019-03-09,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Montreal Impact,Y,GK,90,1,1,0,0.0,0,0.5,0,0,0,0,5,13,38.5,16,3,56.3,43.4,6,66.7,51.0,9,0,0.0,0,8.2,Match Report,467f09c8,W,2019,True
+822,2019-03-16,Sat,MLS,Regular Season,Home,W 3–2,Houston Dynamo,Vancouver,Y,GK,90,2,2,1,50.0,0,1.2,1,1,0,0,4,14,28.6,20,4,45.0,38.5,6,83.3,58.3,8,0,0.0,0,13.3,Match Report,467f09c8,W,2019,True
+823,2019-03-30,Sat,MLS,Regular Season,Away,W 4–1,Houston Dynamo,Colorado Rapids,Y,GK,90,4,1,4,100.0,0,1.3,1,1,0,0,8,27,29.6,25,2,72.0,55.5,9,100.0,71.1,4,1,25.0,1,24.0,Match Report,467f09c8,W,2019,True
+824,2019-04-13,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,San Jose,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,4,13,30.8,17,4,52.9,44.0,10,40.0,39.5,5,0,0.0,0,6.6,Match Report,467f09c8,W,2019,True
+825,2019-04-19,Fri,MLS,Regular Season,Away,L 1–2,Houston Dynamo,LA Galaxy,Y,GK,90,4,2,3,75.0,0,1.2,1,1,0,0,11,17,64.7,25,10,48.0,37.6,7,71.4,49.9,14,3,21.4,1,12.4,Match Report,467f09c8,L,2019,True
+826,2019-04-27,Sat,MLS,Regular Season,Home,W 2–0,Houston Dynamo,Columbus Crew,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,1,9,11.1,18,3,16.7,31.9,13,46.2,44.1,9,1,11.1,0,11.0,Match Report,467f09c8,W,2019,True
+827,2019-05-04,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,FC Dallas,Y,GK,90,6,1,5,83.3,0,2.7,0,0,0,0,7,15,46.7,23,6,47.8,40.3,6,66.7,52.2,7,0,0.0,0,7.8,Match Report,467f09c8,W,2019,True
+828,2019-05-11,Sat,MLS,Regular Season,Away,L 0–1,Houston Dynamo,Seattle,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,7,16,43.8,20,9,35.0,36.0,14,64.3,50.4,14,1,7.1,1,13.1,Match Report,467f09c8,L,2019,True
+829,2019-05-15,Wed,MLS,Regular Season,Home,D 1–1,Houston Dynamo,Portland Timbers,Y,GK,90,5,1,4,80.0,0,1.1,0,0,0,0,4,17,23.5,16,7,50.0,46.4,11,81.8,59.3,6,1,16.7,1,16.4,Match Report,467f09c8,D,2019,True
+830,2019-05-18,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,D.C. United,Y,GK,90,2,1,1,50.0,0,1.5,0,0,0,0,5,11,45.5,11,5,54.5,53.5,8,62.5,48.0,6,0,0.0,0,10.3,Match Report,467f09c8,W,2019,True
+831,2019-05-25,Sat,MLS,Regular Season,Away,L 0–1,Houston Dynamo,Minnesota Utd,Y,GK,90,3,1,3,66.7,0,0.8,0,0,0,0,3,15,20.0,17,3,47.1,42.0,10,70.0,55.2,7,0,0.0,0,13.3,Match Report,467f09c8,L,2019,True
+832,2019-06-01,Sat,MLS,Regular Season,Home,D 1–1,Houston Dynamo,Sporting KC,Y,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,1,5,20.0,15,7,13.3,25.9,7,42.9,46.0,1,0,0.0,0,11.4,Match Report,467f09c8,D,2019,True
+833,2019-06-22,Sat,MLS,Regular Season,Away,L 0–4,Houston Dynamo,Portland Timbers,Y,GK,90,9,4,6,66.7,0,3.8,1,1,0,0,2,10,20.0,12,6,41.7,38.5,10,50.0,52.0,9,1,11.1,0,12.0,Match Report,467f09c8,L,2019,True
+834,2019-06-26,Wed,MLS,Regular Season,Away,L 0–2,Houston Dynamo,San Jose,Y,GK,90,6,2,4,66.7,0,2.4,0,0,0,0,6,22,27.3,26,5,57.7,42.7,10,70.0,54.2,11,1,9.1,0,11.7,Match Report,467f09c8,L,2019,True
+835,2019-06-29,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,New England,Y,GK,90,7,2,5,71.4,0,2.8,0,0,0,0,8,32,25.0,36,8,69.4,51.6,11,63.6,53.1,12,0,0.0,0,15.0,Match Report,467f09c8,L,2019,True
+836,2019-07-03,Wed,MLS,Regular Season,Home,W 4–0,Houston Dynamo,NY Red Bulls,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,9,17,52.9,15,4,66.7,45.3,12,58.3,48.8,7,0,0.0,0,9.0,Match Report,467f09c8,W,2019,True
+837,2019-07-06,Sat,MLS,Regular Season,Away,L 2–3,Houston Dynamo,FC Cincinnati,Y,GK,90,7,3,4,57.1,0,1.2,0,0,0,0,3,23,13.0,31,4,51.6,41.4,8,87.5,64.1,1,0,0.0,2,13.7,Match Report,467f09c8,L,2019,True
+838,2019-07-12,Fri,MLS,Regular Season,Home,L 1–3,Houston Dynamo,Los Angeles FC,Y,GK,90,8,3,5,62.5,0,2.5,0,0,0,0,8,20,40.0,24,5,62.5,47.5,6,83.3,58.8,2,0,0.0,0,13.1,Match Report,467f09c8,L,2019,True
+839,2019-08-11,Sun,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Philadelphia,Y,GK,90,2,2,0,0.0,0,0.9,0,0,0,0,6,15,40.0,25,8,56.0,42.1,5,20.0,34.8,4,0,0.0,1,13.3,Match Report,467f09c8,L,2019,False
+840,2019-08-17,Sat,MLS,Regular Season,Home,D 2–2,Houston Dynamo,Colorado Rapids,Y,GK,90,7,2,5,71.4,0,1.3,0,0,0,0,4,7,57.1,21,9,19.0,27.4,3,100.0,52.0,5,0,0.0,0,10.4,Match Report,467f09c8,D,2019,False
+841,2019-08-25,Sun,MLS,Regular Season,Away,L 1–5,Houston Dynamo,FC Dallas,Y,GK,90,7,5,3,42.9,0,4.9,1,1,0,0,6,12,50.0,18,3,50.0,44.1,6,50.0,43.2,10,0,0.0,0,21.8,Match Report,467f09c8,L,2019,False
+842,2019-08-31,Sat,MLS,Regular Season,Away,L 0–1,Houston Dynamo,Sporting KC,Y,GK,90,5,1,4,80.0,0,1.5,0,0,0,0,7,18,38.9,26,6,42.3,38.2,10,70.0,55.6,6,3,50.0,1,13.1,Match Report,467f09c8,L,2019,False
+843,2019-09-11,Wed,MLS,Regular Season,Home,W 2–0,Houston Dynamo,Minnesota Utd,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,2,16,12.5,38,9,39.5,37.4,3,33.3,37.0,12,4,33.3,0,12.0,Match Report,467f09c8,W,2019,False
+844,2019-09-14,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Vancouver,Y,GK,90,3,2,2,66.7,0,1.1,1,1,0,0,6,16,37.5,25,5,44.0,36.6,5,100.0,57.0,8,1,12.5,0,16.5,Match Report,467f09c8,L,2019,False
+845,2019-09-21,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Orlando City,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,6,10,60.0,17,4,47.1,36.4,4,50.0,46.3,13,1,7.7,1,11.1,Match Report,467f09c8,W,2019,False
+846,2019-09-25,Wed,MLS,Regular Season,Away,L 1–3,Houston Dynamo,Los Angeles FC,Y,GK,90,8,3,6,75.0,0,2.1,1,1,0,0,8,20,40.0,20,6,60.0,50.2,9,88.9,58.3,6,1,16.7,0,19.0,Match Report,467f09c8,L,2019,False
+847,2019-04-07,Sun,MLS,Regular Season,Away,D 1–1,Sporting KC,FC Cincinnati,Y,GK,90,3,1,3,100.0,0,1.7,1,1,0,0,2,8,25.0,38,8,13.2,27.0,6,50.0,44.0,11,0,0.0,1,17.8,Match Report,d52cd2a0,D,2019,True

@@ -1,0 +1,788 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PKatt,PKA,PKsv,PKm,Match Report,fbref_ID,Win_Loss_Draw,Season,Before_All_Star
+0,2017-03-03,Fri,MLS,Regular Season,Away,L 1–5,Minnesota Utd,Portland Timbers,Y,GK,90,6,5,1,33.3,0,1,1,0,0,Match Report,0981555b,L,2017,False
+1,2017-03-12,Sun,MLS,Regular Season,Home,L 1–6,Minnesota Utd,Atlanta Utd,Y,GK,85,7,5,2,28.6,0,0,0,0,0,Match Report,0981555b,L,2017,False
+2,2017-04-15,Sat,MLS,Regular Season,Away,D 2–2,Minnesota Utd,Houston Dynamo,N,,46,2,0,2,100.0,0,0,0,0,0,Match Report,0981555b,D,2017,False
+3,2017-04-22,Sat,MLS,Regular Season,Home,W 2–1,Portland Timbers,Vancouver,Y,GK,90,4,1,3,75.0,0,1,0,0,1,Match Report,4277b946,W,2017,False
+4,2017-04-29,Sat,MLS,Regular Season,Away,D 2–2,Portland Timbers,FC Dallas,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,4277b946,D,2017,False
+5,2017-05-06,Sat,MLS,Regular Season,Away,L 0–3,Portland Timbers,San Jose,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,4277b946,L,2017,False
+6,2017-06-21,Wed,MLS,Regular Season,Away,L 2–3,Portland Timbers,Minnesota Utd,Y,GK,90,7,3,5,57.1,0,0,0,0,0,Match Report,4277b946,L,2017,False
+7,2017-08-12,Sat,MLS,Regular Season,Away,L 1–4,Portland Timbers,Toronto FC,N,,73,5,4,1,20.0,0,0,0,0,0,Match Report,4277b946,L,2017,False
+8,2017-08-18,Fri,MLS,Regular Season,Home,W 2–0,Portland Timbers,NY Red Bulls,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,4277b946,W,2017,False
+9,2017-08-23,Wed,MLS,Regular Season,Home,W 2–1,Portland Timbers,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,4277b946,W,2017,False
+10,2017-08-27,Sun,MLS,Regular Season,Away,D 1–1,Portland Timbers,Seattle,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,4277b946,D,2017,False
+11,2017-09-09,Sat,MLS,Regular Season,Away,W 1–0,Portland Timbers,NYCFC,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,4277b946,W,2017,False
+12,2017-09-16,Sat,MLS,Regular Season,Away,L 1–2,Portland Timbers,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,4277b946,L,2017,False
+13,2017-09-24,Sun,MLS,Regular Season,Home,W 3–0,Portland Timbers,Orlando City,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,4277b946,W,2017,False
+14,2017-09-30,Sat,MLS,Regular Season,Away,L 1–2,Portland Timbers,San Jose,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,4277b946,L,2017,False
+15,2017-10-15,Sun,MLS,Regular Season,Home,W 4–0,Portland Timbers,D.C. United,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,4277b946,W,2017,False
+16,2017-10-22,Sun,MLS,Regular Season,Home,W 2–1,Portland Timbers,Vancouver,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,4277b946,W,2017,False
+17,2017-10-30,Mon,MLS,Conference Semifinals,Away,D 0–0,Portland Timbers,Houston Dynamo,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,4277b946,D,2017,False
+18,2017-11-05,Sun,MLS,Conference Semifinals,Home,L 1–2,Portland Timbers,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,4277b946,L,2017,False
+19,2017-03-04,Sat,MLS,Regular Season,Away,D 1–1,Chicago Fire,Columbus Crew,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,f4678d70,D,2017,False
+20,2017-03-11,Sat,MLS,Regular Season,Home,W 2–0,Chicago Fire,Real Salt Lake,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,f4678d70,W,2017,False
+21,2017-03-18,Sat,MLS,Regular Season,Away,L 0–4,Chicago Fire,Atlanta Utd,Y,GK,90,6,4,3,33.3,0,0,0,0,0,Match Report,f4678d70,L,2017,False
+22,2017-04-01,Sat,MLS,Regular Season,Home,D 2–2,Chicago Fire,Montreal Impact,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,f4678d70,D,2017,False
+23,2017-04-08,Sat,MLS,Regular Season,Home,W 1–0,Chicago Fire,Columbus Crew,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,f4678d70,W,2017,False
+24,2017-04-15,Sat,MLS,Regular Season,Home,W 3–0,Chicago Fire,New England,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,f4678d70,W,2017,False
+25,2017-04-21,Fri,MLS,Regular Season,Away,L 1–3,Chicago Fire,Toronto FC,Y,GK,90,9,3,6,66.7,0,0,0,0,0,Match Report,f4678d70,L,2017,False
+26,2017-04-29,Sat,MLS,Regular Season,Away,L 1–2,Chicago Fire,NY Red Bulls,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,f4678d70,L,2017,False
+27,2017-03-05,Sun,MLS,Regular Season,Home,W 1–0,Orlando City,NYCFC,Y,GK,90,7,0,6,100.0,1,0,0,0,0,Match Report,c3e50b67,W,2017,False
+28,2017-03-18,Sat,MLS,Regular Season,Home,W 2–1,Orlando City,Philadelphia,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,c3e50b67,W,2017,False
+29,2017-04-01,Sat,MLS,Regular Season,Away,L 0–2,Orlando City,Columbus Crew,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+30,2017-04-09,Sun,MLS,Regular Season,Home,W 1–0,Orlando City,NY Red Bulls,Y,GK,90,4,0,3,100.0,1,0,0,0,0,Match Report,c3e50b67,W,2017,False
+31,2017-04-15,Sat,MLS,Regular Season,Home,W 2–1,Orlando City,LA Galaxy,Y,GK,90,7,1,5,85.7,0,0,0,0,0,Match Report,c3e50b67,W,2017,False
+32,2017-04-23,Sun,MLS,Regular Season,Away,W 2–1,Orlando City,NYCFC,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report,c3e50b67,W,2017,False
+33,2017-04-29,Sat,MLS,Regular Season,Home,W 2–0,Orlando City,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,c3e50b67,W,2017,False
+34,2017-05-03,Wed,MLS,Regular Season,Away,L 1–2,Orlando City,Toronto FC,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+35,2017-05-06,Sat,MLS,Regular Season,Away,L 0–4,Orlando City,Houston Dynamo,Y,GK,90,11,4,7,63.6,0,1,0,0,1,Match Report,c3e50b67,L,2017,False
+36,2017-05-13,Sat,MLS,Regular Season,Home,D 2–2,Orlando City,Sporting KC,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,c3e50b67,D,2017,False
+37,2017-05-17,Wed,MLS,Regular Season,Away,D 1–1,Orlando City,San Jose,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,c3e50b67,D,2017,False
+38,2017-05-21,Sun,MLS,Regular Season,Home,L 0–3,Orlando City,NYCFC,Y,GK,90,5,3,2,60.0,0,1,1,0,0,Match Report,c3e50b67,L,2017,False
+39,2017-05-27,Sat,MLS,Regular Season,Away,L 0–1,Orlando City,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+40,2017-05-31,Wed,MLS,Regular Season,Home,W 2–0,Orlando City,D.C. United,Y,GK,90,4,0,3,100.0,1,0,0,0,0,Match Report,c3e50b67,W,2017,False
+41,2017-06-04,Sun,MLS,Regular Season,Home,D 0–0,Orlando City,Chicago Fire,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report,c3e50b67,D,2017,False
+42,2017-06-17,Sat,MLS,Regular Season,Home,D 3–3,Orlando City,Montreal Impact,Y,GK,90,7,3,3,57.1,0,0,0,0,0,Match Report,c3e50b67,D,2017,False
+43,2017-06-21,Wed,MLS,Regular Season,Away,D 1–1,Orlando City,Seattle,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,c3e50b67,D,2017,False
+44,2017-06-24,Sat,MLS,Regular Season,Away,L 0–4,Orlando City,Chicago Fire,Y,GK,90,7,4,3,57.1,0,1,1,0,0,Match Report,c3e50b67,L,2017,False
+45,2017-06-30,Fri,MLS,Regular Season,Away,W 1–0,Orlando City,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,c3e50b67,W,2017,False
+46,2017-07-05,Wed,MLS,Regular Season,Home,L 1–3,Orlando City,Toronto FC,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+47,2017-07-21,Fri,MLS,Regular Season,Home,L 0–1,Orlando City,Atlanta Utd,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+48,2017-07-29,Sat,MLS,Regular Season,Away,D 1–1,Orlando City,Atlanta Utd,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,c3e50b67,D,2017,False
+49,2017-08-05,Sat,MLS,Regular Season,Away,L 1–2,Orlando City,Montreal Impact,Y,GK,90,7,2,5,85.7,0,1,1,0,0,Match Report,c3e50b67,L,2017,False
+50,2017-08-12,Sat,MLS,Regular Season,Away,L 1–3,Orlando City,NY Red Bulls,Y,GK,90,4,3,2,25.0,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+51,2017-08-19,Sat,MLS,Regular Season,Home,D 1–1,Orlando City,Columbus Crew,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,c3e50b67,D,2017,False
+52,2017-08-26,Sat,MLS,Regular Season,Home,L 1–2,Orlando City,Vancouver,Y,GK,90,3,2,2,33.3,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+53,2017-09-02,Sat,MLS,Regular Season,Away,L 0–4,Orlando City,New England,Y,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+54,2017-09-09,Sat,MLS,Regular Season,Away,W 2–1,Orlando City,D.C. United,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c3e50b67,W,2017,False
+55,2017-09-16,Sat,MLS,Regular Season,Away,D 3–3,Orlando City,Atlanta Utd,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report,c3e50b67,D,2017,False
+56,2017-09-24,Sun,MLS,Regular Season,Away,L 0–3,Orlando City,Portland Timbers,Y,GK,90,10,3,7,80.0,0,1,1,0,0,Match Report,c3e50b67,L,2017,False
+57,2017-09-27,Wed,MLS,Regular Season,Home,W 6–1,Orlando City,New England,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c3e50b67,W,2017,False
+58,2017-09-30,Sat,MLS,Regular Season,Home,D 0–0,Orlando City,FC Dallas,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,c3e50b67,D,2017,False
+59,2017-10-15,Sun,MLS,Regular Season,Home,L 0–1,Orlando City,Columbus Crew,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,c3e50b67,L,2017,False
+60,2017-03-04,Sat,MLS,Regular Season,Home,W 1–0,San Jose,Montreal Impact,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report,7fd42a85,W,2017,False
+61,2017-03-11,Sat,MLS,Regular Season,Home,W 3–2,San Jose,Vancouver,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,7fd42a85,W,2017,False
+62,2017-03-18,Sat,MLS,Regular Season,Away,L 1–2,San Jose,Sporting KC,Y,GK,90,4,2,3,50.0,0,0,0,0,0,Match Report,7fd42a85,L,2017,False
+63,2017-04-01,Sat,MLS,Regular Season,Away,L 1–2,San Jose,NYCFC,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,7fd42a85,L,2017,False
+64,2017-04-08,Sat,MLS,Regular Season,Home,D 1–1,San Jose,Seattle,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,7fd42a85,D,2017,False
+65,2017-04-14,Fri,MLS,Regular Season,Home,D 1–1,San Jose,FC Dallas,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,7fd42a85,D,2017,False
+66,2017-04-19,Wed,MLS,Regular Season,Away,D 0–0,San Jose,New England,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,7fd42a85,D,2017,False
+67,2017-04-22,Sat,MLS,Regular Season,Away,L 0–2,San Jose,Houston Dynamo,Y,GK,90,3,2,1,66.7,0,1,1,0,0,Match Report,7fd42a85,L,2017,False
+68,2017-04-29,Sat,MLS,Regular Season,Away,W 1–0,San Jose,Minnesota Utd,Y,GK,90,2,0,1,100.0,1,0,0,0,0,Match Report,7fd42a85,W,2017,False
+69,2017-05-06,Sat,MLS,Regular Season,Home,W 3–0,San Jose,Portland Timbers,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,7fd42a85,W,2017,False
+70,2017-05-13,Sat,MLS,Regular Season,Away,L 0–3,San Jose,Colorado Rapids,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,7fd42a85,L,2017,False
+71,2017-05-17,Wed,MLS,Regular Season,Home,D 1–1,San Jose,Orlando City,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,7fd42a85,D,2017,False
+72,2017-05-20,Sat,MLS,Regular Season,Away,W 1–0,San Jose,FC Dallas,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,7fd42a85,W,2017,False
+73,2017-05-27,Sat,MLS,Regular Season,Home,L 2–4,San Jose,LA Galaxy,Y,GK,90,4,4,1,25.0,0,1,1,0,0,Match Report,7fd42a85,L,2017,False
+74,2017-06-02,Fri,MLS,Regular Season,Away,L 0–2,San Jose,Portland Timbers,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,7fd42a85,L,2017,False
+75,2017-06-17,Sat,MLS,Regular Season,Home,D 0–0,San Jose,Sporting KC,Y,GK,90,5,0,4,100.0,1,0,0,0,0,Match Report,7fd42a85,D,2017,False
+76,2017-06-24,Sat,MLS,Regular Season,Home,W 2–1,San Jose,Real Salt Lake,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,7fd42a85,W,2017,False
+77,2017-07-01,Sat,MLS,Regular Season,Home,W 2–1,San Jose,LA Galaxy,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,7fd42a85,W,2017,False
+78,2017-07-04,Tue,MLS,Regular Season,Away,L 2–4,San Jose,Atlanta Utd,Y,GK,90,9,4,5,55.6,0,0,0,0,0,Match Report,7fd42a85,L,2017,False
+79,2017-07-19,Wed,MLS,Regular Season,Away,L 1–5,San Jose,NY Red Bulls,Y,GK,90,11,5,6,54.5,0,0,0,0,0,Match Report,7fd42a85,L,2017,False
+80,2017-07-23,Sun,MLS,Regular Season,Away,L 0–3,San Jose,Seattle,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,7fd42a85,L,2017,False
+81,2017-07-29,Sat,MLS,Regular Season,Home,W 1–0,San Jose,Colorado Rapids,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,7fd42a85,W,2017,False
+82,2017-08-05,Sat,MLS,Regular Season,Home,W 2–1,San Jose,Columbus Crew,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,7fd42a85,W,2017,False
+83,2017-03-05,Sun,MLS,Regular Season,Away,D 0–0,Philadelphia,Vancouver,Y,GK,90,1,0,0,100.0,1,0,0,0,0,Match Report,b3b21a11,D,2017,False
+84,2017-03-11,Sat,MLS,Regular Season,Home,D 2–2,Philadelphia,Toronto FC,Y,GK,90,3,2,1,66.7,0,1,1,0,0,Match Report,b3b21a11,D,2017,False
+85,2017-03-18,Sat,MLS,Regular Season,Away,L 1–2,Philadelphia,Orlando City,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,b3b21a11,L,2017,False
+86,2017-04-01,Sat,MLS,Regular Season,Away,L 1–2,Philadelphia,D.C. United,Y,GK,90,3,2,1,66.7,0,1,1,0,0,Match Report,b3b21a11,L,2017,False
+87,2017-04-08,Sat,MLS,Regular Season,Home,L 1–3,Philadelphia,Portland Timbers,Y,GK,90,5,3,2,60.0,0,1,1,0,0,Match Report,b3b21a11,L,2017,False
+88,2017-04-14,Fri,MLS,Regular Season,Home,L 0–2,Philadelphia,NYCFC,Y,GK,90,7,2,4,71.4,0,0,0,0,0,Match Report,b3b21a11,L,2017,False
+89,2017-04-22,Sat,MLS,Regular Season,Home,D 3–3,Philadelphia,Montreal Impact,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,b3b21a11,D,2017,False
+90,2017-04-29,Sat,MLS,Regular Season,Away,D 0–0,Philadelphia,LA Galaxy,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,b3b21a11,D,2017,False
+91,2017-05-06,Sat,MLS,Regular Season,Home,W 3–0,Philadelphia,NY Red Bulls,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,b3b21a11,W,2017,False
+92,2017-05-13,Sat,MLS,Regular Season,Away,W 4–0,Philadelphia,D.C. United,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,b3b21a11,W,2017,False
+93,2017-05-17,Wed,MLS,Regular Season,Home,W 2–0,Philadelphia,Houston Dynamo,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,b3b21a11,W,2017,False
+94,2017-05-20,Sat,MLS,Regular Season,Home,W 2–1,Philadelphia,Colorado Rapids,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,b3b21a11,W,2017,False
+95,2017-05-27,Sat,MLS,Regular Season,Away,L 0–1,Philadelphia,Real Salt Lake,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report,b3b21a11,L,2017,False
+96,2017-06-03,Sat,MLS,Regular Season,Away,L 1–2,Philadelphia,NYCFC,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report,b3b21a11,L,2017,False
+97,2017-06-18,Sun,MLS,Regular Season,Home,L 0–2,Philadelphia,NY Red Bulls,Y,GK,90,4,2,1,50.0,0,0,0,0,0,Match Report,b3b21a11,L,2017,False
+98,2017-06-24,Sat,MLS,Regular Season,Home,W 1–0,Philadelphia,D.C. United,Y,GK,90,4,0,4,100.0,1,1,0,1,0,Match Report,b3b21a11,W,2017,False
+99,2017-07-02,Sun,MLS,Regular Season,Home,W 3–0,Philadelphia,New England,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,b3b21a11,W,2017,False
+100,2017-08-23,Wed,MLS,Regular Season,Away,L 0–3,Philadelphia,Toronto FC,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,b3b21a11,L,2017,False
+101,2017-08-26,Sat,MLS,Regular Season,Home,D 2–2,Philadelphia,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,b3b21a11,D,2017,False
+102,2017-09-09,Sat,MLS,Regular Season,Away,D 1–1,Philadelphia,Minnesota Utd,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,b3b21a11,D,2017,False
+103,2017-09-17,Sun,MLS,Regular Season,Away,D 0–0,Philadelphia,NY Red Bulls,Y,GK,90,8,0,8,100.0,1,0,0,0,0,Match Report,b3b21a11,D,2017,False
+104,2017-09-23,Sat,MLS,Regular Season,Home,W 3–1,Philadelphia,Chicago Fire,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,b3b21a11,W,2017,False
+105,2017-09-27,Wed,MLS,Regular Season,Away,L 0–3,Philadelphia,Atlanta Utd,Y,GK,90,10,3,7,70.0,0,0,0,0,0,Match Report,b3b21a11,L,2017,False
+106,2017-10-01,Sun,MLS,Regular Season,Home,W 2–0,Philadelphia,Seattle,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,b3b21a11,W,2017,False
+107,2017-10-15,Sun,MLS,Regular Season,Away,L 2–3,Philadelphia,Chicago Fire,Y,GK,90,4,3,1,50.0,0,1,1,0,0,Match Report,b3b21a11,L,2017,False
+108,2017-10-22,Sun,MLS,Regular Season,Home,W 6–1,Philadelphia,Orlando City,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,b3b21a11,W,2017,False
+109,2017-03-18,Sat,MLS,Regular Season,Away,W 2–0,Toronto FC,Vancouver,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+110,2017-03-31,Fri,MLS,Regular Season,Home,D 0–0,Toronto FC,Sporting KC,N,,51,3,0,3,100.0,1,0,0,0,0,Match Report,aa28a396,D,2017,False
+111,2017-04-08,Sat,MLS,Regular Season,Home,D 2–2,Toronto FC,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,aa28a396,D,2017,False
+112,2017-04-15,Sat,MLS,Regular Season,Away,L 1–2,Toronto FC,Columbus Crew,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,aa28a396,L,2017,False
+113,2017-04-21,Fri,MLS,Regular Season,Home,W 3–1,Toronto FC,Chicago Fire,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,aa28a396,W,2017,False
+114,2017-04-28,Fri,MLS,Regular Season,Home,W 2–0,Toronto FC,Houston Dynamo,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+115,2017-05-03,Wed,MLS,Regular Season,Home,W 2–1,Toronto FC,Orlando City,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,aa28a396,W,2017,False
+116,2017-05-10,Wed,MLS,Regular Season,Away,W 2–1,Toronto FC,Columbus Crew,Y,GK,90,6,1,5,100.0,0,1,1,0,0,Match Report,aa28a396,W,2017,False
+117,2017-05-13,Sat,MLS,Regular Season,Home,W 3–2,Toronto FC,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,1,0,1,0,Match Report,aa28a396,W,2017,False
+118,2017-05-19,Fri,MLS,Regular Season,Away,D 1–1,Toronto FC,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,aa28a396,D,2017,False
+119,2017-05-26,Fri,MLS,Regular Season,Home,W 5–0,Toronto FC,Columbus Crew,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+120,2017-06-03,Sat,MLS,Regular Season,Away,L 0–3,Toronto FC,New England,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,aa28a396,L,2017,False
+121,2017-06-17,Sat,MLS,Regular Season,Home,W 2–0,Toronto FC,D.C. United,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+122,2017-06-23,Fri,MLS,Regular Season,Home,W 2–0,Toronto FC,New England,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+123,2017-07-01,Sat,MLS,Regular Season,Away,L 1–3,Toronto FC,FC Dallas,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,aa28a396,L,2017,False
+124,2017-07-05,Wed,MLS,Regular Season,Away,W 3–1,Toronto FC,Orlando City,Y,GK,90,3,1,3,66.7,0,0,0,0,0,Match Report,aa28a396,W,2017,False
+125,2017-07-19,Wed,MLS,Regular Season,Away,D 2–2,Toronto FC,NYCFC,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,aa28a396,D,2017,False
+126,2017-07-30,Sun,MLS,Regular Season,Home,W 4–0,Toronto FC,NYCFC,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+127,2017-08-05,Sat,MLS,Regular Season,Away,D 1–1,Toronto FC,D.C. United,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,aa28a396,D,2017,False
+128,2017-08-12,Sat,MLS,Regular Season,Home,W 4–1,Toronto FC,Portland Timbers,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,aa28a396,W,2017,False
+129,2017-08-19,Sat,MLS,Regular Season,Away,W 3–1,Toronto FC,Chicago Fire,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report,aa28a396,W,2017,False
+130,2017-08-23,Wed,MLS,Regular Season,Home,W 3–0,Toronto FC,Philadelphia,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+131,2017-08-27,Sun,MLS,Regular Season,Away,W 3–1,Toronto FC,Montreal Impact,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,aa28a396,W,2017,False
+132,2017-09-09,Sat,MLS,Regular Season,Home,W 4–0,Toronto FC,San Jose,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+133,2017-09-16,Sat,MLS,Regular Season,Away,W 4–0,Toronto FC,LA Galaxy,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+134,2017-09-20,Wed,MLS,Regular Season,Home,L 3–5,Toronto FC,Montreal Impact,Y,GK,90,5,5,0,0.0,0,0,0,0,0,Match Report,aa28a396,L,2017,False
+135,2017-09-30,Sat,MLS,Regular Season,Home,W 4–2,Toronto FC,NY Red Bulls,Y,GK,90,4,2,2,75.0,0,1,1,0,0,Match Report,aa28a396,W,2017,False
+136,2017-10-15,Sun,MLS,Regular Season,Home,W 1–0,Toronto FC,Montreal Impact,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+137,2017-10-22,Sun,MLS,Regular Season,Away,D 2–2,Toronto FC,Atlanta Utd,Y,GK,90,4,2,2,75.0,0,1,1,0,0,Match Report,aa28a396,D,2017,False
+138,2017-10-30,Mon,MLS,Conference Semifinals,Away,W 2–1,Toronto FC,NY Red Bulls,Y,GK,90,4,1,3,100.0,0,1,1,0,0,Match Report,aa28a396,W,2017,False
+139,2017-11-05,Sun,MLS,Conference Semifinals,Home,L 0–1,Toronto FC,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,aa28a396,L,2017,False
+140,2017-11-21,Tue,MLS,Conference Finals,Away,D 0–0,Toronto FC,Columbus Crew,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,aa28a396,D,2017,False
+141,2017-11-29,Wed,MLS,Conference Finals,Home,W 1–0,Toronto FC,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+142,2017-12-09,Sat,MLS,MLS Cup 2017,Home,W 2–0,Toronto FC,Seattle,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,aa28a396,W,2017,False
+143,2017-03-04,Sat,MLS,Regular Season,Away,L 0–1,Montreal Impact,San Jose,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,69a57596,L,2017,False
+144,2017-03-11,Sat,MLS,Regular Season,Home,D 2–2,Montreal Impact,Seattle,Y,GK,90,4,2,2,75.0,0,1,1,0,0,Match Report,69a57596,D,2017,False
+145,2017-03-18,Sat,MLS,Regular Season,Away,D 1–1,Montreal Impact,NYCFC,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,69a57596,D,2017,False
+146,2017-04-01,Sat,MLS,Regular Season,Away,D 2–2,Montreal Impact,Chicago Fire,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,69a57596,D,2017,False
+147,2017-04-07,Fri,MLS,Regular Season,Away,L 0–2,Montreal Impact,LA Galaxy,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,69a57596,L,2017,False
+148,2017-04-15,Sat,MLS,Regular Season,Home,W 2–1,Montreal Impact,Atlanta Utd,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,69a57596,W,2017,False
+149,2017-04-22,Sat,MLS,Regular Season,Away,D 3–3,Montreal Impact,Philadelphia,Y,GK,90,5,3,2,60.0,0,1,1,0,0,Match Report,69a57596,D,2017,False
+150,2017-04-29,Sat,MLS,Regular Season,Home,L 1–2,Montreal Impact,Vancouver,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,69a57596,L,2017,False
+151,2017-05-06,Sat,MLS,Regular Season,Away,W 1–0,Montreal Impact,D.C. United,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,69a57596,W,2017,False
+152,2017-05-13,Sat,MLS,Regular Season,Home,L 2–3,Montreal Impact,Columbus Crew,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,69a57596,L,2017,False
+153,2017-05-20,Sat,MLS,Regular Season,Home,W 4–1,Montreal Impact,Portland Timbers,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,69a57596,W,2017,False
+154,2017-06-03,Sat,MLS,Regular Season,Home,W 1–0,Montreal Impact,NY Red Bulls,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,69a57596,W,2017,False
+155,2017-06-10,Sat,MLS,Regular Season,Away,D 1–1,Montreal Impact,Sporting KC,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,69a57596,D,2017,False
+156,2017-06-17,Sat,MLS,Regular Season,Away,D 3–3,Montreal Impact,Orlando City,Y,GK,90,7,3,3,57.1,0,0,0,0,0,Match Report,69a57596,D,2017,False
+157,2017-06-24,Sat,MLS,Regular Season,Away,L 1–4,Montreal Impact,Columbus Crew,Y,GK,90,4,4,0,0.0,0,0,0,0,0,Match Report,69a57596,L,2017,False
+158,2017-07-01,Sat,MLS,Regular Season,Home,W 2–0,Montreal Impact,D.C. United,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,69a57596,W,2017,False
+159,2017-07-05,Wed,MLS,Regular Season,Away,L 1–3,Montreal Impact,Houston Dynamo,Y,GK,90,10,3,7,70.0,0,0,0,0,0,Match Report,69a57596,L,2017,False
+160,2017-07-19,Wed,MLS,Regular Season,Home,W 2–1,Montreal Impact,Philadelphia,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,69a57596,W,2017,False
+161,2017-07-22,Sat,MLS,Regular Season,Home,L 1–2,Montreal Impact,FC Dallas,Y*,GK,90,5,2,2,60.0,0,0,0,0,0,Match Report,69a57596,L,2017,False
+162,2017-08-05,Sat,MLS,Regular Season,Home,W 2–1,Montreal Impact,Orlando City,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,69a57596,W,2017,False
+163,2017-08-12,Sat,MLS,Regular Season,Away,W 3–0,Montreal Impact,Philadelphia,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,69a57596,W,2017,False
+164,2017-08-16,Wed,MLS,Regular Season,Home,W 3–0,Montreal Impact,Chicago Fire,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,69a57596,W,2017,False
+165,2017-08-19,Sat,MLS,Regular Season,Home,W 3–1,Montreal Impact,Real Salt Lake,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,69a57596,W,2017,False
+166,2017-08-27,Sun,MLS,Regular Season,Home,L 1–3,Montreal Impact,Toronto FC,Y,GK,90,7,3,3,57.1,0,0,0,0,0,Match Report,69a57596,L,2017,False
+167,2017-09-02,Sat,MLS,Regular Season,Home,L 0–1,Montreal Impact,Chicago Fire,Y,GK,90,2,1,2,50.0,0,0,0,0,0,Match Report,69a57596,L,2017,False
+168,2017-09-09,Sat,MLS,Regular Season,Away,L 0–1,Montreal Impact,New England,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report,69a57596,L,2017,False
+169,2017-09-16,Sat,MLS,Regular Season,Home,L 2–3,Montreal Impact,Minnesota Utd,Y,GK,90,6,3,4,66.7,0,1,1,0,0,Match Report,69a57596,L,2017,False
+170,2017-09-20,Wed,MLS,Regular Season,Away,W 5–3,Montreal Impact,Toronto FC,Y,GK,90,2,3,0,-50.0,0,0,0,0,0,Match Report,69a57596,W,2017,False
+171,2017-09-24,Sun,MLS,Regular Season,Away,L 0–2,Montreal Impact,Atlanta Utd,Y,GK,90,6,2,5,66.7,0,0,0,0,0,Match Report,69a57596,L,2017,False
+172,2017-09-27,Wed,MLS,Regular Season,Home,L 0–1,Montreal Impact,NYCFC,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,69a57596,L,2017,False
+173,2017-09-30,Sat,MLS,Regular Season,Away,L 1–2,Montreal Impact,Colorado Rapids,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,69a57596,L,2017,False
+174,2017-09-23,Sat,MLS,Regular Season,Home,W 4–0,D.C. United,San Jose,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,ed6320b7,W,2017,False
+175,2017-09-27,Wed,MLS,Regular Season,Away,D 3–3,D.C. United,NY Red Bulls,Y,GK,90,9,3,5,77.8,0,1,1,0,0,Match Report,ed6320b7,D,2017,False
+176,2017-09-30,Sat,MLS,Regular Season,Away,L 0–2,D.C. United,Columbus Crew,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,ed6320b7,L,2017,False
+177,2017-10-15,Sun,MLS,Regular Season,Away,L 0–4,D.C. United,Portland Timbers,Y,GK,90,9,4,3,66.7,0,1,1,0,0,Match Report,ed6320b7,L,2017,False
+178,2017-10-22,Sun,MLS,Regular Season,Home,L 1–2,D.C. United,NY Red Bulls,Y,GK,90,3,2,1,33.3,0,1,0,1,0,Match Report,ed6320b7,L,2017,False
+179,2017-07-29,Sat,MLS,Regular Season,Away,L 0–4,Montreal Impact,NY Red Bulls,Y,GK,90,11,4,6,72.7,0,1,1,0,0,Match Report,ea42e480,L,2017,False
+180,2017-10-15,Sun,MLS,Regular Season,Away,L 0–1,Montreal Impact,Toronto FC,Y,GK,90,3,1,2,66.7,0,1,0,0,1,Match Report,ea42e480,L,2017,False
+181,2017-10-22,Sun,MLS,Regular Season,Home,L 2–3,Montreal Impact,New England,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,ea42e480,L,2017,False
+182,2017-03-04,Sat,MLS,Regular Season,Away,L 0–1,New England,Colorado Rapids,Y*,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,aa133046,L,2017,False
+183,2017-03-18,Sat,MLS,Regular Season,Away,L 1–2,New England,FC Dallas,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,aa133046,L,2017,False
+184,2017-03-25,Sat,MLS,Regular Season,Home,W 5–2,New England,Minnesota Utd,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,aa133046,W,2017,False
+185,2017-04-02,Sun,MLS,Regular Season,Away,D 1–1,New England,Portland Timbers,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,aa133046,D,2017,False
+186,2017-04-08,Sat,MLS,Regular Season,Home,W 2–0,New England,Houston Dynamo,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,aa133046,W,2017,False
+187,2017-04-15,Sat,MLS,Regular Season,Away,L 0–3,New England,Chicago Fire,Y,GK,90,3,3,0,0.0,0,0,0,0,0,Match Report,aa133046,L,2017,False
+188,2017-04-19,Wed,MLS,Regular Season,Home,D 0–0,New England,San Jose,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,aa133046,D,2017,False
+189,2017-04-22,Sat,MLS,Regular Season,Home,D 2–2,New England,D.C. United,Y,GK,90,6,2,3,66.7,0,0,0,0,0,Match Report,aa133046,D,2017,False
+190,2017-04-29,Sat,MLS,Regular Season,Away,D 3–3,New England,Seattle,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,aa133046,D,2017,False
+191,2017-05-06,Sat,MLS,Regular Season,Away,L 0–2,New England,Columbus Crew,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,aa133046,L,2017,False
+192,2017-05-13,Sat,MLS,Regular Season,Home,W 4–0,New England,Real Salt Lake,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,aa133046,W,2017,False
+193,2017-05-21,Sun,MLS,Regular Season,Home,W 2–1,New England,Columbus Crew,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,aa133046,W,2017,False
+194,2017-05-27,Sat,MLS,Regular Season,Away,L 1–2,New England,NY Red Bulls,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,aa133046,L,2017,False
+195,2017-06-03,Sat,MLS,Regular Season,Home,W 3–0,New England,Toronto FC,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,aa133046,W,2017,False
+196,2017-06-17,Sat,MLS,Regular Season,Home,L 1–2,New England,Chicago Fire,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,aa133046,L,2017,False
+197,2017-06-23,Fri,MLS,Regular Season,Away,L 0–2,New England,Toronto FC,Y,GK,90,4,2,1,50.0,0,0,0,0,0,Match Report,aa133046,L,2017,False
+198,2017-07-02,Sun,MLS,Regular Season,Away,L 0–3,New England,Philadelphia,Y,GK,90,6,3,3,66.7,0,1,1,0,0,Match Report,aa133046,L,2017,False
+199,2017-07-05,Wed,MLS,Regular Season,Home,L 2–3,New England,NY Red Bulls,Y,GK,90,4,3,1,50.0,0,1,1,0,0,Match Report,aa133046,L,2017,False
+200,2017-07-29,Sat,MLS,Regular Season,Home,W 3–0,New England,Philadelphia,Y,GK,90,5,0,4,100.0,1,0,0,0,0,Match Report,aa133046,W,2017,False
+201,2017-08-05,Sat,MLS,Regular Season,Away,L 1–4,New England,Chicago Fire,Y,GK,90,5,4,1,20.0,0,0,0,0,0,Match Report,aa133046,L,2017,False
+202,2017-08-12,Sat,MLS,Regular Season,Home,W 1–0,New England,Vancouver,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,aa133046,W,2017,False
+203,2017-08-20,Sun,MLS,Regular Season,Away,L 1–2,New England,NYCFC,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,aa133046,L,2017,False
+204,2017-08-26,Sat,MLS,Regular Season,Away,L 0–1,New England,D.C. United,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,aa133046,L,2017,False
+205,2017-09-02,Sat,MLS,Regular Season,Home,W 4–0,New England,Orlando City,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,aa133046,W,2017,False
+206,2017-09-09,Sat,MLS,Regular Season,Home,W 1–0,New England,Montreal Impact,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,aa133046,W,2017,False
+207,2017-09-13,Wed,MLS,Regular Season,Away,L 0–7,New England,Atlanta Utd,Y,GK,90,10,7,3,50.0,0,2,2,0,0,Match Report,aa133046,L,2017,False
+208,2017-09-23,Sat,MLS,Regular Season,Home,W 2–1,New England,Toronto FC,Y,GK,90,2,1,2,50.0,0,0,0,0,0,Match Report,aa133046,W,2017,False
+209,2017-09-27,Wed,MLS,Regular Season,Away,L 1–6,New England,Orlando City,Y,GK,90,11,6,5,45.5,0,0,0,0,0,Match Report,aa133046,L,2017,False
+210,2017-03-04,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Seattle,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+211,2017-03-11,Sat,MLS,Regular Season,Home,W 3–1,Houston Dynamo,Columbus Crew,Y,GK,90,5,1,3,80.0,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+212,2017-03-18,Sat,MLS,Regular Season,Away,L 2–4,Houston Dynamo,Portland Timbers,Y,GK,90,6,4,2,50.0,0,1,1,0,0,Match Report,8a37dd84,L,2017,False
+213,2017-04-01,Sat,MLS,Regular Season,Home,W 4–1,Houston Dynamo,NY Red Bulls,Y,GK,90,4,1,4,75.0,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+214,2017-04-08,Sat,MLS,Regular Season,Away,L 0–2,Houston Dynamo,New England,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,8a37dd84,L,2017,False
+215,2017-05-28,Sun,MLS,Regular Season,Away,D 0–0,Houston Dynamo,FC Dallas,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,8a37dd84,D,2017,False
+216,2017-05-31,Wed,MLS,Regular Season,Home,W 5–1,Houston Dynamo,Real Salt Lake,Y,GK,90,9,1,8,88.9,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+217,2017-06-04,Sun,MLS,Regular Season,Away,L 0–1,Houston Dynamo,Seattle,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,8a37dd84,L,2017,False
+218,2017-06-17,Sat,MLS,Regular Season,Away,D 2–2,Houston Dynamo,LA Galaxy,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,8a37dd84,D,2017,False
+219,2017-06-23,Fri,MLS,Regular Season,Home,D 1–1,Houston Dynamo,FC Dallas,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,8a37dd84,D,2017,False
+220,2017-07-05,Wed,MLS,Regular Season,Home,W 3–1,Houston Dynamo,Montreal Impact,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+221,2017-07-19,Wed,MLS,Regular Season,Away,D 0–0,Houston Dynamo,Minnesota Utd,Y,GK,90,3,0,2,100.0,1,0,0,0,0,Match Report,8a37dd84,D,2017,False
+222,2017-07-22,Sat,MLS,Regular Season,Away,W 3–1,Houston Dynamo,D.C. United,Y,GK,90,5,1,3,80.0,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+223,2017-07-29,Sat,MLS,Regular Season,Home,D 2–2,Houston Dynamo,Portland Timbers,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,8a37dd84,D,2017,False
+224,2017-08-05,Sat,MLS,Regular Season,Away,D 0–0,Houston Dynamo,Real Salt Lake,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,8a37dd84,D,2017,False
+225,2017-08-12,Sat,MLS,Regular Season,Home,W 3–0,Houston Dynamo,San Jose,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,8a37dd84,W,2017,False
+226,2017-08-19,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Vancouver,Y,GK,90,4,2,2,75.0,0,1,1,0,0,Match Report,8a37dd84,L,2017,False
+227,2017-08-23,Wed,MLS,Regular Season,Away,D 3–3,Houston Dynamo,FC Dallas,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report,8a37dd84,D,2017,False
+228,2017-09-09,Sat,MLS,Regular Season,Home,L 0–1,Houston Dynamo,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,8a37dd84,L,2017,False
+229,2017-09-16,Sat,MLS,Regular Season,Away,L 0–1,Houston Dynamo,San Jose,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,8a37dd84,L,2017,False
+230,2017-09-23,Sat,MLS,Regular Season,Away,D 1–1,Houston Dynamo,NYCFC,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report,8a37dd84,D,2017,False
+231,2017-09-27,Wed,MLS,Regular Season,Home,D 3–3,Houston Dynamo,LA Galaxy,Y,GK,90,4,3,2,25.0,0,0,0,0,0,Match Report,8a37dd84,D,2017,False
+232,2017-09-30,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+233,2017-10-11,Wed,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Sporting KC,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,8a37dd84,W,2017,False
+234,2017-10-15,Sun,MLS,Regular Season,Away,D 0–0,Houston Dynamo,Sporting KC,Y,GK,90,7,0,7,100.0,1,0,0,0,0,Match Report,8a37dd84,D,2017,False
+235,2017-10-22,Sun,MLS,Regular Season,Home,W 3–0,Houston Dynamo,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,8a37dd84,W,2017,False
+236,2017-10-26,Thu,MLS,Knockout round,Home,W 1–0,Houston Dynamo,Sporting KC,Y,GK,120,6,0,6,100.0,1,0,0,0,0,Match Report,8a37dd84,W,2017,False
+237,2017-10-30,Mon,MLS,Conference Semifinals,Home,D 0–0,Houston Dynamo,Portland Timbers,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,8a37dd84,D,2017,False
+238,2017-03-12,Sun,MLS,Regular Season,Home,L 0–1,LA Galaxy,Portland Timbers,Y,GK,90,6,1,4,83.3,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+239,2017-03-18,Sat,MLS,Regular Season,Away,W 2–1,LA Galaxy,Real Salt Lake,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,0d5c0218,W,2017,False
+240,2017-04-01,Sat,MLS,Regular Season,Away,L 2–4,LA Galaxy,Vancouver,Y,GK,90,10,4,5,60.0,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+241,2017-04-07,Fri,MLS,Regular Season,Home,W 2–0,LA Galaxy,Montreal Impact,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,0d5c0218,W,2017,False
+242,2017-04-15,Sat,MLS,Regular Season,Away,L 1–2,LA Galaxy,Orlando City,Y,GK,90,8,2,5,75.0,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+243,2017-06-17,Sat,MLS,Regular Season,Home,D 2–2,LA Galaxy,Houston Dynamo,Y*,GK,90,5,2,2,60.0,0,0,0,0,0,Match Report,0d5c0218,D,2017,False
+244,2017-06-21,Wed,MLS,Regular Season,Away,W 3–1,LA Galaxy,Colorado Rapids,Y*,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,0d5c0218,W,2017,False
+245,2017-06-24,Sat,MLS,Regular Season,Home,L 1–2,LA Galaxy,Sporting KC,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+246,2017-07-01,Sat,MLS,Regular Season,Away,L 1–2,LA Galaxy,San Jose,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+247,2017-07-04,Tue,MLS,Regular Season,Home,L 2–6,LA Galaxy,Real Salt Lake,Y,GK,90,12,6,6,50.0,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+248,2017-09-24,Sun,MLS,Regular Season,Away,L 1–2,LA Galaxy,Sporting KC,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+249,2017-09-27,Wed,MLS,Regular Season,Away,D 3–3,LA Galaxy,Houston Dynamo,Y,GK,90,5,3,2,60.0,0,1,1,0,0,Match Report,0d5c0218,D,2017,False
+250,2017-09-30,Sat,MLS,Regular Season,Home,D 1–1,LA Galaxy,Real Salt Lake,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report,0d5c0218,D,2017,False
+251,2017-10-15,Sun,MLS,Regular Season,Home,W 3–0,LA Galaxy,Minnesota Utd,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,0d5c0218,W,2017,False
+252,2017-10-22,Sun,MLS,Regular Season,Away,L 1–5,LA Galaxy,FC Dallas,Y,GK,70,7,4,3,42.9,0,0,0,0,0,Match Report,0d5c0218,L,2017,False
+253,2017-10-07,Sat,MLS,Regular Season,Away,D 1–1,Sporting KC,Minnesota Utd,N,,32,2,1,1,50.0,0,0,0,0,0,Match Report,35f5281d,D,2017,False
+254,2017-10-11,Wed,MLS,Regular Season,Away,L 1–2,Sporting KC,Houston Dynamo,Y,GK,90,4,2,3,50.0,0,0,0,0,0,Match Report,35f5281d,L,2017,False
+255,2017-10-15,Sun,MLS,Regular Season,Home,D 0–0,Sporting KC,Houston Dynamo,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,35f5281d,D,2017,False
+256,2017-10-22,Sun,MLS,Regular Season,Away,L 1–2,Sporting KC,Real Salt Lake,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,35f5281d,L,2017,False
+257,2017-10-26,Thu,MLS,Knockout round,Away,L 0–1,Sporting KC,Houston Dynamo,Y,GK,120,5,1,4,80.0,0,0,0,0,0,Match Report,35f5281d,L,2017,False
+258,2017-10-22,Sun,MLS,Regular Season,Away,L 1–6,Orlando City,Philadelphia,Y,GK,90,7,6,1,14.3,0,0,0,0,0,Match Report,10f6f942,L,2017,False
+259,2017-03-04,Sat,MLS,Regular Season,Away,L 1–2,Seattle,Houston Dynamo,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,1d0a0f3e,L,2017,False
+260,2017-03-11,Sat,MLS,Regular Season,Away,D 2–2,Seattle,Montreal Impact,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+261,2017-03-19,Sun,MLS,Regular Season,Home,W 3–1,Seattle,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+262,2017-03-31,Fri,MLS,Regular Season,Home,D 0–0,Seattle,Atlanta Utd,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+263,2017-04-08,Sat,MLS,Regular Season,Away,D 1–1,Seattle,San Jose,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+264,2017-04-14,Fri,MLS,Regular Season,Away,L 1–2,Seattle,Vancouver,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,1d0a0f3e,L,2017,False
+265,2017-04-23,Sun,MLS,Regular Season,Away,W 3–0,Seattle,LA Galaxy,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+266,2017-04-29,Sat,MLS,Regular Season,Home,D 3–3,Seattle,New England,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+267,2017-05-06,Sat,MLS,Regular Season,Home,L 0–1,Seattle,Toronto FC,Y,GK,90,5,1,4,100.0,0,1,1,0,0,Match Report,1d0a0f3e,L,2017,False
+268,2017-05-13,Sat,MLS,Regular Season,Away,L 1–4,Seattle,Chicago Fire,Y,GK,90,6,4,2,50.0,0,1,1,0,0,Match Report,1d0a0f3e,L,2017,False
+269,2017-05-17,Wed,MLS,Regular Season,Away,L 0–3,Seattle,Sporting KC,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,1d0a0f3e,L,2017,False
+270,2017-05-20,Sat,MLS,Regular Season,Home,W 1–0,Seattle,Real Salt Lake,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+271,2017-05-27,Sat,MLS,Regular Season,Home,W 1–0,Seattle,Portland Timbers,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+272,2017-05-31,Wed,MLS,Regular Season,Away,L 0–3,Seattle,Columbus Crew,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,1d0a0f3e,L,2017,False
+273,2017-06-04,Sun,MLS,Regular Season,Home,W 1–0,Seattle,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+274,2017-06-17,Sat,MLS,Regular Season,Away,L 1–2,Seattle,NYCFC,Y,GK,90,4,2,2,75.0,0,1,1,0,0,Match Report,1d0a0f3e,L,2017,False
+275,2017-06-21,Wed,MLS,Regular Season,Home,D 1–1,Seattle,Orlando City,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+276,2017-06-25,Sun,MLS,Regular Season,Away,D 2–2,Seattle,Portland Timbers,Y,GK,90,3,2,1,66.7,0,1,1,0,0,Match Report,1d0a0f3e,D,2017,False
+277,2017-07-04,Tue,MLS,Regular Season,Away,W 3–1,Seattle,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+278,2017-07-23,Sun,MLS,Regular Season,Home,W 3–0,Seattle,San Jose,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+279,2017-07-29,Sat,MLS,Regular Season,Away,D 0–0,Seattle,LA Galaxy,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+280,2017-08-05,Sat,MLS,Regular Season,Away,W 4–0,Seattle,Minnesota Utd,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+281,2017-08-12,Sat,MLS,Regular Season,Home,W 1–0,Seattle,Sporting KC,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+282,2017-08-20,Sun,MLS,Regular Season,Home,W 2–1,Seattle,Minnesota Utd,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+283,2017-08-23,Wed,MLS,Regular Season,Away,D 1–1,Seattle,Vancouver,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+284,2017-08-27,Sun,MLS,Regular Season,Home,D 1–1,Seattle,Portland Timbers,Y,GK,90,3,1,2,100.0,0,1,1,0,0,Match Report,1d0a0f3e,D,2017,False
+285,2017-09-10,Sun,MLS,Regular Season,Home,D 1–1,Seattle,LA Galaxy,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+286,2017-09-16,Sat,MLS,Regular Season,Away,D 0–0,Seattle,FC Dallas,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+287,2017-09-23,Sat,MLS,Regular Season,Away,L 0–2,Seattle,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,1d0a0f3e,L,2017,False
+288,2017-09-27,Wed,MLS,Regular Season,Home,W 3–0,Seattle,Vancouver,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+289,2017-10-01,Sun,MLS,Regular Season,Away,L 0–2,Seattle,Philadelphia,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report,1d0a0f3e,L,2017,False
+290,2017-10-15,Sun,MLS,Regular Season,Home,W 4–0,Seattle,FC Dallas,Y,GK,90,2,0,1,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+291,2017-10-22,Sun,MLS,Regular Season,Home,W 3–0,Seattle,Colorado Rapids,Y,GK,90,2,0,2,100.0,1,1,0,0,1,Match Report,1d0a0f3e,W,2017,False
+292,2017-10-29,Sun,MLS,Conference Semifinals,Away,D 0–0,Seattle,Vancouver,Y,GK,90,1,0,0,100.0,1,0,0,0,0,Match Report,1d0a0f3e,D,2017,False
+293,2017-11-02,Thu,MLS,Conference Semifinals,Home,W 2–0,Seattle,Vancouver,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+294,2017-11-30,Thu,MLS,Conference Finals,Home,W 3–0,Seattle,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,1d0a0f3e,W,2017,False
+295,2017-12-09,Sat,MLS,MLS Cup 2017,Away,L 0–2,Seattle,Toronto FC,Y,GK,90,11,2,9,81.8,0,0,0,0,0,Match Report,1d0a0f3e,L,2017,False
+296,2017-03-03,Fri,MLS,Regular Season,Home,W 5–1,Portland Timbers,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,31539d1e,W,2017,False
+297,2017-03-12,Sun,MLS,Regular Season,Away,W 1–0,Portland Timbers,LA Galaxy,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,31539d1e,W,2017,False
+298,2017-03-18,Sat,MLS,Regular Season,Home,W 4–2,Portland Timbers,Houston Dynamo,Y,GK,90,6,2,4,83.3,0,1,1,0,0,Match Report,31539d1e,W,2017,False
+299,2017-03-25,Sat,MLS,Regular Season,Away,L 2–3,Portland Timbers,Columbus Crew,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,31539d1e,L,2017,False
+300,2017-04-02,Sun,MLS,Regular Season,Home,D 1–1,Portland Timbers,New England,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,31539d1e,D,2017,False
+301,2017-04-08,Sat,MLS,Regular Season,Away,W 3–1,Portland Timbers,Philadelphia,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,31539d1e,W,2017,False
+302,2017-04-15,Sat,MLS,Regular Season,Home,L 0–1,Portland Timbers,Sporting KC,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,31539d1e,L,2017,False
+303,2017-05-14,Sun,MLS,Regular Season,Home,D 1–1,Portland Timbers,Atlanta Utd,Y,GK,90,3,1,3,66.7,0,0,0,0,0,Match Report,31539d1e,D,2017,False
+304,2017-05-20,Sat,MLS,Regular Season,Away,L 1–4,Portland Timbers,Montreal Impact,Y,GK,90,7,4,3,57.1,0,1,1,0,0,Match Report,31539d1e,L,2017,False
+305,2017-05-27,Sat,MLS,Regular Season,Away,L 0–1,Portland Timbers,Seattle,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,31539d1e,L,2017,False
+306,2017-06-02,Fri,MLS,Regular Season,Home,W 2–0,Portland Timbers,San Jose,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,31539d1e,W,2017,False
+307,2017-06-10,Sat,MLS,Regular Season,Home,W 2–0,Portland Timbers,FC Dallas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,31539d1e,W,2017,False
+308,2017-06-17,Sat,MLS,Regular Season,Away,L 1–2,Portland Timbers,Colorado Rapids,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,31539d1e,L,2017,False
+309,2017-06-25,Sun,MLS,Regular Season,Home,D 2–2,Portland Timbers,Seattle,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,31539d1e,D,2017,False
+310,2017-07-01,Sat,MLS,Regular Season,Away,D 1–1,Portland Timbers,Sporting KC,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,31539d1e,D,2017,False
+311,2017-07-05,Wed,MLS,Regular Season,Home,D 2–2,Portland Timbers,Chicago Fire,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,31539d1e,D,2017,False
+312,2017-07-19,Wed,MLS,Regular Season,Home,L 1–4,Portland Timbers,Real Salt Lake,Y,GK,90,10,4,6,70.0,0,1,1,0,0,Match Report,31539d1e,L,2017,False
+313,2017-07-23,Sun,MLS,Regular Season,Away,W 2–1,Portland Timbers,Vancouver,Y,GK,90,6,1,4,83.3,0,0,0,0,0,Match Report,31539d1e,W,2017,False
+314,2017-07-29,Sat,MLS,Regular Season,Away,D 2–2,Portland Timbers,Houston Dynamo,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,31539d1e,D,2017,False
+315,2017-08-06,Sun,MLS,Regular Season,Home,W 3–1,Portland Timbers,LA Galaxy,Y,GK,90,1,1,1,0.0,0,0,0,0,0,Match Report,31539d1e,W,2017,False
+316,2017-08-12,Sat,MLS,Regular Season,Away,L 1–4,Portland Timbers,Toronto FC,Y,GK,17,1,0,1,100.0,0,0,0,0,0,Match Report,31539d1e,L,2017,False
+317,2017-03-11,Sat,MLS,Regular Season,Away,D 0–0,FC Dallas,Sporting KC,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,203a7651,D,2017,False
+318,2017-04-08,Sat,MLS,Regular Season,Home,W 2–0,FC Dallas,Minnesota Utd,Y,GK,90,6,0,5,100.0,1,0,0,0,0,Match Report,203a7651,W,2017,False
+319,2017-04-14,Fri,MLS,Regular Season,Away,D 1–1,FC Dallas,San Jose,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,203a7651,D,2017,False
+320,2017-04-22,Sat,MLS,Regular Season,Home,W 1–0,FC Dallas,Sporting KC,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,203a7651,W,2017,False
+321,2017-04-29,Sat,MLS,Regular Season,Home,D 2–2,FC Dallas,Portland Timbers,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,203a7651,D,2017,False
+322,2017-05-06,Sat,MLS,Regular Season,Away,W 3–0,FC Dallas,Real Salt Lake,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report,203a7651,W,2017,False
+323,2017-05-14,Sun,MLS,Regular Season,Home,D 1–1,FC Dallas,NYCFC,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,203a7651,D,2017,False
+324,2017-05-20,Sat,MLS,Regular Season,Home,L 0–1,FC Dallas,San Jose,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,203a7651,L,2017,False
+325,2017-05-28,Sun,MLS,Regular Season,Home,D 0–0,FC Dallas,Houston Dynamo,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,203a7651,D,2017,False
+326,2017-06-03,Sat,MLS,Regular Season,Home,W 6–2,FC Dallas,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,203a7651,W,2017,False
+327,2017-06-10,Sat,MLS,Regular Season,Away,L 0–2,FC Dallas,Portland Timbers,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,203a7651,L,2017,False
+328,2017-06-17,Sat,MLS,Regular Season,Away,D 1–1,FC Dallas,Vancouver,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,203a7651,D,2017,False
+329,2017-06-23,Fri,MLS,Regular Season,Away,D 1–1,FC Dallas,Houston Dynamo,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,203a7651,D,2017,False
+330,2017-07-01,Sat,MLS,Regular Season,Home,W 3–1,FC Dallas,Toronto FC,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,203a7651,W,2017,False
+331,2017-07-04,Tue,MLS,Regular Season,Home,W 4–2,FC Dallas,D.C. United,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,203a7651,W,2017,False
+332,2017-07-29,Sat,MLS,Regular Season,Home,L 0–4,FC Dallas,Vancouver,Y,GK,90,6,4,2,50.0,0,1,1,0,0,Match Report,203a7651,L,2017,False
+333,2017-08-12,Sat,MLS,Regular Season,Home,D 0–0,FC Dallas,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,203a7651,D,2017,False
+334,2017-08-19,Sat,MLS,Regular Season,Away,L 0–2,FC Dallas,Sporting KC,Y,GK,90,7,2,4,71.4,0,0,0,0,0,Match Report,203a7651,L,2017,False
+335,2017-08-23,Wed,MLS,Regular Season,Home,D 3–3,FC Dallas,Houston Dynamo,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,203a7651,D,2017,False
+336,2017-08-26,Sat,MLS,Regular Season,Away,L 1–2,FC Dallas,Columbus Crew,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,203a7651,L,2017,False
+337,2017-09-02,Sat,MLS,Regular Season,Home,D 2–2,FC Dallas,NY Red Bulls,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,203a7651,D,2017,False
+338,2017-09-10,Sun,MLS,Regular Season,Away,L 0–3,FC Dallas,Atlanta Utd,Y,GK,90,12,3,8,75.0,0,0,0,0,0,Match Report,203a7651,L,2017,False
+339,2017-09-16,Sat,MLS,Regular Season,Home,D 0–0,FC Dallas,Seattle,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,203a7651,D,2017,False
+340,2017-09-23,Sat,MLS,Regular Season,Away,L 1–4,FC Dallas,Minnesota Utd,Y,GK,90,5,4,1,20.0,0,0,0,0,0,Match Report,203a7651,L,2017,False
+341,2017-09-27,Wed,MLS,Regular Season,Home,W 2–0,FC Dallas,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,203a7651,W,2017,False
+342,2017-09-30,Sat,MLS,Regular Season,Away,D 0–0,FC Dallas,Orlando City,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,203a7651,D,2017,False
+343,2017-10-07,Sat,MLS,Regular Season,Away,D 1–1,FC Dallas,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,203a7651,D,2017,False
+344,2017-10-15,Sun,MLS,Regular Season,Away,L 0–4,FC Dallas,Seattle,Y,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report,203a7651,L,2017,False
+345,2017-10-22,Sun,MLS,Regular Season,Home,W 5–1,FC Dallas,LA Galaxy,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,203a7651,W,2017,False
+346,2017-07-21,Fri,MLS,Regular Season,Away,W 1–0,Atlanta Utd,Orlando City,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,d899e3bf,W,2017,False
+347,2017-07-29,Sat,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,d899e3bf,D,2017,False
+348,2017-08-06,Sun,MLS,Regular Season,Away,D 1–1,Atlanta Utd,Sporting KC,Y,GK,90,3,1,2,100.0,0,1,1,0,0,Match Report,d899e3bf,D,2017,False
+349,2017-08-23,Wed,MLS,Regular Season,Away,L 0–1,Atlanta Utd,D.C. United,Y,GK,90,5,1,5,80.0,0,0,0,0,0,Match Report,d899e3bf,L,2017,False
+350,2017-08-26,Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Philadelphia,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,d899e3bf,D,2017,False
+351,2017-09-10,Sun,MLS,Regular Season,Home,W 3–0,Atlanta Utd,FC Dallas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,d899e3bf,W,2017,False
+352,2017-09-13,Wed,MLS,Regular Season,Home,W 7–0,Atlanta Utd,New England,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report,d899e3bf,W,2017,False
+353,2017-09-16,Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,Orlando City,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,d899e3bf,D,2017,False
+354,2017-09-20,Wed,MLS,Regular Season,Home,W 4–0,Atlanta Utd,LA Galaxy,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,d899e3bf,W,2017,False
+355,2017-09-24,Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Montreal Impact,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,d899e3bf,W,2017,False
+356,2017-09-27,Wed,MLS,Regular Season,Home,W 3–0,Atlanta Utd,Philadelphia,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,d899e3bf,W,2017,False
+357,2017-09-30,Sat,MLS,Regular Season,Away,D 0–0,Atlanta Utd,New England,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,d899e3bf,D,2017,False
+358,2017-10-15,Sun,MLS,Regular Season,Away,D 0–0,Atlanta Utd,NY Red Bulls,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,d899e3bf,D,2017,False
+359,2017-10-22,Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,Toronto FC,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,d899e3bf,D,2017,False
+360,2017-10-26,Thu,MLS,Knockout round,Home,D 0 (1)–0 (3),Atlanta Utd,Columbus Crew,Y,GK,120,4,0,4,100.0,1,0,0,0,0,Match Report,d899e3bf,D,2017,False
+361,2017-03-04,Sat,MLS,Regular Season,Home,D 0–0,D.C. United,Sporting KC,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,012fc030,D,2017,False
+362,2017-03-12,Sun,MLS,Regular Season,Away,L 0–4,D.C. United,NYCFC,Y,GK,90,5,4,1,20.0,0,0,0,0,0,Match Report,012fc030,L,2017,False
+363,2017-03-18,Sat,MLS,Regular Season,Home,L 0–2,D.C. United,Columbus Crew,Y,GK,90,6,2,4,100.0,0,2,2,0,0,Match Report,012fc030,L,2017,False
+364,2017-04-01,Sat,MLS,Regular Season,Home,W 2–1,D.C. United,Philadelphia,Y,GK,90,9,1,7,88.9,0,0,0,0,0,Match Report,012fc030,W,2017,False
+365,2017-04-08,Sat,MLS,Regular Season,Home,W 2–1,D.C. United,NYCFC,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,012fc030,W,2017,False
+366,2017-04-15,Sat,MLS,Regular Season,Away,L 0–2,D.C. United,NY Red Bulls,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,012fc030,L,2017,False
+367,2017-04-22,Sat,MLS,Regular Season,Away,D 2–2,D.C. United,New England,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report,012fc030,D,2017,False
+368,2017-04-30,Sun,MLS,Regular Season,Away,W 3–1,D.C. United,Atlanta Utd,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report,012fc030,W,2017,False
+369,2017-05-13,Sat,MLS,Regular Season,Home,L 0–4,D.C. United,Philadelphia,Y,GK,90,9,4,5,55.6,0,0,0,0,0,Match Report,012fc030,L,2017,False
+370,2017-05-20,Sat,MLS,Regular Season,Home,L 0–1,D.C. United,Chicago Fire,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report,012fc030,L,2017,False
+371,2017-05-27,Sat,MLS,Regular Season,Away,W 1–0,D.C. United,Vancouver,Y,GK,90,4,0,4,100.0,1,1,0,0,1,Match Report,012fc030,W,2017,False
+372,2017-05-31,Wed,MLS,Regular Season,Away,L 0–2,D.C. United,Orlando City,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,012fc030,L,2017,False
+373,2017-06-03,Sat,MLS,Regular Season,Home,D 0–0,D.C. United,LA Galaxy,Y*,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report,012fc030,D,2017,False
+374,2017-06-17,Sat,MLS,Regular Season,Away,L 0–2,D.C. United,Toronto FC,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report,012fc030,L,2017,False
+375,2017-06-21,Wed,MLS,Regular Season,Home,W 2–1,D.C. United,Atlanta Utd,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,012fc030,W,2017,False
+376,2017-06-24,Sat,MLS,Regular Season,Away,L 0–1,D.C. United,Philadelphia,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,012fc030,L,2017,False
+377,2017-07-29,Sat,MLS,Regular Season,Away,L 0–4,D.C. United,Minnesota Utd,Y,GK,90,4,4,1,0.0,0,0,0,0,0,Match Report,012fc030,L,2017,False
+378,2017-08-05,Sat,MLS,Regular Season,Home,D 1–1,D.C. United,Toronto FC,Y,GK,90,2,1,2,50.0,0,0,0,0,0,Match Report,012fc030,D,2017,False
+379,2017-08-13,Sun,MLS,Regular Season,Home,L 0–1,D.C. United,Real Salt Lake,Y,GK,90,5,1,3,80.0,0,0,0,0,0,Match Report,012fc030,L,2017,False
+380,2017-08-19,Sat,MLS,Regular Season,Away,W 1–0,D.C. United,Colorado Rapids,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,012fc030,W,2017,False
+381,2017-08-23,Wed,MLS,Regular Season,Home,W 1–0,D.C. United,Atlanta Utd,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,012fc030,W,2017,False
+382,2017-08-26,Sat,MLS,Regular Season,Home,W 1–0,D.C. United,New England,Y*,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,012fc030,W,2017,False
+383,2017-09-09,Sat,MLS,Regular Season,Home,L 1–2,D.C. United,Orlando City,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,012fc030,L,2017,False
+384,2017-09-16,Sat,MLS,Regular Season,Away,L 0–3,D.C. United,Chicago Fire,Y,GK,90,8,3,6,75.0,0,1,1,0,0,Match Report,012fc030,L,2017,False
+385,2017-03-11,Sat,MLS,Regular Season,Away,L 0–1,Colorado Rapids,NY Red Bulls,Y,GK,90,7,1,7,85.7,0,0,0,0,0,Match Report,c444465e,L,2017,False
+386,2017-03-18,Sat,MLS,Regular Season,Home,D 2–2,Colorado Rapids,Minnesota Utd,Y,GK,90,2,2,0,50.0,0,1,1,0,0,Match Report,c444465e,D,2017,False
+387,2017-04-09,Sun,MLS,Regular Season,Away,L 1–3,Colorado Rapids,Sporting KC,Y*,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,c444465e,L,2017,False
+388,2017-05-05,Fri,MLS,Regular Season,Home,L 0–1,Colorado Rapids,Vancouver,Y*,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,c444465e,L,2017,False
+389,2017-05-13,Sat,MLS,Regular Season,Home,W 3–0,Colorado Rapids,San Jose,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,c444465e,W,2017,False
+390,2017-05-17,Wed,MLS,Regular Season,Away,L 0–3,Colorado Rapids,Chicago Fire,Y*,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,c444465e,L,2017,False
+391,2017-05-20,Sat,MLS,Regular Season,Away,L 1–2,Colorado Rapids,Philadelphia,Y*,GK,90,5,2,3,80.0,0,1,1,0,0,Match Report,c444465e,L,2017,False
+392,2017-05-27,Sat,MLS,Regular Season,Home,W 1–0,Colorado Rapids,Sporting KC,Y*,GK,90,2,0,1,100.0,1,0,0,0,0,Match Report,c444465e,W,2017,False
+393,2017-06-17,Sat,MLS,Regular Season,Home,W 2–1,Colorado Rapids,Portland Timbers,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,c444465e,W,2017,False
+394,2017-06-21,Wed,MLS,Regular Season,Home,L 1–3,Colorado Rapids,LA Galaxy,Y*,GK,90,7,3,4,71.4,0,1,1,0,0,Match Report,c444465e,L,2017,False
+395,2017-06-24,Sat,MLS,Regular Season,Away,L 0–1,Colorado Rapids,Atlanta Utd,Y*,GK,90,9,1,7,88.9,0,0,0,0,0,Match Report,c444465e,L,2017,False
+396,2017-07-01,Sat,MLS,Regular Season,Home,W 3–1,Colorado Rapids,Houston Dynamo,Y*,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report,c444465e,W,2017,False
+397,2017-07-04,Tue,MLS,Regular Season,Home,L 1–3,Colorado Rapids,Seattle,Y*,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,c444465e,L,2017,False
+398,2017-08-05,Sat,MLS,Regular Season,Home,D 2–2,Colorado Rapids,Vancouver,Y*,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,c444465e,D,2017,False
+399,2017-08-12,Sat,MLS,Regular Season,Away,D 0–0,Colorado Rapids,FC Dallas,Y*,GK,90,8,0,6,100.0,1,0,0,0,0,Match Report,c444465e,D,2017,False
+400,2017-08-19,Sat,MLS,Regular Season,Home,L 0–1,Colorado Rapids,D.C. United,Y*,GK,90,6,1,6,83.3,0,0,0,0,0,Match Report,c444465e,L,2017,False
+401,2017-08-23,Wed,MLS,Regular Season,Away,L 1–2,Colorado Rapids,Portland Timbers,Y*,GK,90,3,2,1,33.3,0,1,0,0,1,Match Report,c444465e,L,2017,False
+402,2017-08-26,Sat,MLS,Regular Season,Away,L 1–4,Colorado Rapids,Real Salt Lake,Y*,GK,90,9,4,4,66.7,0,1,1,0,0,Match Report,c444465e,L,2017,False
+403,2017-09-09,Sat,MLS,Regular Season,Away,W 1–0,Colorado Rapids,Houston Dynamo,Y*,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,c444465e,W,2017,False
+404,2017-09-16,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,NYCFC,Y*,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c444465e,D,2017,False
+405,2017-09-23,Sat,MLS,Regular Season,Away,L 1–2,Colorado Rapids,Vancouver,Y*,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,c444465e,L,2017,False
+406,2017-09-27,Wed,MLS,Regular Season,Away,L 0–2,Colorado Rapids,FC Dallas,Y*,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,c444465e,L,2017,False
+407,2017-09-30,Sat,MLS,Regular Season,Home,W 2–1,Colorado Rapids,Montreal Impact,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,c444465e,W,2017,False
+408,2017-10-15,Sun,MLS,Regular Season,Home,W 1–0,Colorado Rapids,Real Salt Lake,Y*,GK,90,7,0,7,100.0,1,0,0,0,0,Match Report,c444465e,W,2017,False
+409,2017-10-22,Sun,MLS,Regular Season,Away,L 0–3,Colorado Rapids,Seattle,Y*,GK,90,6,3,3,66.7,0,1,1,0,0,Match Report,c444465e,L,2017,False
+410,2017-03-04,Sat,MLS,Regular Season,Away,D 0–0,Toronto FC,Real Salt Lake,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,c1205184,D,2017,False
+411,2017-03-11,Sat,MLS,Regular Season,Away,D 2–2,Toronto FC,Philadelphia,Y,GK,90,3,2,1,33.3,0,1,0,0,1,Match Report,c1205184,D,2017,False
+412,2017-03-31,Fri,MLS,Regular Season,Home,D 0–0,Toronto FC,Sporting KC,Y,GK,39,1,0,1,100.0,1,0,0,0,0,Match Report,c1205184,D,2017,False
+413,2017-05-06,Sat,MLS,Regular Season,Away,W 1–0,Toronto FC,Seattle,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,c1205184,W,2017,False
+414,2017-07-22,Sat,MLS,Regular Season,Home,D 1–1,Toronto FC,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,c1205184,D,2017,False
+415,2017-09-23,Sat,MLS,Regular Season,Away,L 1–2,Toronto FC,New England,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,c1205184,L,2017,False
+416,2017-06-29,Thu,MLS,Regular Season,Home,W 3–1,NYCFC,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,576ea36c,W,2017,False
+417,2017-07-05,Wed,MLS,Regular Season,Away,L 2–3,NYCFC,Vancouver,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,576ea36c,L,2017,False
+418,2017-03-05,Sun,MLS,Regular Season,Away,L 0–1,NYCFC,Orlando City,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,c164335e,L,2017,False
+419,2017-03-12,Sun,MLS,Regular Season,Home,W 4–0,NYCFC,D.C. United,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,c164335e,W,2017,False
+420,2017-03-18,Sat,MLS,Regular Season,Home,D 1–1,NYCFC,Montreal Impact,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c164335e,D,2017,False
+421,2017-04-01,Sat,MLS,Regular Season,Home,W 2–1,NYCFC,San Jose,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c164335e,W,2017,False
+422,2017-04-08,Sat,MLS,Regular Season,Away,L 1–2,NYCFC,D.C. United,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,c164335e,L,2017,False
+423,2017-04-14,Fri,MLS,Regular Season,Away,W 2–0,NYCFC,Philadelphia,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,c164335e,W,2017,False
+424,2017-04-23,Sun,MLS,Regular Season,Home,L 1–2,NYCFC,Orlando City,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,c164335e,L,2017,False
+425,2017-04-29,Sat,MLS,Regular Season,Away,W 3–2,NYCFC,Columbus Crew,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,c164335e,W,2017,False
+426,2017-05-07,Sun,MLS,Regular Season,Home,W 3–1,NYCFC,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,c164335e,W,2017,False
+427,2017-05-14,Sun,MLS,Regular Season,Away,D 1–1,NYCFC,FC Dallas,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c164335e,D,2017,False
+428,2017-05-17,Wed,MLS,Regular Season,Away,L 1–2,NYCFC,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,c164335e,L,2017,False
+429,2017-05-21,Sun,MLS,Regular Season,Away,W 3–0,NYCFC,Orlando City,Y,GK,90,2,0,2,100.0,1,1,0,0,1,Match Report,c164335e,W,2017,False
+430,2017-05-28,Sun,MLS,Regular Season,Away,L 1–3,NYCFC,Atlanta Utd,Y,GK,90,3,3,0,0.0,0,0,0,0,0,Match Report,c164335e,L,2017,False
+431,2017-05-31,Wed,MLS,Regular Season,Home,D 2–2,NYCFC,New England,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,c164335e,D,2017,False
+432,2017-06-03,Sat,MLS,Regular Season,Home,W 2–1,NYCFC,Philadelphia,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c164335e,W,2017,False
+433,2017-06-17,Sat,MLS,Regular Season,Home,W 2–1,NYCFC,Seattle,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,c164335e,W,2017,False
+434,2017-06-24,Sat,MLS,Regular Season,Away,W 2–0,NYCFC,NY Red Bulls,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,c164335e,W,2017,False
+435,2017-07-19,Wed,MLS,Regular Season,Home,D 2–2,NYCFC,Toronto FC,Y,GK,90,5,2,3,80.0,0,1,1,0,0,Match Report,c164335e,D,2017,False
+436,2017-07-22,Sat,MLS,Regular Season,Home,W 2–1,NYCFC,Chicago Fire,Y,GK,90,8,1,6,87.5,0,0,0,0,0,Match Report,c164335e,W,2017,False
+437,2017-07-30,Sun,MLS,Regular Season,Away,L 0–4,NYCFC,Toronto FC,Y,GK,90,6,4,2,50.0,0,1,1,0,0,Match Report,c164335e,L,2017,False
+438,2017-08-06,Sun,MLS,Regular Season,Home,W 3–2,NYCFC,NY Red Bulls,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report,c164335e,W,2017,False
+439,2017-08-12,Sat,MLS,Regular Season,Away,W 2–0,NYCFC,LA Galaxy,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,c164335e,W,2017,False
+440,2017-08-20,Sun,MLS,Regular Season,Home,W 2–1,NYCFC,New England,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c164335e,W,2017,False
+441,2017-08-25,Fri,MLS,Regular Season,Away,D 1–1,NYCFC,NY Red Bulls,Y,GK,90,4,1,3,100.0,0,1,1,0,0,Match Report,c164335e,D,2017,False
+442,2017-09-06,Wed,MLS,Regular Season,Home,W 1–0,NYCFC,Sporting KC,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,c164335e,W,2017,False
+443,2017-09-09,Sat,MLS,Regular Season,Home,L 0–1,NYCFC,Portland Timbers,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report,c164335e,L,2017,False
+444,2017-09-16,Sat,MLS,Regular Season,Away,D 1–1,NYCFC,Colorado Rapids,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,c164335e,D,2017,False
+445,2017-09-23,Sat,MLS,Regular Season,Home,D 1–1,NYCFC,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,c164335e,D,2017,False
+446,2017-09-27,Wed,MLS,Regular Season,Away,W 1–0,NYCFC,Montreal Impact,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,c164335e,W,2017,False
+447,2017-09-30,Sat,MLS,Regular Season,Away,D 1–1,NYCFC,Chicago Fire,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,c164335e,D,2017,False
+448,2017-10-15,Sun,MLS,Regular Season,Away,L 1–2,NYCFC,New England,Y,GK,90,12,2,9,83.3,0,0,0,0,0,Match Report,c164335e,L,2017,False
+449,2017-10-22,Sun,MLS,Regular Season,Home,D 2–2,NYCFC,Columbus Crew,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,c164335e,D,2017,False
+450,2017-10-31,Tue,MLS,Conference Semifinals,Away,L 1–4,NYCFC,Columbus Crew,Y,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report,c164335e,L,2017,False
+451,2017-11-05,Sun,MLS,Conference Semifinals,Home,W 2–0,NYCFC,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,c164335e,W,2017,False
+452,2017-03-05,Sun,MLS,Regular Season,Home,L 1–2,Atlanta Utd,NY Red Bulls,Y,GK,90,5,2,4,60.0,0,0,0,0,0,Match Report,4a8af93c,L,2017,False
+453,2017-03-12,Sun,MLS,Regular Season,Away,W 6–1,Atlanta Utd,Minnesota Utd,Y,GK,90,7,1,6,100.0,0,1,1,0,0,Match Report,4a8af93c,W,2017,False
+454,2017-03-18,Sat,MLS,Regular Season,Home,W 4–0,Atlanta Utd,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,4a8af93c,W,2017,False
+455,2017-03-31,Fri,MLS,Regular Season,Away,D 0–0,Atlanta Utd,Seattle,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,4a8af93c,D,2017,False
+456,2017-04-08,Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Toronto FC,Y,GK,90,9,2,7,77.8,0,0,0,0,0,Match Report,4a8af93c,D,2017,False
+457,2017-04-15,Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Montreal Impact,Y,GK,90,5,2,3,80.0,0,1,1,0,0,Match Report,4a8af93c,L,2017,False
+458,2017-04-22,Sat,MLS,Regular Season,Away,W 3–1,Atlanta Utd,Real Salt Lake,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,4a8af93c,W,2017,False
+459,2017-04-30,Sun,MLS,Regular Season,Home,L 1–3,Atlanta Utd,D.C. United,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report,4a8af93c,L,2017,False
+460,2017-05-07,Sun,MLS,Regular Season,Away,L 1–3,Atlanta Utd,NYCFC,Y,GK,90,11,3,5,72.7,0,0,0,0,0,Match Report,4a8af93c,L,2017,False
+461,2017-05-14,Sun,MLS,Regular Season,Away,D 1–1,Atlanta Utd,Portland Timbers,Y,GK,90,4,1,4,75.0,0,0,0,0,0,Match Report,4a8af93c,D,2017,False
+462,2017-05-20,Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Houston Dynamo,Y,GK,90,5,1,4,100.0,0,1,1,0,0,Match Report,4a8af93c,W,2017,False
+463,2017-05-28,Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,NYCFC,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,4a8af93c,W,2017,False
+464,2017-06-03,Sat,MLS,Regular Season,Away,L 1–3,Atlanta Utd,Vancouver,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,4a8af93c,L,2017,False
+465,2017-06-10,Sat,MLS,Regular Season,Away,L 0–2,Atlanta Utd,Chicago Fire,Y,GK,90,6,2,4,83.3,0,1,1,0,0,Match Report,4a8af93c,L,2017,False
+466,2017-06-17,Sat,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Columbus Crew,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,4a8af93c,W,2017,False
+467,2017-06-21,Wed,MLS,Regular Season,Away,L 1–2,Atlanta Utd,D.C. United,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,4a8af93c,L,2017,False
+468,2017-06-24,Sat,MLS,Regular Season,Home,W 1–0,Atlanta Utd,Colorado Rapids,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,4a8af93c,W,2017,False
+469,2017-07-01,Sat,MLS,Regular Season,Away,W 2–0,Atlanta Utd,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,4a8af93c,W,2017,False
+470,2017-06-03,Sat,MLS,Regular Season,Away,D 0–0,LA Galaxy,D.C. United,Y,GK,90,6,0,6,100.0,1,0,0,0,0,Match Report,063adc5e,D,2017,False
+471,2017-08-23,Wed,MLS,Regular Season,Away,L 0–2,LA Galaxy,Columbus Crew,Y,GK,90,7,2,5,71.4,0,1,0,1,0,Match Report,063adc5e,L,2017,False
+472,2017-08-27,Sun,MLS,Regular Season,Home,L 0–3,LA Galaxy,San Jose,Y,GK,90,11,3,8,72.7,0,0,0,0,0,Match Report,063adc5e,L,2017,False
+473,2017-09-02,Sat,MLS,Regular Season,Home,W 3–0,LA Galaxy,Colorado Rapids,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,063adc5e,W,2017,False
+474,2017-09-10,Sun,MLS,Regular Season,Away,D 1–1,LA Galaxy,Seattle,Y,GK,29,1,0,1,100.0,0,0,0,0,0,Match Report,063adc5e,D,2017,False
+475,2017-09-16,Sat,MLS,Regular Season,Home,L 0–4,LA Galaxy,Toronto FC,Y,GK,90,8,4,4,50.0,0,0,0,0,0,Match Report,063adc5e,L,2017,False
+476,2017-09-20,Wed,MLS,Regular Season,Away,L 0–4,LA Galaxy,Atlanta Utd,Y,GK,90,5,4,1,20.0,0,0,0,0,0,Match Report,063adc5e,L,2017,False
+477,2017-05-31,Wed,MLS,Regular Season,Away,D 2–2,New England,NYCFC,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,9903a3cb,D,2017,False
+478,2017-07-22,Sat,MLS,Regular Season,Home,W 4–3,New England,LA Galaxy,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,9903a3cb,W,2017,False
+479,2017-09-16,Sat,MLS,Regular Season,Away,L 1–3,New England,Sporting KC,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,9903a3cb,L,2017,False
+480,2017-09-30,Sat,MLS,Regular Season,Home,D 0–0,New England,Atlanta Utd,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,9903a3cb,D,2017,False
+481,2017-10-15,Sun,MLS,Regular Season,Home,W 2–1,New England,NYCFC,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,9903a3cb,W,2017,False
+482,2017-10-22,Sun,MLS,Regular Season,Away,W 3–2,New England,Montreal Impact,Y,GK,90,9,2,7,88.9,0,1,1,0,0,Match Report,9903a3cb,W,2017,False
+483,2017-05-06,Sat,MLS,Regular Season,Away,D 2–2,Chicago Fire,LA Galaxy,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,44a7dc84,D,2017,False
+484,2017-05-13,Sat,MLS,Regular Season,Home,W 4–1,Chicago Fire,Seattle,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,44a7dc84,W,2017,False
+485,2017-05-17,Wed,MLS,Regular Season,Home,W 3–0,Chicago Fire,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,44a7dc84,W,2017,False
+486,2017-05-20,Sat,MLS,Regular Season,Away,W 1–0,Chicago Fire,D.C. United,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,44a7dc84,W,2017,False
+487,2017-05-25,Thu,MLS,Regular Season,Home,W 2–1,Chicago Fire,FC Dallas,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,44a7dc84,W,2017,False
+488,2017-06-04,Sun,MLS,Regular Season,Away,D 0–0,Chicago Fire,Orlando City,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,44a7dc84,D,2017,False
+489,2017-06-10,Sat,MLS,Regular Season,Home,W 2–0,Chicago Fire,Atlanta Utd,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,44a7dc84,W,2017,False
+490,2017-06-17,Sat,MLS,Regular Season,Away,W 2–1,Chicago Fire,New England,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,44a7dc84,W,2017,False
+491,2017-06-24,Sat,MLS,Regular Season,Home,W 4–0,Chicago Fire,Orlando City,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report,44a7dc84,W,2017,False
+492,2017-07-01,Sat,MLS,Regular Season,Home,W 4–0,Chicago Fire,Vancouver,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,44a7dc84,W,2017,False
+493,2017-07-05,Wed,MLS,Regular Season,Away,D 2–2,Chicago Fire,Portland Timbers,Y,GK,90,9,2,7,88.9,0,1,1,0,0,Match Report,44a7dc84,D,2017,False
+494,2017-07-22,Sat,MLS,Regular Season,Away,L 1–2,Chicago Fire,NYCFC,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,44a7dc84,L,2017,False
+495,2017-07-29,Sat,MLS,Regular Season,Away,L 2–3,Chicago Fire,Sporting KC,Y,GK,90,9,3,6,66.7,0,0,0,0,0,Match Report,44a7dc84,L,2017,False
+496,2017-08-05,Sat,MLS,Regular Season,Home,W 4–1,Chicago Fire,New England,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,44a7dc84,W,2017,False
+497,2017-08-12,Sat,MLS,Regular Season,Away,L 1–3,Chicago Fire,Columbus Crew,Y,GK,90,4,3,1,50.0,0,1,1,0,0,Match Report,44a7dc84,L,2017,False
+498,2017-08-16,Wed,MLS,Regular Season,Away,L 0–3,Chicago Fire,Montreal Impact,Y,GK,90,5,3,2,60.0,0,1,1,0,0,Match Report,44a7dc84,L,2017,False
+499,2017-08-19,Sat,MLS,Regular Season,Home,L 1–3,Chicago Fire,Toronto FC,Y,GK,90,9,3,5,66.7,0,0,0,0,0,Match Report,44a7dc84,L,2017,False
+500,2017-08-26,Sat,MLS,Regular Season,Home,L 1–2,Chicago Fire,Minnesota Utd,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,44a7dc84,L,2017,False
+501,2017-09-02,Sat,MLS,Regular Season,Away,W 1–0,Chicago Fire,Montreal Impact,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,44a7dc84,W,2017,False
+502,2017-09-09,Sat,MLS,Regular Season,Home,D 1–1,Chicago Fire,NY Red Bulls,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,44a7dc84,D,2017,False
+503,2017-09-16,Sat,MLS,Regular Season,Home,W 3–0,Chicago Fire,D.C. United,Y,GK,90,5,0,4,100.0,1,0,0,0,0,Match Report,44a7dc84,W,2017,False
+504,2017-09-23,Sat,MLS,Regular Season,Away,L 1–3,Chicago Fire,Philadelphia,Y,GK,90,6,3,2,50.0,0,0,0,0,0,Match Report,44a7dc84,L,2017,False
+505,2017-09-30,Sat,MLS,Regular Season,Home,D 1–1,Chicago Fire,NYCFC,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,44a7dc84,D,2017,False
+506,2017-10-15,Sun,MLS,Regular Season,Home,W 3–2,Chicago Fire,Philadelphia,Y,GK,90,2,2,1,0.0,0,0,0,0,0,Match Report,44a7dc84,W,2017,False
+507,2017-10-25,Wed,MLS,Knockout round,Home,L 0–4,Chicago Fire,NY Red Bulls,Y,GK,90,6,4,2,33.3,0,0,0,0,0,Match Report,44a7dc84,L,2017,False
+508,2017-03-04,Sat,MLS,Regular Season,Home,W 1–0,Colorado Rapids,New England,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,06caac45,W,2017,False
+509,2017-04-15,Sat,MLS,Regular Season,Home,L 1–2,Colorado Rapids,Real Salt Lake,Y*,GK,90,3,2,1,66.7,0,1,1,0,0,Match Report,06caac45,L,2017,False
+510,2017-04-23,Sun,MLS,Regular Season,Away,L 0–1,Colorado Rapids,Minnesota Utd,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,06caac45,L,2017,False
+511,2017-04-29,Sat,MLS,Regular Season,Away,L 0–2,Colorado Rapids,Orlando City,Y*,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,06caac45,L,2017,False
+512,2017-06-03,Sat,MLS,Regular Season,Home,W 2–1,Colorado Rapids,Columbus Crew,Y*,GK,90,5,1,3,80.0,0,0,0,0,0,Match Report,06caac45,W,2017,False
+513,2017-07-22,Sat,MLS,Regular Season,Away,D 1–1,Colorado Rapids,Toronto FC,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,06caac45,D,2017,False
+514,2017-07-29,Sat,MLS,Regular Season,Away,L 0–1,Colorado Rapids,San Jose,Y*,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,06caac45,L,2017,False
+515,2017-09-02,Sat,MLS,Regular Season,Away,L 0–3,Colorado Rapids,LA Galaxy,Y*,GK,90,6,3,3,66.7,0,1,1,0,0,Match Report,06caac45,L,2017,False
+516,2017-10-07,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,FC Dallas,Y*,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report,06caac45,D,2017,False
+517,2017-08-12,Sat,MLS,Regular Season,Away,L 0–1,Vancouver,New England,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,581cfcab,L,2017,False
+518,2017-08-26,Sat,MLS,Regular Season,Away,W 2–1,Vancouver,Orlando City,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,581cfcab,W,2017,False
+519,2017-09-30,Sat,MLS,Regular Season,Away,W 1–0,Vancouver,Sporting KC,Y,GK,90,7,0,7,100.0,1,1,0,0,1,Match Report,581cfcab,W,2017,False
+520,2017-10-15,Sun,MLS,Regular Season,Home,D 1–1,Vancouver,San Jose,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,581cfcab,D,2017,False
+521,2017-10-22,Sun,MLS,Regular Season,Away,L 1–2,Vancouver,Portland Timbers,Y,GK,90,7,2,4,71.4,0,0,0,0,0,Match Report,581cfcab,L,2017,False
+522,2017-10-25,Wed,MLS,Knockout round,Home,W 5–0,Vancouver,San Jose,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,581cfcab,W,2017,False
+523,2017-10-29,Sun,MLS,Conference Semifinals,Home,D 0–0,Vancouver,Seattle,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,581cfcab,D,2017,False
+524,2017-11-02,Thu,MLS,Conference Semifinals,Away,L 0–2,Vancouver,Seattle,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,581cfcab,L,2017,False
+525,2017-07-06,Thu,MLS,Regular Season,Away,D 1–1,Philadelphia,Sporting KC,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report,249362e9,D,2017,False
+526,2017-07-19,Wed,MLS,Regular Season,Away,L 1–2,Philadelphia,Montreal Impact,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,249362e9,L,2017,False
+527,2017-07-22,Sat,MLS,Regular Season,Away,L 0–1,Philadelphia,Columbus Crew,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,249362e9,L,2017,False
+528,2017-07-26,Wed,MLS,Regular Season,Home,W 3–0,Philadelphia,Columbus Crew,Y,GK,90,2,0,1,100.0,1,0,0,0,0,Match Report,249362e9,W,2017,False
+529,2017-07-29,Sat,MLS,Regular Season,Away,L 0–3,Philadelphia,New England,Y,GK,90,7,3,3,57.1,0,0,0,0,0,Match Report,249362e9,L,2017,False
+530,2017-08-05,Sat,MLS,Regular Season,Home,W 3–1,Philadelphia,FC Dallas,Y,GK,90,10,1,9,90.0,0,0,0,0,0,Match Report,249362e9,W,2017,False
+531,2017-08-12,Sat,MLS,Regular Season,Home,L 0–3,Philadelphia,Montreal Impact,Y,GK,90,7,3,4,71.4,0,1,1,0,0,Match Report,249362e9,L,2017,False
+532,2017-08-19,Sat,MLS,Regular Season,Away,D 2–2,Philadelphia,San Jose,Y,GK,90,6,2,4,83.3,0,1,1,0,0,Match Report,249362e9,D,2017,False
+533,2017-03-04,Sat,MLS,Regular Season,Away,D 0–0,Sporting KC,D.C. United,Y,GK,90,6,0,5,100.0,1,1,0,1,0,Match Report,cc741f50,D,2017,False
+534,2017-03-11,Sat,MLS,Regular Season,Home,D 0–0,Sporting KC,FC Dallas,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,cc741f50,D,2017,False
+535,2017-03-18,Sat,MLS,Regular Season,Home,W 2–1,Sporting KC,San Jose,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,cc741f50,W,2017,False
+536,2017-03-31,Fri,MLS,Regular Season,Away,D 0–0,Sporting KC,Toronto FC,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,cc741f50,D,2017,False
+537,2017-04-09,Sun,MLS,Regular Season,Home,W 3–1,Sporting KC,Colorado Rapids,Y,GK,90,3,1,2,100.0,0,1,1,0,0,Match Report,cc741f50,W,2017,False
+538,2017-04-15,Sat,MLS,Regular Season,Away,W 1–0,Sporting KC,Portland Timbers,Y,GK,90,4,0,3,100.0,1,0,0,0,0,Match Report,cc741f50,W,2017,False
+539,2017-04-22,Sat,MLS,Regular Season,Away,L 0–1,Sporting KC,FC Dallas,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,cc741f50,L,2017,False
+540,2017-04-29,Sat,MLS,Regular Season,Home,W 3–0,Sporting KC,Real Salt Lake,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,cc741f50,W,2017,False
+541,2017-05-03,Wed,MLS,Regular Season,Home,W 2–0,Sporting KC,NY Red Bulls,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,cc741f50,W,2017,False
+542,2017-05-07,Sun,MLS,Regular Season,Away,L 0–2,Sporting KC,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,cc741f50,L,2017,False
+543,2017-05-13,Sat,MLS,Regular Season,Away,D 2–2,Sporting KC,Orlando City,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,cc741f50,D,2017,False
+544,2017-05-17,Wed,MLS,Regular Season,Home,W 3–0,Sporting KC,Seattle,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,cc741f50,W,2017,False
+545,2017-05-20,Sat,MLS,Regular Season,Away,L 0–2,Sporting KC,Vancouver,Y,GK,90,7,2,5,71.4,0,1,0,1,0,Match Report,cc741f50,L,2017,False
+546,2017-05-27,Sat,MLS,Regular Season,Away,L 0–1,Sporting KC,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,cc741f50,L,2017,False
+547,2017-06-03,Sat,MLS,Regular Season,Home,W 3–0,Sporting KC,Minnesota Utd,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,cc741f50,W,2017,False
+548,2017-06-10,Sat,MLS,Regular Season,Home,D 1–1,Sporting KC,Montreal Impact,Y,GK,90,7,1,6,85.7,0,0,0,0,0,Match Report,cc741f50,D,2017,False
+549,2017-06-17,Sat,MLS,Regular Season,Away,D 0–0,Sporting KC,San Jose,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,cc741f50,D,2017,False
+550,2017-06-24,Sat,MLS,Regular Season,Away,W 2–1,Sporting KC,LA Galaxy,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,cc741f50,W,2017,False
+551,2017-07-01,Sat,MLS,Regular Season,Home,D 1–1,Sporting KC,Portland Timbers,Y,GK,90,3,1,2,66.7,0,1,0,1,0,Match Report,cc741f50,D,2017,False
+552,2017-07-06,Thu,MLS,Regular Season,Home,D 1–1,Sporting KC,Philadelphia,Y,GK,90,2,1,1,100.0,0,1,1,0,0,Match Report,cc741f50,D,2017,False
+553,2017-07-22,Sat,MLS,Regular Season,Away,D 1–1,Sporting KC,Real Salt Lake,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,cc741f50,D,2017,False
+554,2017-07-29,Sat,MLS,Regular Season,Home,W 3–2,Sporting KC,Chicago Fire,Y,GK,90,3,2,2,33.3,0,0,0,0,0,Match Report,cc741f50,W,2017,False
+555,2017-08-06,Sun,MLS,Regular Season,Home,D 1–1,Sporting KC,Atlanta Utd,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,cc741f50,D,2017,False
+556,2017-08-12,Sat,MLS,Regular Season,Away,L 0–1,Sporting KC,Seattle,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,cc741f50,L,2017,False
+557,2017-08-19,Sat,MLS,Regular Season,Home,W 2–0,Sporting KC,FC Dallas,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,cc741f50,W,2017,False
+558,2017-09-06,Wed,MLS,Regular Season,Away,L 0–1,Sporting KC,NYCFC,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,cc741f50,L,2017,False
+559,2017-09-10,Sun,MLS,Regular Season,Away,D 1–1,Sporting KC,Columbus Crew,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,cc741f50,D,2017,False
+560,2017-09-16,Sat,MLS,Regular Season,Home,W 3–1,Sporting KC,New England,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,cc741f50,W,2017,False
+561,2017-09-24,Sun,MLS,Regular Season,Home,W 2–1,Sporting KC,LA Galaxy,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,cc741f50,W,2017,False
+562,2017-09-30,Sat,MLS,Regular Season,Home,L 0–1,Sporting KC,Vancouver,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,cc741f50,L,2017,False
+563,2017-10-07,Sat,MLS,Regular Season,Away,D 1–1,Sporting KC,Minnesota Utd,Y,GK,58,2,0,2,100.0,0,0,0,0,0,Match Report,cc741f50,D,2017,False
+564,2017-07-19,Wed,MLS,Regular Season,Home,W 4–3,Seattle,D.C. United,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,7827a6b3,W,2017,False
+565,2017-11-21,Tue,MLS,Conference Finals,Away,W 2–0,Seattle,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,7827a6b3,W,2017,False
+566,2017-03-05,Sun,MLS,Regular Season,Home,D 0–0,Vancouver,Philadelphia,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,28269907,D,2017,False
+567,2017-03-11,Sat,MLS,Regular Season,Away,L 2–3,Vancouver,San Jose,Y,GK,22,0,0,0,,0,0,0,0,0,Match Report,28269907,L,2017,False
+568,2017-04-01,Sat,MLS,Regular Season,Home,W 4–2,Vancouver,LA Galaxy,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,28269907,W,2017,False
+569,2017-04-08,Sat,MLS,Regular Season,Away,L 0–3,Vancouver,Real Salt Lake,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,28269907,L,2017,False
+570,2017-04-14,Fri,MLS,Regular Season,Home,W 2–1,Vancouver,Seattle,Y,GK,90,7,1,5,85.7,0,0,0,0,0,Match Report,28269907,W,2017,False
+571,2017-04-22,Sat,MLS,Regular Season,Away,L 1–2,Vancouver,Portland Timbers,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,28269907,L,2017,False
+572,2017-04-29,Sat,MLS,Regular Season,Away,W 2–1,Vancouver,Montreal Impact,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,28269907,W,2017,False
+573,2017-05-05,Fri,MLS,Regular Season,Away,W 1–0,Vancouver,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,28269907,W,2017,False
+574,2017-05-12,Fri,MLS,Regular Season,Away,L 1–2,Vancouver,Houston Dynamo,Y,GK,90,4,2,2,75.0,0,1,1,0,0,Match Report,28269907,L,2017,False
+575,2017-05-20,Sat,MLS,Regular Season,Home,W 2–0,Vancouver,Sporting KC,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,28269907,W,2017,False
+576,2017-05-27,Sat,MLS,Regular Season,Home,L 0–1,Vancouver,D.C. United,Y,GK,90,4,1,3,100.0,0,1,1,0,0,Match Report,28269907,L,2017,False
+577,2017-06-03,Sat,MLS,Regular Season,Home,W 3–1,Vancouver,Atlanta Utd,Y,GK,90,3,1,1,66.7,0,0,0,0,0,Match Report,28269907,W,2017,False
+578,2017-06-17,Sat,MLS,Regular Season,Home,D 1–1,Vancouver,FC Dallas,Y*,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,28269907,D,2017,False
+579,2017-06-24,Sat,MLS,Regular Season,Away,D 2–2,Vancouver,Minnesota Utd,Y*,GK,90,7,2,6,71.4,0,0,0,0,0,Match Report,28269907,D,2017,False
+580,2017-07-01,Sat,MLS,Regular Season,Away,L 0–4,Vancouver,Chicago Fire,Y*,GK,90,12,4,7,66.7,0,0,0,0,0,Match Report,28269907,L,2017,False
+581,2017-07-05,Wed,MLS,Regular Season,Home,W 3–2,Vancouver,NYCFC,Y,GK,90,5,2,3,80.0,0,1,1,0,0,Match Report,28269907,W,2017,False
+582,2017-07-19,Wed,MLS,Regular Season,Away,W 1–0,Vancouver,LA Galaxy,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,28269907,W,2017,False
+583,2017-07-23,Sun,MLS,Regular Season,Home,L 1–2,Vancouver,Portland Timbers,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,28269907,L,2017,False
+584,2017-07-29,Sat,MLS,Regular Season,Away,W 4–0,Vancouver,FC Dallas,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,28269907,W,2017,False
+585,2017-08-05,Sat,MLS,Regular Season,Away,D 2–2,Vancouver,Colorado Rapids,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,28269907,D,2017,False
+586,2017-08-19,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,Houston Dynamo,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,28269907,W,2017,False
+587,2017-08-23,Wed,MLS,Regular Season,Home,D 1–1,Vancouver,Seattle,Y,GK,90,8,1,7,100.0,0,1,1,0,0,Match Report,28269907,D,2017,False
+588,2017-09-09,Sat,MLS,Regular Season,Home,W 3–2,Vancouver,Real Salt Lake,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,28269907,W,2017,False
+589,2017-09-13,Wed,MLS,Regular Season,Home,W 3–0,Vancouver,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,28269907,W,2017,False
+590,2017-09-16,Sat,MLS,Regular Season,Home,D 2–2,Vancouver,Columbus Crew,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,28269907,D,2017,False
+591,2017-09-23,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,28269907,W,2017,False
+592,2017-09-27,Wed,MLS,Regular Season,Away,L 0–3,Vancouver,Seattle,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,28269907,L,2017,False
+593,2017-10-07,Sat,MLS,Regular Season,Away,L 0–3,Vancouver,NY Red Bulls,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,28269907,L,2017,False
+594,2017-07-04,Tue,MLS,Regular Season,Home,W 4–2,Atlanta Utd,San Jose,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,ce84320f,W,2017,False
+595,2017-10-03,Tue,MLS,Regular Season,Home,L 2–3,Atlanta Utd,Minnesota Utd,Y,GK,59,1,1,0,0.0,0,0,0,0,0,Match Report,ce84320f,L,2017,False
+596,2017-03-18,Sat,MLS,Regular Season,Home,L 0–2,Vancouver,Toronto FC,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,d9178ea2,L,2017,False
+597,2017-03-04,Sat,MLS,Regular Season,Home,D 0–0,Real Salt Lake,Toronto FC,Y,GK,90,3,0,3,100.0,1,1,0,1,0,Match Report,cf975d73,D,2017,False
+598,2017-03-11,Sat,MLS,Regular Season,Away,L 0–2,Real Salt Lake,Chicago Fire,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+599,2017-03-18,Sat,MLS,Regular Season,Home,L 1–2,Real Salt Lake,LA Galaxy,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+600,2017-04-01,Sat,MLS,Regular Season,Away,L 2–4,Real Salt Lake,Minnesota Utd,Y,GK,90,9,4,5,55.6,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+601,2017-04-08,Sat,MLS,Regular Season,Home,W 3–0,Real Salt Lake,Vancouver,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,cf975d73,W,2017,False
+602,2017-04-15,Sat,MLS,Regular Season,Away,W 2–1,Real Salt Lake,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,cf975d73,W,2017,False
+603,2017-04-22,Sat,MLS,Regular Season,Home,L 1–3,Real Salt Lake,Atlanta Utd,Y,GK,57,5,2,3,60.0,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+604,2017-05-17,Wed,MLS,Regular Season,Home,W 2–1,Real Salt Lake,NYCFC,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,cf975d73,W,2017,False
+605,2017-05-20,Sat,MLS,Regular Season,Away,L 0–1,Real Salt Lake,Seattle,Y,GK,90,6,1,5,83.3,0,1,0,1,0,Match Report,cf975d73,L,2017,False
+606,2017-05-27,Sat,MLS,Regular Season,Home,W 1–0,Real Salt Lake,Philadelphia,Y,GK,90,4,0,3,100.0,1,0,0,0,0,Match Report,cf975d73,W,2017,False
+607,2017-06-17,Sat,MLS,Regular Season,Home,W 1–0,Real Salt Lake,Minnesota Utd,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,cf975d73,W,2017,False
+608,2017-06-24,Sat,MLS,Regular Season,Away,L 1–2,Real Salt Lake,San Jose,Y*,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+609,2017-06-30,Fri,MLS,Regular Season,Home,L 0–1,Real Salt Lake,Orlando City,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+610,2017-07-04,Tue,MLS,Regular Season,Away,W 6–2,Real Salt Lake,LA Galaxy,Y,GK,90,5,2,2,60.0,0,0,0,0,0,Match Report,cf975d73,W,2017,False
+611,2017-07-19,Wed,MLS,Regular Season,Away,W 4–1,Real Salt Lake,Portland Timbers,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,cf975d73,W,2017,False
+612,2017-07-22,Sat,MLS,Regular Season,Home,D 1–1,Real Salt Lake,Sporting KC,Y*,GK,90,3,1,2,100.0,0,1,1,0,0,Match Report,cf975d73,D,2017,False
+613,2017-07-29,Sat,MLS,Regular Season,Home,D 2–2,Real Salt Lake,Columbus Crew,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,cf975d73,D,2017,False
+614,2017-08-05,Sat,MLS,Regular Season,Home,D 0–0,Real Salt Lake,Houston Dynamo,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,cf975d73,D,2017,False
+615,2017-08-13,Sun,MLS,Regular Season,Away,W 1–0,Real Salt Lake,D.C. United,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,cf975d73,W,2017,False
+616,2017-08-19,Sat,MLS,Regular Season,Away,L 1–3,Real Salt Lake,Montreal Impact,Y,GK,90,4,3,0,25.0,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+617,2017-08-23,Wed,MLS,Regular Season,Home,W 4–0,Real Salt Lake,San Jose,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,cf975d73,W,2017,False
+618,2017-08-26,Sat,MLS,Regular Season,Home,W 4–1,Real Salt Lake,Colorado Rapids,Y*,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,cf975d73,W,2017,False
+619,2017-09-09,Sat,MLS,Regular Season,Away,L 2–3,Real Salt Lake,Vancouver,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+620,2017-09-16,Sat,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Portland Timbers,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,cf975d73,W,2017,False
+621,2017-09-23,Sat,MLS,Regular Season,Home,W 2–0,Real Salt Lake,Seattle,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,cf975d73,W,2017,False
+622,2017-09-30,Sat,MLS,Regular Season,Away,D 1–1,Real Salt Lake,LA Galaxy,Y,GK,90,8,1,6,87.5,0,0,0,0,0,Match Report,cf975d73,D,2017,False
+623,2017-10-15,Sun,MLS,Regular Season,Away,L 0–1,Real Salt Lake,Colorado Rapids,Y,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report,cf975d73,L,2017,False
+624,2017-10-22,Sun,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Sporting KC,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,cf975d73,W,2017,False
+625,2017-03-05,Sun,MLS,Regular Season,Away,W 2–1,NY Red Bulls,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,15e6b513,W,2017,False
+626,2017-03-11,Sat,MLS,Regular Season,Home,W 1–0,NY Red Bulls,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+627,2017-03-19,Sun,MLS,Regular Season,Away,L 1–3,NY Red Bulls,Seattle,Y,GK,90,5,3,2,60.0,0,1,1,0,0,Match Report,15e6b513,L,2017,False
+628,2017-03-25,Sat,MLS,Regular Season,Home,D 0–0,NY Red Bulls,Real Salt Lake,Y*,GK,90,5,0,4,100.0,1,0,0,0,0,Match Report,15e6b513,D,2017,False
+629,2017-04-01,Sat,MLS,Regular Season,Away,L 1–4,NY Red Bulls,Houston Dynamo,Y,GK,90,10,4,6,70.0,0,1,1,0,0,Match Report,15e6b513,L,2017,False
+630,2017-04-09,Sun,MLS,Regular Season,Away,L 0–1,NY Red Bulls,Orlando City,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,15e6b513,L,2017,False
+631,2017-04-15,Sat,MLS,Regular Season,Home,W 2–0,NY Red Bulls,D.C. United,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+632,2017-04-22,Sat,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Columbus Crew,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+633,2017-04-29,Sat,MLS,Regular Season,Home,W 2–1,NY Red Bulls,Chicago Fire,Y,GK,90,6,1,4,83.3,0,0,0,0,0,Match Report,15e6b513,W,2017,False
+634,2017-05-03,Wed,MLS,Regular Season,Away,L 0–2,NY Red Bulls,Sporting KC,Y*,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,15e6b513,L,2017,False
+635,2017-05-06,Sat,MLS,Regular Season,Away,L 0–3,NY Red Bulls,Philadelphia,Y,GK,90,6,3,3,66.7,0,1,1,0,0,Match Report,15e6b513,L,2017,False
+636,2017-05-14,Sun,MLS,Regular Season,Home,L 1–3,NY Red Bulls,LA Galaxy,Y,GK,90,6,3,3,66.7,0,1,1,0,0,Match Report,15e6b513,L,2017,False
+637,2017-05-19,Fri,MLS,Regular Season,Home,D 1–1,NY Red Bulls,Toronto FC,Y,GK,90,4,1,3,75.0,0,1,0,1,0,Match Report,15e6b513,D,2017,False
+638,2017-05-27,Sat,MLS,Regular Season,Home,W 2–1,NY Red Bulls,New England,Y,GK,90,5,1,4,100.0,0,1,1,0,0,Match Report,15e6b513,W,2017,False
+639,2017-06-03,Sat,MLS,Regular Season,Away,L 0–1,NY Red Bulls,Montreal Impact,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,15e6b513,L,2017,False
+640,2017-06-18,Sun,MLS,Regular Season,Away,W 2–0,NY Red Bulls,Philadelphia,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+641,2017-06-24,Sat,MLS,Regular Season,Home,L 0–2,NY Red Bulls,NYCFC,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,15e6b513,L,2017,False
+642,2017-07-05,Wed,MLS,Regular Season,Away,W 3–2,NY Red Bulls,New England,Y,GK,90,8,2,6,75.0,0,0,0,0,0,Match Report,15e6b513,W,2017,False
+643,2017-07-19,Wed,MLS,Regular Season,Home,W 5–1,NY Red Bulls,San Jose,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,15e6b513,W,2017,False
+644,2017-07-22,Sat,MLS,Regular Season,Away,W 3–0,NY Red Bulls,Minnesota Utd,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+645,2017-07-29,Sat,MLS,Regular Season,Home,W 4–0,NY Red Bulls,Montreal Impact,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+646,2017-08-06,Sun,MLS,Regular Season,Away,L 2–3,NY Red Bulls,NYCFC,Y,GK,90,10,3,7,80.0,0,1,1,0,0,Match Report,15e6b513,L,2017,False
+647,2017-08-12,Sat,MLS,Regular Season,Home,W 3–1,NY Red Bulls,Orlando City,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,15e6b513,W,2017,False
+648,2017-08-18,Fri,MLS,Regular Season,Away,L 0–2,NY Red Bulls,Portland Timbers,Y*,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,15e6b513,L,2017,False
+649,2017-08-25,Fri,MLS,Regular Season,Home,D 1–1,NY Red Bulls,NYCFC,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,15e6b513,D,2017,False
+650,2017-09-02,Sat,MLS,Regular Season,Away,D 2–2,NY Red Bulls,FC Dallas,Y,GK,90,6,2,3,83.3,0,1,1,0,0,Match Report,15e6b513,D,2017,False
+651,2017-09-09,Sat,MLS,Regular Season,Away,D 1–1,NY Red Bulls,Chicago Fire,Y,GK,90,4,1,2,75.0,0,0,0,0,0,Match Report,15e6b513,D,2017,False
+652,2017-09-17,Sun,MLS,Regular Season,Home,D 0–0,NY Red Bulls,Philadelphia,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,15e6b513,D,2017,False
+653,2017-09-23,Sat,MLS,Regular Season,Away,L 2–3,NY Red Bulls,Columbus Crew,Y*,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,15e6b513,L,2017,False
+654,2017-09-27,Wed,MLS,Regular Season,Home,D 3–3,NY Red Bulls,D.C. United,Y,GK,90,2,3,1,-50.0,0,0,0,0,0,Match Report,15e6b513,D,2017,False
+655,2017-09-30,Sat,MLS,Regular Season,Away,L 2–4,NY Red Bulls,Toronto FC,Y*,GK,90,5,4,1,40.0,0,1,1,0,0,Match Report,15e6b513,L,2017,False
+656,2017-10-07,Sat,MLS,Regular Season,Home,W 3–0,NY Red Bulls,Vancouver,Y*,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+657,2017-10-15,Sun,MLS,Regular Season,Home,D 0–0,NY Red Bulls,Atlanta Utd,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,15e6b513,D,2017,False
+658,2017-10-22,Sun,MLS,Regular Season,Away,W 2–1,NY Red Bulls,D.C. United,Y*,GK,90,3,1,3,66.7,0,0,0,0,0,Match Report,15e6b513,W,2017,False
+659,2017-10-25,Wed,MLS,Knockout round,Away,W 4–0,NY Red Bulls,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+660,2017-10-30,Mon,MLS,Conference Semifinals,Home,L 1–2,NY Red Bulls,Toronto FC,Y,GK,90,2,2,0,0.0,0,0,0,0,0,Match Report,15e6b513,L,2017,False
+661,2017-11-05,Sun,MLS,Conference Semifinals,Away,W 1–0,NY Red Bulls,Toronto FC,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,15e6b513,W,2017,False
+662,2017-03-04,Sat,MLS,Regular Season,Home,L 1–2,LA Galaxy,FC Dallas,Y,GK,90,3,2,0,33.3,0,0,0,0,0,Match Report,fff21763,L,2017,False
+663,2017-04-23,Sun,MLS,Regular Season,Home,L 0–3,LA Galaxy,Seattle,Y,GK,90,4,3,2,25.0,0,0,0,0,0,Match Report,fff21763,L,2017,False
+664,2017-04-29,Sat,MLS,Regular Season,Home,D 0–0,LA Galaxy,Philadelphia,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,fff21763,D,2017,False
+665,2017-05-06,Sat,MLS,Regular Season,Home,D 2–2,LA Galaxy,Chicago Fire,Y,GK,90,6,2,4,83.3,0,1,1,0,0,Match Report,fff21763,D,2017,False
+666,2017-05-14,Sun,MLS,Regular Season,Away,W 3–1,LA Galaxy,NY Red Bulls,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,fff21763,W,2017,False
+667,2017-05-21,Sun,MLS,Regular Season,Away,W 2–1,LA Galaxy,Minnesota Utd,Y,GK,90,7,1,4,85.7,0,0,0,0,0,Match Report,fff21763,W,2017,False
+668,2017-05-27,Sat,MLS,Regular Season,Away,W 4–2,LA Galaxy,San Jose,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,fff21763,W,2017,False
+669,2017-07-19,Wed,MLS,Regular Season,Home,L 0–1,LA Galaxy,Vancouver,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,fff21763,L,2017,False
+670,2017-07-22,Sat,MLS,Regular Season,Away,L 3–4,LA Galaxy,New England,Y,GK,90,6,4,2,33.3,0,0,0,0,0,Match Report,fff21763,L,2017,False
+671,2017-07-29,Sat,MLS,Regular Season,Home,D 0–0,LA Galaxy,Seattle,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,fff21763,D,2017,False
+672,2017-08-06,Sun,MLS,Regular Season,Away,L 1–3,LA Galaxy,Portland Timbers,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,fff21763,L,2017,False
+673,2017-08-12,Sat,MLS,Regular Season,Home,L 0–2,LA Galaxy,NYCFC,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,fff21763,L,2017,False
+674,2017-09-10,Sun,MLS,Regular Season,Away,D 1–1,LA Galaxy,Seattle,N,,61,4,1,3,75.0,0,0,0,0,0,Match Report,fff21763,D,2017,False
+675,2017-10-22,Sun,MLS,Regular Season,Away,L 1–5,LA Galaxy,FC Dallas,N,,18,2,1,2,100.0,0,1,1,0,0,Match Report,fff21763,L,2017,False
+676,2017-09-27,Wed,MLS,Regular Season,Away,W 4–1,Chicago Fire,San Jose,Y,GK,90,9,1,8,88.9,0,0,0,0,0,Match Report,4903c3a6,W,2017,False
+677,2017-10-22,Sun,MLS,Regular Season,Away,L 0–3,Chicago Fire,Houston Dynamo,Y,GK,90,6,3,3,50.0,0,0,0,0,0,Match Report,4903c3a6,L,2017,False
+678,2017-03-04,Sat,MLS,Regular Season,Away,W 2–1,FC Dallas,LA Galaxy,Y,GK,90,2,1,1,100.0,0,1,1,0,0,Match Report,8b388dd5,W,2017,False
+679,2017-03-18,Sat,MLS,Regular Season,Home,W 2–1,FC Dallas,New England,Y,GK,90,3,1,2,100.0,0,1,1,0,0,Match Report,8b388dd5,W,2017,False
+680,2017-05-25,Thu,MLS,Regular Season,Away,L 1–2,FC Dallas,Chicago Fire,Y,GK,90,4,2,2,50.0,0,2,0,1,1,Match Report,8b388dd5,L,2017,False
+681,2017-07-22,Sat,MLS,Regular Season,Away,W 2–1,FC Dallas,Montreal Impact,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,8b388dd5,W,2017,False
+682,2017-08-05,Sat,MLS,Regular Season,Away,L 1–3,FC Dallas,Philadelphia,Y,GK,90,8,3,5,62.5,0,0,0,0,0,Match Report,8b388dd5,L,2017,False
+683,2017-03-12,Sun,MLS,Regular Season,Home,L 1–6,Minnesota Utd,Atlanta Utd,N,,5,1,1,0,0.0,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+684,2017-03-18,Sat,MLS,Regular Season,Away,D 2–2,Minnesota Utd,Colorado Rapids,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,4598ac94,D,2017,False
+685,2017-03-25,Sat,MLS,Regular Season,Away,L 2–5,Minnesota Utd,New England,Y,GK,90,6,5,1,50.0,0,2,2,0,0,Match Report,4598ac94,L,2017,False
+686,2017-04-01,Sat,MLS,Regular Season,Home,W 4–2,Minnesota Utd,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,4598ac94,W,2017,False
+687,2017-04-08,Sat,MLS,Regular Season,Away,L 0–2,Minnesota Utd,FC Dallas,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+688,2017-04-15,Sat,MLS,Regular Season,Away,D 2–2,Minnesota Utd,Houston Dynamo,Y,GK,44,4,2,2,50.0,0,0,0,0,0,Match Report,4598ac94,D,2017,False
+689,2017-04-23,Sun,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,4598ac94,W,2017,False
+690,2017-04-29,Sat,MLS,Regular Season,Home,L 0–1,Minnesota Utd,San Jose,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+691,2017-05-07,Sun,MLS,Regular Season,Home,W 2–0,Minnesota Utd,Sporting KC,Y,GK,90,7,0,7,100.0,1,0,0,0,0,Match Report,4598ac94,W,2017,False
+692,2017-05-13,Sat,MLS,Regular Season,Away,L 2–3,Minnesota Utd,Toronto FC,Y,GK,90,3,3,1,33.3,0,1,1,0,0,Match Report,4598ac94,L,2017,False
+693,2017-05-21,Sun,MLS,Regular Season,Home,L 1–2,Minnesota Utd,LA Galaxy,Y,GK,90,5,2,4,60.0,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+694,2017-05-27,Sat,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Orlando City,Y,GK,90,7,0,7,100.0,1,0,0,0,0,Match Report,4598ac94,W,2017,False
+695,2017-06-03,Sat,MLS,Regular Season,Away,L 0–3,Minnesota Utd,Sporting KC,Y,GK,90,10,3,7,70.0,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+696,2017-06-17,Sat,MLS,Regular Season,Away,L 0–1,Minnesota Utd,Real Salt Lake,Y,GK,90,9,1,8,88.9,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+697,2017-06-21,Wed,MLS,Regular Season,Home,W 3–2,Minnesota Utd,Portland Timbers,Y,GK,90,4,2,3,75.0,0,1,1,0,0,Match Report,4598ac94,W,2017,False
+698,2017-06-24,Sat,MLS,Regular Season,Home,D 2–2,Minnesota Utd,Vancouver,Y,GK,90,5,2,3,80.0,0,1,1,0,0,Match Report,4598ac94,D,2017,False
+699,2017-06-29,Thu,MLS,Regular Season,Away,L 1–3,Minnesota Utd,NYCFC,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+700,2017-07-04,Tue,MLS,Regular Season,Home,L 0–1,Minnesota Utd,Columbus Crew,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+701,2017-07-19,Wed,MLS,Regular Season,Home,D 0–0,Minnesota Utd,Houston Dynamo,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,4598ac94,D,2017,False
+702,2017-07-22,Sat,MLS,Regular Season,Home,L 0–3,Minnesota Utd,NY Red Bulls,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+703,2017-07-29,Sat,MLS,Regular Season,Home,W 4–0,Minnesota Utd,D.C. United,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,4598ac94,W,2017,False
+704,2017-08-05,Sat,MLS,Regular Season,Home,L 0–4,Minnesota Utd,Seattle,Y,GK,90,7,4,3,42.9,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+705,2017-08-20,Sun,MLS,Regular Season,Away,L 1–2,Minnesota Utd,Seattle,Y,GK,90,5,2,3,80.0,0,1,1,0,0,Match Report,4598ac94,L,2017,False
+706,2017-08-26,Sat,MLS,Regular Season,Away,W 2–1,Minnesota Utd,Chicago Fire,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,4598ac94,W,2017,False
+707,2017-09-09,Sat,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Philadelphia,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,4598ac94,D,2017,False
+708,2017-09-13,Wed,MLS,Regular Season,Away,L 0–3,Minnesota Utd,Vancouver,Y,GK,90,9,3,5,66.7,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+709,2017-09-16,Sat,MLS,Regular Season,Away,W 3–2,Minnesota Utd,Montreal Impact,Y,GK,90,5,2,3,60.0,0,1,0,1,0,Match Report,4598ac94,W,2017,False
+710,2017-09-23,Sat,MLS,Regular Season,Home,W 4–1,Minnesota Utd,FC Dallas,Y,GK,90,7,1,6,85.7,0,1,0,1,0,Match Report,4598ac94,W,2017,False
+711,2017-09-30,Sat,MLS,Regular Season,Away,L 1–2,Minnesota Utd,Houston Dynamo,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+712,2017-10-03,Tue,MLS,Regular Season,Away,W 3–2,Minnesota Utd,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,4598ac94,W,2017,False
+713,2017-10-07,Sat,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Sporting KC,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,4598ac94,D,2017,False
+714,2017-10-15,Sun,MLS,Regular Season,Away,L 0–3,Minnesota Utd,LA Galaxy,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+715,2017-10-22,Sun,MLS,Regular Season,Away,L 2–3,Minnesota Utd,San Jose,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report,4598ac94,L,2017,False
+716,2017-03-04,Sat,MLS,Regular Season,Home,D 1–1,Columbus Crew,Chicago Fire,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,42130443,D,2017,False
+717,2017-03-11,Sat,MLS,Regular Season,Away,L 1–3,Columbus Crew,Houston Dynamo,Y,GK,90,4,3,1,25.0,0,0,0,0,0,Match Report,42130443,L,2017,False
+718,2017-03-18,Sat,MLS,Regular Season,Away,W 2–0,Columbus Crew,D.C. United,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,42130443,W,2017,False
+719,2017-03-25,Sat,MLS,Regular Season,Home,W 3–2,Columbus Crew,Portland Timbers,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,42130443,W,2017,False
+720,2017-04-01,Sat,MLS,Regular Season,Home,W 2–0,Columbus Crew,Orlando City,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,42130443,W,2017,False
+721,2017-04-08,Sat,MLS,Regular Season,Away,L 0–1,Columbus Crew,Chicago Fire,Y,GK,90,6,1,4,83.3,0,0,0,0,0,Match Report,42130443,L,2017,False
+722,2017-04-15,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,Toronto FC,Y,GK,90,5,1,4,80.0,0,0,0,0,0,Match Report,42130443,W,2017,False
+723,2017-04-22,Sat,MLS,Regular Season,Away,L 0–2,Columbus Crew,NY Red Bulls,Y,GK,90,7,2,5,85.7,0,1,1,0,0,Match Report,42130443,L,2017,False
+724,2017-04-29,Sat,MLS,Regular Season,Home,L 2–3,Columbus Crew,NYCFC,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,42130443,L,2017,False
+725,2017-05-06,Sat,MLS,Regular Season,Home,W 2–0,Columbus Crew,New England,Y,GK,90,5,0,5,100.0,1,0,0,0,0,Match Report,42130443,W,2017,False
+726,2017-05-10,Wed,MLS,Regular Season,Home,L 1–2,Columbus Crew,Toronto FC,Y,GK,90,3,2,1,33.3,0,1,0,1,0,Match Report,42130443,L,2017,False
+727,2017-05-13,Sat,MLS,Regular Season,Away,W 3–2,Columbus Crew,Montreal Impact,Y,GK,90,6,2,4,66.7,0,0,0,0,0,Match Report,42130443,W,2017,False
+728,2017-05-21,Sun,MLS,Regular Season,Away,L 1–2,Columbus Crew,New England,Y,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report,42130443,L,2017,False
+729,2017-05-26,Fri,MLS,Regular Season,Away,L 0–5,Columbus Crew,Toronto FC,Y,GK,90,7,5,2,42.9,0,1,1,0,0,Match Report,42130443,L,2017,False
+730,2017-05-31,Wed,MLS,Regular Season,Home,W 3–0,Columbus Crew,Seattle,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,42130443,W,2017,False
+731,2017-06-03,Sat,MLS,Regular Season,Away,L 1–2,Columbus Crew,Colorado Rapids,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report,42130443,L,2017,False
+732,2017-06-17,Sat,MLS,Regular Season,Away,L 1–3,Columbus Crew,Atlanta Utd,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report,42130443,L,2017,False
+733,2017-06-24,Sat,MLS,Regular Season,Home,W 4–1,Columbus Crew,Montreal Impact,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,42130443,W,2017,False
+734,2017-07-01,Sat,MLS,Regular Season,Home,L 0–2,Columbus Crew,Atlanta Utd,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,42130443,L,2017,False
+735,2017-07-04,Tue,MLS,Regular Season,Away,W 1–0,Columbus Crew,Minnesota Utd,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,42130443,W,2017,False
+736,2017-07-22,Sat,MLS,Regular Season,Home,W 1–0,Columbus Crew,Philadelphia,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report,42130443,W,2017,False
+737,2017-07-26,Wed,MLS,Regular Season,Away,L 0–3,Columbus Crew,Philadelphia,Y,GK,90,6,3,3,50.0,0,1,0,1,0,Match Report,42130443,L,2017,False
+738,2017-07-29,Sat,MLS,Regular Season,Away,D 2–2,Columbus Crew,Real Salt Lake,Y,GK,90,7,2,3,85.7,0,1,1,0,0,Match Report,42130443,D,2017,False
+739,2017-08-05,Sat,MLS,Regular Season,Away,L 1–2,Columbus Crew,San Jose,Y,GK,90,7,2,5,71.4,0,0,0,0,0,Match Report,42130443,L,2017,False
+740,2017-08-12,Sat,MLS,Regular Season,Home,W 3–1,Columbus Crew,Chicago Fire,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,42130443,W,2017,False
+741,2017-08-19,Sat,MLS,Regular Season,Away,D 1–1,Columbus Crew,Orlando City,Y,GK,90,8,1,7,87.5,0,0,0,0,0,Match Report,42130443,D,2017,False
+742,2017-08-23,Wed,MLS,Regular Season,Home,W 2–0,Columbus Crew,LA Galaxy,Y,GK,90,1,0,0,100.0,1,0,0,0,0,Match Report,42130443,W,2017,False
+743,2017-08-26,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,FC Dallas,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,42130443,W,2017,False
+744,2017-09-10,Sun,MLS,Regular Season,Home,D 1–1,Columbus Crew,Sporting KC,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,42130443,D,2017,False
+745,2017-09-16,Sat,MLS,Regular Season,Away,D 2–2,Columbus Crew,Vancouver,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,42130443,D,2017,False
+746,2017-09-23,Sat,MLS,Regular Season,Home,W 3–2,Columbus Crew,NY Red Bulls,Y,GK,90,5,2,3,80.0,0,1,1,0,0,Match Report,42130443,W,2017,False
+747,2017-09-30,Sat,MLS,Regular Season,Home,W 2–0,Columbus Crew,D.C. United,Y,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report,42130443,W,2017,False
+748,2017-10-15,Sun,MLS,Regular Season,Away,W 1–0,Columbus Crew,Orlando City,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report,42130443,W,2017,False
+749,2017-10-22,Sun,MLS,Regular Season,Away,D 2–2,Columbus Crew,NYCFC,Y,GK,90,9,2,7,77.8,0,1,0,1,0,Match Report,42130443,D,2017,False
+750,2017-10-26,Thu,MLS,Knockout round,Away,D 0 (3)–0 (1),Columbus Crew,Atlanta Utd,Y,GK,120,8,0,8,100.0,1,0,0,0,0,Match Report,42130443,D,2017,False
+751,2017-10-31,Tue,MLS,Conference Semifinals,Home,W 4–1,Columbus Crew,NYCFC,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,42130443,W,2017,False
+752,2017-11-05,Sun,MLS,Conference Semifinals,Away,L 0–2,Columbus Crew,NYCFC,Y,GK,90,6,2,4,83.3,0,1,1,0,0,Match Report,42130443,L,2017,False
+753,2017-11-21,Tue,MLS,Conference Finals,Home,D 0–0,Columbus Crew,Toronto FC,Y,GK,90,1,0,1,100.0,1,0,0,0,0,Match Report,42130443,D,2017,False
+754,2017-11-29,Wed,MLS,Conference Finals,Away,L 0–1,Columbus Crew,Toronto FC,Y,GK,90,6,1,5,83.3,0,1,0,1,0,Match Report,42130443,L,2017,False
+755,2017-10-03,Tue,MLS,Regular Season,Home,L 2–3,Atlanta Utd,Minnesota Utd,N,,29,3,2,1,33.3,0,0,0,0,0,Match Report,0245fbbf,L,2017,False
+756,2017-08-12,Sat,MLS,Regular Season,Away,L 0–3,San Jose,Houston Dynamo,Y,GK,90,7,3,4,57.1,0,1,0,1,0,Match Report,c5487a34,L,2017,False
+757,2017-08-19,Sat,MLS,Regular Season,Home,D 2–2,San Jose,Philadelphia,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,c5487a34,D,2017,False
+758,2017-08-23,Wed,MLS,Regular Season,Away,L 0–4,San Jose,Real Salt Lake,Y,GK,90,8,4,4,50.0,0,0,0,0,0,Match Report,c5487a34,L,2017,False
+759,2017-08-27,Sun,MLS,Regular Season,Away,W 3–0,San Jose,LA Galaxy,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,c5487a34,W,2017,False
+760,2017-09-09,Sat,MLS,Regular Season,Away,L 0–4,San Jose,Toronto FC,Y,GK,90,10,4,6,60.0,0,0,0,0,0,Match Report,c5487a34,L,2017,False
+761,2017-09-16,Sat,MLS,Regular Season,Home,W 1–0,San Jose,Houston Dynamo,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,c5487a34,W,2017,False
+762,2017-09-23,Sat,MLS,Regular Season,Away,L 0–4,San Jose,D.C. United,Y,GK,90,8,4,4,50.0,0,0,0,0,0,Match Report,c5487a34,L,2017,False
+763,2017-09-27,Wed,MLS,Regular Season,Home,L 1–4,San Jose,Chicago Fire,Y,GK,90,10,4,6,60.0,0,0,0,0,0,Match Report,c5487a34,L,2017,False
+764,2017-09-30,Sat,MLS,Regular Season,Home,W 2–1,San Jose,Portland Timbers,Y,GK,90,2,1,1,50.0,0,0,0,0,0,Match Report,c5487a34,W,2017,False
+765,2017-10-15,Sun,MLS,Regular Season,Away,D 1–1,San Jose,Vancouver,Y,GK,90,6,1,5,83.3,0,0,0,0,0,Match Report,c5487a34,D,2017,False
+766,2017-10-22,Sun,MLS,Regular Season,Home,W 3–2,San Jose,Minnesota Utd,Y,GK,90,2,2,1,0.0,0,0,0,0,0,Match Report,c5487a34,W,2017,False
+767,2017-10-25,Wed,MLS,Knockout round,Away,L 0–5,San Jose,Vancouver,Y,GK,90,8,5,3,37.5,0,0,0,0,0,Match Report,c5487a34,L,2017,False
+768,2017-03-11,Sat,MLS,Regular Season,Away,L 2–3,Vancouver,San Jose,N,,66,7,3,4,57.1,0,0,0,0,0,Match Report,f1e5709c,L,2017,False
+769,2017-03-25,Sat,MLS,Regular Season,Away,D 0–0,Real Salt Lake,NY Red Bulls,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,6b9a35b3,D,2017,False
+770,2017-04-22,Sat,MLS,Regular Season,Home,L 1–3,Real Salt Lake,Atlanta Utd,N,,33,1,1,0,0.0,0,0,0,0,0,Match Report,6b9a35b3,L,2017,False
+771,2017-04-29,Sat,MLS,Regular Season,Away,L 0–3,Real Salt Lake,Sporting KC,Y,GK,90,7,3,4,57.1,0,0,0,0,0,Match Report,6b9a35b3,L,2017,False
+772,2017-05-06,Sat,MLS,Regular Season,Home,L 0–3,Real Salt Lake,FC Dallas,Y,GK,90,10,3,6,80.0,0,1,1,0,0,Match Report,6b9a35b3,L,2017,False
+773,2017-05-13,Sat,MLS,Regular Season,Away,L 0–4,Real Salt Lake,New England,Y,GK,90,8,4,4,50.0,0,0,0,0,0,Match Report,6b9a35b3,L,2017,False
+774,2017-05-31,Wed,MLS,Regular Season,Away,L 1–5,Real Salt Lake,Houston Dynamo,Y,GK,90,7,5,3,28.6,0,0,0,0,0,Match Report,6b9a35b3,L,2017,False
+775,2017-06-03,Sat,MLS,Regular Season,Away,L 2–6,Real Salt Lake,FC Dallas,Y,GK,90,11,6,5,45.5,0,0,0,0,0,Match Report,6b9a35b3,L,2017,False
+776,2017-04-15,Sat,MLS,Regular Season,Home,D 2–2,Houston Dynamo,Minnesota Utd,Y,GK,90,2,2,1,0.0,0,0,0,0,0,Match Report,467f09c8,D,2017,False
+777,2017-04-22,Sat,MLS,Regular Season,Home,W 2–0,Houston Dynamo,San Jose,Y,GK,90,3,0,3,100.0,1,0,0,0,0,Match Report,467f09c8,W,2017,False
+778,2017-04-28,Fri,MLS,Regular Season,Away,L 0–2,Houston Dynamo,Toronto FC,Y,GK,90,5,2,3,60.0,0,0,0,0,0,Match Report,467f09c8,L,2017,False
+779,2017-05-06,Sat,MLS,Regular Season,Home,W 4–0,Houston Dynamo,Orlando City,Y,GK,90,4,0,4,100.0,1,0,0,0,0,Match Report,467f09c8,W,2017,False
+780,2017-05-12,Fri,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Vancouver,Y,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report,467f09c8,W,2017,False
+781,2017-05-17,Wed,MLS,Regular Season,Away,L 0–2,Houston Dynamo,Philadelphia,Y,GK,90,4,2,2,50.0,0,0,0,0,0,Match Report,467f09c8,L,2017,False
+782,2017-05-20,Sat,MLS,Regular Season,Away,L 1–4,Houston Dynamo,Atlanta Utd,Y,GK,90,5,4,1,40.0,0,1,1,0,0,Match Report,467f09c8,L,2017,False
+783,2017-07-01,Sat,MLS,Regular Season,Away,L 1–3,Houston Dynamo,Colorado Rapids,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,467f09c8,L,2017,False
+784,2017-11-05,Sun,MLS,Conference Semifinals,Away,W 2–1,Houston Dynamo,Portland Timbers,Y,GK,90,4,1,3,75.0,0,0,0,0,0,Match Report,467f09c8,W,2017,False
+785,2017-11-21,Tue,MLS,Conference Finals,Home,L 0–2,Houston Dynamo,Seattle,Y,GK,90,5,2,3,60.0,0,1,0,1,0,Match Report,467f09c8,L,2017,False
+786,2017-11-30,Thu,MLS,Conference Finals,Away,L 0–3,Houston Dynamo,Seattle,Y,GK,90,5,3,2,40.0,0,0,0,0,0,Match Report,467f09c8,L,2017,False

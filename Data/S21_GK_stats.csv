@@ -1,0 +1,955 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PSxG,PKatt,PKA,PKsv,PKm,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,AvgDist,Match Report,fbref_ID,Win_Loss_Draw,Season,Before_All_Star
+0,2021-04-18,Sun,MLS,Regular Season,Away,L 0–1,Portland Timbers,Vancouver,N,GK,13,0,0,0,,0,0.0,0,0,0,0,1,2,50.0,3,1,66.7,54.0,1,0.0,7.0,1,0,0.0,1,19.5,Match Report,4277b946,L,2021,True
+1,2021-04-24,Sat,MLS,Regular Season,Home,W 2–1,Portland Timbers,Houston Dynamo,Y,GK,90,3,1,3,66.7,0,0.5,0,0,0,0,4,14,28.6,14,3,78.6,53.0,7,42.9,39.3,11,2,18.2,1,12.0,Match Report,4277b946,W,2021,True
+2,2021-05-09,Sun,MLS,Regular Season,Home,L 1–2,Portland Timbers,Seattle,Y,GK,67,1,1,1,100.0,0,0.9,1,1,0,0,5,7,71.4,10,1,50.0,44.3,5,40.0,36.4,8,0,0.0,0,5.5,Match Report,4277b946,L,2021,True
+3,2021-06-19,Sat,MLS,Regular Season,Away,W 3–2,Orlando City,Toronto FC,Y,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,3,7,42.9,10,3,40.0,35.4,6,50.0,34.8,10,0,0.0,0,10.0,Match Report,5e253986,W,2021,True
+4,2021-06-22,Tue,MLS,Regular Season,Home,W 5–0,Orlando City,San Jose,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,2,6,33.3,11,4,27.3,28.0,11,27.3,28.2,8,0,0.0,1,11.7,Match Report,5e253986,W,2021,True
+5,2021-06-25,Fri,MLS,Regular Season,Away,W 2–1,Orlando City,Inter Miami,Y,GK,90,3,1,2,66.7,0,0.1,0,0,0,0,3,6,50.0,21,1,19.0,24.4,7,28.6,36.0,9,0,0.0,0,13.0,Match Report,5e253986,W,2021,True
+6,2021-07-03,Sat,MLS,Regular Season,Home,L 1–2,Orlando City,NY Red Bulls,Y,GK,90,4,2,2,50.0,0,1.2,0,0,0,0,2,11,18.2,14,5,28.6,38.9,11,63.6,48.6,3,1,33.3,0,17.0,Match Report,5e253986,L,2021,True
+7,2021-07-07,Wed,MLS,Regular Season,Away,L 1–3,Orlando City,Chicago Fire,Y,GK,90,4,3,1,25.0,0,1.6,0,0,0,0,7,14,50.0,16,3,62.5,45.3,9,44.4,39.8,4,0,0.0,2,15.4,Match Report,5e253986,L,2021,True
+8,2021-07-07,Wed,MLS,Regular Season,Away,L 1–2,NYCFC,CF Montréal,Y,GK,90,3,2,2,66.7,0,2.8,1,1,0,0,3,7,42.9,19,2,21.1,31.0,4,75.0,50.3,3,0,0.0,1,16.0,Match Report,e6f22a6b,L,2021,True
+9,2021-07-17,Sat,MLS,Regular Season,Away,L 1–2,NYCFC,Columbus Crew,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,4,7,57.1,21,4,23.8,28.8,5,40.0,39.8,5,1,20.0,2,21.3,Match Report,e6f22a6b,L,2021,True
+10,2021-07-21,Wed,MLS,Regular Season,Home,W 1–0,NYCFC,CF Montréal,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,5,18,27.8,27,3,44.4,36.6,6,100.0,68.8,8,1,12.5,0,11.3,Match Report,e6f22a6b,W,2021,True
+11,2021-07-25,Sun,MLS,Regular Season,Home,W 5–0,NYCFC,Orlando City,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,4,8,50.0,18,1,27.8,33.8,3,100.0,67.3,5,0,0.0,0,14.8,Match Report,e6f22a6b,W,2021,True
+12,2021-07-30,Fri,MLS,Regular Season,Home,W 4–1,NYCFC,Columbus Crew,Y,GK,90,0,1,0,,0,0.9,1,1,0,0,6,11,54.5,18,3,16.7,26.9,11,72.7,58.5,8,1,12.5,0,12.5,Match Report,e6f22a6b,W,2021,True
+13,2021-07-08,Thu,MLS,Regular Season,Away,D 1–1,Philadelphia,NY Red Bulls,N,GK,32,1,1,1,100.0,0,1.0,1,1,0,0,0,7,0.0,5,0,60.0,52.6,4,100.0,77.5,2,1,50.0,0,10.5,Match Report,c3e50b67,D,2021,True
+14,2021-07-17,Sat,MLS,Regular Season,Home,W 2–1,Philadelphia,D.C. United,Y,GK,90,2,1,1,100.0,0,1.4,1,1,0,0,7,16,43.8,13,0,84.6,55.1,6,83.3,63.8,6,0,0.0,0,7.0,Match Report,c3e50b67,W,2021,True
+15,2021-09-03,Fri,MLS,Regular Season,Home,L 0–1,Philadelphia,New England,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,9,22,40.9,30,6,46.7,43.1,9,88.9,65.1,11,1,9.1,1,18.2,Match Report,c3e50b67,L,2021,False
+16,2021-09-29,Wed,MLS,Regular Season,Home,L 1–2,Los Angeles FC,Portland Timbers,Y,GK,90,2,2,0,0.0,0,1.7,0,0,0,0,5,10,50.0,10,2,60.0,50.9,7,57.1,42.9,5,0,0.0,0,11.8,Match Report,dd26b605,L,2021,False
+17,2021-10-03,Sun,MLS,Regular Season,Away,D 1–1,Los Angeles FC,LA Galaxy,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,9,22,40.9,24,5,58.3,43.5,12,66.7,48.5,9,1,11.1,2,13.9,Match Report,dd26b605,D,2021,False
+18,2021-10-16,Sat,MLS,Regular Season,Home,W 3–1,Los Angeles FC,San Jose,Y,GK,90,7,1,6,85.7,0,1.2,0,0,0,0,4,10,40.0,10,3,40.0,40.2,7,85.7,63.9,3,1,33.3,3,20.0,Match Report,dd26b605,W,2021,False
+19,2021-10-20,Wed,MLS,Regular Season,Away,W 3–2,Los Angeles FC,FC Dallas,Y,GK,90,3,2,1,33.3,0,2.1,0,0,0,0,3,9,33.3,16,2,37.5,34.4,6,50.0,40.7,9,1,11.1,1,17.2,Match Report,dd26b605,W,2021,False
+20,2021-10-23,Sat,MLS,Regular Season,Away,D 1–1,Los Angeles FC,Minnesota Utd,Y,GK,90,7,1,6,85.7,0,1.6,0,0,0,0,2,20,10.0,24,3,54.2,43.5,12,58.3,46.3,17,1,5.9,2,15.9,Match Report,dd26b605,D,2021,False
+21,2021-10-26,Tue,MLS,Regular Season,Home,W 3–0,Los Angeles FC,Seattle,Y,GK,90,5,0,5,100.0,1,0.8,0,0,0,0,4,11,36.4,12,4,41.7,34.1,8,75.0,58.1,10,0,0.0,0,10.7,Match Report,dd26b605,W,2021,False
+22,2021-11-02,Tue,MLS,Regular Season,Home,D 1–1,Los Angeles FC,Vancouver,Y,GK,90,3,1,2,66.7,0,1.7,0,0,0,0,3,7,42.9,16,3,37.5,41.7,4,25.0,27.5,7,0,0.0,0,13.5,Match Report,dd26b605,D,2021,False
+23,2021-11-07,Sun,MLS,Regular Season,Away,L 2–5,Los Angeles FC,Colorado Rapids,Y,GK,90,9,5,4,44.4,0,5.0,0,0,0,0,1,5,20.0,17,4,17.6,34.6,6,33.3,47.0,5,0,0.0,0,14.0,Match Report,dd26b605,L,2021,False
+24,2021-04-18,Sun,MLS,Regular Season,Away,D 0–0,Philadelphia,Columbus Crew,Y,GK,90,6,0,6,100.0,1,0.7,0,0,0,0,11,25,44.0,26,4,65.4,49.2,8,100.0,67.6,6,1,16.7,1,14.3,Match Report,b3b21a11,D,2021,True
+25,2021-04-24,Sat,MLS,Regular Season,Home,L 1–2,Philadelphia,Inter Miami,Y,GK,90,3,2,1,33.3,0,2.6,0,0,0,0,1,11,9.1,13,0,61.5,43.1,4,75.0,54.5,7,0,0.0,0,,Match Report,b3b21a11,L,2021,True
+26,2021-05-01,Sat,MLS,Regular Season,Home,L 0–2,Philadelphia,NYCFC,Y,GK,90,7,2,5,71.4,0,2.1,0,0,0,0,9,23,39.1,20,4,50.0,38.9,15,86.7,57.1,14,1,7.1,0,9.2,Match Report,b3b21a11,L,2021,True
+27,2021-05-08,Sat,MLS,Regular Season,Away,W 2–0,Philadelphia,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,9,33,27.3,24,2,87.5,58.2,12,100.0,69.4,13,2,15.4,1,12.2,Match Report,b3b21a11,W,2021,True
+28,2021-05-12,Wed,MLS,Regular Season,Home,D 1–1,Philadelphia,New England,Y,GK,90,5,1,4,80.0,0,1.0,0,0,0,0,9,19,47.4,21,4,33.3,34.6,13,92.3,63.6,12,0,0.0,0,13.6,Match Report,b3b21a11,D,2021,True
+29,2021-05-15,Sat,MLS,Regular Season,Home,W 1–0,Philadelphia,NY Red Bulls,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,10,24,41.7,15,2,80.0,52.1,13,92.3,64.5,7,1,14.3,0,11.5,Match Report,b3b21a11,W,2021,True
+30,2021-05-23,Sun,MLS,Regular Season,Away,W 1–0,Philadelphia,D.C. United,Y,GK,90,6,0,6,100.0,1,0.9,0,0,0,0,15,30,50.0,28,3,67.9,50.0,13,84.6,66.4,13,0,0.0,1,13.9,Match Report,b3b21a11,W,2021,True
+31,2021-05-30,Sun,MLS,Regular Season,Home,W 3–0,Philadelphia,Portland Timbers,Y,GK,90,4,0,4,100.0,1,1.2,0,0,0,0,6,13,46.2,16,5,62.5,45.8,4,75.0,58.8,8,0,0.0,0,11.0,Match Report,b3b21a11,W,2021,True
+32,2021-06-20,Sun,MLS,Regular Season,Away,D 2–2,Philadelphia,Atlanta Utd,Y,GK,90,6,2,5,66.7,0,1.2,0,0,0,0,5,17,29.4,16,3,62.5,46.4,11,63.6,49.1,8,0,0.0,0,16.0,Match Report,b3b21a11,D,2021,True
+33,2021-06-23,Wed,MLS,Regular Season,Home,W 1–0,Philadelphia,Columbus Crew,Y,GK,90,2,0,2,100.0,1,0.4,0,0,0,0,9,21,42.9,26,4,50.0,42.4,8,100.0,71.4,13,3,23.1,0,17.3,Match Report,b3b21a11,W,2021,True
+34,2021-06-26,Sat,MLS,Regular Season,Away,D 3–3,Philadelphia,Chicago Fire,Y*,GK,90,5,3,3,40.0,0,1.8,0,0,0,0,12,25,48.0,32,10,40.6,39.8,12,100.0,61.6,7,1,14.3,1,14.9,Match Report,b3b21a11,D,2021,True
+35,2021-07-03,Sat,MLS,Regular Season,Away,L 0–1,Philadelphia,Nashville,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,7,12,58.3,19,3,36.8,33.4,9,55.6,44.1,11,2,18.2,0,21.3,Match Report,b3b21a11,L,2021,True
+36,2021-08-01,Sun,MLS,Regular Season,Home,D 1–1,Philadelphia,Chicago Fire,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,2,4,50.0,8,2,37.5,46.3,5,20.0,35.0,6,0,0.0,0,15.0,Match Report,b3b21a11,D,2021,True
+37,2021-08-04,Wed,MLS,Regular Season,Home,W 3–0,Philadelphia,Toronto FC,Y,GK,90,0,0,0,,1,0.8,1,0,1,0,4,11,36.4,22,7,36.4,35.5,6,50.0,41.8,7,1,14.3,0,13.7,Match Report,b3b21a11,W,2021,True
+38,2021-08-08,Sun,MLS,Regular Season,Away,L 1–2,Philadelphia,New England,Y*,GK,90,3,2,1,33.3,0,2.3,1,0,1,0,4,15,26.7,15,6,53.3,39.5,9,77.8,58.8,14,2,14.3,0,11.0,Match Report,b3b21a11,L,2021,True
+39,2021-08-18,Wed,MLS,Regular Season,Home,W 1–0,Philadelphia,NYCFC,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,13,24,54.2,25,5,64.0,49.0,8,100.0,61.6,7,1,14.3,0,9.5,Match Report,b3b21a11,W,2021,True
+40,2021-08-21,Sat,MLS,Regular Season,Home,D 1–1,Philadelphia,CF Montréal,Y*,GK,90,5,1,4,80.0,0,2.3,0,0,0,0,6,10,60.0,20,6,40.0,36.7,7,28.6,25.7,5,1,20.0,0,16.0,Match Report,b3b21a11,D,2021,False
+41,2021-08-28,Sat,MLS,Regular Season,Away,L 1–3,Philadelphia,D.C. United,Y,GK,90,8,3,6,75.0,0,3.0,1,1,0,0,7,16,43.8,28,6,46.4,44.6,5,60.0,50.8,6,1,16.7,2,18.4,Match Report,b3b21a11,L,2021,False
+42,2021-09-19,Sun,MLS,Regular Season,Home,W 3–1,Philadelphia,Orlando City,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,4,12,33.3,25,5,40.0,39.0,4,50.0,46.0,5,0,0.0,0,15.0,Match Report,b3b21a11,W,2021,False
+43,2021-09-25,Sat,MLS,Regular Season,Home,W 1–0,Philadelphia,Atlanta Utd,Y*,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,2,16,12.5,25,4,48.0,37.6,5,80.0,61.8,7,1,14.3,0,9.7,Match Report,b3b21a11,W,2021,False
+44,2021-09-29,Wed,MLS,Regular Season,Away,D 1–1,Philadelphia,NY Red Bulls,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,8,25,32.0,25,8,72.0,57.3,8,87.5,62.1,7,0,0.0,0,10.3,Match Report,b3b21a11,D,2021,False
+45,2021-10-03,Sun,MLS,Regular Season,Home,W 3–0,Philadelphia,Columbus Crew,Y,GK,90,2,0,2,100.0,1,1.6,1,0,1,0,6,23,26.1,21,2,66.7,50.4,9,100.0,71.4,19,2,10.5,0,10.8,Match Report,b3b21a11,W,2021,False
+46,2021-10-20,Wed,MLS,Regular Season,Away,L 2–3,Philadelphia,Minnesota Utd,Y,GK,90,4,3,1,25.0,0,2.1,0,0,0,0,1,4,25.0,14,6,7.1,23.6,11,27.3,31.0,10,0,0.0,0,15.7,Match Report,b3b21a11,L,2021,False
+47,2021-10-23,Sat,MLS,Regular Season,Home,W 1–0,Philadelphia,Nashville,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,1,8,12.5,13,3,38.5,39.2,3,100.0,68.7,15,1,6.7,1,12.2,Match Report,b3b21a11,W,2021,False
+48,2021-10-31,Sun,MLS,Regular Season,Home,W 2–0,Philadelphia,FC Cincinnati,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,6,13,46.2,18,4,44.4,36.9,5,100.0,62.4,2,0,0.0,0,13.0,Match Report,b3b21a11,W,2021,False
+49,2021-11-07,Sun,MLS,Regular Season,Away,D 1–1,Philadelphia,NYCFC,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,6,16,37.5,17,4,47.1,42.2,8,100.0,65.6,4,0,0.0,0,14.4,Match Report,b3b21a11,D,2021,False
+50,2021-11-20,Sat,MLS,First Round,Home,W 1–0,Philadelphia,NY Red Bulls,Y,GK,120,1,0,1,100.0,1,0.3,0,0,0,0,8,23,34.8,24,6,62.5,45.8,8,100.0,60.5,11,3,27.3,0,15.3,Match Report,b3b21a11,W,2021,False
+51,2021-11-28,Sun,MLS,Conference Semifinals,Home,D 1 (2)–1 (0),Philadelphia,Nashville,Y,GK,120,3,1,2,66.7,0,1.2,0,0,0,0,3,12,25.0,18,4,27.8,31.9,7,100.0,60.4,9,2,22.2,0,6.5,Match Report,b3b21a11,D,2021,False
+52,2021-04-18,Sun,MLS,Regular Season,Away,W 3–2,LA Galaxy,Inter Miami,Y,GK,90,8,2,7,87.5,0,3.0,1,1,0,0,3,5,60.0,26,7,3.8,22.5,8,50.0,34.4,7,0,0.0,0,12.0,Match Report,c3a86eea,W,2021,True
+53,2021-04-25,Sun,MLS,Regular Season,Home,W 3–2,LA Galaxy,NY Red Bulls,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,9,20,45.0,20,6,60.0,42.9,8,100.0,59.6,11,1,9.1,0,13.0,Match Report,c3a86eea,W,2021,True
+54,2021-05-02,Sun,MLS,Regular Season,Away,L 0–3,LA Galaxy,Seattle,Y,GK,90,9,3,6,66.7,0,2.5,0,0,0,0,6,11,54.5,35,6,22.9,30.1,4,75.0,44.8,14,0,0.0,2,16.0,Match Report,c3a86eea,L,2021,True
+55,2021-05-08,Sat,MLS,Regular Season,Home,W 2–1,LA Galaxy,Los Angeles FC,Y,GK,90,5,1,4,80.0,0,0.4,0,0,0,0,8,23,34.8,32,10,50.0,42.9,9,77.8,58.6,15,2,13.3,2,15.0,Match Report,c3a86eea,W,2021,True
+56,2021-05-15,Sat,MLS,Regular Season,Home,W 2–0,LA Galaxy,Austin,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,12,19,63.2,29,7,44.8,32.3,14,42.9,34.4,14,0,0.0,0,11.1,Match Report,c3a86eea,W,2021,True
+57,2021-05-22,Sat,MLS,Regular Season,Away,L 0–3,LA Galaxy,Portland Timbers,Y,GK,90,8,3,6,75.0,0,3.5,1,1,0,0,2,8,25.0,25,2,28.0,33.2,8,12.5,19.1,11,0,0.0,0,8.3,Match Report,c3a86eea,L,2021,True
+58,2021-05-29,Sat,MLS,Regular Season,Home,W 1–0,LA Galaxy,San Jose,Y,GK,90,12,0,12,100.0,1,2.6,0,0,0,0,5,11,45.5,31,8,29.0,31.4,7,28.6,33.4,12,2,16.7,0,9.2,Match Report,c3a86eea,W,2021,True
+59,2021-06-19,Sat,MLS,Regular Season,Home,L 1–2,LA Galaxy,Seattle,Y,GK,90,7,2,5,71.4,0,1.4,0,0,0,0,1,2,50.0,29,4,6.9,24.8,3,0.0,22.0,7,0,0.0,2,19.7,Match Report,c3a86eea,L,2021,True
+60,2021-06-23,Wed,MLS,Regular Season,Away,W 2–1,LA Galaxy,Vancouver,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,4,10,40.0,33,5,24.2,32.4,8,25.0,30.8,9,0,0.0,0,8.0,Match Report,c3a86eea,W,2021,True
+61,2021-06-26,Sat,MLS,Regular Season,Away,W 3–1,LA Galaxy,San Jose,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,7,13,53.8,30,3,20.0,29.5,8,87.5,58.9,16,1,6.3,0,14.0,Match Report,c3a86eea,W,2021,True
+62,2021-07-04,Sun,MLS,Regular Season,Home,L 0–2,LA Galaxy,Sporting KC,Y,GK,90,6,2,4,66.7,0,1.0,0,0,0,0,5,15,33.3,39,3,35.9,32.2,3,33.3,47.3,5,0,0.0,0,15.0,Match Report,c3a86eea,L,2021,True
+63,2021-07-07,Wed,MLS,Regular Season,Home,W 3–1,LA Galaxy,FC Dallas,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,4,10,40.0,46,5,15.2,25.8,6,50.0,40.3,11,0,0.0,0,14.2,Match Report,c3a86eea,W,2021,True
+64,2021-07-17,Sat,MLS,Regular Season,Away,L 1–2,LA Galaxy,Vancouver,Y,GK,90,4,2,2,50.0,0,0.6,0,0,0,0,7,13,53.8,50,6,24.0,26.3,8,12.5,20.4,7,1,14.3,1,16.8,Match Report,c3a86eea,L,2021,True
+65,2021-07-21,Wed,MLS,Regular Season,Away,D 2–2,LA Galaxy,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,7,11,63.6,29,6,27.6,29.0,11,27.3,32.0,5,2,40.0,2,15.5,Match Report,c3a86eea,D,2021,True
+66,2021-07-24,Sat,MLS,Regular Season,Away,L 0–4,LA Galaxy,FC Dallas,Y,GK,90,5,4,1,20.0,0,2.7,0,0,0,0,0,6,0.0,29,3,17.2,25.5,6,16.7,23.8,3,0,0.0,2,18.8,Match Report,c3a86eea,L,2021,True
+67,2021-07-30,Fri,MLS,Regular Season,Home,W 4–1,LA Galaxy,Portland Timbers,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,8,12,66.7,29,7,31.0,31.8,6,50.0,35.7,6,0,0.0,1,18.6,Match Report,c3a86eea,W,2021,True
+68,2021-08-04,Wed,MLS,Regular Season,Home,W 1–0,LA Galaxy,Real Salt Lake,Y,GK,90,4,0,4,100.0,1,0.1,0,0,0,0,4,12,33.3,35,4,22.9,29.5,10,40.0,33.2,9,0,0.0,1,11.3,Match Report,c3a86eea,W,2021,True
+69,2021-08-08,Sun,MLS,Regular Season,Home,D 1–1,LA Galaxy,Vancouver,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,4,5,80.0,28,1,10.7,21.9,4,50.0,36.8,7,0,0.0,2,20.6,Match Report,c3a86eea,D,2021,True
+70,2021-08-17,Tue,MLS,Regular Season,Home,L 1–2,LA Galaxy,Colorado Rapids,Y,GK,90,3,2,2,66.7,0,1.5,1,1,0,0,5,8,62.5,33,5,18.2,30.7,3,66.7,49.3,4,0,0.0,0,9.8,Match Report,c3a86eea,L,2021,True
+71,2021-08-20,Fri,MLS,Regular Season,Home,L 1–2,LA Galaxy,San Jose,Y,GK,90,6,2,4,66.7,0,2.3,0,0,0,0,3,8,37.5,29,1,24.1,26.6,5,20.0,20.6,8,0,0.0,1,13.0,Match Report,c3a86eea,L,2021,True
+72,2021-08-28,Sat,MLS,Regular Season,Away,D 3–3,LA Galaxy,Los Angeles FC,Y,GK,90,10,3,8,80.0,0,3.5,1,1,0,0,12,17,70.6,28,8,50.0,36.6,13,23.1,27.8,8,1,12.5,1,16.2,Match Report,c3a86eea,D,2021,False
+73,2021-09-11,Sat,MLS,Regular Season,Away,D 1–1,LA Galaxy,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,4,9,44.4,30,4,16.7,27.3,11,36.4,36.0,8,1,12.5,2,16.4,Match Report,c3a86eea,D,2021,False
+74,2021-09-26,Sun,MLS,Regular Season,Away,L 0–2,LA Galaxy,Austin,Y,GK,90,5,2,3,60.0,0,1.5,0,0,0,0,3,4,75.0,17,4,11.8,21.5,6,33.3,31.0,3,1,33.3,0,7.2,Match Report,c3a86eea,L,2021,False
+75,2021-09-29,Wed,MLS,Regular Season,Away,L 1–2,LA Galaxy,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,1.0,0,0,0,0,3,6,50.0,23,2,17.4,30.6,6,33.3,28.5,9,1,11.1,1,22.7,Match Report,c3a86eea,L,2021,False
+76,2021-10-03,Sun,MLS,Regular Season,Home,D 1–1,LA Galaxy,Los Angeles FC,Y,GK,90,7,1,5,85.7,0,1.7,0,0,0,0,8,12,66.7,34,7,20.6,30.7,7,71.4,43.9,10,1,10.0,3,18.4,Match Report,c3a86eea,D,2021,False
+77,2021-10-16,Sat,MLS,Regular Season,Home,W 2–1,LA Galaxy,Portland Timbers,Y,GK,90,6,1,5,83.3,0,0.6,0,0,0,0,4,7,57.1,32,6,21.9,26.6,3,0.0,21.3,4,0,0.0,0,11.5,Match Report,c3a86eea,W,2021,False
+78,2021-10-20,Wed,MLS,Regular Season,Away,W 3–0,LA Galaxy,Houston Dynamo,Y,GK,90,7,0,7,100.0,1,0.2,0,0,0,0,10,26,38.5,34,6,35.3,36.2,19,73.7,49.9,16,0,0.0,1,15.8,Match Report,c3a86eea,W,2021,False
+79,2021-10-23,Sat,MLS,Regular Season,Home,D 2–2,LA Galaxy,FC Dallas,Y,GK,90,8,2,6,75.0,0,1.7,0,0,0,0,1,2,50.0,31,9,6.5,23.9,2,0.0,8.0,5,0,0.0,0,14.6,Match Report,c3a86eea,D,2021,False
+80,2021-10-27,Wed,MLS,Regular Season,Away,L 0–2,LA Galaxy,Sporting KC,Y,GK,90,2,2,0,0.0,0,0.5,0,0,0,0,7,10,70.0,31,6,16.1,25.4,10,50.0,40.0,8,1,12.5,1,20.7,Match Report,c3a86eea,L,2021,False
+81,2021-11-01,Mon,MLS,Regular Season,Away,D 1–1,LA Galaxy,Seattle,Y,GK,90,2,1,1,100.0,0,1.2,1,1,0,0,5,11,45.5,26,6,23.1,29.7,8,62.5,47.4,10,1,10.0,2,12.7,Match Report,c3a86eea,D,2021,False
+82,2021-11-07,Sun,MLS,Regular Season,Home,D 3–3,LA Galaxy,Minnesota Utd,Y,GK,90,3,3,1,0.0,0,1.7,1,0,0,1,3,5,60.0,29,3,6.9,19.4,9,33.3,31.7,6,0,0.0,0,11.0,Match Report,c3a86eea,D,2021,False
+83,2021-04-17,Sat,MLS,Regular Season,Away,L 2–4,Toronto FC,CF Montréal,Y,GK,90,5,4,1,20.0,0,2.3,0,0,0,0,3,10,30.0,14,2,50.0,36.3,6,50.0,43.7,8,2,25.0,0,18.0,Match Report,aa28a396,L,2021,True
+84,2021-04-24,Sat,MLS,Regular Season,Home,D 2–2,Toronto FC,Vancouver,Y,GK,90,5,2,4,80.0,0,2.8,1,1,0,0,4,10,40.0,15,4,33.3,31.6,9,55.6,39.6,9,0,0.0,0,17.0,Match Report,aa28a396,D,2021,True
+85,2021-05-08,Sat,MLS,Regular Season,Away,L 0–2,Toronto FC,NY Red Bulls,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,6,27,22.2,31,5,64.5,46.8,11,63.6,46.7,14,2,14.3,2,14.8,Match Report,aa28a396,L,2021,True
+86,2021-05-12,Wed,MLS,Regular Season,Home,W 2–0,Toronto FC,Columbus Crew,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,6,15,40.0,26,1,46.2,38.9,12,25.0,27.6,9,0,0.0,3,14.8,Match Report,aa28a396,W,2021,True
+87,2021-05-15,Sat,MLS,Regular Season,Away,D 1–1,Toronto FC,NYCFC,Y,GK,90,6,1,5,83.3,0,2.1,0,0,0,0,6,26,23.1,28,2,64.3,50.3,11,72.7,53.8,10,2,20.0,0,10.7,Match Report,aa28a396,D,2021,True
+88,2021-05-22,Sat,MLS,Regular Season,Away,L 0–1,Toronto FC,Orlando City,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,5,12,41.7,28,9,32.1,28.3,6,50.0,45.2,6,2,33.3,1,15.7,Match Report,aa28a396,L,2021,True
+89,2021-05-29,Sat,MLS,Regular Season,Away,L 1–2,Toronto FC,Columbus Crew,Y,GK,90,7,2,5,71.4,0,2.0,0,0,0,0,8,20,40.0,34,6,52.9,37.9,7,28.6,30.0,8,1,12.5,1,14.4,Match Report,aa28a396,L,2021,True
+90,2021-06-26,Sat,MLS,Regular Season,Home,L 0–2,Toronto FC,FC Cincinnati,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,2,7,28.6,15,3,40.0,35.7,4,25.0,29.5,4,1,25.0,1,16.5,Match Report,aa28a396,L,2021,True
+91,2021-07-03,Sat,MLS,Regular Season,Away,L 1–7,Toronto FC,D.C. United,Y,GK,90,9,7,3,22.2,0,3.9,0,0,0,0,2,25,8.0,20,4,70.0,50.4,14,78.6,63.8,11,1,9.1,1,16.3,Match Report,aa28a396,L,2021,True
+92,2021-07-07,Wed,MLS,Regular Season,Away,W 3–2,Toronto FC,New England,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,13,34,38.2,25,0,84.0,57.9,15,86.7,59.6,20,0,0.0,0,9.6,Match Report,aa28a396,W,2021,True
+93,2021-07-17,Sat,MLS,Regular Season,Home,D 1–1,Toronto FC,Orlando City,Y,GK,90,4,1,4,100.0,0,1.0,1,1,0,0,7,14,50.0,31,7,45.2,39.0,8,0.0,17.4,7,0,0.0,1,12.8,Match Report,aa28a396,D,2021,True
+94,2021-07-21,Wed,MLS,Regular Season,Home,D 1–1,Toronto FC,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,11,30,36.7,30,10,56.7,41.2,16,81.3,57.3,12,1,8.3,0,10.2,Match Report,aa28a396,D,2021,True
+95,2021-07-24,Sat,MLS,Regular Season,Away,W 2–1,Toronto FC,Chicago Fire,Y,GK,90,14,1,13,92.9,0,4.0,0,0,0,0,10,29,34.5,29,9,62.1,48.8,17,64.7,46.6,22,0,0.0,0,10.5,Match Report,aa28a396,W,2021,True
+96,2021-08-01,Sun,MLS,Regular Season,Home,D 1–1,Toronto FC,Nashville,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,2,9,22.2,22,3,22.7,29.8,8,50.0,40.9,11,0,0.0,0,9.0,Match Report,aa28a396,D,2021,True
+97,2021-08-04,Wed,MLS,Regular Season,Away,L 0–3,Toronto FC,Philadelphia,Y,GK,90,6,3,4,66.7,0,2.8,1,1,0,0,4,11,36.4,17,9,23.5,31.9,9,77.8,53.6,14,0,0.0,1,14.4,Match Report,aa28a396,L,2021,True
+98,2021-08-07,Sat,MLS,Regular Season,Home,D 2–2,Toronto FC,NYCFC,Y,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,3,19,15.8,21,5,57.1,45.0,7,100.0,71.1,3,1,33.3,0,11.8,Match Report,aa28a396,D,2021,True
+99,2021-08-14,Sat,MLS,Regular Season,Home,L 1–2,Toronto FC,New England,Y,GK,90,1,2,0,0.0,0,1.1,1,1,0,0,3,11,27.3,20,3,45.0,37.2,5,40.0,46.4,8,0,0.0,1,18.0,Match Report,aa28a396,L,2021,True
+100,2021-09-14,Tue,MLS,Regular Season,Home,L 0–1,Toronto FC,Inter Miami,Y,GK,90,2,1,2,100.0,0,1.1,1,1,0,0,4,22,18.2,28,5,64.3,44.5,8,50.0,42.3,11,2,18.2,0,8.0,Match Report,aa28a396,L,2021,False
+101,2021-09-18,Sat,MLS,Regular Season,Home,W 2–1,Toronto FC,Nashville,Y,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,1,9,11.1,20,7,35.0,31.7,9,22.2,29.7,17,1,5.9,1,23.0,Match Report,aa28a396,W,2021,False
+102,2021-09-25,Sat,MLS,Regular Season,Away,D 0–0,Toronto FC,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,6,32,18.8,34,4,58.8,50.0,12,100.0,79.2,13,0,0.0,0,12.9,Match Report,aa28a396,D,2021,False
+103,2021-09-29,Wed,MLS,Regular Season,Home,W 3–2,Toronto FC,FC Cincinnati,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,1,10,10.0,19,5,47.4,39.6,6,16.7,22.5,2,0,0.0,2,16.1,Match Report,aa28a396,W,2021,False
+104,2021-10-03,Sun,MLS,Regular Season,Home,W 3–1,Toronto FC,Chicago Fire,Y,GK,90,5,1,4,80.0,0,0.6,0,0,0,0,9,21,42.9,29,3,55.2,42.0,8,62.5,44.9,13,0,0.0,1,20.3,Match Report,aa28a396,W,2021,False
+105,2021-10-16,Sat,MLS,Regular Season,Home,L 0–2,Toronto FC,Atlanta Utd,Y,GK,90,8,2,6,75.0,0,1.8,0,0,0,0,4,19,21.1,24,2,54.2,36.9,8,75.0,48.9,8,0,0.0,1,24.5,Match Report,aa28a396,L,2021,False
+106,2021-10-20,Wed,MLS,Regular Season,Away,L 0–3,Toronto FC,Inter Miami,Y,GK,90,6,3,4,50.0,0,2.2,0,0,0,0,2,6,33.3,20,5,25.0,28.4,5,20.0,32.4,3,0,0.0,0,12.4,Match Report,aa28a396,L,2021,False
+107,2021-08-08,Sun,MLS,Regular Season,Away,L 1–2,CF Montréal,D.C. United,Y,GK,90,7,2,5,71.4,0,1.3,0,0,0,0,2,6,33.3,25,7,16.0,25.4,11,18.2,24.2,8,0,0.0,1,8.8,Match Report,52e7f812,L,2021,True
+108,2021-08-14,Sat,MLS,Regular Season,Home,W 2–1,CF Montréal,NY Red Bulls,Y,GK,90,3,1,3,100.0,0,0.9,1,1,0,0,1,7,14.3,32,9,21.9,30.4,5,0.0,12.4,4,1,25.0,0,13.6,Match Report,52e7f812,W,2021,True
+109,2021-08-18,Wed,MLS,Regular Season,Away,D 0–0,CF Montréal,FC Cincinnati,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,6,8,75.0,19,4,21.1,26.4,7,57.1,41.1,8,1,12.5,0,14.7,Match Report,52e7f812,D,2021,True
+110,2021-08-21,Sat,MLS,Regular Season,Away,D 1–1,CF Montréal,Philadelphia,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,2,14,14.3,11,5,27.3,29.4,18,61.1,39.2,14,0,0.0,0,14.4,Match Report,52e7f812,D,2021,False
+111,2021-08-27,Fri,MLS,Regular Season,Home,W 3–1,CF Montréal,Toronto FC,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,4,4,100.0,14,5,14.3,22.6,4,50.0,30.0,3,0,0.0,1,17.8,Match Report,52e7f812,W,2021,False
+112,2021-10-30,Sat,MLS,Regular Season,Away,L 0–1,CF Montréal,NY Red Bulls,Y,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,4,10,40.0,43,3,16.3,23.8,8,37.5,31.0,11,0,0.0,2,17.2,Match Report,52e7f812,L,2021,False
+113,2021-11-03,Wed,MLS,Regular Season,Home,W 2–0,CF Montréal,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,3,7,42.9,10,4,30.0,29.9,8,50.0,36.0,2,0,0.0,1,11.7,Match Report,52e7f812,W,2021,False
+114,2021-11-07,Sun,MLS,Regular Season,Home,L 0–2,CF Montréal,Orlando City,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,1,1,100.0,9,3,0.0,17.6,7,14.3,15.1,1,0,0.0,1,9.8,Match Report,52e7f812,L,2021,False
+115,2021-06-19,Sat,MLS,Regular Season,Home,W 2–0,Columbus Crew,Chicago Fire,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,7,16,43.8,11,3,45.5,34.7,13,84.6,59.8,14,0,0.0,1,10.4,Match Report,69a57596,W,2021,True
+116,2021-07-09,Fri,MLS,Regular Season,Away,D 2–2,Columbus Crew,FC Cincinnati,Y,GK,90,3,2,1,33.3,0,0.3,0,0,0,0,8,13,61.5,24,3,37.5,35.0,10,40.0,30.9,8,1,12.5,0,7.4,Match Report,69a57596,D,2021,True
+117,2021-09-25,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,CF Montréal,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,6,19,31.6,21,1,57.1,48.9,8,87.5,62.4,8,0,0.0,0,11.0,Match Report,69a57596,W,2021,False
+118,2021-10-03,Sun,MLS,Regular Season,Away,L 0–3,Columbus Crew,Philadelphia,Y,GK,90,6,3,3,50.0,0,1.4,0,0,0,0,4,6,66.7,14,2,28.6,33.1,8,25.0,36.0,7,0,0.0,1,23.3,Match Report,69a57596,L,2021,False
+119,2021-04-18,Sun,MLS,Regular Season,Away,L 0–1,Portland Timbers,Vancouver,Y,GK,77,2,1,1,50.0,0,0.3,0,0,0,0,5,7,71.4,21,2,23.8,32.3,4,50.0,35.0,5,0,0.0,0,13.0,Match Report,ed6320b7,L,2021,True
+120,2021-06-19,Sat,MLS,Regular Season,Home,W 2–1,Portland Timbers,Sporting KC,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,7,13,53.8,19,2,26.3,31.1,12,66.7,49.2,14,1,7.1,0,11.2,Match Report,ed6320b7,W,2021,True
+121,2021-06-26,Sat,MLS,Regular Season,Home,L 0–1,Portland Timbers,Minnesota Utd,Y,GK,90,5,1,4,80.0,0,1.9,0,0,0,0,6,9,66.7,24,3,29.2,27.8,4,50.0,28.5,3,1,33.3,0,,Match Report,ed6320b7,L,2021,True
+122,2021-07-01,Thu,MLS,Regular Season,Away,L 1–4,Portland Timbers,Austin,Y,GK,90,7,4,3,42.9,0,3.3,0,0,0,0,3,8,37.5,18,7,27.8,30.3,6,50.0,40.5,12,0,0.0,0,14.3,Match Report,ed6320b7,L,2021,True
+123,2021-07-17,Sat,MLS,Regular Season,Home,W 1–0,Portland Timbers,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,9,15,60.0,32,5,43.8,36.7,4,25.0,25.8,8,0,0.0,1,14.3,Match Report,ed6320b7,W,2021,True
+124,2021-07-21,Wed,MLS,Regular Season,Home,W 2–1,Portland Timbers,Los Angeles FC,Y,GK,90,6,1,5,83.3,0,1.3,0,0,0,0,10,16,62.5,36,8,41.7,35.3,9,11.1,20.0,8,1,12.5,1,13.8,Match Report,ed6320b7,W,2021,True
+125,2021-07-30,Fri,MLS,Regular Season,Away,L 1–4,Portland Timbers,LA Galaxy,Y,GK,90,5,4,2,40.0,0,3.3,1,1,0,0,4,8,50.0,30,8,26.7,29.8,9,0.0,16.2,12,0,0.0,0,9.5,Match Report,ed6320b7,L,2021,True
+126,2021-08-04,Wed,MLS,Regular Season,Home,D 1–1,Portland Timbers,San Jose,Y,GK,39,3,1,2,66.7,0,1.1,0,0,0,0,0,3,0.0,8,2,0.0,19.4,3,100.0,62.3,2,0,0.0,0,11.0,Match Report,ed6320b7,D,2021,True
+127,2021-08-18,Wed,MLS,Regular Season,Away,D 1–1,Portland Timbers,Sporting KC,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,6,21,28.6,22,5,45.5,39.4,13,84.6,55.0,25,0,0.0,0,10.0,Match Report,ed6320b7,D,2021,True
+128,2021-08-21,Sat,MLS,Regular Season,Away,L 1–3,Portland Timbers,Austin,Y,GK,90,7,3,5,71.4,0,3.5,1,1,0,0,4,10,40.0,21,7,28.6,31.4,10,40.0,33.3,9,0,0.0,1,10.3,Match Report,ed6320b7,L,2021,False
+129,2021-08-29,Sun,MLS,Regular Season,Away,W 2–0,Portland Timbers,Seattle,Y,GK,90,5,0,4,100.0,1,0.3,0,0,0,0,8,16,50.0,18,3,50.0,44.0,10,70.0,48.6,17,0,0.0,1,18.5,Match Report,ed6320b7,W,2021,False
+130,2021-09-03,Fri,MLS,Regular Season,Away,W 2–0,Portland Timbers,Houston Dynamo,Y,GK,90,6,0,6,100.0,1,0.4,0,0,0,0,5,31,16.1,35,6,54.3,47.7,13,92.3,61.4,17,1,5.9,0,7.5,Match Report,ed6320b7,W,2021,False
+131,2021-09-10,Fri,MLS,Regular Season,Away,W 1–0,Portland Timbers,Vancouver,Y,GK,90,2,0,2,100.0,1,0.7,0,0,0,0,6,13,46.2,25,5,32.0,36.3,5,100.0,64.6,16,0,0.0,0,6.3,Match Report,ed6320b7,W,2021,False
+132,2021-09-15,Wed,MLS,Regular Season,Home,D 2–2,Portland Timbers,Colorado Rapids,Y,GK,90,6,2,4,66.7,0,2.2,0,0,0,0,11,23,47.8,16,6,50.0,40.0,17,88.2,60.1,27,3,11.1,0,6.0,Match Report,ed6320b7,D,2021,False
+133,2021-09-19,Sun,MLS,Regular Season,Home,W 2–1,Portland Timbers,Los Angeles FC,Y,GK,90,1,1,1,100.0,0,0.9,1,1,0,0,2,7,28.6,16,3,25.0,31.3,10,30.0,32.3,6,0,0.0,0,10.3,Match Report,ed6320b7,W,2021,False
+134,2021-09-25,Sat,MLS,Regular Season,Home,W 6–1,Portland Timbers,Real Salt Lake,Y,GK,90,9,1,8,88.9,0,1.6,0,0,0,0,3,13,23.1,13,5,53.8,43.7,10,60.0,39.3,12,0,0.0,0,5.7,Match Report,ed6320b7,W,2021,False
+135,2021-09-29,Wed,MLS,Regular Season,Away,W 2–1,Portland Timbers,Los Angeles FC,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,12,24,50.0,27,6,63.0,43.5,9,77.8,52.4,8,1,12.5,0,9.4,Match Report,ed6320b7,W,2021,False
+136,2021-10-03,Sun,MLS,Regular Season,Home,W 1–0,Portland Timbers,Inter Miami,Y,GK,90,5,0,5,100.0,1,1.3,0,0,0,0,4,8,50.0,16,7,25.0,33.5,7,57.1,36.7,10,1,10.0,1,15.0,Match Report,ed6320b7,W,2021,False
+137,2021-10-16,Sat,MLS,Regular Season,Away,L 1–2,Portland Timbers,LA Galaxy,Y,GK,90,8,2,7,87.5,0,3.0,1,1,0,0,4,15,26.7,21,4,57.1,43.1,6,50.0,39.3,16,1,6.3,0,12.5,Match Report,ed6320b7,L,2021,False
+138,2021-10-20,Wed,MLS,Regular Season,Home,L 2–3,Portland Timbers,Vancouver,Y,GK,90,3,3,1,33.3,0,2.5,1,1,0,0,5,10,50.0,26,4,23.1,34.3,11,36.4,31.4,12,1,8.3,0,8.3,Match Report,ed6320b7,L,2021,False
+139,2021-10-23,Sat,MLS,Regular Season,Away,L 0–2,Portland Timbers,Colorado Rapids,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,2,3,66.7,23,9,13.0,24.7,6,0.0,23.7,12,0,0.0,0,10.5,Match Report,ed6320b7,L,2021,False
+140,2021-10-27,Wed,MLS,Regular Season,Home,W 2–0,Portland Timbers,San Jose,Y,GK,90,5,0,5,100.0,1,0.7,0,0,0,0,7,17,41.2,17,5,35.3,34.4,12,91.7,60.4,15,2,13.3,1,11.8,Match Report,ed6320b7,W,2021,False
+141,2021-11-03,Wed,MLS,Regular Season,Away,W 3–1,Portland Timbers,Real Salt Lake,Y,GK,90,4,1,4,100.0,0,1.3,1,1,0,0,12,22,54.5,19,4,63.2,43.1,13,76.9,53.4,25,3,12.0,0,10.8,Match Report,ed6320b7,W,2021,False
+142,2021-11-07,Sun,MLS,Regular Season,Home,W 3–0,Portland Timbers,Austin,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,8,19,42.1,30,3,40.0,36.7,8,87.5,58.4,15,0,0.0,0,12.0,Match Report,ed6320b7,W,2021,False
+143,2021-11-21,Sun,MLS,First Round,Home,W 3–1,Portland Timbers,Minnesota Utd,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,11,20,55.0,25,2,56.0,43.9,6,100.0,63.2,7,0,0.0,1,11.3,Match Report,ed6320b7,W,2021,False
+144,2021-11-25,Thu,MLS,Conference Semifinals,Away,W 1–0,Portland Timbers,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,4,14,28.6,20,3,40.0,38.8,10,60.0,51.2,19,0,0.0,0,7.0,Match Report,ed6320b7,W,2021,False
+145,2021-12-04,Sat,MLS,Conference Finals,Home,W 2–0,Portland Timbers,Real Salt Lake,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,9,17,52.9,17,1,70.6,46.9,6,83.3,60.5,9,0,0.0,0,4.5,Match Report,ed6320b7,W,2021,False
+146,2021-12-11,Sat,MLS,MLS Cup,Home,D 1 (2)–1 (4),Portland Timbers,NYCFC,Y,GK,120,7,1,5,85.7,0,1.7,0,0,0,0,15,24,62.5,36,5,47.2,36.8,10,70.0,55.2,17,1,5.9,0,16.8,Match Report,ed6320b7,D,2021,False
+147,2021-05-16,Sun,MLS,Regular Season,Home,W 2–0,Seattle,Los Angeles FC,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,8,17,47.1,27,9,40.7,35.6,10,60.0,42.0,6,0,0.0,2,14.9,Match Report,873fdbdf,W,2021,True
+148,2021-05-23,Sun,MLS,Regular Season,Home,D 1–1,Seattle,Atlanta Utd,Y,GK,90,1,1,1,100.0,0,1.3,1,1,0,0,11,20,55.0,22,3,68.2,48.2,13,38.5,33.0,12,0,0.0,0,10.7,Match Report,873fdbdf,D,2021,True
+149,2021-05-30,Sun,MLS,Regular Season,Home,D 0–0,Seattle,Austin,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,3,5,60.0,22,3,13.6,23.8,6,33.3,24.7,10,1,10.0,1,17.6,Match Report,873fdbdf,D,2021,True
+150,2021-06-19,Sat,MLS,Regular Season,Away,W 2–1,Seattle,LA Galaxy,Y,GK,90,1,1,1,100.0,0,0.9,1,1,0,0,6,17,35.3,19,3,52.6,43.1,7,100.0,56.4,13,0,0.0,1,12.4,Match Report,873fdbdf,W,2021,True
+151,2021-06-23,Wed,MLS,Regular Season,Home,W 2–1,Seattle,Real Salt Lake,Y,GK,90,0,1,0,,0,0.9,1,1,0,0,5,9,55.6,20,8,35.0,32.7,5,40.0,34.0,8,1,12.5,1,12.8,Match Report,873fdbdf,W,2021,True
+152,2021-06-26,Sat,MLS,Regular Season,Home,D 2–2,Seattle,Vancouver,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,1,1,100.0,12,6,8.3,23.9,6,0.0,16.3,8,1,12.5,1,17.7,Match Report,873fdbdf,D,2021,True
+153,2021-07-04,Sun,MLS,Regular Season,Away,D 1–1,Seattle,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,4,25,16.0,30,7,53.3,40.0,14,64.3,50.6,19,0,0.0,0,8.9,Match Report,873fdbdf,D,2021,True
+154,2021-07-07,Wed,MLS,Regular Season,Home,W 2–0,Seattle,Houston Dynamo,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,9,17,52.9,27,9,48.1,38.7,6,66.7,50.3,8,0,0.0,2,13.6,Match Report,873fdbdf,W,2021,True
+155,2021-07-18,Sun,MLS,Regular Season,Away,L 0–1,Seattle,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,1.3,0,0,0,0,4,14,28.6,31,7,32.3,33.0,8,50.0,37.3,9,2,22.2,0,13.1,Match Report,873fdbdf,L,2021,True
+156,2021-07-25,Sun,MLS,Regular Season,Home,L 1–3,Seattle,Sporting KC,Y,GK,90,4,3,1,25.0,0,1.8,0,0,0,0,3,12,25.0,35,7,31.4,34.3,5,20.0,19.8,6,0,0.0,0,18.1,Match Report,873fdbdf,L,2021,True
+157,2021-07-31,Sat,MLS,Regular Season,Home,L 0–1,Seattle,San Jose,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,4,8,50.0,37,8,16.2,25.7,5,40.0,33.2,4,1,25.0,1,19.4,Match Report,873fdbdf,L,2021,True
+158,2021-08-04,Wed,MLS,Regular Season,Home,D 1–1,Seattle,FC Dallas,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,2,6,33.3,23,7,17.4,29.3,4,50.0,43.5,7,1,14.3,2,19.8,Match Report,873fdbdf,D,2021,True
+159,2021-08-15,Sun,MLS,Regular Season,Away,W 6–2,Seattle,Portland Timbers,Y,GK,90,10,2,8,80.0,0,3.1,0,0,0,0,10,22,45.5,29,11,58.6,46.5,10,50.0,41.0,18,4,22.2,0,10.0,Match Report,873fdbdf,W,2021,True
+160,2021-08-21,Sat,MLS,Regular Season,Away,W 2–1,Seattle,Columbus Crew,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,4,11,36.4,24,4,33.3,36.6,8,37.5,37.4,7,0,0.0,0,10.8,Match Report,873fdbdf,W,2021,False
+161,2021-08-29,Sun,MLS,Regular Season,Home,L 0–2,Seattle,Portland Timbers,Y,GK,90,2,2,0,0.0,0,1.4,0,0,0,0,4,10,40.0,27,8,29.6,31.7,5,40.0,39.0,5,1,20.0,2,15.7,Match Report,873fdbdf,L,2021,False
+162,2021-04-17,Sat,MLS,Regular Season,Home,L 1–2,NY Red Bulls,Sporting KC,Y,GK,90,2,2,1,50.0,0,1.8,1,1,0,0,10,25,40.0,26,2,80.8,51.3,6,66.7,46.5,5,0,0.0,0,17.0,Match Report,5c07e176,L,2021,True
+163,2021-04-25,Sun,MLS,Regular Season,Away,L 2–3,NY Red Bulls,LA Galaxy,Y,GK,90,5,3,2,40.0,0,2.7,0,0,0,0,1,2,50.0,19,5,10.5,25.5,1,0.0,20.0,4,0,0.0,0,11.0,Match Report,5c07e176,L,2021,True
+164,2021-05-01,Sat,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.2,0,0,0,0,7,19,36.8,33,7,54.5,45.0,3,33.3,33.3,7,2,28.6,0,11.8,Match Report,5c07e176,W,2021,True
+165,2021-05-08,Sat,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Toronto FC,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0,0,6,18,33.3,22,1,63.6,44.0,9,44.4,40.4,4,0,0.0,0,21.0,Match Report,5c07e176,W,2021,True
+166,2021-05-15,Sat,MLS,Regular Season,Away,L 0–1,NY Red Bulls,Philadelphia,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,3,10,30.0,20,6,40.0,34.3,4,50.0,36.5,12,2,16.7,1,16.4,Match Report,5c07e176,L,2021,True
+167,2021-05-22,Sat,MLS,Regular Season,Away,L 1–3,NY Red Bulls,New England,Y,GK,90,11,3,8,72.7,0,2.9,0,0,0,0,13,28,46.4,18,1,77.8,54.4,14,100.0,67.0,6,0,0.0,0,12.3,Match Report,5c07e176,L,2021,True
+168,2021-05-29,Sat,MLS,Regular Season,Home,W 2–1,NY Red Bulls,Orlando City,Y,GK,90,2,1,1,50.0,0,0.3,0,0,0,0,7,17,41.2,16,3,68.8,45.0,6,100.0,67.3,7,1,14.3,1,14.0,Match Report,5c07e176,W,2021,True
+169,2021-06-18,Fri,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Nashville,Y,GK,90,1,0,1,100.0,1,0.5,0,0,0,0,3,17,17.6,20,2,60.0,48.1,8,62.5,46.6,4,0,0.0,0,16.5,Match Report,5c07e176,W,2021,True
+170,2021-06-23,Wed,MLS,Regular Season,Away,L 2–3,NY Red Bulls,New England,Y,GK,90,6,3,3,50.0,0,2.2,0,0,0,0,12,28,42.9,35,4,71.4,48.6,5,60.0,43.4,6,0,0.0,1,12.2,Match Report,5c07e176,L,2021,True
+171,2021-06-27,Sun,MLS,Regular Season,Away,D 0–0,NY Red Bulls,Atlanta Utd,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,3,21,14.3,20,2,65.0,48.2,8,100.0,66.9,16,1,6.3,2,15.6,Match Report,5c07e176,D,2021,True
+172,2021-07-03,Sat,MLS,Regular Season,Away,W 2–1,NY Red Bulls,Orlando City,Y,GK,90,5,1,4,80.0,0,2.4,1,0,1,0,5,25,20.0,27,4,66.7,49.0,10,70.0,48.1,11,2,18.2,3,14.8,Match Report,5c07e176,W,2021,True
+173,2021-07-08,Thu,MLS,Regular Season,Home,D 1–1,NY Red Bulls,Philadelphia,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,1,10,10.0,18,7,44.4,40.1,5,40.0,37.6,14,2,14.3,1,14.9,Match Report,5c07e176,D,2021,True
+174,2021-07-21,Wed,MLS,Regular Season,Away,D 1–1,NY Red Bulls,Toronto FC,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,5,13,38.5,10,0,90.0,54.2,4,100.0,70.5,2,0,0.0,0,14.5,Match Report,5c07e176,D,2021,True
+175,2021-07-25,Sun,MLS,Regular Season,Away,L 0–1,NY Red Bulls,D.C. United,Y,GK,90,2,1,1,50.0,0,1.2,0,0,0,0,5,11,45.5,16,4,50.0,42.5,7,42.9,39.6,8,1,12.5,0,8.8,Match Report,5c07e176,L,2021,True
+176,2021-07-31,Sat,MLS,Regular Season,Home,L 2–3,NY Red Bulls,New England,Y,GK,90,8,3,4,62.5,0,3.5,0,0,0,0,4,11,36.4,11,4,54.5,44.6,8,62.5,48.5,12,0,0.0,1,21.0,Match Report,5c07e176,L,2021,True
+177,2021-08-04,Wed,MLS,Regular Season,Home,D 0–0,NY Red Bulls,FC Cincinnati,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,1,8,12.5,17,2,41.2,40.2,5,20.0,25.6,3,1,33.3,0,15.0,Match Report,5c07e176,D,2021,True
+178,2021-08-08,Sun,MLS,Regular Season,Away,L 1–2,NY Red Bulls,Chicago Fire,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,2,4,50.0,13,3,7.7,23.1,8,37.5,30.3,3,0,0.0,3,21.5,Match Report,5c07e176,L,2021,True
+179,2021-08-14,Sat,MLS,Regular Season,Away,L 1–2,NY Red Bulls,CF Montréal,Y,GK,90,5,2,4,80.0,0,2.7,1,1,0,0,6,24,25.0,20,5,80.0,54.3,10,80.0,56.4,8,1,12.5,2,14.0,Match Report,5c07e176,L,2021,True
+180,2021-08-18,Wed,MLS,Regular Season,Home,W 1–0,NY Red Bulls,Columbus Crew,Y,GK,90,3,0,3,100.0,1,1.6,0,0,0,0,4,15,26.7,18,1,66.7,55.3,3,100.0,72.7,8,0,0.0,2,21.8,Match Report,5c07e176,W,2021,True
+181,2021-08-28,Sat,MLS,Regular Season,Home,L 0–1,NY Red Bulls,Chicago Fire,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,2,10,20.0,20,3,35.0,35.2,4,75.0,43.5,5,0,0.0,1,19.0,Match Report,5c07e176,L,2021,False
+182,2021-09-11,Sat,MLS,Regular Season,Home,D 1–1,NY Red Bulls,D.C. United,Y,GK,90,1,1,1,100.0,0,1.1,1,1,0,0,9,18,50.0,19,3,52.6,40.5,10,80.0,54.4,5,0,0.0,3,20.7,Match Report,5c07e176,D,2021,False
+183,2021-09-14,Tue,MLS,Regular Season,Away,L 1–2,NY Red Bulls,Columbus Crew,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,6,15,40.0,19,4,42.1,41.0,10,70.0,59.7,11,1,9.1,1,13.6,Match Report,5c07e176,L,2021,False
+184,2021-09-17,Fri,MLS,Regular Season,Away,W 4–0,NY Red Bulls,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,4,8,50.0,22,4,36.4,36.0,3,0.0,23.0,0,0,,3,24.0,Match Report,5c07e176,W,2021,False
+185,2021-09-22,Wed,MLS,Regular Season,Home,D 1–1,NY Red Bulls,NYCFC,Y,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,3,14,21.4,30,5,43.3,40.1,3,33.3,33.7,6,0,0.0,1,19.0,Match Report,5c07e176,D,2021,False
+186,2021-09-25,Sat,MLS,Regular Season,Away,W 1–0,NY Red Bulls,NYCFC,Y,GK,90,4,0,4,100.0,1,1.1,0,0,0,0,8,26,30.8,24,6,79.2,57.8,8,87.5,68.1,8,1,12.5,1,11.4,Match Report,5c07e176,W,2021,False
+187,2021-09-29,Wed,MLS,Regular Season,Home,D 1–1,NY Red Bulls,Philadelphia,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,6,15,40.0,17,2,76.5,57.9,5,40.0,38.0,8,1,12.5,1,20.0,Match Report,5c07e176,D,2021,False
+188,2021-10-02,Sat,MLS,Regular Season,Away,W 1–0,NY Red Bulls,FC Cincinnati,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,5,16,31.3,18,5,72.2,46.8,4,75.0,59.0,9,2,22.2,0,10.5,Match Report,5c07e176,W,2021,False
+189,2021-10-09,Sat,MLS,Regular Season,Home,W 1–0,NY Red Bulls,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,3,17,17.6,25,2,56.0,47.2,7,42.9,39.4,11,2,18.2,1,20.3,Match Report,5c07e176,W,2021,False
+190,2021-10-17,Sun,MLS,Regular Season,Home,W 1–0,NY Red Bulls,NYCFC,Y,GK,90,2,0,2,100.0,1,0.8,0,0,0,0,6,19,31.6,27,2,70.4,54.1,1,0.0,11.0,7,0,0.0,4,17.1,Match Report,5c07e176,W,2021,False
+191,2021-10-23,Sat,MLS,Regular Season,Away,W 2–1,NY Red Bulls,Columbus Crew,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,6,19,31.6,22,1,68.2,48.0,5,80.0,59.6,7,1,14.3,3,32.6,Match Report,5c07e176,W,2021,False
+192,2021-10-27,Wed,MLS,Regular Season,Away,L 0–1,NY Red Bulls,D.C. United,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,5,19,26.3,26,3,65.4,51.5,3,66.7,41.0,3,1,33.3,2,15.5,Match Report,5c07e176,L,2021,False
+193,2021-10-30,Sat,MLS,Regular Season,Home,W 1–0,NY Red Bulls,CF Montréal,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,13,32,40.6,33,4,84.8,53.7,6,66.7,49.8,8,3,37.5,5,21.5,Match Report,5c07e176,W,2021,False
+194,2021-11-03,Wed,MLS,Regular Season,Home,D 0–0,NY Red Bulls,Atlanta Utd,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,11,27,40.7,32,2,81.3,51.8,1,100.0,67.0,2,0,0.0,1,20.3,Match Report,5c07e176,D,2021,False
+195,2021-11-07,Sun,MLS,Regular Season,Away,D 1–1,NY Red Bulls,Nashville,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,4,19,21.1,14,1,100.0,62.6,7,71.4,54.4,3,0,0.0,1,17.0,Match Report,5c07e176,D,2021,False
+196,2021-11-20,Sat,MLS,First Round,Away,L 0–1,NY Red Bulls,Philadelphia,Y,GK,120,3,1,2,66.7,0,1.3,0,0,0,0,10,25,40.0,32,9,50.0,42.7,10,90.0,59.7,13,1,7.7,5,19.0,Match Report,5c07e176,L,2021,False
+197,2021-04-18,Sun,MLS,Regular Season,Home,W 1–0,Vancouver,Portland Timbers,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,16,25,64.0,28,3,53.6,41.9,10,100.0,62.5,9,1,11.1,2,17.9,Match Report,ea42e480,W,2021,True
+198,2021-04-24,Sat,MLS,Regular Season,Away,D 2–2,Vancouver,Toronto FC,Y,GK,90,5,2,2,60.0,0,1.4,0,0,0,0,7,16,43.8,18,4,55.6,42.3,7,85.7,53.4,9,0,0.0,2,17.9,Match Report,ea42e480,D,2021,True
+199,2021-05-02,Sun,MLS,Regular Season,Home,L 0–1,Vancouver,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,5,13,38.5,21,5,38.1,37.8,8,62.5,47.0,5,1,20.0,2,21.8,Match Report,ea42e480,L,2021,True
+200,2021-05-08,Sat,MLS,Regular Season,Home,W 2–0,Vancouver,CF Montréal,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,9,23,39.1,21,6,61.9,47.4,14,71.4,53.9,10,0,0.0,1,14.9,Match Report,ea42e480,W,2021,True
+201,2021-05-12,Wed,MLS,Regular Season,Away,L 0–1,Vancouver,Minnesota Utd,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,8,20,40.0,21,4,61.9,42.2,11,63.6,44.7,12,0,0.0,0,11.7,Match Report,ea42e480,L,2021,True
+202,2021-05-16,Sun,MLS,Regular Season,Away,L 0–3,Vancouver,Sporting KC,Y*,GK,90,5,3,3,60.0,0,2.7,1,1,0,0,15,20,75.0,23,6,52.2,36.8,11,72.7,47.2,19,1,5.3,0,10.3,Match Report,ea42e480,L,2021,True
+203,2021-05-22,Sat,MLS,Regular Season,Away,L 1–2,Vancouver,Houston Dynamo,Y,GK,90,3,2,1,33.3,0,0.7,0,0,0,0,12,18,66.7,22,5,40.9,35.9,11,81.8,53.1,7,1,14.3,1,10.0,Match Report,ea42e480,L,2021,True
+204,2021-06-18,Fri,MLS,Regular Season,Away,L 1–3,Vancouver,Real Salt Lake,Y,GK,90,6,3,3,50.0,0,1.9,0,0,0,0,4,14,28.6,15,2,60.0,44.7,5,100.0,64.4,11,0,0.0,1,15.0,Match Report,ea42e480,L,2021,True
+205,2021-06-23,Wed,MLS,Regular Season,Home,L 1–2,Vancouver,LA Galaxy,Y,GK,90,2,2,0,0.0,0,1.2,0,0,0,0,8,13,61.5,20,3,35.0,36.2,12,50.0,38.1,5,1,20.0,2,14.0,Match Report,ea42e480,L,2021,True
+206,2021-06-26,Sat,MLS,Regular Season,Away,D 2–2,Vancouver,Seattle,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,9,16,56.3,14,5,50.0,43.3,14,64.3,53.1,20,1,5.0,0,11.0,Match Report,ea42e480,D,2021,True
+207,2021-07-04,Sun,MLS,Regular Season,Away,D 2–2,Vancouver,FC Dallas,Y,GK,90,8,2,7,75.0,0,1.5,0,0,0,0,9,18,50.0,24,3,45.8,39.8,11,63.6,52.2,12,1,8.3,0,12.7,Match Report,ea42e480,D,2021,True
+208,2021-08-08,Sun,MLS,Regular Season,Away,D 1–1,Vancouver,LA Galaxy,Y*,GK,90,6,1,5,83.3,0,2.0,0,0,0,0,8,17,47.1,33,5,42.4,37.1,6,50.0,42.0,12,0,0.0,2,16.0,Match Report,ea42e480,D,2021,True
+209,2021-08-13,Fri,MLS,Regular Season,Away,D 0–0,Vancouver,San Jose,Y,GK,90,3,0,2,100.0,1,0.4,0,0,0,0,6,19,31.6,42,5,38.1,36.6,4,75.0,54.3,9,1,11.1,1,17.3,Match Report,ea42e480,D,2021,True
+210,2021-08-18,Wed,MLS,Regular Season,Away,W 2–1,Vancouver,Austin,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,6,16,37.5,18,2,61.1,44.5,9,55.6,47.8,7,1,14.3,0,20.0,Match Report,ea42e480,W,2021,True
+211,2021-08-21,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,Los Angeles FC,Y,GK,90,6,1,6,100.0,0,2.6,1,1,0,0,12,23,52.2,37,11,37.8,34.7,12,75.0,54.4,7,0,0.0,2,15.8,Match Report,ea42e480,W,2021,False
+212,2021-08-29,Sun,MLS,Regular Season,Home,W 4–1,Vancouver,Real Salt Lake,Y,GK,90,2,1,0,50.0,0,0.7,0,0,0,0,4,19,21.1,29,5,31.0,34.4,11,90.9,58.5,3,0,0.0,0,16.0,Match Report,ea42e480,W,2021,False
+213,2021-09-10,Fri,MLS,Regular Season,Home,L 0–1,Vancouver,Portland Timbers,Y,GK,90,3,1,3,66.7,0,1.0,0,0,0,0,7,10,70.0,18,4,33.3,34.6,4,100.0,60.5,5,0,0.0,0,4.0,Match Report,ea42e480,L,2021,False
+214,2021-09-19,Sun,MLS,Regular Season,Away,D 1–1,Vancouver,Colorado Rapids,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,10,28,35.7,30,6,43.3,37.3,15,100.0,65.9,10,1,10.0,0,14.8,Match Report,ea42e480,D,2021,False
+215,2021-09-25,Sat,MLS,Regular Season,Home,W 1–0,Vancouver,FC Dallas,Y,GK,90,5,0,5,100.0,1,1.5,1,0,1,0,13,26,50.0,34,4,64.7,47.9,6,66.7,56.0,8,0,0.0,0,12.2,Match Report,ea42e480,W,2021,False
+216,2021-09-29,Wed,MLS,Regular Season,Away,D 0–0,Vancouver,Houston Dynamo,Y*,GK,90,4,0,4,100.0,1,1.7,0,0,0,0,10,30,33.3,31,4,58.1,45.4,13,92.3,58.5,21,0,0.0,0,7.3,Match Report,ea42e480,D,2021,False
+217,2021-10-02,Sat,MLS,Regular Season,Home,W 3–0,Vancouver,San Jose,Y,GK,90,5,0,5,100.0,1,0.2,0,0,0,0,5,19,26.3,31,5,41.9,37.9,6,100.0,64.7,11,2,18.2,0,10.4,Match Report,ea42e480,W,2021,False
+218,2021-10-17,Sun,MLS,Regular Season,Home,W 2–1,Vancouver,Sporting KC,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,10,30,33.3,25,6,72.0,50.1,12,100.0,67.8,13,5,38.5,1,14.3,Match Report,ea42e480,W,2021,False
+219,2021-10-20,Wed,MLS,Regular Season,Away,W 3–2,Vancouver,Portland Timbers,Y,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,8,15,53.3,20,6,60.0,46.5,7,42.9,34.9,10,1,10.0,0,14.0,Match Report,ea42e480,W,2021,False
+220,2021-10-23,Sat,MLS,Regular Season,Away,D 1–1,Vancouver,San Jose,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,4,17,23.5,16,3,50.0,47.6,11,81.8,63.1,13,0,0.0,0,10.0,Match Report,ea42e480,D,2021,False
+221,2021-10-27,Wed,MLS,Regular Season,Home,W 2–1,Vancouver,Minnesota Utd,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,8,24,33.3,25,4,60.0,44.2,12,75.0,52.5,10,1,10.0,0,20.0,Match Report,ea42e480,W,2021,False
+222,2021-11-02,Tue,MLS,Regular Season,Away,D 1–1,Vancouver,Los Angeles FC,Y,GK,90,11,1,10,90.9,0,3.5,0,0,0,0,6,20,30.0,24,4,54.2,44.7,10,70.0,51.6,10,2,20.0,0,5.7,Match Report,ea42e480,D,2021,False
+223,2021-11-07,Sun,MLS,Regular Season,Home,D 1–1,Vancouver,Seattle,Y,GK,90,4,1,4,100.0,0,2.3,1,1,0,0,5,20,25.0,27,5,51.9,45.5,7,85.7,57.6,11,0,0.0,0,11.6,Match Report,ea42e480,D,2021,False
+224,2021-11-20,Sat,MLS,First Round,Away,L 1–3,Vancouver,Sporting KC,Y,GK,90,5,3,2,40.0,0,2.0,0,0,0,0,7,19,36.8,29,6,41.4,34.7,9,77.8,54.1,7,1,14.3,0,13.4,Match Report,ea42e480,L,2021,False
+225,2021-04-24,Sat,MLS,Regular Season,Away,L 0–5,FC Cincinnati,NYCFC,Y,GK,90,10,5,6,50.0,0,3.4,0,0,0,0,2,10,20.0,26,7,26.9,31.2,8,37.5,36.0,11,0,0.0,1,17.0,Match Report,aa133046,L,2021,True
+226,2021-11-07,Sun,MLS,Regular Season,Home,D 1–1,San Jose,FC Dallas,Y,GK,90,1,1,0,0.0,0,0.5,1,0,0,1,4,8,50.0,34,8,14.7,28.5,4,75.0,41.5,2,0,0.0,0,13.9,Match Report,6904a59a,D,2021,False
+227,2021-04-17,Sat,MLS,Regular Season,Home,W 4–2,CF Montréal,Toronto FC,Y,GK,90,2,2,1,50.0,0,1.9,2,1,1,0,5,7,71.4,27,6,18.5,27.6,11,18.2,24.5,7,1,14.3,1,12.2,Match Report,0d5c0218,W,2021,True
+228,2021-04-24,Sat,MLS,Regular Season,Away,D 2–2,CF Montréal,Nashville,Y,GK,90,8,2,6,75.0,0,1.3,0,0,0,0,7,15,46.7,25,6,40.0,37.0,8,62.5,41.6,9,1,11.1,1,13.0,Match Report,0d5c0218,D,2021,True
+229,2021-05-01,Sat,MLS,Regular Season,Home,D 0–0,CF Montréal,Columbus Crew,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,2,3,66.7,25,2,12.0,23.6,2,0.0,21.0,4,0,0.0,0,17.2,Match Report,0d5c0218,D,2021,True
+230,2021-05-08,Sat,MLS,Regular Season,Away,L 0–2,CF Montréal,Vancouver,Y,GK,90,3,2,2,66.7,0,1.8,1,1,0,0,2,4,50.0,14,2,14.3,19.8,7,28.6,32.3,3,0,0.0,1,18.3,Match Report,0d5c0218,L,2021,True
+231,2021-05-15,Sat,MLS,Regular Season,Away,L 0–1,CF Montréal,Atlanta Utd,Y,GK,90,2,1,1,50.0,0,0.3,0,0,0,0,0,4,0.0,16,2,12.5,30.9,6,33.3,29.8,6,0,0.0,0,10.3,Match Report,0d5c0218,L,2021,True
+232,2021-05-22,Sat,MLS,Regular Season,Home,L 1–2,CF Montréal,FC Cincinnati,Y,GK,90,4,2,2,50.0,0,1.6,0,0,0,0,5,5,100.0,22,5,18.2,23.1,5,20.0,28.8,2,0,0.0,0,11.2,Match Report,0d5c0218,L,2021,True
+233,2021-05-29,Sat,MLS,Regular Season,Away,W 1–0,CF Montréal,Chicago Fire,Y,GK,90,6,0,6,100.0,1,0.7,0,0,0,0,13,25,52.0,40,7,45.0,35.7,10,70.0,46.5,16,0,0.0,0,12.4,Match Report,0d5c0218,W,2021,True
+234,2021-06-23,Wed,MLS,Regular Season,Home,D 0–0,CF Montréal,D.C. United,Y,GK,90,5,0,5,100.0,1,1.5,0,0,0,0,7,13,53.8,34,4,23.5,30.0,11,45.5,30.7,11,1,9.1,1,16.9,Match Report,0d5c0218,D,2021,True
+235,2021-07-08,Thu,MLS,Regular Season,Away,D 1–1,Philadelphia,NY Red Bulls,Y,"GK,AM,FW",56,1,0,1,100.0,0,0.2,0,0,0,0,7,12,58.3,9,1,77.8,52.1,5,100.0,67.6,5,1,20.0,1,17.3,Match Report,2f49476c,D,2021,True
+236,2021-07-22,Thu,MLS,Regular Season,Away,L 1–2,Philadelphia,Orlando City,Y,GK,90,2,2,0,0.0,0,1.4,0,0,0,0,5,11,45.5,13,4,53.8,37.5,4,100.0,59.8,7,0,0.0,0,14.3,Match Report,2f49476c,L,2021,True
+237,2021-07-25,Sun,MLS,Regular Season,Away,D 1–1,Philadelphia,Inter Miami,Y,GK,90,7,1,6,85.7,0,0.5,0,0,0,0,1,4,25.0,15,7,13.3,24.9,6,33.3,41.2,14,0,0.0,0,12.8,Match Report,2f49476c,D,2021,True
+238,2021-10-09,Sat,MLS,Regular Season,Away,W 2–1,Philadelphia,FC Cincinnati,Y,GK,90,6,1,5,83.3,0,1.8,0,0,0,0,11,30,36.7,21,2,85.7,59.3,12,100.0,68.1,10,0,0.0,0,10.4,Match Report,2f49476c,W,2021,False
+239,2021-10-16,Sat,MLS,Regular Season,Away,D 2–2,Philadelphia,CF Montréal,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,5,18,27.8,21,4,57.1,45.9,6,100.0,60.5,7,1,14.3,0,11.7,Match Report,2f49476c,D,2021,False
+240,2021-10-27,Wed,MLS,Regular Season,Away,D 2–2,Philadelphia,Toronto FC,Y,GK,90,3,2,2,33.3,0,0.6,0,0,0,0,6,14,42.9,13,2,53.8,43.4,8,87.5,58.6,12,0,0.0,0,10.3,Match Report,2f49476c,D,2021,False
+241,2021-12-05,Sun,MLS,Conference Finals,Home,L 1–2,Philadelphia,NYCFC,Y,GK,90,5,2,3,60.0,0,2.6,0,0,0,0,12,24,50.0,20,0,95.0,56.0,5,100.0,59.4,6,1,16.7,0,14.8,Match Report,2f49476c,L,2021,False
+242,2021-04-16,Fri,MLS,Regular Season,Home,W 4–0,Seattle,Minnesota Utd,Y*,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,6,19,31.6,30,6,50.0,39.6,14,28.6,35.1,7,1,14.3,0,16.7,Match Report,1d0a0f3e,W,2021,True
+243,2021-04-24,Sat,MLS,Regular Season,Away,D 1–1,Seattle,Los Angeles FC,Y*,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,10,21,47.6,43,8,41.9,35.1,9,33.3,30.3,7,1,14.3,0,12.0,Match Report,1d0a0f3e,D,2021,True
+244,2021-05-02,Sun,MLS,Regular Season,Home,W 3–0,Seattle,LA Galaxy,Y*,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,7,14,50.0,22,5,45.5,36.7,7,57.1,44.1,13,2,15.4,0,12.8,Match Report,1d0a0f3e,W,2021,True
+245,2021-05-09,Sun,MLS,Regular Season,Away,W 2–1,Seattle,Portland Timbers,Y*,GK,90,4,1,3,75.0,0,0.6,2,0,1,1,5,11,45.5,24,8,37.5,37.6,6,33.3,37.3,11,1,9.1,0,6.7,Match Report,1d0a0f3e,W,2021,True
+246,2021-05-12,Wed,MLS,Regular Season,Away,W 1–0,Seattle,San Jose,Y*,"GK,WB",90,4,0,4,100.0,1,0.8,0,0,0,0,4,15,26.7,27,3,48.1,36.9,9,22.2,26.7,20,3,15.0,0,11.0,Match Report,1d0a0f3e,W,2021,True
+247,2021-09-11,Sat,MLS,Regular Season,Home,W 1–0,Seattle,Minnesota Utd,Y,GK,90,5,0,5,100.0,1,0.6,0,0,0,0,9,20,45.0,35,6,48.6,39.3,9,33.3,29.6,9,0,0.0,1,15.8,Match Report,1d0a0f3e,W,2021,False
+248,2021-09-18,Sat,MLS,Regular Season,Away,L 0–1,Seattle,Real Salt Lake,Y*,GK,90,4,1,3,75.0,0,1.5,0,0,0,0,7,13,53.8,12,3,66.7,45.0,14,35.7,29.6,8,0,0.0,1,13.5,Match Report,1d0a0f3e,L,2021,False
+249,2021-09-26,Sun,MLS,Regular Season,Away,W 2–1,Seattle,Sporting KC,Y*,GK,90,3,1,2,66.7,0,0.1,0,0,0,0,10,24,41.7,21,0,81.0,51.7,12,58.3,43.5,13,1,7.7,0,12.0,Match Report,1d0a0f3e,W,2021,False
+250,2021-09-29,Wed,MLS,Regular Season,Away,W 3–1,Seattle,San Jose,Y*,GK,90,3,1,3,66.7,0,0.5,0,0,0,0,12,21,57.1,23,2,73.9,49.1,6,66.7,39.5,11,1,9.1,0,11.0,Match Report,1d0a0f3e,W,2021,False
+251,2021-10-03,Sun,MLS,Regular Season,Home,W 3–0,Seattle,Colorado Rapids,Y*,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,9,18,50.0,39,8,41.0,37.0,7,28.6,26.1,10,2,20.0,0,11.6,Match Report,1d0a0f3e,W,2021,False
+252,2021-10-09,Sat,MLS,Regular Season,Home,W 4–1,Seattle,Vancouver,Y*,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,5,8,62.5,18,1,33.3,33.2,4,50.0,36.8,4,0,0.0,0,8.3,Match Report,1d0a0f3e,W,2021,False
+253,2021-10-16,Sat,MLS,Regular Season,Away,L 1–2,Seattle,Houston Dynamo,Y*,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,6,11,54.5,23,3,34.8,33.7,6,50.0,31.8,8,2,25.0,1,18.5,Match Report,1d0a0f3e,L,2021,False
+254,2021-10-20,Wed,MLS,Regular Season,Away,D 1–1,Seattle,Colorado Rapids,Y*,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,4,8,50.0,25,6,24.0,29.0,8,25.0,30.9,12,1,8.3,0,10.7,Match Report,1d0a0f3e,D,2021,False
+255,2021-10-23,Sat,MLS,Regular Season,Home,L 1–2,Seattle,Sporting KC,Y*,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,2,7,28.6,21,5,33.3,27.6,5,0.0,17.2,1,0,0.0,0,16.3,Match Report,1d0a0f3e,L,2021,False
+256,2021-10-26,Tue,MLS,Regular Season,Away,L 0–3,Seattle,Los Angeles FC,Y*,GK,90,6,3,3,50.0,0,1.9,0,0,0,0,1,5,20.0,16,3,25.0,29.4,9,11.1,19.4,2,0,0.0,1,15.3,Match Report,1d0a0f3e,L,2021,False
+257,2021-11-01,Mon,MLS,Regular Season,Home,D 1–1,Seattle,LA Galaxy,Y,GK,90,4,1,3,75.0,0,1.6,0,0,0,0,2,5,40.0,21,6,19.0,26.6,7,14.3,21.3,9,1,11.1,0,17.8,Match Report,1d0a0f3e,D,2021,False
+258,2021-11-07,Sun,MLS,Regular Season,Away,D 1–1,Seattle,Vancouver,Y*,GK,90,1,1,0,0.0,0,0.6,0,0,0,0,1,6,16.7,15,3,33.3,36.4,9,11.1,23.4,9,0,0.0,0,9.3,Match Report,1d0a0f3e,D,2021,False
+259,2021-11-23,Tue,MLS,First Round,Home,D 0 (5)–0 (6),Seattle,Real Salt Lake,Y*,GK,120,0,0,0,,1,0.0,0,0,0,0,2,4,50.0,16,4,25.0,29.1,5,0.0,18.4,6,1,16.7,0,6.8,Match Report,1d0a0f3e,D,2021,False
+260,2021-04-17,Sat,MLS,Regular Season,Home,D 0–0,Orlando City,Atlanta Utd,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,4,7,57.1,15,2,33.3,30.5,8,25.0,29.3,8,0,0.0,0,,Match Report,b76e1394,D,2021,True
+261,2021-04-23,Fri,MLS,Regular Season,Away,D 1–1,Orlando City,Sporting KC,Y,GK,90,5,1,4,80.0,0,0.4,0,0,0,0,4,12,33.3,18,6,22.2,23.6,11,72.7,49.0,13,0,0.0,0,10.8,Match Report,b76e1394,D,2021,True
+262,2021-05-01,Sat,MLS,Regular Season,Home,W 3–0,Orlando City,FC Cincinnati,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,1,3,33.3,20,5,10.0,22.4,9,11.1,24.4,8,0,0.0,1,16.1,Match Report,b76e1394,W,2021,True
+263,2021-05-08,Sat,MLS,Regular Season,Home,D 1–1,Orlando City,NYCFC,Y,GK,90,3,1,3,100.0,0,1.3,1,1,0,0,3,9,33.3,16,3,50.0,39.8,5,20.0,24.4,3,0,0.0,0,12.5,Match Report,b76e1394,D,2021,True
+264,2021-05-16,Sun,MLS,Regular Season,Away,W 1–0,Orlando City,D.C. United,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,10,20,50.0,14,2,78.6,55.6,16,56.3,45.4,8,0,0.0,0,12.0,Match Report,b76e1394,W,2021,True
+265,2021-05-22,Sat,MLS,Regular Season,Home,W 1–0,Orlando City,Toronto FC,Y,GK,90,5,0,5,100.0,1,0.6,0,0,0,0,2,12,16.7,22,3,45.5,34.2,10,20.0,27.4,14,0,0.0,1,13.7,Match Report,b76e1394,W,2021,True
+266,2021-05-29,Sat,MLS,Regular Season,Away,L 1–2,Orlando City,NY Red Bulls,Y,GK,90,7,2,5,71.4,0,2.5,0,0,0,0,3,14,21.4,21,5,42.9,39.9,10,50.0,38.3,13,1,7.7,1,16.0,Match Report,b76e1394,L,2021,True
+267,2021-07-17,Sat,MLS,Regular Season,Away,D 1–1,Orlando City,Toronto FC,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,2,4,50.0,23,9,17.4,28.3,7,0.0,16.0,5,1,20.0,0,10.4,Match Report,b76e1394,D,2021,True
+268,2021-07-22,Thu,MLS,Regular Season,Home,W 2–1,Orlando City,Philadelphia,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,4,12,33.3,24,5,37.5,37.9,16,18.8,25.1,14,2,14.3,0,11.3,Match Report,b76e1394,W,2021,True
+269,2021-07-25,Sun,MLS,Regular Season,Away,L 0–5,Orlando City,NYCFC,Y*,GK,90,14,5,9,64.3,0,4.3,0,0,0,0,7,18,38.9,27,9,40.7,37.6,12,58.3,44.4,6,0,0.0,1,11.5,Match Report,b76e1394,L,2021,True
+270,2021-08-27,Fri,MLS,Regular Season,Home,D 0–0,Orlando City,Inter Miami,Y,GK,90,2,0,2,100.0,1,0.9,0,0,0,0,1,2,50.0,13,5,15.4,21.6,1,0.0,26.0,6,0,0.0,0,12.0,Match Report,b76e1394,D,2021,False
+271,2021-09-15,Wed,MLS,Regular Season,Home,L 2–4,Orlando City,CF Montréal,Y,GK,90,7,4,3,42.9,0,3.6,0,0,0,0,5,8,62.5,14,1,57.1,37.4,6,0.0,14.3,5,0,0.0,1,23.0,Match Report,b76e1394,L,2021,False
+272,2021-09-19,Sun,MLS,Regular Season,Away,L 1–3,Orlando City,Philadelphia,Y,GK,90,7,3,5,71.4,0,3.1,1,1,0,0,6,11,54.5,24,6,41.7,36.9,5,20.0,33.4,11,1,9.1,2,20.5,Match Report,b76e1394,L,2021,False
+273,2021-09-25,Sat,MLS,Regular Season,Away,L 1–2,Orlando City,New England,Y,GK,90,1,2,0,-100.0,0,0.8,0,0,0,0,4,11,36.4,21,6,33.3,32.4,9,44.4,34.7,14,0,0.0,1,18.1,Match Report,b76e1394,L,2021,False
+274,2021-09-29,Wed,MLS,Regular Season,Away,D 2–2,Orlando City,Nashville,Y,GK,90,5,2,3,60.0,0,1.5,1,0,1,0,4,9,44.4,20,3,30.0,33.1,8,37.5,35.0,9,2,22.2,0,12.3,Match Report,b76e1394,D,2021,False
+275,2021-10-02,Sat,MLS,Regular Season,Home,W 2–1,Orlando City,D.C. United,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,4,8,50.0,18,4,44.4,33.0,5,0.0,11.8,6,0,0.0,0,9.0,Match Report,b76e1394,W,2021,False
+276,2021-10-16,Sat,MLS,Regular Season,Away,W 1–0,Orlando City,FC Cincinnati,Y,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,5,9,55.6,18,4,44.4,37.9,6,16.7,21.3,12,1,8.3,2,16.0,Match Report,b76e1394,W,2021,False
+277,2021-10-20,Wed,MLS,Regular Season,Home,D 1–1,Orlando City,CF Montréal,Y,GK,90,2,1,1,50.0,0,1.2,0,0,0,0,0,3,0.0,14,1,21.4,27.5,4,0.0,9.5,9,0,0.0,0,12.0,Match Report,b76e1394,D,2021,False
+278,2021-10-24,Sun,MLS,Regular Season,Home,D 2–2,Orlando City,New England,Y,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,5,12,41.7,12,2,58.3,40.6,9,55.6,41.7,8,2,25.0,0,11.5,Match Report,b76e1394,D,2021,False
+279,2021-10-27,Wed,MLS,Regular Season,Away,L 2–3,Orlando City,Columbus Crew,Y,GK,90,5,3,2,40.0,0,1.5,0,0,0,0,0,0,,7,3,0.0,20.4,8,0.0,19.8,5,0,0.0,0,13.3,Match Report,b76e1394,L,2021,False
+280,2021-10-31,Sun,MLS,Regular Season,Home,D 1–1,Orlando City,Nashville,Y,GK,90,7,1,6,85.7,0,1.4,0,0,0,0,3,6,50.0,20,7,30.0,30.1,6,0.0,19.0,3,0,0.0,1,15.0,Match Report,b76e1394,D,2021,False
+281,2021-11-07,Sun,MLS,Regular Season,Away,W 2–0,Orlando City,CF Montréal,Y,GK,90,3,0,3,100.0,1,1.4,0,0,0,0,10,19,52.6,17,4,76.5,50.0,7,85.7,53.6,9,2,22.2,0,6.3,Match Report,b76e1394,W,2021,False
+282,2021-11-23,Tue,MLS,First Round,Away,L 1–3,Orlando City,Nashville,Y,GK,90,6,3,3,50.0,0,1.4,0,0,0,0,10,13,76.9,23,2,43.5,36.2,3,100.0,56.7,5,1,20.0,0,12.0,Match Report,b76e1394,L,2021,False
+283,2021-09-04,Sat,MLS,Regular Season,Home,W 3–2,Orlando City,Columbus Crew,Y,GK,90,2,2,1,0.0,0,0.3,0,0,0,0,5,9,55.6,15,5,46.7,36.9,13,15.4,27.2,12,1,8.3,0,11.3,Match Report,0d3f30b9,W,2021,False
+284,2021-09-10,Fri,MLS,Regular Season,Away,L 0–3,Orlando City,Atlanta Utd,Y,GK,90,5,3,3,40.0,0,1.4,0,0,0,0,1,4,25.0,9,4,33.3,30.7,9,11.1,17.1,6,0,0.0,0,11.5,Match Report,0d3f30b9,L,2021,False
+285,2021-04-17,Sat,MLS,Regular Season,Away,D 0–0,Atlanta Utd,Orlando City,Y*,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,15,29,51.7,53,4,49.1,39.5,7,42.9,32.7,7,0,0.0,1,11.4,Match Report,d899e3bf,D,2021,True
+286,2021-04-24,Sat,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Chicago Fire,Y*,GK,90,5,1,3,80.0,0,1.0,0,0,0,0,17,29,58.6,43,8,60.5,40.2,4,75.0,42.8,4,0,0.0,0,8.3,Match Report,d899e3bf,W,2021,True
+287,2021-05-01,Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,New England,Y*,GK,90,5,2,4,80.0,0,2.6,1,1,0,0,4,11,36.4,43,5,20.9,30.8,5,40.0,28.4,7,0,0.0,0,14.3,Match Report,d899e3bf,L,2021,True
+288,2021-05-09,Sun,MLS,Regular Season,Away,D 1–1,Atlanta Utd,Inter Miami,Y*,GK,90,7,1,6,85.7,0,2.1,0,0,0,0,7,19,36.8,44,3,40.9,35.5,7,14.3,20.0,5,0,0.0,0,6.3,Match Report,d899e3bf,D,2021,True
+289,2021-05-15,Sat,MLS,Regular Season,Home,W 1–0,Atlanta Utd,CF Montréal,Y*,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,8,17,47.1,51,7,31.4,32.2,3,33.3,28.3,2,1,50.0,2,18.0,Match Report,d899e3bf,W,2021,True
+290,2021-05-23,Sun,MLS,Regular Season,Away,D 1–1,Atlanta Utd,Seattle,Y*,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,5,17,29.4,36,3,41.7,38.7,4,50.0,32.8,6,0,0.0,0,11.5,Match Report,d899e3bf,D,2021,True
+291,2021-05-29,Sat,MLS,Regular Season,Home,D 2–2,Atlanta Utd,Nashville,Y*,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,6,20,30.0,61,8,24.6,29.3,10,50.0,38.3,8,2,25.0,2,18.6,Match Report,d899e3bf,D,2021,True
+292,2021-06-20,Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,Philadelphia,Y*,GK,90,6,2,4,66.7,0,2.3,0,0,0,0,6,12,50.0,33,5,27.3,34.4,6,50.0,34.5,9,3,33.3,0,14.3,Match Report,d899e3bf,D,2021,True
+293,2021-06-23,Wed,MLS,Regular Season,Away,L 0–1,Atlanta Utd,NYCFC,Y*,GK,90,7,1,6,85.7,0,1.1,0,0,0,0,16,32,50.0,59,10,49.2,37.8,6,50.0,32.7,3,0,0.0,1,10.5,Match Report,d899e3bf,L,2021,True
+294,2021-06-27,Sun,MLS,Regular Season,Home,D 0–0,Atlanta Utd,NY Red Bulls,Y*,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,9,20,45.0,24,4,66.7,48.3,8,50.0,34.1,4,1,25.0,1,18.4,Match Report,d899e3bf,D,2021,True
+295,2021-07-03,Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Chicago Fire,Y*,GK,90,4,3,1,25.0,0,2.0,0,0,0,0,13,17,76.5,30,5,40.0,38.7,10,50.0,33.4,6,0,0.0,0,13.1,Match Report,d899e3bf,L,2021,True
+296,2021-08-04,Wed,MLS,Regular Season,Away,D 2–2,Atlanta Utd,CF Montréal,Y*,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,3,12,25.0,32,6,31.3,28.0,4,50.0,28.3,3,1,33.3,2,16.0,Match Report,d899e3bf,D,2021,True
+297,2021-08-07,Sat,MLS,Regular Season,Away,W 3–2,Atlanta Utd,Columbus Crew,Y*,GK,90,2,2,1,50.0,0,1.5,1,1,0,0,7,13,53.8,27,5,40.7,39.5,10,20.0,27.8,9,0,0.0,0,8.0,Match Report,d899e3bf,W,2021,True
+298,2021-08-15,Sun,MLS,Regular Season,Home,W 1–0,Atlanta Utd,Los Angeles FC,Y*,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,8,18,44.4,24,2,41.7,39.6,16,50.0,40.5,6,1,16.7,0,9.5,Match Report,d899e3bf,W,2021,True
+299,2021-08-18,Wed,MLS,Regular Season,Home,W 1–0,Atlanta Utd,Toronto FC,Y*,GK,90,3,0,3,100.0,1,0.7,0,0,0,0,7,16,43.8,31,5,38.7,35.4,10,40.0,32.9,8,1,12.5,0,9.4,Match Report,d899e3bf,W,2021,True
+300,2021-08-21,Sat,MLS,Regular Season,Away,W 2–1,Atlanta Utd,D.C. United,Y*,GK,90,8,1,7,87.5,0,2.6,0,0,0,0,13,30,43.3,36,4,58.3,47.2,16,56.3,39.6,15,0,0.0,0,11.0,Match Report,d899e3bf,W,2021,False
+301,2021-08-28,Sat,MLS,Regular Season,Home,L 0–2,Atlanta Utd,Nashville,Y*,GK,90,5,2,3,60.0,0,0.3,0,0,0,0,6,7,85.7,26,10,26.9,31.9,4,0.0,28.3,11,1,9.1,0,12.3,Match Report,d899e3bf,L,2021,False
+302,2021-09-10,Fri,MLS,Regular Season,Home,W 3–0,Atlanta Utd,Orlando City,Y*,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,9,23,39.1,40,9,50.0,40.5,6,50.0,34.2,11,3,27.3,0,14.8,Match Report,d899e3bf,W,2021,False
+303,2021-09-15,Wed,MLS,Regular Season,Home,W 4–0,Atlanta Utd,FC Cincinnati,Y*,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,5,8,62.5,25,7,24.0,34.0,6,33.3,41.5,9,0,0.0,0,10.0,Match Report,d899e3bf,W,2021,False
+304,2021-09-18,Sat,MLS,Regular Season,Home,W 3–2,Atlanta Utd,D.C. United,Y*,GK,90,5,2,3,60.0,0,2.2,0,0,0,0,9,28,32.1,46,8,47.8,42.4,6,100.0,57.3,11,4,36.4,0,15.0,Match Report,d899e3bf,W,2021,False
+305,2021-09-25,Sat,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Philadelphia,Y*,GK,90,9,1,8,88.9,0,0.7,0,0,0,0,8,11,72.7,24,9,25.0,32.0,11,45.5,37.8,11,2,18.2,1,15.8,Match Report,d899e3bf,L,2021,False
+306,2021-09-29,Wed,MLS,Regular Season,Home,W 1–0,Atlanta Utd,Inter Miami,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,5,9,55.6,20,4,20.0,30.1,8,62.5,43.4,5,1,20.0,0,10.8,Match Report,d899e3bf,W,2021,False
+307,2021-10-02,Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y*,GK,90,4,2,3,75.0,0,1.6,1,1,0,0,8,11,72.7,35,4,28.6,34.7,7,14.3,25.7,4,0,0.0,1,20.4,Match Report,d899e3bf,L,2021,False
+308,2021-10-16,Sat,MLS,Regular Season,Away,W 2–0,Atlanta Utd,Toronto FC,Y*,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,8,17,47.1,28,4,57.1,43.0,5,20.0,30.6,7,0,0.0,1,14.4,Match Report,d899e3bf,W,2021,False
+309,2021-10-20,Wed,MLS,Regular Season,Home,D 1–1,Atlanta Utd,NYCFC,Y*,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,14,26,53.8,27,1,70.4,49.1,10,70.0,51.2,9,0,0.0,2,16.2,Match Report,d899e3bf,D,2021,False
+310,2021-10-27,Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Inter Miami,Y*,GK,90,5,1,5,100.0,0,2.0,1,1,0,0,8,13,61.5,21,8,42.9,37.0,5,80.0,52.2,8,0,0.0,0,11.9,Match Report,d899e3bf,W,2021,False
+311,2021-10-30,Sat,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Toronto FC,Y*,GK,90,8,1,7,87.5,0,1.4,0,0,0,0,4,7,57.1,32,8,18.8,31.8,6,16.7,19.0,7,0,0.0,0,14.5,Match Report,d899e3bf,D,2021,False
+312,2021-11-03,Wed,MLS,Regular Season,Away,D 0–0,Atlanta Utd,NY Red Bulls,Y*,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,13,38,34.2,37,1,78.4,50.1,12,75.0,48.5,16,0,0.0,0,10.2,Match Report,d899e3bf,D,2021,False
+313,2021-11-07,Sun,MLS,Regular Season,Away,W 2–1,Atlanta Utd,FC Cincinnati,Y*,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,7,10,70.0,14,2,50.0,44.1,8,37.5,35.3,10,2,20.0,0,22.0,Match Report,d899e3bf,W,2021,False
+314,2021-11-21,Sun,MLS,First Round,Away,L 0–2,Atlanta Utd,NYCFC,Y*,GK,90,5,2,2,60.0,0,2.0,0,0,0,0,9,18,50.0,38,8,39.5,35.9,8,37.5,29.9,6,2,33.3,0,13.1,Match Report,d899e3bf,L,2021,False
+315,2021-05-29,Sat,MLS,Regular Season,Away,W 3–0,D.C. United,Inter Miami,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,1,12,8.3,12,3,58.3,44.1,7,71.4,52.1,6,0,0.0,0,11.3,Match Report,012fc030,W,2021,True
+316,2021-06-19,Sat,MLS,Regular Season,Home,W 1–0,D.C. United,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.7,0,0,0,0,1,1,100.0,11,3,9.1,22.6,5,0.0,26.0,9,1,11.1,2,21.0,Match Report,012fc030,W,2021,True
+317,2021-06-23,Wed,MLS,Regular Season,Away,D 0–0,D.C. United,CF Montréal,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,6,13,46.2,29,6,37.9,33.7,5,40.0,30.6,4,0,0.0,3,21.4,Match Report,012fc030,D,2021,True
+318,2021-06-27,Sun,MLS,Regular Season,Away,L 1–2,D.C. United,NYCFC,Y,GK,90,7,2,5,71.4,0,2.8,0,0,0,0,9,42,21.4,37,1,86.5,53.7,10,100.0,64.9,7,0,0.0,0,12.5,Match Report,012fc030,L,2021,True
+319,2021-07-03,Sat,MLS,Regular Season,Home,W 7–1,D.C. United,Toronto FC,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,6,15,40.0,21,5,47.6,40.0,9,55.6,41.1,7,0,0.0,1,14.8,Match Report,012fc030,W,2021,True
+320,2021-07-17,Sat,MLS,Regular Season,Away,L 1–2,D.C. United,Philadelphia,Y,GK,90,4,2,2,50.0,0,1.7,0,0,0,0,2,8,25.0,20,5,30.0,35.9,4,50.0,38.0,10,1,10.0,0,8.8,Match Report,012fc030,L,2021,True
+321,2021-07-21,Wed,MLS,Regular Season,Away,D 2–2,D.C. United,Chicago Fire,Y,GK,90,2,2,1,0.0,0,0.5,0,0,0,0,6,11,54.5,21,7,33.3,32.4,13,30.8,29.8,12,2,16.7,2,19.5,Match Report,012fc030,D,2021,True
+322,2021-07-25,Sun,MLS,Regular Season,Home,W 1–0,D.C. United,NY Red Bulls,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,8,19,42.1,16,2,75.0,55.3,9,77.8,54.3,12,1,8.3,1,14.4,Match Report,012fc030,W,2021,True
+323,2021-07-31,Sat,MLS,Regular Season,Away,D 0–0,D.C. United,FC Cincinnati,Y,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,3,14,21.4,17,5,35.3,38.9,12,66.7,54.1,12,2,16.7,2,15.4,Match Report,012fc030,D,2021,True
+324,2021-08-04,Wed,MLS,Regular Season,Away,W 4–2,D.C. United,Columbus Crew,Y,GK,16,1,0,1,100.0,0,0.1,0,0,0,0,0,0,,1,0,0.0,15.0,1,0.0,17.0,2,0,0.0,0,,Match Report,012fc030,W,2021,True
+325,2021-09-15,Wed,MLS,Regular Season,Home,W 3–0,D.C. United,Chicago Fire,Y,GK,90,1,0,1,100.0,1,0.7,0,0,0,0,6,14,42.9,25,5,40.0,41.6,11,36.4,35.6,12,2,16.7,1,12.8,Match Report,012fc030,W,2021,False
+326,2021-09-18,Sat,MLS,Regular Season,Away,L 2–3,D.C. United,Atlanta Utd,Y,GK,90,6,3,3,50.0,0,2.5,0,0,0,0,9,15,60.0,11,3,45.5,36.6,12,83.3,53.9,5,1,20.0,1,23.5,Match Report,012fc030,L,2021,False
+327,2021-09-25,Sat,MLS,Regular Season,Home,W 4–2,D.C. United,FC Cincinnati,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,6,13,46.2,14,3,42.9,38.5,10,70.0,52.1,8,0,0.0,1,19.7,Match Report,012fc030,W,2021,False
+328,2021-09-29,Wed,MLS,Regular Season,Home,W 3–1,D.C. United,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0.5,0,0,0,0,7,17,41.2,20,3,75.0,50.2,4,50.0,35.5,5,0,0.0,0,10.4,Match Report,012fc030,W,2021,False
+329,2021-10-02,Sat,MLS,Regular Season,Away,L 1–2,D.C. United,Orlando City,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,8,18,44.4,13,1,92.3,55.4,7,85.7,52.9,6,1,16.7,0,6.5,Match Report,012fc030,L,2021,False
+330,2021-10-16,Sat,MLS,Regular Season,Home,D 0–0,D.C. United,Nashville,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,3,9,33.3,18,4,27.8,31.8,8,50.0,38.1,8,1,12.5,1,14.2,Match Report,012fc030,D,2021,False
+331,2021-10-20,Wed,MLS,Regular Season,Home,L 2–3,D.C. United,New England,Y,GK,90,7,3,4,57.1,0,2.0,0,0,0,0,8,17,47.1,13,2,69.2,50.2,12,66.7,49.4,9,1,11.1,0,11.0,Match Report,012fc030,L,2021,False
+332,2021-10-23,Sat,MLS,Regular Season,Away,L 0–6,D.C. United,NYCFC,Y,GK,90,15,6,9,60.0,0,4.9,0,0,0,0,5,11,45.5,15,4,53.3,40.8,4,75.0,48.8,12,0,0.0,2,14.3,Match Report,012fc030,L,2021,False
+333,2021-10-27,Wed,MLS,Regular Season,Home,W 1–0,D.C. United,NY Red Bulls,Y,GK,90,5,0,5,100.0,1,0.4,0,0,0,0,13,33,39.4,22,2,86.4,65.5,14,100.0,66.8,7,0,0.0,1,12.0,Match Report,012fc030,W,2021,False
+334,2021-10-30,Sat,MLS,Regular Season,Home,L 1–3,D.C. United,Columbus Crew,Y,GK,90,8,3,6,75.0,0,2.9,1,1,0,0,5,11,45.5,14,7,35.7,39.1,11,54.5,38.5,11,3,27.3,1,14.6,Match Report,012fc030,L,2021,False
+335,2021-11-07,Sun,MLS,Regular Season,Away,W 3–1,D.C. United,Toronto FC,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,5,16,31.3,9,1,77.8,52.0,11,81.8,56.4,8,0,0.0,0,14.0,Match Report,012fc030,W,2021,False
+336,2021-07-07,Wed,MLS,Regular Season,Home,L 0–4,Vancouver,Real Salt Lake,Y,GK,90,7,4,4,57.1,0,3.9,1,1,0,0,4,7,57.1,17,6,29.4,32.9,4,50.0,38.5,12,1,8.3,0,14.4,Match Report,86bac87b,L,2021,True
+337,2021-07-17,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,LA Galaxy,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,3,10,30.0,23,3,39.1,34.6,7,14.3,30.0,7,0,0.0,0,16.0,Match Report,86bac87b,W,2021,True
+338,2021-07-20,Tue,MLS,Regular Season,Home,D 0–0,Vancouver,Houston Dynamo,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,10,21,47.6,27,6,48.1,38.4,11,72.7,53.7,5,0,0.0,0,13.6,Match Report,86bac87b,D,2021,True
+339,2021-07-24,Sat,MLS,Regular Season,Away,D 2–2,Vancouver,Los Angeles FC,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,3,10,30.0,32,11,31.3,35.2,2,0.0,16.5,6,0,0.0,0,11.7,Match Report,86bac87b,D,2021,True
+340,2021-07-31,Sat,MLS,Regular Season,Home,D 2–2,Vancouver,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,1.4,0,0,0,0,4,16,25.0,28,4,35.7,35.8,13,46.2,35.2,11,0,0.0,3,13.6,Match Report,86bac87b,D,2021,True
+341,2021-09-04,Sat,MLS,Regular Season,Home,W 2–1,Vancouver,Austin,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,1,2,50.0,18,3,11.1,25.0,3,0.0,21.7,13,0,0.0,0,13.7,Match Report,86bac87b,W,2021,False
+342,2021-10-09,Sat,MLS,Regular Season,Away,L 1–4,Vancouver,Seattle,Y,GK,90,9,4,5,55.6,0,2.6,0,0,0,0,4,14,28.6,34,5,29.4,32.9,9,44.4,35.9,7,1,14.3,1,19.7,Match Report,86bac87b,L,2021,False
+343,2021-10-03,Sun,MLS,Regular Season,Away,L 0–3,Colorado Rapids,Seattle,Y,GK,90,6,3,3,50.0,0,0.8,0,0,0,0,1,5,20.0,22,5,18.2,25.8,5,20.0,22.0,9,1,11.1,0,11.5,Match Report,c1205184,L,2021,False
+344,2021-06-23,Wed,MLS,Regular Season,Away,D 2–2,Portland Timbers,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,1.6,0,0,0,0,7,23,30.4,29,3,65.5,47.7,7,57.1,42.6,7,2,28.6,1,14.6,Match Report,4d6e50d8,D,2021,True
+345,2021-07-24,Sat,MLS,Regular Season,Away,L 1–2,Portland Timbers,Minnesota Utd,Y,GK,90,6,2,4,66.7,0,2.3,0,0,0,0,6,17,35.3,16,2,56.3,39.7,12,66.7,54.3,12,0,0.0,0,8.6,Match Report,4d6e50d8,L,2021,True
+346,2021-08-04,Wed,MLS,Regular Season,Home,D 1–1,Portland Timbers,San Jose,N,GK,51,5,0,5,100.0,0,1.6,0,0,0,0,4,6,66.7,14,2,21.4,23.1,7,42.9,33.6,4,0,0.0,0,17.0,Match Report,4d6e50d8,D,2021,True
+347,2021-08-07,Sat,MLS,Regular Season,Home,W 3–2,Portland Timbers,Real Salt Lake,Y,GK,90,10,2,8,80.0,0,3.5,0,0,0,0,8,19,42.1,17,2,82.4,59.8,8,62.5,51.8,10,0,0.0,0,9.3,Match Report,4d6e50d8,W,2021,True
+348,2021-08-15,Sun,MLS,Regular Season,Home,L 2–6,Portland Timbers,Seattle,Y,GK,90,8,6,2,25.0,0,3.5,0,0,0,0,1,5,20.0,11,3,27.3,27.2,4,50.0,47.5,4,0,0.0,0,7.3,Match Report,4d6e50d8,L,2021,True
+349,2021-04-17,Sat,MLS,Regular Season,Away,L 1–2,NYCFC,D.C. United,Y*,GK,90,4,2,2,50.0,0,1.0,0,0,0,0,4,11,36.4,21,1,28.6,31.9,12,41.7,40.3,8,0,0.0,3,23.2,Match Report,c164335e,L,2021,True
+350,2021-04-24,Sat,MLS,Regular Season,Home,W 5–0,NYCFC,FC Cincinnati,Y*,GK,90,5,0,5,100.0,1,1.6,0,0,0,0,3,5,60.0,25,2,20.0,28.4,3,0.0,11.3,7,0,0.0,2,21.3,Match Report,c164335e,W,2021,True
+351,2021-05-01,Sat,MLS,Regular Season,Away,W 2–0,NYCFC,Philadelphia,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,2,2,100.0,14,2,14.3,27.9,5,0.0,16.2,8,0,0.0,0,5.5,Match Report,c164335e,W,2021,True
+352,2021-05-08,Sat,MLS,Regular Season,Away,D 1–1,NYCFC,Orlando City,Y*,GK,90,5,1,4,80.0,0,1.3,0,0,0,0,2,7,28.6,20,6,25.0,34.4,8,25.0,24.4,8,0,0.0,0,10.0,Match Report,c164335e,D,2021,True
+353,2021-05-15,Sat,MLS,Regular Season,Home,D 1–1,NYCFC,Toronto FC,Y*,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,1,3,33.3,18,4,16.7,30.5,7,0.0,21.6,8,0,0.0,1,14.8,Match Report,c164335e,D,2021,True
+354,2021-05-22,Sat,MLS,Regular Season,Home,L 1–2,NYCFC,Columbus Crew,Y*,GK,90,3,2,1,33.3,0,0.6,0,0,0,0,4,14,28.6,16,2,50.0,42.0,11,54.5,46.2,8,0,0.0,0,7.3,Match Report,c164335e,L,2021,True
+355,2021-05-29,Sat,MLS,Regular Season,Away,W 2–1,NYCFC,Los Angeles FC,Y*,GK,90,5,1,4,80.0,0,1.6,0,0,0,0,4,9,44.4,27,11,18.5,22.5,9,44.4,36.7,9,1,11.1,0,11.4,Match Report,c164335e,W,2021,True
+356,2021-06-19,Sat,MLS,Regular Season,Home,L 2–3,NYCFC,New England,Y*,GK,90,5,3,2,40.0,0,2.1,0,0,0,0,9,14,64.3,20,1,35.0,33.2,9,77.8,47.9,8,0,0.0,0,15.5,Match Report,c164335e,L,2021,True
+357,2021-06-23,Wed,MLS,Regular Season,Home,W 1–0,NYCFC,Atlanta Utd,Y*,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,4,9,44.4,23,5,26.1,28.9,6,50.0,34.7,11,1,9.1,0,11.0,Match Report,c164335e,W,2021,True
+358,2021-06-27,Sun,MLS,Regular Season,Home,W 2–1,NYCFC,D.C. United,Y*,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,2,6,33.3,30,8,20.0,32.7,7,0.0,18.4,5,2,40.0,1,13.9,Match Report,c164335e,W,2021,True
+359,2021-08-04,Wed,MLS,Regular Season,Away,D 0–0,NYCFC,Chicago Fire,Y*,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,1,11,9.1,23,3,39.1,38.1,6,33.3,35.3,18,2,11.1,0,12.7,Match Report,c164335e,D,2021,True
+360,2021-08-07,Sat,MLS,Regular Season,Away,D 2–2,NYCFC,Toronto FC,Y*,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,4,12,33.3,26,5,42.3,36.4,3,33.3,29.3,7,0,0.0,0,12.6,Match Report,c164335e,D,2021,True
+361,2021-08-14,Sat,MLS,Regular Season,Home,W 2–0,NYCFC,Inter Miami,Y*,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,4,9,44.4,21,4,33.3,31.4,3,66.7,45.7,9,1,11.1,0,11.0,Match Report,c164335e,W,2021,True
+362,2021-08-18,Wed,MLS,Regular Season,Away,L 0–1,NYCFC,Philadelphia,Y*,GK,90,2,1,1,50.0,0,1.1,0,0,0,0,3,5,60.0,19,7,10.5,24.6,6,50.0,29.0,12,1,8.3,1,12.5,Match Report,c164335e,L,2021,True
+363,2021-08-28,Sat,MLS,Regular Season,Home,W 2–0,NYCFC,New England,Y*,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,16,22,72.7,19,7,57.9,38.3,14,78.6,52.6,10,1,10.0,1,14.5,Match Report,c164335e,W,2021,False
+364,2021-09-03,Fri,MLS,Regular Season,Away,L 1–3,NYCFC,Nashville,Y*,GK,90,7,3,5,57.1,0,1.4,0,0,0,0,3,4,75.0,11,5,27.3,36.2,6,16.7,30.3,6,0,0.0,0,18.0,Match Report,c164335e,L,2021,False
+365,2021-09-11,Sat,MLS,Regular Season,Away,L 1–2,NYCFC,New England,Y*,GK,90,5,2,3,60.0,0,1.7,0,0,0,0,5,11,45.5,30,6,20.0,28.8,9,55.6,38.9,13,1,7.7,2,19.4,Match Report,c164335e,L,2021,False
+366,2021-09-14,Tue,MLS,Regular Season,Home,D 3–3,NYCFC,FC Dallas,Y*,GK,90,6,3,3,50.0,0,2.1,0,0,0,0,3,6,50.0,20,4,20.0,24.9,4,50.0,41.3,9,0,0.0,1,14.7,Match Report,c164335e,D,2021,False
+367,2021-09-18,Sat,MLS,Regular Season,Away,W 2–1,NYCFC,FC Cincinnati,Y*,GK,90,3,1,1,66.7,0,2.0,0,0,0,0,5,12,41.7,16,3,43.8,41.1,9,55.6,50.2,6,0,0.0,0,13.8,Match Report,c164335e,W,2021,False
+368,2021-09-22,Wed,MLS,Regular Season,Away,D 1–1,NYCFC,NY Red Bulls,Y*,GK,90,3,1,3,100.0,0,1.0,1,1,0,0,2,15,13.3,21,3,38.1,46.2,9,77.8,56.3,4,0,0.0,0,12.8,Match Report,c164335e,D,2021,False
+369,2021-09-25,Sat,MLS,Regular Season,Home,L 0–1,NYCFC,NY Red Bulls,Y*,GK,90,6,1,5,83.3,0,1.7,0,0,0,0,3,9,33.3,39,7,12.8,26.7,11,36.4,34.5,3,0,0.0,1,12.7,Match Report,c164335e,L,2021,False
+370,2021-09-29,Wed,MLS,Regular Season,Away,L 0–2,NYCFC,Chicago Fire,Y*,GK,90,5,2,3,60.0,0,0.8,0,0,0,0,5,12,41.7,22,5,50.0,35.4,6,16.7,23.7,11,1,9.1,0,13.1,Match Report,c164335e,L,2021,False
+371,2021-10-03,Sun,MLS,Regular Season,Home,D 0–0,NYCFC,Nashville,Y*,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,3,11,27.3,20,4,25.0,30.8,10,60.0,43.6,9,0,0.0,1,15.2,Match Report,c164335e,D,2021,False
+372,2021-10-17,Sun,MLS,Regular Season,Away,L 0–1,NYCFC,NY Red Bulls,Y*,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,7,22,31.8,24,7,66.7,50.0,11,54.5,44.6,5,1,20.0,1,13.6,Match Report,c164335e,L,2021,False
+373,2021-10-20,Wed,MLS,Regular Season,Away,D 1–1,NYCFC,Atlanta Utd,Y*,GK,90,7,1,6,85.7,0,0.9,0,0,0,0,7,14,50.0,19,7,36.8,32.5,7,100.0,55.6,8,0,0.0,0,12.6,Match Report,c164335e,D,2021,False
+374,2021-10-23,Sat,MLS,Regular Season,Home,W 6–0,NYCFC,D.C. United,Y*,GK,90,3,0,3,100.0,1,1.0,0,0,0,0,3,12,25.0,20,4,40.0,36.5,5,80.0,67.0,12,1,8.3,0,4.0,Match Report,c164335e,W,2021,False
+375,2021-10-27,Wed,MLS,Regular Season,Home,W 1–0,NYCFC,Chicago Fire,Y*,GK,90,5,0,5,100.0,1,0.6,0,0,0,0,7,11,63.6,24,6,29.2,29.3,11,36.4,28.8,12,2,16.7,0,11.1,Match Report,c164335e,W,2021,False
+376,2021-10-30,Sat,MLS,Regular Season,Away,W 3–1,NYCFC,Inter Miami,Y*,GK,90,4,1,2,75.0,0,1.8,0,0,0,0,2,4,50.0,23,3,4.3,23.7,6,50.0,43.3,11,0,0.0,0,13.7,Match Report,c164335e,W,2021,False
+377,2021-11-07,Sun,MLS,Regular Season,Home,D 1–1,NYCFC,Philadelphia,Y*,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,5,10,50.0,27,5,29.6,32.9,4,50.0,36.5,12,0,0.0,1,12.1,Match Report,c164335e,D,2021,False
+378,2021-11-21,Sun,MLS,First Round,Home,W 2–0,NYCFC,Atlanta Utd,Y*,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,6,14,42.9,19,8,36.8,34.8,8,87.5,61.6,9,2,22.2,0,8.2,Match Report,c164335e,W,2021,False
+379,2021-11-30,Tue,MLS,Conference Semifinals,Away,D 2 (5)–2 (3),NYCFC,New England,Y*,GK,120,4,2,2,50.0,0,1.9,0,0,0,0,16,30,53.3,35,5,42.9,36.7,18,83.3,56.8,26,4,15.4,1,16.0,Match Report,c164335e,D,2021,False
+380,2021-12-05,Sun,MLS,Conference Finals,Away,W 2–1,NYCFC,Philadelphia,Y*,GK,90,3,1,3,66.7,0,0.4,0,0,0,0,4,9,44.4,29,7,24.1,28.4,6,33.3,34.3,6,0,0.0,0,11.3,Match Report,c164335e,W,2021,False
+381,2021-12-11,Sat,MLS,MLS Cup,Away,D 1 (4)–1 (2),NYCFC,Portland Timbers,Y*,GK,120,4,1,3,75.0,0,1.8,0,0,0,0,8,21,38.1,32,5,53.1,46.3,7,57.1,39.6,19,1,5.3,1,11.6,Match Report,c164335e,D,2021,False
+382,2021-07-08,Thu,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,GK,90,7,2,6,85.7,0,2.9,1,1,0,0,7,20,35.0,34,5,47.1,38.9,8,50.0,38.8,10,1,10.0,0,15.3,Match Report,4a8af93c,D,2021,True
+383,2021-07-17,Sat,MLS,Regular Season,Home,L 0–1,Atlanta Utd,New England,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,11,21,52.4,39,3,46.2,35.7,7,42.9,27.6,6,0,0.0,0,16.3,Match Report,4a8af93c,L,2021,True
+384,2021-07-21,Wed,MLS,Regular Season,Away,D 1–1,Atlanta Utd,FC Cincinnati,Y,GK,90,6,1,5,83.3,0,2.0,0,0,0,0,5,14,35.7,34,5,35.3,31.9,6,33.3,32.5,4,0,0.0,1,15.7,Match Report,4a8af93c,D,2021,True
+385,2021-07-24,Sat,MLS,Regular Season,Home,L 0–1,Atlanta Utd,Columbus Crew,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,1,2,50.0,24,9,8.3,25.3,3,0.0,27.7,5,0,0.0,0,12.1,Match Report,4a8af93c,L,2021,True
+386,2021-07-30,Fri,MLS,Regular Season,Away,L 2–3,Atlanta Utd,Orlando City,Y,GK,90,10,3,7,70.0,0,2.6,0,0,0,0,8,23,34.8,42,7,47.6,39.8,5,60.0,46.2,5,0,0.0,1,12.9,Match Report,4a8af93c,L,2021,True
+387,2021-05-13,Thu,MLS,Regular Season,Home,W 1–0,D.C. United,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,6,15,40.0,18,4,55.6,43.0,12,41.7,33.6,13,0,0.0,0,7.2,Match Report,063adc5e,W,2021,True
+388,2021-05-16,Sun,MLS,Regular Season,Home,L 0–1,D.C. United,Orlando City,Y,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,4,15,26.7,22,4,45.5,37.7,7,71.4,50.0,6,0,0.0,0,13.4,Match Report,063adc5e,L,2021,True
+389,2021-05-23,Sun,MLS,Regular Season,Home,L 0–1,D.C. United,Philadelphia,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,4,5,80.0,21,10,19.0,35.4,6,16.7,20.0,9,1,11.1,0,13.5,Match Report,063adc5e,L,2021,True
+390,2021-08-04,Wed,MLS,Regular Season,Away,W 4–2,D.C. United,Columbus Crew,N,GK,74,4,2,2,50.0,0,2.0,0,0,0,0,7,17,41.2,13,1,84.6,58.0,6,100.0,72.2,11,2,18.2,0,6.0,Match Report,063adc5e,W,2021,True
+391,2021-08-08,Sun,MLS,Regular Season,Home,W 2–1,D.C. United,CF Montréal,Y,GK,90,2,1,1,50.0,0,0.3,0,0,0,0,8,16,50.0,26,7,50.0,37.5,5,60.0,43.4,5,1,20.0,2,18.5,Match Report,063adc5e,W,2021,True
+392,2021-08-15,Sun,MLS,Regular Season,Away,L 2–5,D.C. United,Nashville,Y,GK,90,5,5,1,20.0,0,3.2,1,1,0,0,2,6,33.3,9,4,33.3,31.0,8,37.5,33.4,11,0,0.0,0,16.0,Match Report,063adc5e,L,2021,True
+393,2021-08-18,Wed,MLS,Regular Season,Away,L 2–3,D.C. United,New England,Y,GK,90,6,3,3,50.0,0,2.3,0,0,0,0,7,17,41.2,15,4,66.7,45.3,8,87.5,58.0,14,0,0.0,0,13.8,Match Report,063adc5e,L,2021,True
+394,2021-08-21,Sat,MLS,Regular Season,Home,L 1–2,D.C. United,Atlanta Utd,Y,GK,90,4,2,2,50.0,0,1.7,0,0,0,0,6,11,54.5,20,8,30.0,33.6,7,71.4,49.9,9,0,0.0,1,15.6,Match Report,063adc5e,L,2021,False
+395,2021-08-28,Sat,MLS,Regular Season,Home,W 3–1,D.C. United,Philadelphia,Y,GK,90,2,1,2,50.0,0,0.1,0,0,0,0,14,21,66.7,22,9,59.1,44.1,9,88.9,52.4,17,2,11.8,1,13.3,Match Report,063adc5e,W,2021,False
+396,2021-09-11,Sat,MLS,Regular Season,Away,D 1–1,D.C. United,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,12,24,50.0,26,5,76.9,51.1,7,57.1,46.6,4,0,0.0,1,16.0,Match Report,063adc5e,D,2021,False
+397,2021-05-15,Sat,MLS,Regular Season,Away,W 2–0,Portland Timbers,San Jose,Y,GK,90,2,0,2,100.0,1,1.6,1,0,1,0,12,24,50.0,23,2,60.9,45.7,15,66.7,50.2,18,1,5.6,0,10.8,Match Report,927c3059,W,2021,True
+398,2021-05-22,Sat,MLS,Regular Season,Home,W 3–0,Portland Timbers,LA Galaxy,Y,GK,90,3,0,3,100.0,1,1.0,0,0,0,0,6,9,66.7,18,7,33.3,34.0,7,42.9,31.9,9,0,0.0,0,14.3,Match Report,927c3059,W,2021,True
+399,2021-05-30,Sun,MLS,Regular Season,Away,L 0–3,Portland Timbers,Philadelphia,Y,GK,90,5,3,2,40.0,0,2.3,0,0,0,0,2,8,25.0,15,3,33.3,29.7,11,27.3,29.5,15,1,6.7,0,12.0,Match Report,927c3059,L,2021,True
+400,2021-08-14,Sat,MLS,Regular Season,Away,W 1–0,LA Galaxy,Minnesota Utd,Y,GK,90,6,0,5,100.0,1,2.0,0,0,0,0,8,18,44.4,52,2,30.8,30.3,7,28.6,31.9,11,0,0.0,1,13.3,Match Report,1e29552f,W,2021,True
+401,2021-09-15,Wed,MLS,Regular Season,Home,D 1–1,LA Galaxy,Houston Dynamo,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,2,6,33.3,18,5,27.8,29.2,3,33.3,31.0,7,0,0.0,1,21.7,Match Report,1e29552f,D,2021,False
+402,2021-09-18,Sat,MLS,Regular Season,Away,L 0–3,LA Galaxy,Minnesota Utd,Y,GK,90,3,3,0,0.0,0,0.7,0,0,0,0,3,5,60.0,21,4,19.0,25.8,8,12.5,19.9,2,0,0.0,0,11.2,Match Report,1e29552f,L,2021,False
+403,2021-07-07,Wed,MLS,Regular Season,Home,L 2–3,New England,Toronto FC,Y,GK,90,7,3,4,57.1,0,2.0,0,0,0,0,3,4,75.0,18,9,22.2,30.7,7,0.0,19.9,6,1,16.7,2,17.9,Match Report,9903a3cb,L,2021,True
+404,2021-07-17,Sat,MLS,Regular Season,Away,W 1–0,New England,Atlanta Utd,Y,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,9,22,40.9,21,5,71.4,51.5,9,77.8,60.6,11,1,9.1,0,15.0,Match Report,9903a3cb,W,2021,True
+405,2021-07-21,Wed,MLS,Regular Season,Away,W 5–0,New England,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,5,16,31.3,18,4,61.1,48.9,11,45.5,43.5,15,0,0.0,0,7.0,Match Report,9903a3cb,W,2021,True
+406,2021-07-25,Sun,MLS,Regular Season,Home,W 2–1,New England,CF Montréal,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,9,27,33.3,28,7,57.1,48.8,11,100.0,68.3,7,0,0.0,1,9.6,Match Report,9903a3cb,W,2021,True
+407,2021-07-31,Sat,MLS,Regular Season,Away,W 3–2,New England,NY Red Bulls,Y,GK,90,3,2,1,33.3,0,1.1,0,0,0,0,7,16,43.8,14,1,71.4,53.0,6,100.0,66.7,11,0,0.0,0,16.0,Match Report,9903a3cb,W,2021,True
+408,2021-09-03,Fri,MLS,Regular Season,Away,W 1–0,New England,Philadelphia,Y,GK,90,8,0,8,100.0,1,0.2,0,0,0,0,10,18,55.6,15,2,86.7,52.6,6,83.3,52.3,24,0,0.0,0,13.0,Match Report,9903a3cb,W,2021,False
+409,2021-05-29,Sat,MLS,Regular Season,Home,D 1–1,Real Salt Lake,Minnesota Utd,Y,GK,90,1,1,0,0.0,0,0.4,0,0,0,0,8,24,33.3,40,9,40.0,36.8,8,100.0,71.3,8,4,50.0,1,13.9,Match Report,06caac45,D,2021,True
+410,2021-07-31,Sat,MLS,Regular Season,Away,D 0–0,Real Salt Lake,Houston Dynamo,Y,GK,90,4,0,4,100.0,1,0.3,0,0,0,0,8,22,36.4,36,5,50.0,41.1,4,100.0,66.0,15,3,20.0,0,8.7,Match Report,06caac45,D,2021,True
+411,2021-08-04,Wed,MLS,Regular Season,Away,L 0–1,Real Salt Lake,LA Galaxy,Y,GK,90,8,1,7,87.5,0,1.2,0,0,0,0,10,13,76.9,23,4,52.2,40.7,5,20.0,30.0,5,0,0.0,0,13.5,Match Report,06caac45,L,2021,True
+412,2021-08-07,Sat,MLS,Regular Season,Away,L 2–3,Real Salt Lake,Portland Timbers,Y,GK,90,2,3,0,0.0,0,2.1,1,1,0,0,3,12,25.0,18,1,38.9,37.9,12,41.7,42.2,5,0,0.0,2,23.5,Match Report,06caac45,L,2021,True
+413,2021-08-14,Sat,MLS,Regular Season,Home,W 1–0,Real Salt Lake,Austin,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,6,22,27.3,25,1,64.0,46.1,11,54.5,49.5,17,0,0.0,1,12.2,Match Report,06caac45,W,2021,True
+414,2021-08-18,Wed,MLS,Regular Season,Home,W 2–1,Real Salt Lake,Houston Dynamo,Y,GK,90,2,1,1,50.0,0,1.0,0,0,0,0,13,28,46.4,26,5,61.5,43.1,14,85.7,57.6,14,2,14.3,0,9.0,Match Report,06caac45,W,2021,True
+415,2021-08-21,Sat,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Colorado Rapids,Y,GK,45,2,0,2,100.0,0,0.3,0,0,0,0,2,9,22.2,17,3,41.2,36.1,3,66.7,57.7,7,1,14.3,0,10.3,Match Report,06caac45,L,2021,False
+416,2021-04-16,Fri,MLS,Regular Season,Away,L 1–2,San Jose,Houston Dynamo,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,3,17,17.6,32,7,43.8,40.3,12,25.0,30.3,10,0,0.0,1,9.9,Match Report,977791f4,L,2021,True
+417,2021-04-24,Sat,MLS,Regular Season,Home,W 3–1,San Jose,FC Dallas,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,6,15,40.0,27,3,51.9,40.3,12,8.3,22.7,8,0,0.0,1,13.8,Match Report,977791f4,W,2021,True
+418,2021-05-01,Sat,MLS,Regular Season,Home,W 4–1,San Jose,D.C. United,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,7,18,38.9,25,5,48.0,40.6,10,60.0,38.4,5,0,0.0,0,18.3,Match Report,977791f4,W,2021,True
+419,2021-05-07,Fri,MLS,Regular Season,Away,W 2–1,San Jose,Real Salt Lake,Y,GK,90,4,1,3,75.0,0,0.5,0,0,0,0,5,11,45.5,27,8,29.6,30.8,11,27.3,36.2,13,2,15.4,2,16.4,Match Report,977791f4,W,2021,True
+420,2021-05-12,Wed,MLS,Regular Season,Home,L 0–1,San Jose,Seattle,Y,GK,90,1,1,0,0.0,0,0.1,0,0,0,0,7,16,43.8,17,2,58.8,48.5,13,46.2,43.5,8,0,0.0,0,12.0,Match Report,977791f4,L,2021,True
+421,2021-05-15,Sat,MLS,Regular Season,Home,L 0–2,San Jose,Portland Timbers,Y,GK,90,5,2,3,60.0,0,1.8,0,0,0,0,8,13,61.5,23,2,47.8,37.0,10,20.0,26.1,3,0,0.0,0,25.0,Match Report,977791f4,L,2021,True
+422,2021-05-22,Sat,MLS,Regular Season,Home,L 1–3,San Jose,Sporting KC,Y,GK,90,7,3,4,57.1,0,3.2,0,0,0,0,8,15,53.3,36,10,38.9,33.4,7,14.3,27.9,1,1,100.0,0,16.4,Match Report,977791f4,L,2021,True
+423,2021-05-29,Sat,MLS,Regular Season,Away,L 0–1,San Jose,LA Galaxy,Y,GK,90,7,1,7,85.7,0,1.4,0,0,0,0,8,14,57.1,30,9,46.7,40.7,7,0.0,13.6,5,0,0.0,1,14.4,Match Report,977791f4,L,2021,True
+424,2021-06-19,Sat,MLS,Regular Season,Away,D 0–0,San Jose,Austin,Y,GK,90,6,0,6,100.0,1,1.6,0,0,0,0,3,13,23.1,23,6,43.5,37.8,7,42.9,37.6,7,2,28.6,0,19.0,Match Report,977791f4,D,2021,True
+425,2021-06-22,Tue,MLS,Regular Season,Away,L 0–5,San Jose,Orlando City,Y,GK,90,7,5,3,42.9,0,3.2,1,1,0,0,14,16,87.5,32,6,40.6,35.6,7,42.9,36.0,4,1,25.0,1,14.7,Match Report,977791f4,L,2021,True
+426,2021-06-26,Sat,MLS,Regular Season,Home,L 1–3,San Jose,LA Galaxy,Y,GK,90,3,3,1,0.0,0,1.3,0,0,0,0,4,8,50.0,23,7,26.1,30.5,8,25.0,35.1,8,0,0.0,2,17.0,Match Report,977791f4,L,2021,True
+427,2021-07-03,Sat,MLS,Regular Season,Away,D 2–2,San Jose,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,1.7,1,0,1,0,10,20,50.0,22,6,59.1,42.5,8,87.5,56.3,1,1,100.0,0,13.3,Match Report,977791f4,D,2021,True
+428,2021-07-17,Sat,MLS,Regular Season,Away,D 1–1,San Jose,Colorado Rapids,Y,GK,90,2,1,1,50.0,0,0.2,0,0,0,0,13,27,48.1,37,10,48.6,39.7,16,56.3,42.9,7,1,14.3,0,10.1,Match Report,977791f4,D,2021,True
+429,2021-07-21,Wed,MLS,Regular Season,Away,D 1–1,San Jose,Sporting KC,Y,GK,90,7,1,6,85.7,0,2.1,0,0,0,0,6,11,54.5,25,5,28.0,31.1,9,44.4,32.6,12,0,0.0,0,8.0,Match Report,977791f4,D,2021,True
+430,2021-07-24,Sat,MLS,Regular Season,Home,D 1–1,San Jose,Houston Dynamo,Y,GK,90,5,1,4,80.0,0,1.1,0,0,0,0,7,15,46.7,31,7,38.7,35.2,5,60.0,41.2,7,0,0.0,3,19.4,Match Report,977791f4,D,2021,True
+431,2021-07-31,Sat,MLS,Regular Season,Away,W 1–0,San Jose,Seattle,Y,GK,90,3,0,3,100.0,1,1.1,0,0,0,0,10,22,45.5,24,5,66.7,49.9,7,85.7,55.1,10,0,0.0,0,11.5,Match Report,977791f4,W,2021,True
+432,2021-08-04,Wed,MLS,Regular Season,Away,D 1–1,San Jose,Portland Timbers,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,11,31,35.5,30,4,70.0,52.6,17,58.8,48.4,16,1,6.3,0,9.0,Match Report,977791f4,D,2021,True
+433,2021-08-08,Sun,MLS,Regular Season,Home,W 2–1,San Jose,Los Angeles FC,Y,GK,90,6,1,6,83.3,0,1.2,0,0,0,0,19,27,70.4,23,4,73.9,48.6,11,90.9,57.3,4,0,0.0,2,16.1,Match Report,977791f4,W,2021,True
+434,2021-08-13,Fri,MLS,Regular Season,Home,D 0–0,San Jose,Vancouver,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,7,16,43.8,25,7,48.0,40.0,5,80.0,49.2,6,1,16.7,1,18.0,Match Report,977791f4,D,2021,True
+435,2021-08-17,Tue,MLS,Regular Season,Home,D 1–1,San Jose,Minnesota Utd,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,6,22,27.3,18,1,66.7,53.7,11,90.9,62.9,9,1,11.1,0,10.0,Match Report,977791f4,D,2021,True
+436,2021-08-20,Fri,MLS,Regular Season,Away,W 2–1,San Jose,LA Galaxy,Y,GK,90,4,1,3,75.0,0,0.4,0,0,0,0,5,14,35.7,23,4,30.4,33.3,7,100.0,64.4,6,1,16.7,0,8.7,Match Report,977791f4,W,2021,True
+437,2021-09-04,Sat,MLS,Regular Season,Home,L 0–1,San Jose,Colorado Rapids,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,8,18,44.4,25,5,48.0,39.6,8,75.0,57.5,6,2,33.3,0,15.0,Match Report,977791f4,L,2021,False
+438,2021-09-11,Sat,MLS,Regular Season,Away,D 1–1,San Jose,FC Dallas,Y,GK,90,7,1,6,85.7,0,1.4,0,0,0,0,11,19,57.9,22,6,45.5,37.2,13,69.2,45.7,6,0,0.0,0,17.2,Match Report,977791f4,D,2021,False
+439,2021-09-15,Wed,MLS,Regular Season,Home,L 3–4,San Jose,Real Salt Lake,Y,GK,90,13,4,9,69.2,0,1.7,0,0,0,0,7,15,46.7,27,4,40.7,39.5,4,100.0,55.8,4,0,0.0,1,14.3,Match Report,977791f4,L,2021,False
+440,2021-09-18,Sat,MLS,Regular Season,Away,W 4–3,San Jose,Austin,Y,GK,90,10,3,7,70.0,0,3.0,0,0,0,0,4,11,36.4,20,7,35.0,39.2,4,100.0,67.3,5,1,20.0,2,13.5,Match Report,977791f4,W,2021,False
+441,2021-09-25,Sat,MLS,Regular Season,Home,W 2–0,San Jose,Los Angeles FC,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,9,24,37.5,23,6,69.6,53.1,9,88.9,57.2,6,0,0.0,2,15.4,Match Report,977791f4,W,2021,False
+442,2021-09-29,Wed,MLS,Regular Season,Home,L 1–3,San Jose,Seattle,Y,GK,90,4,3,2,50.0,0,2.0,1,1,0,0,9,15,60.0,28,7,42.9,37.3,6,50.0,38.8,4,0,0.0,3,17.3,Match Report,977791f4,L,2021,False
+443,2021-10-02,Sat,MLS,Regular Season,Away,L 0–3,San Jose,Vancouver,Y,GK,90,6,3,3,50.0,0,3.0,0,0,0,0,11,20,55.0,22,3,59.1,41.7,10,70.0,47.5,7,0,0.0,0,9.0,Match Report,977791f4,L,2021,False
+444,2021-10-16,Sat,MLS,Regular Season,Away,L 1–3,San Jose,Los Angeles FC,Y,GK,90,4,3,2,50.0,0,2.3,1,1,0,0,6,14,42.9,25,2,44.0,37.3,11,27.3,29.3,3,0,0.0,2,20.7,Match Report,977791f4,L,2021,False
+445,2021-10-20,Wed,MLS,Regular Season,Home,W 4–0,San Jose,Austin,Y,GK,90,4,0,4,100.0,1,0.2,0,0,0,0,13,20,65.0,24,2,62.5,45.5,8,62.5,48.6,8,0,0.0,0,,Match Report,977791f4,W,2021,False
+446,2021-10-23,Sat,MLS,Regular Season,Home,D 1–1,San Jose,Vancouver,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,14,24,58.3,33,4,66.7,47.8,3,66.7,44.3,6,1,16.7,1,17.6,Match Report,977791f4,D,2021,False
+447,2021-10-27,Wed,MLS,Regular Season,Away,L 0–2,San Jose,Portland Timbers,Y,GK,90,12,2,10,83.3,0,3.8,0,0,0,0,10,14,71.4,29,8,34.5,31.4,8,50.0,40.3,7,1,14.3,1,16.5,Match Report,977791f4,L,2021,False
+448,2021-10-30,Sat,MLS,Regular Season,Away,W 4–3,San Jose,Real Salt Lake,Y,GK,90,9,3,6,66.7,0,3.4,0,0,0,0,9,21,42.9,27,6,55.6,45.6,9,66.7,53.4,10,0,0.0,1,11.0,Match Report,977791f4,W,2021,False
+449,2021-04-16,Fri,MLS,Regular Season,Home,W 2–1,Houston Dynamo,San Jose,Y,GK,90,4,1,3,75.0,0,0.4,0,0,0,0,3,15,20.0,16,2,68.8,50.6,6,66.7,49.8,4,0,0.0,0,11.8,Match Report,b57454c7,W,2021,True
+450,2021-04-24,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Portland Timbers,Y,GK,90,5,2,3,60.0,0,1.8,0,0,0,0,8,18,44.4,19,2,42.1,38.0,15,66.7,48.9,10,0,0.0,1,15.8,Match Report,b57454c7,L,2021,True
+451,2021-05-01,Sat,MLS,Regular Season,Home,D 1–1,Houston Dynamo,Los Angeles FC,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,7,24,29.2,16,2,100.0,66.4,10,80.0,61.9,10,0,0.0,0,14.7,Match Report,b57454c7,D,2021,True
+452,2021-05-08,Sat,MLS,Regular Season,Away,D 1–1,Houston Dynamo,FC Dallas,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,1,11,9.1,22,5,40.9,37.0,10,20.0,27.4,2,0,0.0,0,8.6,Match Report,b57454c7,D,2021,True
+453,2021-05-12,Wed,MLS,Regular Season,Home,W 1–0,Houston Dynamo,Sporting KC,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,4,19,21.1,25,8,48.0,42.8,10,70.0,53.9,12,0,0.0,0,9.8,Match Report,b57454c7,W,2021,True
+454,2021-05-15,Sat,MLS,Regular Season,Away,L 1–3,Houston Dynamo,Colorado Rapids,Y,GK,90,6,3,3,50.0,0,2.6,0,0,0,0,3,9,33.3,16,6,37.5,35.0,10,30.0,30.0,11,1,9.1,1,14.3,Match Report,b57454c7,L,2021,True
+455,2021-05-22,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Vancouver,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,3,10,30.0,12,5,50.0,39.9,9,44.4,43.6,8,2,25.0,0,14.3,Match Report,b57454c7,W,2021,True
+456,2021-05-29,Sat,MLS,Regular Season,Away,L 2–3,Houston Dynamo,Sporting KC,Y,GK,90,8,3,6,75.0,0,3.1,1,1,0,0,5,16,31.3,15,7,66.7,48.2,11,54.5,43.5,14,1,7.1,0,10.2,Match Report,b57454c7,L,2021,True
+457,2021-06-19,Sat,MLS,Regular Season,Away,D 1–1,Houston Dynamo,Los Angeles FC,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,5,20,25.0,18,6,61.1,49.9,12,75.0,55.4,5,1,20.0,0,15.0,Match Report,b57454c7,D,2021,True
+458,2021-06-23,Wed,MLS,Regular Season,Home,D 2–2,Houston Dynamo,Portland Timbers,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,2,9,22.2,11,1,45.5,43.8,11,36.4,36.9,15,0,0.0,0,12.0,Match Report,b57454c7,D,2021,True
+459,2021-06-26,Sat,MLS,Regular Season,Away,D 1–1,Houston Dynamo,Real Salt Lake,Y,GK,90,7,1,6,85.7,0,1.8,0,0,0,0,2,16,12.5,17,5,47.1,41.8,11,72.7,61.6,14,1,7.1,1,16.8,Match Report,b57454c7,D,2021,True
+460,2021-07-03,Sat,MLS,Regular Season,Home,D 1–1,Houston Dynamo,FC Cincinnati,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,5,6,83.3,14,5,21.4,26.8,6,50.0,40.2,1,0,0.0,1,15.0,Match Report,b57454c7,D,2021,True
+461,2021-07-07,Wed,MLS,Regular Season,Away,L 0–2,Houston Dynamo,Seattle,Y,GK,90,7,2,4,71.4,0,2.2,0,0,0,0,5,14,35.7,18,5,38.9,36.5,13,53.8,40.5,10,0,0.0,2,18.1,Match Report,b57454c7,L,2021,True
+462,2021-07-20,Tue,MLS,Regular Season,Away,D 0–0,Houston Dynamo,Vancouver,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,3,13,23.1,15,3,53.3,46.0,12,41.7,39.3,8,0,0.0,0,18.5,Match Report,b57454c7,D,2021,True
+463,2021-07-24,Sat,MLS,Regular Season,Away,D 1–1,Houston Dynamo,San Jose,Y,GK,90,2,1,2,50.0,0,0.1,0,0,0,0,5,12,41.7,10,1,60.0,47.6,7,85.7,56.1,9,0,0.0,0,15.3,Match Report,b57454c7,D,2021,True
+464,2021-07-31,Sat,MLS,Regular Season,Home,D 0–0,Houston Dynamo,Real Salt Lake,Y,GK,90,4,0,3,100.0,1,0.4,0,0,0,0,2,7,28.6,11,0,36.4,35.7,6,50.0,43.7,7,0,0.0,0,,Match Report,b57454c7,D,2021,True
+465,2021-08-04,Wed,MLS,Regular Season,Away,L 2–3,Houston Dynamo,Austin,Y,GK,90,4,3,2,25.0,0,1.3,0,0,0,0,4,14,28.6,14,5,42.9,31.7,14,57.1,48.9,15,0,0.0,1,14.7,Match Report,b57454c7,L,2021,True
+466,2021-08-07,Sat,MLS,Regular Season,Away,L 0–2,Houston Dynamo,Minnesota Utd,Y,GK,90,6,2,4,66.7,0,2.4,0,0,0,0,1,2,50.0,15,7,13.3,32.7,5,0.0,16.8,5,1,20.0,0,9.7,Match Report,b57454c7,L,2021,True
+467,2021-08-14,Sat,MLS,Regular Season,Home,L 1–3,Houston Dynamo,Colorado Rapids,Y,GK,90,6,3,3,50.0,0,1.8,0,0,0,0,0,4,0.0,16,6,25.0,26.9,8,0.0,16.1,8,0,0.0,1,18.8,Match Report,b57454c7,L,2021,True
+468,2021-08-18,Wed,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,2.6,0,0,0,0,6,16,37.5,17,3,52.9,42.0,9,77.8,51.8,6,0,0.0,0,13.8,Match Report,b57454c7,L,2021,True
+469,2021-08-21,Sat,MLS,Regular Season,Home,D 2–2,Houston Dynamo,FC Dallas,Y,GK,90,6,2,4,66.7,0,1.0,0,0,0,0,4,9,44.4,17,6,35.3,35.6,8,37.5,43.5,4,0,0.0,0,14.5,Match Report,b57454c7,D,2021,False
+470,2021-10-24,Sun,MLS,Regular Season,Away,L 1–2,Houston Dynamo,Austin,Y,GK,90,6,2,5,66.7,0,1.8,1,0,0,1,3,5,60.0,22,9,18.2,25.3,7,14.3,25.0,6,1,16.7,1,10.2,Match Report,b57454c7,L,2021,False
+471,2021-07-21,Wed,MLS,Regular Season,Home,L 0–5,Inter Miami,New England,Y,GK,90,11,5,6,54.5,0,4.2,0,0,0,0,8,11,72.7,16,7,37.5,33.3,6,83.3,49.8,4,0,0.0,0,10.1,Match Report,f352799f,L,2021,True
+472,2021-07-25,Sun,MLS,Regular Season,Home,D 1–1,Inter Miami,Philadelphia,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,5,13,38.5,18,4,44.4,37.6,10,50.0,42.4,12,0,0.0,0,11.8,Match Report,f352799f,D,2021,True
+473,2021-07-31,Sat,MLS,Regular Season,Home,W 2–1,Inter Miami,CF Montréal,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,6,18,33.3,20,4,60.0,43.7,12,50.0,45.0,6,0,0.0,0,10.8,Match Report,f352799f,W,2021,True
+474,2021-08-04,Wed,MLS,Regular Season,Away,D 1–1,Inter Miami,Orlando City,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,10,16,62.5,24,1,41.7,37.8,10,60.0,47.0,6,0,0.0,0,13.0,Match Report,f352799f,D,2021,True
+475,2021-08-08,Sun,MLS,Regular Season,Home,W 2–1,Inter Miami,Nashville,Y,GK,90,2,1,1,50.0,0,0.2,0,0,0,0,4,9,44.4,22,4,27.3,32.8,5,60.0,52.6,7,1,14.3,2,16.3,Match Report,f352799f,W,2021,True
+476,2021-08-14,Sat,MLS,Regular Season,Away,L 0–2,Inter Miami,NYCFC,Y,GK,90,2,2,1,50.0,0,1.9,1,1,0,0,8,16,50.0,33,6,36.4,37.0,8,50.0,42.4,7,0,0.0,3,18.2,Match Report,f352799f,L,2021,True
+477,2021-08-18,Wed,MLS,Regular Season,Home,W 3–2,Inter Miami,Chicago Fire,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,5,6,83.3,19,6,21.1,30.4,4,50.0,34.5,4,1,25.0,0,12.3,Match Report,f352799f,W,2021,True
+478,2021-08-21,Sat,MLS,Regular Season,Home,W 3–1,Inter Miami,Toronto FC,Y,GK,90,2,1,2,50.0,0,0.9,0,0,0,0,6,10,60.0,18,7,38.9,35.0,5,60.0,51.0,9,0,0.0,0,13.4,Match Report,f352799f,W,2021,False
+479,2021-08-27,Fri,MLS,Regular Season,Away,D 0–0,Inter Miami,Orlando City,Y,GK,90,1,0,1,100.0,1,1.0,1,0,1,0,2,11,18.2,23,5,30.4,33.8,12,33.3,32.8,12,1,8.3,0,9.8,Match Report,f352799f,D,2021,False
+480,2021-09-04,Sat,MLS,Regular Season,Away,W 1–0,Inter Miami,FC Cincinnati,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,11,12,91.7,29,10,27.6,33.1,5,80.0,47.0,8,2,25.0,2,17.3,Match Report,f352799f,W,2021,False
+481,2021-09-11,Sat,MLS,Regular Season,Home,W 1–0,Inter Miami,Columbus Crew,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,4,5,80.0,22,5,13.6,26.4,6,33.3,35.2,11,1,9.1,0,9.8,Match Report,f352799f,W,2021,False
+482,2021-09-14,Tue,MLS,Regular Season,Away,W 1–0,Inter Miami,Toronto FC,Y,GK,90,4,0,4,100.0,1,0.8,0,0,0,0,3,3,100.0,17,3,17.6,25.7,5,0.0,20.6,6,0,0.0,3,22.8,Match Report,f352799f,W,2021,False
+483,2021-09-17,Fri,MLS,Regular Season,Home,L 0–4,Inter Miami,NY Red Bulls,Y,GK,90,8,4,4,50.0,0,1.7,0,0,0,0,5,18,27.8,49,4,30.6,33.4,11,27.3,31.7,9,0,0.0,3,15.8,Match Report,f352799f,L,2021,False
+484,2021-09-22,Wed,MLS,Regular Season,Home,L 1–5,Inter Miami,Nashville,Y,GK,90,9,5,4,44.4,0,3.2,0,0,0,0,4,4,100.0,23,4,17.4,30.9,6,0.0,27.2,8,0,0.0,0,14.0,Match Report,f352799f,L,2021,False
+485,2021-09-29,Wed,MLS,Regular Season,Away,L 0–1,Inter Miami,Atlanta Utd,Y,GK,90,6,1,6,100.0,0,1.4,1,1,0,0,8,12,66.7,21,5,47.6,36.9,10,20.0,30.1,10,0,0.0,0,12.3,Match Report,f352799f,L,2021,False
+486,2021-10-03,Sun,MLS,Regular Season,Away,L 0–1,Inter Miami,Portland Timbers,Y,GK,90,3,1,2,66.7,0,1.4,0,0,0,0,6,10,60.0,22,8,36.4,32.1,6,33.3,32.2,17,1,5.9,1,17.5,Match Report,f352799f,L,2021,False
+487,2021-10-09,Sat,MLS,Regular Season,Away,L 0–1,Inter Miami,NY Red Bulls,Y,GK,90,5,1,4,80.0,0,2.0,0,0,0,0,6,27,22.2,42,6,57.1,45.2,8,37.5,40.5,8,1,12.5,5,20.4,Match Report,f352799f,L,2021,False
+488,2021-10-16,Sat,MLS,Regular Season,Away,L 0–4,Inter Miami,Columbus Crew,Y,GK,90,5,4,2,20.0,0,2.9,0,0,0,0,11,18,61.1,34,8,44.1,37.7,8,37.5,38.8,14,2,14.3,1,17.5,Match Report,f352799f,L,2021,False
+489,2021-10-20,Wed,MLS,Regular Season,Home,W 3–0,Inter Miami,Toronto FC,Y,GK,90,4,0,4,100.0,1,0.4,0,0,0,0,4,7,57.1,23,5,21.7,30.8,5,40.0,27.8,10,0,0.0,0,12.8,Match Report,f352799f,W,2021,False
+490,2021-10-23,Sat,MLS,Regular Season,Home,W 5–1,Inter Miami,FC Cincinnati,Y,GK,90,8,1,7,87.5,0,1.5,0,0,0,0,4,8,50.0,26,5,26.9,32.0,5,20.0,22.2,5,0,0.0,2,18.2,Match Report,f352799f,W,2021,False
+491,2021-10-27,Wed,MLS,Regular Season,Away,L 1–2,Inter Miami,Atlanta Utd,Y,GK,90,8,2,6,75.0,0,2.0,0,0,0,0,8,15,53.3,22,9,59.1,42.2,3,66.7,43.0,12,0,0.0,4,20.3,Match Report,f352799f,L,2021,False
+492,2021-10-30,Sat,MLS,Regular Season,Home,L 1–3,Inter Miami,NYCFC,Y,GK,29,0,0,0,,0,0.0,0,0,0,0,0,2,0.0,8,1,12.5,24.5,4,25.0,27.3,1,0,0.0,1,16.8,Match Report,f352799f,L,2021,False
+493,2021-04-17,Sat,MLS,Regular Season,Home,D 0–0,FC Dallas,Colorado Rapids,Y,GK,90,6,0,6,100.0,1,1.8,0,0,0,0,1,2,50.0,23,6,4.3,21.5,5,20.0,34.2,7,0,0.0,1,12.4,Match Report,ca1c6f3d,D,2021,True
+494,2021-04-24,Sat,MLS,Regular Season,Away,L 1–3,FC Dallas,San Jose,Y,GK,60,3,3,1,33.3,0,3.9,2,1,1,0,2,4,50.0,12,4,33.3,29.2,2,0.0,12.5,6,0,0.0,0,10.7,Match Report,ca1c6f3d,L,2021,True
+495,2021-05-22,Sat,MLS,Regular Season,Home,D 2–2,FC Dallas,Real Salt Lake,Y,GK,90,3,2,1,33.3,0,1.5,0,0,0,0,4,5,80.0,21,5,23.8,26.5,9,0.0,11.9,5,0,0.0,0,10.6,Match Report,ca1c6f3d,D,2021,True
+496,2021-05-29,Sat,MLS,Regular Season,Away,L 0–3,FC Dallas,Colorado Rapids,Y,GK,90,4,3,2,25.0,0,1.7,1,0,1,0,3,4,75.0,18,4,16.7,28.9,8,12.5,19.4,5,1,20.0,1,12.0,Match Report,ca1c6f3d,L,2021,True
+497,2021-06-19,Sat,MLS,Regular Season,Home,D 1–1,FC Dallas,Minnesota Utd,Y,GK,90,7,1,6,85.7,0,1.4,0,0,0,0,7,9,77.8,22,6,31.8,30.0,7,28.6,28.9,9,1,11.1,1,17.7,Match Report,ca1c6f3d,D,2021,True
+498,2021-06-23,Wed,MLS,Regular Season,Away,L 0–2,FC Dallas,Los Angeles FC,Y,GK,90,8,2,6,75.0,0,3.0,0,0,0,0,2,8,25.0,22,4,27.3,28.5,11,18.2,26.5,4,0,0.0,1,15.3,Match Report,ca1c6f3d,L,2021,True
+499,2021-06-27,Sun,MLS,Regular Season,Home,W 2–1,FC Dallas,New England,Y,GK,90,5,1,4,80.0,0,1.1,0,0,0,0,17,28,60.7,25,1,72.0,52.9,13,76.9,54.2,16,1,6.3,0,8.8,Match Report,ca1c6f3d,W,2021,True
+500,2021-07-04,Sun,MLS,Regular Season,Home,D 2–2,FC Dallas,Vancouver,Y,GK,90,2,2,0,0.0,0,1.6,0,0,0,0,0,5,0.0,14,2,35.7,33.9,3,0.0,32.0,4,0,0.0,0,8.3,Match Report,ca1c6f3d,D,2021,True
+501,2021-07-07,Wed,MLS,Regular Season,Away,L 1–3,FC Dallas,LA Galaxy,Y,GK,90,5,3,2,40.0,0,2.3,0,0,0,0,1,3,33.3,17,0,17.6,29.2,5,0.0,17.0,8,0,0.0,1,17.0,Match Report,ca1c6f3d,L,2021,True
+502,2021-07-17,Sat,MLS,Regular Season,Away,L 0–1,FC Dallas,Portland Timbers,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,1,7,14.3,16,2,18.8,27.2,6,66.7,53.5,10,0,0.0,0,10.7,Match Report,ca1c6f3d,L,2021,True
+503,2021-07-21,Wed,MLS,Regular Season,Away,L 0–2,FC Dallas,Colorado Rapids,Y,GK,90,5,2,3,60.0,0,0.9,0,0,0,0,2,4,50.0,21,2,14.3,26.8,9,11.1,21.0,6,1,16.7,0,10.7,Match Report,ca1c6f3d,L,2021,True
+504,2021-07-24,Sat,MLS,Regular Season,Home,W 4–0,FC Dallas,LA Galaxy,Y,GK,90,3,0,3,100.0,1,0.9,0,0,0,0,4,8,50.0,18,2,22.2,30.4,13,30.8,33.0,9,0,0.0,1,22.0,Match Report,ca1c6f3d,W,2021,True
+505,2021-07-31,Sat,MLS,Regular Season,Away,W 2–1,FC Dallas,Sporting KC,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,5,16,31.3,28,4,46.4,38.2,13,23.1,30.8,17,1,5.9,0,14.3,Match Report,ca1c6f3d,W,2021,True
+506,2021-08-04,Wed,MLS,Regular Season,Away,D 1–1,FC Dallas,Seattle,Y,GK,90,6,1,4,83.3,0,2.6,0,0,0,0,1,11,9.1,27,3,37.0,33.8,9,11.1,22.1,17,0,0.0,0,11.3,Match Report,ca1c6f3d,D,2021,True
+507,2021-08-07,Sat,MLS,Regular Season,Home,W 2–0,FC Dallas,Austin,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,5,10,50.0,28,4,28.6,34.1,12,16.7,26.3,14,0,0.0,0,7.2,Match Report,ca1c6f3d,W,2021,True
+508,2021-08-14,Sat,MLS,Regular Season,Home,L 0–2,FC Dallas,Sporting KC,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,3,7,42.9,27,9,25.9,26.2,2,0.0,23.0,4,1,25.0,0,8.7,Match Report,ca1c6f3d,L,2021,True
+509,2021-08-18,Wed,MLS,Regular Season,Home,L 0–1,FC Dallas,Seattle,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,3,4,75.0,18,3,11.1,23.9,7,28.6,29.6,3,0,0.0,1,28.0,Match Report,ca1c6f3d,L,2021,True
+510,2021-08-21,Sat,MLS,Regular Season,Away,D 2–2,FC Dallas,Houston Dynamo,Y,GK,90,3,2,2,66.7,0,1.4,1,1,0,0,4,18,22.2,40,8,37.5,35.6,7,42.9,44.1,13,0,0.0,2,12.9,Match Report,ca1c6f3d,D,2021,False
+511,2021-09-25,Sat,MLS,Regular Season,Away,L 0–1,FC Dallas,Vancouver,Y,GK,90,5,1,4,80.0,0,0.4,0,0,0,0,3,6,50.0,13,4,30.8,32.5,11,18.2,28.4,10,0,0.0,1,20.7,Match Report,ca1c6f3d,L,2021,False
+512,2021-09-29,Wed,MLS,Regular Season,Home,L 1–3,FC Dallas,Sporting KC,Y,GK,90,6,3,4,66.7,0,2.2,1,1,0,0,4,7,57.1,26,7,26.9,27.1,6,0.0,12.5,5,1,20.0,1,15.9,Match Report,ca1c6f3d,L,2021,False
+513,2021-10-23,Sat,MLS,Regular Season,Away,D 2–2,FC Dallas,LA Galaxy,Y,GK,90,4,2,3,75.0,0,1.9,1,1,0,0,4,12,33.3,22,1,40.9,35.4,12,25.0,28.0,11,1,9.1,0,9.0,Match Report,ca1c6f3d,D,2021,False
+514,2021-10-27,Wed,MLS,Regular Season,Home,L 1–2,FC Dallas,Real Salt Lake,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,5,11,45.5,22,2,36.4,36.9,7,42.9,37.7,16,0,0.0,0,6.5,Match Report,ca1c6f3d,L,2021,False
+515,2021-10-30,Sat,MLS,Regular Season,Home,W 2–1,FC Dallas,Austin,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,0,2,0.0,21,4,9.5,25.7,9,0.0,17.3,3,0,0.0,1,18.7,Match Report,ca1c6f3d,W,2021,False
+516,2021-11-07,Sun,MLS,Regular Season,Away,D 1–1,FC Dallas,San Jose,Y,GK,90,7,1,6,85.7,0,2.2,0,0,0,0,6,9,66.7,18,4,22.2,28.6,7,71.4,51.1,11,0,0.0,1,17.0,Match Report,ca1c6f3d,D,2021,False
+517,2021-04-18,Sun,MLS,Regular Season,Home,L 2–3,Inter Miami,LA Galaxy,Y,GK,90,5,3,2,40.0,0,1.8,0,0,0,0,3,5,60.0,14,4,14.3,27.1,6,50.0,37.8,10,1,10.0,0,4.0,Match Report,249362e9,L,2021,True
+518,2021-04-24,Sat,MLS,Regular Season,Away,W 2–1,Inter Miami,Philadelphia,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,4,12,33.3,19,6,47.4,36.9,7,42.9,40.6,17,2,11.8,0,8.0,Match Report,249362e9,W,2021,True
+519,2021-05-02,Sun,MLS,Regular Season,Away,D 0–0,Inter Miami,Nashville,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,3,11,27.3,21,5,28.6,34.3,11,45.5,34.6,13,1,7.7,1,12.1,Match Report,249362e9,D,2021,True
+520,2021-05-09,Sun,MLS,Regular Season,Home,D 1–1,Inter Miami,Atlanta Utd,Y,GK,90,5,1,4,80.0,0,0.8,0,0,0,0,8,13,61.5,20,5,55.0,38.6,10,20.0,26.0,6,0,0.0,0,18.3,Match Report,249362e9,D,2021,True
+521,2021-05-12,Wed,MLS,Regular Season,Home,L 0–2,Inter Miami,CF Montréal,Y,GK,90,4,2,2,50.0,0,1.2,0,0,0,0,4,8,50.0,14,3,42.9,34.1,5,40.0,34.2,3,1,33.3,0,16.3,Match Report,249362e9,L,2021,True
+522,2021-05-16,Sun,MLS,Regular Season,Away,W 3–2,Inter Miami,FC Cincinnati,Y,GK,90,5,2,3,60.0,0,2.3,0,0,0,0,2,13,15.4,23,6,30.4,33.8,10,60.0,45.7,15,0,0.0,0,9.2,Match Report,249362e9,W,2021,True
+523,2021-05-22,Sat,MLS,Regular Season,Away,L 0–1,Inter Miami,Chicago Fire,Y,GK,90,6,1,5,83.3,0,0.4,0,0,0,0,4,20,20.0,29,8,44.8,37.8,14,50.0,41.3,11,1,9.1,0,10.8,Match Report,249362e9,L,2021,True
+524,2021-05-29,Sat,MLS,Regular Season,Home,L 0–3,Inter Miami,D.C. United,Y,GK,90,3,3,0,0.0,0,1.7,0,0,0,0,0,8,0.0,18,5,22.2,32.7,11,36.4,34.1,7,0,0.0,0,14.0,Match Report,249362e9,L,2021,True
+525,2021-06-19,Sat,MLS,Regular Season,Away,L 0–1,Inter Miami,D.C. United,Y,GK,90,2,1,2,100.0,0,1.7,1,1,0,0,10,27,37.0,22,5,63.6,46.5,13,100.0,66.2,18,2,11.1,1,14.0,Match Report,249362e9,L,2021,True
+526,2021-06-25,Fri,MLS,Regular Season,Home,L 1–2,Inter Miami,Orlando City,Y,GK,90,5,2,3,60.0,0,1.5,0,0,0,0,2,6,33.3,10,0,30.0,36.2,6,50.0,43.5,4,0,0.0,2,22.3,Match Report,249362e9,L,2021,True
+527,2021-07-03,Sat,MLS,Regular Season,Away,L 0–1,Inter Miami,CF Montréal,Y,GK,90,5,1,4,80.0,0,0.9,0,0,0,0,7,14,50.0,18,6,50.0,35.9,9,55.6,41.6,8,3,37.5,0,14.6,Match Report,249362e9,L,2021,True
+528,2021-10-30,Sat,MLS,Regular Season,Home,L 1–3,Inter Miami,NYCFC,N,GK,61,4,3,1,25.0,0,1.9,0,0,0,0,0,2,0.0,15,5,13.3,21.7,4,0.0,20.0,5,0,0.0,1,15.4,Match Report,249362e9,L,2021,False
+529,2021-11-07,Sun,MLS,Regular Season,Away,W 1–0,Inter Miami,New England,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,9,18,50.0,17,5,58.8,43.6,10,80.0,50.0,32,4,12.5,0,9.0,Match Report,249362e9,W,2021,False
+530,2021-04-24,Sat,MLS,Regular Season,Away,L 1–3,FC Dallas,San Jose,N,GK,30,1,0,1,100.0,0,0.1,0,0,0,0,0,1,0.0,7,2,14.3,22.9,5,0.0,11.4,2,0,0.0,0,10.5,Match Report,73aaa27d,L,2021,True
+531,2021-05-01,Sat,MLS,Regular Season,Home,W 4–1,FC Dallas,Portland Timbers,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,3,9,33.3,28,4,25.0,30.2,7,28.6,28.9,11,2,18.2,0,13.3,Match Report,73aaa27d,W,2021,True
+532,2021-05-08,Sat,MLS,Regular Season,Home,D 1–1,FC Dallas,Houston Dynamo,Y,GK,90,4,1,4,100.0,0,1.5,1,1,0,0,2,9,22.2,29,8,13.8,23.9,13,38.5,36.5,11,0,0.0,1,13.1,Match Report,73aaa27d,D,2021,True
+533,2021-05-15,Sat,MLS,Regular Season,Away,L 0–1,FC Dallas,Minnesota Utd,Y,GK,90,6,1,5,83.3,0,1.4,0,0,0,0,8,19,42.1,26,3,38.5,33.5,15,60.0,45.3,11,0,0.0,1,10.8,Match Report,73aaa27d,L,2021,True
+534,2021-06-27,Sun,MLS,Regular Season,Home,W 2–1,FC Dallas,New England,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report,73aaa27d,W,2021,True
+535,2021-08-29,Sun,MLS,Regular Season,Away,W 5–3,FC Dallas,Austin,Y,GK,90,7,3,4,57.1,0,3.0,0,0,0,0,3,15,20.0,24,7,25.0,29.0,12,75.0,58.9,13,0,0.0,0,13.2,Match Report,73aaa27d,W,2021,False
+536,2021-09-04,Sat,MLS,Regular Season,Away,L 2–3,FC Dallas,Real Salt Lake,Y,GK,90,11,3,8,72.7,0,2.4,0,0,0,0,5,12,41.7,25,9,28.0,30.0,13,38.5,37.8,14,0,0.0,0,11.4,Match Report,73aaa27d,L,2021,False
+537,2021-09-11,Sat,MLS,Regular Season,Home,D 1–1,FC Dallas,San Jose,Y,GK,90,1,1,1,100.0,0,1.0,1,1,0,0,5,11,45.5,22,4,22.7,26.8,8,75.0,53.3,6,1,16.7,0,2.5,Match Report,73aaa27d,D,2021,False
+538,2021-09-14,Tue,MLS,Regular Season,Away,D 3–3,FC Dallas,NYCFC,Y,GK,90,6,3,3,50.0,0,2.3,0,0,0,0,7,19,36.8,24,6,58.3,41.4,10,50.0,41.8,12,0,0.0,0,9.0,Match Report,73aaa27d,D,2021,False
+539,2021-09-18,Sat,MLS,Regular Season,Away,L 2–3,FC Dallas,Houston Dynamo,Y,GK,90,4,3,2,50.0,0,2.9,1,1,0,0,1,5,20.0,17,5,23.5,28.1,3,33.3,32.7,5,0,0.0,1,13.1,Match Report,73aaa27d,L,2021,False
+540,2021-10-02,Sat,MLS,Regular Season,Home,D 0–0,FC Dallas,Minnesota Utd,Y,GK,90,6,0,6,100.0,1,2.1,0,0,0,0,1,7,14.3,26,4,19.2,30.8,7,28.6,30.1,9,0,0.0,2,13.3,Match Report,73aaa27d,D,2021,False
+541,2021-10-20,Wed,MLS,Regular Season,Home,L 2–3,FC Dallas,Los Angeles FC,Y,GK,90,4,3,2,50.0,0,2.6,1,1,0,0,1,5,20.0,25,7,16.0,28.6,5,20.0,24.6,8,1,12.5,1,14.2,Match Report,73aaa27d,L,2021,False
+542,2021-05-16,Sun,MLS,Regular Season,Home,W 3–0,Sporting KC,Vancouver,Y,GK,90,2,0,2,100.0,1,0.5,0,0,0,0,1,2,50.0,14,4,14.3,31.6,3,0.0,29.3,2,0,0.0,0,9.5,Match Report,cc741f50,W,2021,True
+543,2021-05-22,Sat,MLS,Regular Season,Away,W 3–1,Sporting KC,San Jose,Y,GK,90,5,1,4,80.0,0,1.5,0,0,0,0,2,10,20.0,29,2,20.7,33.1,12,33.3,34.1,10,1,10.0,0,7.5,Match Report,cc741f50,W,2021,True
+544,2021-05-29,Sat,MLS,Regular Season,Home,W 3–2,Sporting KC,Houston Dynamo,Y,GK,90,5,2,3,60.0,0,1.9,0,0,0,0,3,8,37.5,21,3,28.6,33.1,4,50.0,40.0,5,0,0.0,0,17.0,Match Report,cc741f50,W,2021,True
+545,2021-06-12,Sat,MLS,Regular Season,Home,D 1–1,Sporting KC,Austin,Y,GK,90,2,1,1,50.0,0,1.4,0,0,0,0,0,0,,9,1,0.0,20.7,6,0.0,25.7,2,0,0.0,1,22.8,Match Report,cc741f50,D,2021,True
+546,2021-06-19,Sat,MLS,Regular Season,Away,L 1–2,Sporting KC,Portland Timbers,Y,GK,90,3,2,1,33.3,0,2.1,0,0,0,0,4,5,80.0,34,6,8.8,23.5,4,50.0,32.8,8,1,12.5,1,11.9,Match Report,cc741f50,L,2021,True
+547,2021-06-23,Wed,MLS,Regular Season,Home,W 3–1,Sporting KC,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,5,11,45.5,36,6,27.8,32.4,4,25.0,36.3,6,2,33.3,0,14.3,Match Report,cc741f50,W,2021,True
+548,2021-06-26,Sat,MLS,Regular Season,Home,W 2–1,Sporting KC,Los Angeles FC,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,2,5,40.0,28,2,10.7,26.0,7,28.6,37.1,4,1,25.0,1,23.0,Match Report,cc741f50,W,2021,True
+549,2021-07-04,Sun,MLS,Regular Season,Away,W 2–0,Sporting KC,LA Galaxy,Y,GK,90,7,0,7,100.0,1,0.5,0,0,0,0,5,11,45.5,31,7,16.1,26.2,14,42.9,36.7,11,0,0.0,1,11.7,Match Report,cc741f50,W,2021,True
+550,2021-07-21,Wed,MLS,Regular Season,Home,D 1–1,Sporting KC,San Jose,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,5,10,50.0,28,3,32.1,31.6,8,12.5,27.8,10,0,0.0,0,11.0,Match Report,cc741f50,D,2021,True
+551,2021-07-25,Sun,MLS,Regular Season,Away,W 3–1,Sporting KC,Seattle,Y,GK,90,6,1,4,83.3,0,2.1,0,0,0,0,12,20,60.0,35,5,48.6,43.3,6,50.0,45.5,12,2,16.7,0,10.8,Match Report,cc741f50,W,2021,True
+552,2021-07-31,Sat,MLS,Regular Season,Home,L 1–2,Sporting KC,FC Dallas,Y,GK,90,4,2,2,50.0,0,0.7,0,0,0,0,2,5,40.0,26,4,19.2,24.5,7,0.0,17.3,1,0,0.0,0,14.5,Match Report,cc741f50,L,2021,True
+553,2021-08-04,Wed,MLS,Regular Season,Away,W 4–1,Sporting KC,Los Angeles FC,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,7,21,33.3,26,5,53.8,44.7,10,70.0,50.4,5,0,0.0,1,10.4,Match Report,cc741f50,W,2021,True
+554,2021-08-07,Sat,MLS,Regular Season,Away,D 0–0,Sporting KC,Colorado Rapids,Y,GK,90,3,0,3,100.0,1,1.2,0,0,0,0,11,24,45.8,42,6,33.3,40.5,11,90.9,56.6,14,0,0.0,1,11.9,Match Report,cc741f50,D,2021,True
+555,2021-08-14,Sat,MLS,Regular Season,Away,W 2–0,Sporting KC,FC Dallas,Y,GK,90,1,0,1,100.0,1,0.4,0,0,0,0,1,11,9.1,37,5,24.3,29.6,9,22.2,34.1,9,0,0.0,0,10.4,Match Report,cc741f50,W,2021,True
+556,2021-08-18,Wed,MLS,Regular Season,Home,D 1–1,Sporting KC,Portland Timbers,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,2,2,100.0,19,3,10.5,24.5,3,0.0,25.7,1,0,0.0,1,22.7,Match Report,cc741f50,D,2021,True
+557,2021-08-21,Sat,MLS,Regular Season,Away,D 0–0,Sporting KC,Minnesota Utd,Y,GK,90,7,0,7,100.0,1,2.9,0,0,0,0,9,28,32.1,31,4,67.7,50.8,9,77.8,58.2,13,0,0.0,1,14.2,Match Report,cc741f50,D,2021,False
+558,2021-08-28,Sat,MLS,Regular Season,Home,D 1–1,Sporting KC,Colorado Rapids,Y,GK,90,1,1,0,0.0,0,0.6,0,0,0,0,4,9,44.4,26,2,34.6,35.8,5,0.0,19.8,4,0,0.0,1,19.3,Match Report,cc741f50,D,2021,False
+559,2021-09-03,Fri,MLS,Regular Season,Away,L 0–4,Sporting KC,Los Angeles FC,Y,GK,90,7,4,4,57.1,0,4.4,1,1,0,0,1,6,16.7,23,6,13.0,24.9,8,37.5,41.8,8,2,25.0,1,15.0,Match Report,cc741f50,L,2021,False
+560,2021-09-11,Sat,MLS,Regular Season,Home,W 2–0,Sporting KC,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,7,12,58.3,27,5,37.0,32.4,14,14.3,26.1,11,2,18.2,0,9.8,Match Report,cc741f50,W,2021,False
+561,2021-09-15,Wed,MLS,Regular Season,Home,W 4–0,Sporting KC,Minnesota Utd,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,2,4,50.0,40,1,7.5,21.2,9,11.1,21.3,6,0,0.0,0,13.5,Match Report,cc741f50,W,2021,False
+562,2021-09-26,Sun,MLS,Regular Season,Home,L 1–2,Sporting KC,Seattle,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,3,6,50.0,22,3,18.2,26.1,6,33.3,30.5,11,1,9.1,2,20.8,Match Report,cc741f50,L,2021,False
+563,2021-09-29,Wed,MLS,Regular Season,Away,W 3–1,Sporting KC,FC Dallas,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,3,12,25.0,32,3,34.4,35.9,4,25.0,30.3,4,1,25.0,0,12.0,Match Report,cc741f50,W,2021,False
+564,2021-10-03,Sun,MLS,Regular Season,Home,W 4–2,Sporting KC,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,2.2,0,0,0,0,7,17,41.2,36,4,38.9,36.9,8,37.5,38.0,15,3,20.0,1,14.8,Match Report,cc741f50,W,2021,False
+565,2021-10-17,Sun,MLS,Regular Season,Away,L 1–2,Sporting KC,Vancouver,Y,GK,90,3,2,1,33.3,0,1.8,0,0,0,0,3,8,37.5,29,2,24.1,28.8,5,20.0,22.8,8,2,25.0,3,24.0,Match Report,cc741f50,L,2021,False
+566,2021-10-23,Sat,MLS,Regular Season,Away,W 2–1,Sporting KC,Seattle,Y,GK,90,6,1,5,83.3,0,2.0,0,0,0,0,4,20,20.0,39,10,46.2,40.2,4,50.0,48.5,20,3,15.0,0,11.8,Match Report,cc741f50,W,2021,False
+567,2021-10-31,Sun,MLS,Regular Season,Away,L 1–2,Sporting KC,Minnesota Utd,Y,GK,90,4,2,3,75.0,0,1.4,1,1,0,0,4,10,40.0,16,4,43.8,38.5,9,33.3,33.6,8,2,25.0,0,16.0,Match Report,cc741f50,L,2021,False
+568,2021-11-03,Wed,MLS,Regular Season,Away,L 1–3,Sporting KC,Austin,Y,GK,90,5,3,2,40.0,0,2.6,0,0,0,0,4,6,66.7,18,6,27.8,34.1,5,20.0,21.4,3,0,0.0,4,24.6,Match Report,cc741f50,L,2021,False
+569,2021-11-07,Sun,MLS,Regular Season,Home,L 0–1,Sporting KC,Real Salt Lake,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,4,8,50.0,16,4,31.3,32.0,12,25.0,29.7,8,0,0.0,0,13.8,Match Report,cc741f50,L,2021,False
+570,2021-11-20,Sat,MLS,First Round,Home,W 3–1,Sporting KC,Vancouver,Y,GK,90,3,1,3,100.0,0,1.4,1,1,0,0,4,16,25.0,19,2,68.4,52.9,4,75.0,53.3,11,0,0.0,1,15.7,Match Report,cc741f50,W,2021,False
+571,2021-11-28,Sun,MLS,Conference Semifinals,Home,L 1–2,Sporting KC,Real Salt Lake,Y,GK,90,5,2,3,60.0,0,1.2,0,0,0,0,4,11,36.4,21,5,28.6,37.4,8,62.5,45.1,7,0,0.0,0,8.8,Match Report,cc741f50,L,2021,False
+572,2021-05-12,Wed,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Vancouver,Y,GK,90,5,0,5,100.0,1,0.7,0,0,0,0,5,17,29.4,19,6,63.2,50.0,8,62.5,53.1,8,0,0.0,1,19.1,Match Report,7827a6b3,W,2021,True
+573,2021-05-15,Sat,MLS,Regular Season,Home,W 1–0,Minnesota Utd,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,5,14,35.7,18,3,55.6,45.7,7,57.1,46.3,5,0,0.0,2,18.0,Match Report,7827a6b3,W,2021,True
+574,2021-05-29,Sat,MLS,Regular Season,Away,D 1–1,Minnesota Utd,Real Salt Lake,Y,GK,90,5,1,4,80.0,0,2.0,0,0,0,0,8,19,42.1,18,5,44.4,38.0,11,100.0,67.6,7,1,14.3,2,16.8,Match Report,7827a6b3,D,2021,True
+575,2021-06-19,Sat,MLS,Regular Season,Away,D 1–1,Minnesota Utd,FC Dallas,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,6,21,28.6,32,8,40.6,37.0,9,88.9,66.3,9,1,11.1,2,15.7,Match Report,7827a6b3,D,2021,True
+576,2021-06-23,Wed,MLS,Regular Season,Home,W 2–0,Minnesota Utd,Austin,Y,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,6,13,46.2,26,5,42.3,39.8,4,50.0,50.5,9,1,11.1,1,14.0,Match Report,7827a6b3,W,2021,True
+577,2021-06-26,Sat,MLS,Regular Season,Away,W 1–0,Minnesota Utd,Portland Timbers,Y,GK,90,3,0,2,100.0,1,0.6,0,0,0,0,5,24,20.8,16,3,56.3,48.3,17,88.2,68.4,11,1,9.1,0,9.0,Match Report,7827a6b3,W,2021,True
+578,2021-07-03,Sat,MLS,Regular Season,Home,D 2–2,Minnesota Utd,San Jose,Y,GK,90,3,2,1,33.3,0,1.0,0,0,0,0,4,9,44.4,20,0,25.0,33.0,6,66.7,52.7,3,0,0.0,1,18.4,Match Report,7827a6b3,D,2021,True
+579,2021-07-07,Wed,MLS,Regular Season,Away,L 0–2,Minnesota Utd,Colorado Rapids,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,4,17,23.5,27,4,48.1,41.4,7,57.1,51.6,5,1,20.0,3,18.2,Match Report,7827a6b3,L,2021,True
+580,2021-07-18,Sun,MLS,Regular Season,Home,W 1–0,Minnesota Utd,Seattle,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,3,6,50.0,22,1,22.7,33.3,3,33.3,31.3,5,1,20.0,1,25.0,Match Report,7827a6b3,W,2021,True
+581,2021-07-24,Sat,MLS,Regular Season,Home,W 2–1,Minnesota Utd,Portland Timbers,Y,GK,90,3,1,2,66.7,0,0.5,0,0,0,0,2,4,50.0,13,2,30.8,36.8,5,0.0,20.6,7,1,14.3,3,20.8,Match Report,7827a6b3,W,2021,True
+582,2021-07-28,Wed,MLS,Regular Season,Away,D 2–2,Minnesota Utd,Los Angeles FC,Y,GK,90,5,2,3,60.0,0,2.1,0,0,0,0,7,23,30.4,16,1,75.0,60.8,11,100.0,66.4,8,0,0.0,1,8.0,Match Report,7827a6b3,D,2021,True
+583,2021-07-31,Sat,MLS,Regular Season,Away,D 2–2,Minnesota Utd,Vancouver,Y,GK,90,2,2,1,50.0,0,1.6,1,1,0,0,8,19,42.1,21,1,61.9,43.5,8,75.0,62.4,8,0,0.0,0,12.7,Match Report,7827a6b3,D,2021,True
+584,2021-08-07,Sat,MLS,Regular Season,Home,W 2–0,Minnesota Utd,Houston Dynamo,Y,GK,90,2,0,2,100.0,1,0.4,0,0,0,0,8,15,53.3,28,5,53.6,40.7,0,,,8,0,0.0,0,10.7,Match Report,7827a6b3,W,2021,True
+585,2021-08-14,Sat,MLS,Regular Season,Home,L 0–1,Minnesota Utd,LA Galaxy,Y,GK,90,1,1,0,0.0,0,0.9,0,0,0,0,5,10,50.0,20,2,45.0,37.8,7,14.3,25.6,4,1,25.0,2,19.3,Match Report,7827a6b3,L,2021,True
+586,2021-08-17,Tue,MLS,Regular Season,Away,D 1–1,Minnesota Utd,San Jose,Y,GK,90,1,1,1,0.0,0,0.1,0,0,0,0,9,10,90.0,20,7,35.0,32.1,8,37.5,37.5,10,0,0.0,0,13.0,Match Report,7827a6b3,D,2021,True
+587,2021-08-21,Sat,MLS,Regular Season,Home,D 0–0,Minnesota Utd,Sporting KC,Y,GK,90,5,0,5,100.0,1,0.3,0,0,0,0,6,11,54.5,15,4,60.0,42.0,9,22.2,31.1,4,0,0.0,2,20.3,Match Report,7827a6b3,D,2021,False
+588,2021-08-28,Sat,MLS,Regular Season,Away,W 2–1,Minnesota Utd,Houston Dynamo,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,9,27,33.3,27,6,70.4,52.0,8,100.0,73.3,12,2,16.7,1,18.0,Match Report,7827a6b3,W,2021,False
+589,2021-09-11,Sat,MLS,Regular Season,Away,L 0–1,Minnesota Utd,Seattle,Y,GK,90,5,1,4,80.0,0,1.7,0,0,0,0,6,12,50.0,23,9,39.1,40.9,4,75.0,67.8,6,1,16.7,0,12.4,Match Report,7827a6b3,L,2021,False
+590,2021-09-15,Wed,MLS,Regular Season,Away,L 0–4,Minnesota Utd,Sporting KC,Y,GK,90,7,4,4,57.1,0,2.1,1,1,0,0,9,23,39.1,26,8,57.7,48.1,8,100.0,69.6,4,0,0.0,0,11.2,Match Report,7827a6b3,L,2021,False
+591,2021-09-18,Sat,MLS,Regular Season,Home,W 3–0,Minnesota Utd,LA Galaxy,Y,GK,90,2,0,2,100.0,1,0.8,0,0,0,0,4,18,22.2,22,5,54.5,43.4,7,85.7,64.4,12,0,0.0,1,15.0,Match Report,7827a6b3,W,2021,False
+592,2021-09-25,Sat,MLS,Regular Season,Home,W 2–0,Minnesota Utd,Houston Dynamo,Y,GK,90,7,0,7,100.0,1,1.1,0,0,0,0,8,29,27.6,37,6,59.5,48.2,7,100.0,67.3,7,0,0.0,1,15.9,Match Report,7827a6b3,W,2021,False
+593,2021-09-29,Wed,MLS,Regular Season,Away,L 1–3,Minnesota Utd,D.C. United,Y,GK,90,3,3,1,33.3,0,2.3,2,1,1,0,8,23,34.8,23,5,73.9,58.6,7,85.7,57.9,7,0,0.0,0,10.5,Match Report,7827a6b3,L,2021,False
+594,2021-10-02,Sat,MLS,Regular Season,Away,D 0–0,Minnesota Utd,FC Dallas,Y,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,10,19,52.6,33,10,36.4,37.1,7,100.0,68.1,8,2,25.0,1,12.8,Match Report,7827a6b3,D,2021,False
+595,2021-10-10,Sun,MLS,Regular Season,Home,L 1–3,Minnesota Utd,Colorado Rapids,Y,GK,90,11,3,9,81.8,0,3.7,1,1,0,0,9,16,56.3,21,1,57.1,42.3,8,50.0,44.5,6,0,0.0,1,22.3,Match Report,7827a6b3,L,2021,False
+596,2021-10-16,Sat,MLS,Regular Season,Away,W 1–0,Minnesota Utd,Austin,Y,GK,90,8,0,8,100.0,1,1.2,0,0,0,0,7,35,20.0,28,3,78.6,60.8,15,86.7,67.6,12,0,0.0,2,16.3,Match Report,7827a6b3,W,2021,False
+597,2021-10-20,Wed,MLS,Regular Season,Home,W 3–2,Minnesota Utd,Philadelphia,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,7,17,41.2,25,6,48.0,44.8,9,55.6,49.8,10,1,10.0,1,15.9,Match Report,7827a6b3,W,2021,False
+598,2021-10-23,Sat,MLS,Regular Season,Home,D 1–1,Minnesota Utd,Los Angeles FC,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,2,6,33.3,21,5,23.8,31.7,2,50.0,53.0,3,0,0.0,0,11.7,Match Report,7827a6b3,D,2021,False
+599,2021-10-27,Wed,MLS,Regular Season,Away,L 1–2,Minnesota Utd,Vancouver,Y,GK,90,2,2,1,0.0,0,0.6,0,0,0,0,8,20,40.0,27,2,59.3,47.2,7,57.1,49.4,7,1,14.3,1,16.6,Match Report,7827a6b3,L,2021,False
+600,2021-10-31,Sun,MLS,Regular Season,Home,W 2–1,Minnesota Utd,Sporting KC,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,6,15,40.0,19,0,52.6,43.3,5,100.0,65.0,6,2,33.3,0,16.3,Match Report,7827a6b3,W,2021,False
+601,2021-11-07,Sun,MLS,Regular Season,Away,D 3–3,Minnesota Utd,LA Galaxy,Y,GK,90,10,3,7,70.0,0,2.9,0,0,0,0,8,21,38.1,24,2,66.7,49.5,5,100.0,67.6,14,1,7.1,2,17.0,Match Report,7827a6b3,D,2021,False
+602,2021-11-03,Wed,MLS,Regular Season,Away,L 0–2,Houston Dynamo,CF Montréal,Y,GK,90,6,2,4,66.7,0,0.8,0,0,0,0,3,13,23.1,24,9,41.7,32.2,9,33.3,34.9,9,1,11.1,0,10.1,Match Report,3f394ec5,L,2021,False
+603,2021-08-28,Sat,MLS,Regular Season,Home,L 1–2,Houston Dynamo,Minnesota Utd,Y,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,1,5,20.0,17,4,17.6,24.6,5,40.0,33.0,5,0,0.0,1,15.5,Match Report,f4a12161,L,2021,False
+604,2021-09-03,Fri,MLS,Regular Season,Home,L 0–2,Houston Dynamo,Portland Timbers,Y,GK,90,3,2,2,66.7,0,1.8,1,1,0,0,3,6,50.0,18,4,33.3,32.9,3,0.0,21.3,5,0,0.0,1,17.4,Match Report,f4a12161,L,2021,False
+605,2021-09-11,Sat,MLS,Regular Season,Home,W 3–0,Houston Dynamo,Austin,Y,GK,90,2,0,1,100.0,1,0.6,0,0,0,0,1,7,14.3,9,2,22.2,31.2,9,55.6,44.1,13,1,7.7,0,16.0,Match Report,f4a12161,W,2021,False
+606,2021-09-15,Wed,MLS,Regular Season,Away,D 1–1,Houston Dynamo,LA Galaxy,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,6,15,40.0,13,2,76.9,50.2,9,55.6,43.9,14,0,0.0,0,10.0,Match Report,f4a12161,D,2021,False
+607,2021-09-18,Sat,MLS,Regular Season,Home,W 3–2,Houston Dynamo,FC Dallas,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,6,20,30.0,19,3,68.4,49.6,11,63.6,51.0,11,0,0.0,2,14.1,Match Report,f4a12161,W,2021,False
+608,2021-09-25,Sat,MLS,Regular Season,Away,L 0–2,Houston Dynamo,Minnesota Utd,Y,GK,90,6,2,4,66.7,0,1.4,0,0,0,0,0,3,0.0,17,5,17.6,24.4,7,0.0,16.1,7,0,0.0,1,14.5,Match Report,f4a12161,L,2021,False
+609,2021-09-29,Wed,MLS,Regular Season,Home,D 0–0,Houston Dynamo,Vancouver,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,1,1,100.0,17,5,5.9,20.2,6,0.0,16.0,4,1,25.0,1,18.6,Match Report,f4a12161,D,2021,False
+610,2021-10-03,Sun,MLS,Regular Season,Away,L 2–4,Houston Dynamo,Sporting KC,Y,GK,90,8,4,5,62.5,0,4.2,1,1,0,0,2,7,28.6,13,3,30.8,33.4,10,30.0,38.6,8,0,0.0,1,19.5,Match Report,f4a12161,L,2021,False
+611,2021-10-16,Sat,MLS,Regular Season,Home,W 2–1,Houston Dynamo,Seattle,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,2,12,16.7,10,3,50.0,43.4,11,63.6,49.3,18,2,11.1,1,14.6,Match Report,f4a12161,W,2021,False
+612,2021-10-20,Wed,MLS,Regular Season,Home,L 0–3,Houston Dynamo,LA Galaxy,Y,GK,90,4,3,3,50.0,0,1.3,1,1,0,0,2,3,66.7,14,4,7.1,25.5,7,28.6,27.1,9,1,11.1,0,11.0,Match Report,f4a12161,L,2021,False
+613,2021-10-31,Sun,MLS,Regular Season,Home,L 0–1,Houston Dynamo,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,1.0,0,0,0,0,0,0,,14,4,0.0,22.6,6,0.0,19.3,4,1,25.0,0,,Match Report,f4a12161,L,2021,False
+614,2021-04-24,Sat,MLS,Regular Season,Away,W 2–1,Real Salt Lake,Minnesota Utd,Y,GK,90,2,1,1,50.0,0,0.2,0,0,0,0,17,37,45.9,35,4,77.1,47.5,12,83.3,47.9,19,0,0.0,0,9.7,Match Report,dba6b279,W,2021,True
+615,2021-05-01,Sat,MLS,Regular Season,Home,W 3–1,Real Salt Lake,Sporting KC,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,7,23,30.4,24,3,54.2,39.8,14,71.4,51.1,9,0,0.0,0,12.7,Match Report,dba6b279,W,2021,True
+616,2021-05-07,Fri,MLS,Regular Season,Home,L 1–2,Real Salt Lake,San Jose,Y,GK,90,6,2,4,66.7,0,1.9,0,0,0,0,6,13,46.2,10,2,70.0,45.0,8,75.0,51.6,11,1,9.1,0,9.0,Match Report,dba6b279,L,2021,True
+617,2021-05-15,Sat,MLS,Regular Season,Home,D 0–0,Real Salt Lake,Nashville,Y,GK,90,3,0,3,100.0,1,0.2,0,0,0,0,4,8,50.0,17,4,29.4,28.5,5,60.0,45.0,12,0,0.0,0,16.0,Match Report,dba6b279,D,2021,True
+618,2021-05-22,Sat,MLS,Regular Season,Away,D 2–2,Real Salt Lake,FC Dallas,Y,GK,90,10,2,9,90.0,0,3.2,1,1,0,0,13,25,52.0,25,1,76.0,49.5,10,60.0,45.6,16,0,0.0,0,7.7,Match Report,dba6b279,D,2021,True
+619,2021-06-18,Fri,MLS,Regular Season,Home,W 3–1,Real Salt Lake,Vancouver,Y,GK,90,2,1,1,50.0,0,1.2,0,0,0,0,6,12,50.0,20,3,30.0,28.7,13,46.2,39.0,9,2,22.2,2,20.3,Match Report,dba6b279,W,2021,True
+620,2021-06-23,Wed,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Seattle,Y,GK,90,5,2,4,80.0,0,1.7,1,1,0,0,10,28,35.7,23,3,69.6,47.0,12,100.0,64.3,12,0,0.0,0,13.9,Match Report,dba6b279,L,2021,True
+621,2021-06-26,Sat,MLS,Regular Season,Home,D 1–1,Real Salt Lake,Houston Dynamo,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,8,21,38.1,27,7,55.6,40.7,10,60.0,45.1,4,1,25.0,0,17.1,Match Report,dba6b279,D,2021,True
+622,2021-07-03,Sat,MLS,Regular Season,Home,L 0–1,Real Salt Lake,Los Angeles FC,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,5,10,50.0,20,8,35.0,33.1,9,33.3,34.4,3,1,33.3,2,19.5,Match Report,dba6b279,L,2021,True
+623,2021-07-07,Wed,MLS,Regular Season,Away,W 4–0,Real Salt Lake,Vancouver,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,10,21,47.6,27,2,55.6,45.1,10,60.0,51.3,4,1,25.0,1,17.3,Match Report,dba6b279,W,2021,True
+624,2021-07-17,Sat,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Los Angeles FC,Y,GK,90,8,2,6,75.0,0,2.6,1,0,1,0,4,14,28.6,23,3,39.1,42.7,9,55.6,45.6,8,0,0.0,0,13.3,Match Report,dba6b279,L,2021,True
+625,2021-07-21,Wed,MLS,Regular Season,Home,D 2–2,Real Salt Lake,LA Galaxy,Y,GK,90,6,2,4,66.7,0,2.2,0,0,0,0,11,26,42.3,32,5,65.6,45.0,7,71.4,49.6,11,0,0.0,2,13.0,Match Report,dba6b279,D,2021,True
+626,2021-07-24,Sat,MLS,Regular Season,Home,W 3–0,Real Salt Lake,Colorado Rapids,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,4,17,23.5,19,2,52.6,46.3,8,87.5,57.8,10,2,20.0,0,17.0,Match Report,dba6b279,W,2021,True
+627,2021-09-12,Sun,MLS,Regular Season,Away,L 2–3,Real Salt Lake,Los Angeles FC,Y,GK,90,7,3,5,57.1,0,1.5,0,0,0,0,11,16,68.8,20,3,60.0,39.9,8,50.0,41.4,4,0,0.0,1,13.3,Match Report,dba6b279,L,2021,False
+628,2021-09-15,Wed,MLS,Regular Season,Away,W 4–3,Real Salt Lake,San Jose,Y,GK,90,6,3,3,50.0,0,1.5,0,0,0,0,3,19,15.8,17,2,58.8,45.5,10,90.0,59.3,9,0,0.0,0,11.2,Match Report,dba6b279,W,2021,False
+629,2021-09-18,Sat,MLS,Regular Season,Home,W 1–0,Real Salt Lake,Seattle,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4,11,36.4,11,4,45.5,46.6,9,66.7,47.2,15,1,6.7,0,8.5,Match Report,dba6b279,W,2021,False
+630,2021-09-25,Sat,MLS,Regular Season,Away,L 1–6,Real Salt Lake,Portland Timbers,Y,GK,90,9,6,3,33.3,0,3.7,0,0,0,0,8,12,66.7,18,3,38.9,33.8,5,100.0,63.0,7,0,0.0,2,16.2,Match Report,dba6b279,L,2021,False
+631,2021-09-29,Wed,MLS,Regular Season,Home,W 2–1,Real Salt Lake,LA Galaxy,Y,GK,90,4,1,3,75.0,0,1.5,0,0,0,0,14,29,48.3,24,5,66.7,46.3,15,86.7,57.2,22,3,13.6,0,10.9,Match Report,dba6b279,W,2021,False
+632,2021-10-02,Sat,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Austin,Y,GK,90,8,2,6,75.0,0,2.9,0,0,0,0,3,8,37.5,13,5,30.8,32.8,9,44.4,39.8,3,0,0.0,1,15.4,Match Report,dba6b279,L,2021,False
+633,2021-10-16,Sat,MLS,Regular Season,Home,W 3–1,Real Salt Lake,Colorado Rapids,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,8,17,47.1,16,2,75.0,49.9,5,100.0,67.8,11,1,9.1,0,9.5,Match Report,dba6b279,W,2021,False
+634,2021-10-23,Sat,MLS,Regular Season,Away,L 0–1,Real Salt Lake,Chicago Fire,Y,GK,90,9,1,8,88.9,0,1.8,0,0,0,0,13,26,50.0,29,7,62.1,41.3,8,100.0,63.0,9,1,11.1,0,12.1,Match Report,dba6b279,L,2021,False
+635,2021-10-27,Wed,MLS,Regular Season,Away,W 2–1,Real Salt Lake,FC Dallas,Y,GK,90,6,1,5,83.3,0,1.3,0,0,0,0,7,17,41.2,20,8,55.0,42.2,12,50.0,40.0,6,1,16.7,0,14.1,Match Report,dba6b279,W,2021,False
+636,2021-10-30,Sat,MLS,Regular Season,Home,L 3–4,Real Salt Lake,San Jose,Y,GK,90,6,4,2,33.3,0,3.8,0,0,0,0,7,23,30.4,28,5,53.6,40.4,14,57.1,44.0,9,4,44.4,0,10.3,Match Report,dba6b279,L,2021,False
+637,2021-11-03,Wed,MLS,Regular Season,Home,L 1–3,Real Salt Lake,Portland Timbers,Y,GK,90,3,3,1,0.0,0,1.7,0,0,0,0,3,10,30.0,14,2,35.7,31.5,7,71.4,49.7,4,1,25.0,2,22.0,Match Report,dba6b279,L,2021,False
+638,2021-11-07,Sun,MLS,Regular Season,Away,W 1–0,Real Salt Lake,Sporting KC,Y,GK,90,4,0,4,100.0,1,0.9,0,0,0,0,18,31,58.1,25,1,76.0,51.3,12,100.0,65.6,11,1,9.1,0,12.0,Match Report,dba6b279,W,2021,False
+639,2021-11-23,Tue,MLS,First Round,Away,D 0 (6)–0 (5),Real Salt Lake,Seattle,Y,GK,120,3,0,3,100.0,1,0.1,0,0,0,0,16,40,40.0,38,1,84.2,52.3,8,100.0,61.0,24,3,12.5,2,13.9,Match Report,dba6b279,D,2021,False
+640,2021-11-28,Sun,MLS,Conference Semifinals,Away,W 2–1,Real Salt Lake,Sporting KC,Y,GK,90,1,1,1,100.0,0,1.0,1,1,0,0,8,28,28.6,29,4,69.0,43.8,9,88.9,57.0,4,0,0.0,0,16.3,Match Report,dba6b279,W,2021,False
+641,2021-12-04,Sat,MLS,Conference Finals,Away,L 0–2,Real Salt Lake,Portland Timbers,Y,GK,90,7,2,5,71.4,0,2.3,0,0,0,0,9,16,56.3,16,2,50.0,43.1,8,100.0,64.5,7,0,0.0,1,16.3,Match Report,dba6b279,L,2021,False
+642,2021-05-12,Wed,MLS,Regular Season,Away,W 2–0,CF Montréal,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,0,2,0.0,8,2,25.0,32.5,5,0.0,16.0,15,1,6.7,0,11.0,Match Report,901408ac,W,2021,True
+643,2021-06-26,Sat,MLS,Regular Season,Away,D 1–1,CF Montréal,Nashville,Y,GK,90,6,1,5,83.3,0,2.2,0,0,0,0,3,11,27.3,25,5,32.0,33.5,10,30.0,29.2,12,2,16.7,0,9.2,Match Report,901408ac,D,2021,True
+644,2021-07-03,Sat,MLS,Regular Season,Home,W 1–0,CF Montréal,Inter Miami,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,1,5,20.0,22,6,18.2,24.3,3,33.3,31.3,9,2,22.2,0,12.6,Match Report,901408ac,W,2021,True
+645,2021-07-07,Wed,MLS,Regular Season,Home,W 2–1,CF Montréal,NYCFC,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,3,13,23.1,33,8,24.2,27.9,10,50.0,35.3,8,0,0.0,0,14.0,Match Report,901408ac,W,2021,True
+646,2021-07-17,Sat,MLS,Regular Season,Home,W 5–4,CF Montréal,FC Cincinnati,Y,GK,90,5,4,1,20.0,0,3.4,0,0,0,0,2,5,40.0,19,0,26.3,31.1,0,,,4,0,0.0,1,12.3,Match Report,901408ac,W,2021,True
+647,2021-07-21,Wed,MLS,Regular Season,Away,L 0–1,CF Montréal,NYCFC,Y,GK,90,5,1,4,80.0,0,1.8,0,0,0,0,6,18,33.3,40,9,37.5,34.7,8,37.5,37.3,6,1,16.7,0,8.5,Match Report,901408ac,L,2021,True
+648,2021-07-25,Sun,MLS,Regular Season,Away,L 1–2,CF Montréal,New England,Y,GK,90,3,2,1,33.3,0,1.1,0,0,0,0,6,10,60.0,28,6,25.0,28.8,9,33.3,27.0,9,3,33.3,1,15.2,Match Report,901408ac,L,2021,True
+649,2021-07-31,Sat,MLS,Regular Season,Away,L 1–2,CF Montréal,Inter Miami,Y,GK,90,3,2,2,66.7,0,1.1,1,1,0,0,1,4,25.0,12,1,25.0,30.1,7,14.3,26.0,11,1,9.1,2,17.3,Match Report,901408ac,L,2021,True
+650,2021-08-04,Wed,MLS,Regular Season,Home,D 2–2,CF Montréal,Atlanta Utd,Y,GK,90,2,2,1,50.0,0,1.3,1,1,0,0,1,8,12.5,20,1,30.0,33.8,7,28.6,22.9,8,1,12.5,0,9.0,Match Report,901408ac,D,2021,True
+651,2021-09-11,Sat,MLS,Regular Season,Home,L 0–1,CF Montréal,Nashville,Y,GK,90,8,1,7,87.5,0,0.8,0,0,0,0,3,5,60.0,22,6,18.2,26.1,4,25.0,30.3,9,0,0.0,0,11.0,Match Report,901408ac,L,2021,False
+652,2021-09-15,Wed,MLS,Regular Season,Away,W 4–2,CF Montréal,Orlando City,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,2,4,50.0,17,4,23.5,29.3,5,0.0,10.8,6,1,16.7,0,11.4,Match Report,901408ac,W,2021,False
+653,2021-09-19,Sun,MLS,Regular Season,Home,W 2–0,CF Montréal,Chicago Fire,Y,GK,90,4,0,4,100.0,1,0.2,0,0,0,0,2,5,40.0,25,4,20.0,27.6,5,0.0,19.6,10,3,30.0,1,15.8,Match Report,901408ac,W,2021,False
+654,2021-09-25,Sat,MLS,Regular Season,Away,L 1–2,CF Montréal,Columbus Crew,Y,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,5,6,83.3,28,10,17.9,28.0,5,20.0,21.6,5,1,20.0,0,14.6,Match Report,901408ac,L,2021,False
+655,2021-09-29,Wed,MLS,Regular Season,Home,L 1–4,CF Montréal,New England,Y,GK,90,7,4,4,42.9,0,2.7,0,0,0,0,4,7,57.1,17,2,35.3,33.6,6,16.7,20.3,7,1,14.3,0,10.5,Match Report,901408ac,L,2021,False
+656,2021-10-02,Sat,MLS,Regular Season,Home,W 2–1,CF Montréal,Atlanta Utd,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,4,9,44.4,18,4,27.8,26.1,8,50.0,36.8,12,2,16.7,0,10.0,Match Report,901408ac,W,2021,False
+657,2021-10-16,Sat,MLS,Regular Season,Home,D 2–2,CF Montréal,Philadelphia,Y,GK,90,2,2,1,0.0,0,0.4,0,0,0,0,1,1,100.0,16,4,0.0,24.3,5,20.0,27.2,5,1,20.0,0,10.0,Match Report,901408ac,D,2021,False
+658,2021-10-20,Wed,MLS,Regular Season,Away,D 1–1,CF Montréal,Orlando City,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,4,8,50.0,24,5,25.0,31.5,9,22.2,26.7,10,1,10.0,1,12.9,Match Report,901408ac,D,2021,False
+659,2021-10-23,Sat,MLS,Regular Season,Away,D 1–1,CF Montréal,Toronto FC,Y,GK,90,9,1,8,88.9,0,2.0,0,0,0,0,4,11,36.4,22,6,50.0,37.5,10,0.0,22.2,17,1,5.9,0,8.8,Match Report,901408ac,D,2021,False
+660,2021-04-17,Sat,MLS,Regular Season,Away,W 2–1,Sporting KC,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,9,23,39.1,22,3,81.8,55.5,7,71.4,52.6,13,2,15.4,1,12.0,Match Report,6b306c92,W,2021,True
+661,2021-04-23,Fri,MLS,Regular Season,Home,D 1–1,Sporting KC,Orlando City,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,8,16,50.0,17,3,70.6,47.5,6,66.7,45.3,8,0,0.0,1,15.7,Match Report,6b306c92,D,2021,True
+662,2021-05-01,Sat,MLS,Regular Season,Away,L 1–3,Sporting KC,Real Salt Lake,Y,GK,90,4,3,1,25.0,0,0.9,0,0,0,0,4,10,40.0,13,3,38.5,41.7,8,62.5,49.6,5,0,0.0,0,9.4,Match Report,6b306c92,L,2021,True
+663,2021-05-09,Sun,MLS,Regular Season,Home,W 2–1,Sporting KC,Austin,Y,GK,90,6,1,5,83.3,0,0.6,0,0,0,0,2,4,50.0,19,3,15.8,29.9,7,14.3,23.1,4,1,25.0,0,10.3,Match Report,6b306c92,W,2021,True
+664,2021-05-12,Wed,MLS,Regular Season,Away,L 0–1,Sporting KC,Houston Dynamo,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,1,5,20.0,13,2,23.1,27.6,5,40.0,45.2,9,2,22.2,0,16.0,Match Report,6b306c92,L,2021,True
+665,2021-10-27,Wed,MLS,Regular Season,Home,W 2–0,Sporting KC,LA Galaxy,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,4,7,57.1,25,5,24.0,31.6,2,50.0,46.5,8,1,12.5,0,12.3,Match Report,6b306c92,W,2021,False
+666,2021-08-21,Sat,MLS,Regular Season,Away,L 1–2,Real Salt Lake,Colorado Rapids,N,GK,45,5,2,3,60.0,0,1.1,0,0,0,0,1,5,20.0,5,1,80.0,58.6,2,50.0,54.0,4,0,0.0,0,10.0,Match Report,5ba8a3f3,L,2021,False
+667,2021-08-29,Sun,MLS,Regular Season,Away,L 1–4,Real Salt Lake,Vancouver,Y,GK,90,5,4,2,20.0,0,2.4,0,0,0,0,8,16,50.0,21,4,42.9,37.5,11,63.6,52.3,9,0,0.0,0,5.3,Match Report,5ba8a3f3,L,2021,False
+668,2021-09-04,Sat,MLS,Regular Season,Home,W 3–2,Real Salt Lake,FC Dallas,Y,GK,90,2,2,0,0.0,0,1.5,0,0,0,0,6,19,31.6,20,6,40.0,39.6,13,84.6,69.8,6,0,0.0,0,14.9,Match Report,5ba8a3f3,W,2021,False
+669,2021-07-22,Thu,MLS,Regular Season,Away,W 1–0,Seattle,Austin,Y,GK,90,3,0,3,100.0,1,0.5,0,0,0,0,6,17,35.3,11,1,63.6,48.5,10,100.0,68.7,16,1,6.3,0,4.5,Match Report,d9178ea2,W,2021,True
+670,2021-08-18,Wed,MLS,Regular Season,Away,W 1–0,Seattle,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,8,30,26.7,18,2,77.8,53.0,16,100.0,62.3,10,1,10.0,0,9.7,Match Report,d9178ea2,W,2021,True
+671,2021-06-23,Wed,MLS,Regular Season,Home,W 2–0,Los Angeles FC,FC Dallas,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,5,11,45.5,20,7,35.0,33.3,10,40.0,36.4,8,1,12.5,0,12.8,Match Report,3349dcba,W,2021,True
+672,2021-06-26,Sat,MLS,Regular Season,Away,L 1–2,Los Angeles FC,Sporting KC,Y,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,4,17,23.5,27,4,40.7,37.5,11,54.5,38.0,15,1,6.7,1,15.4,Match Report,3349dcba,L,2021,True
+673,2021-07-03,Sat,MLS,Regular Season,Away,W 1–0,Los Angeles FC,Real Salt Lake,Y,GK,90,5,0,5,100.0,1,0.4,0,0,0,0,4,19,21.1,21,3,52.4,46.4,9,88.9,58.0,15,0,0.0,0,11.9,Match Report,3349dcba,W,2021,True
+674,2021-07-07,Wed,MLS,Regular Season,Away,W 2–0,Los Angeles FC,Austin,Y,GK,90,4,0,4,100.0,1,0.2,0,0,0,0,5,19,26.3,17,4,47.1,38.9,16,68.8,54.6,6,1,16.7,0,14.4,Match Report,3349dcba,W,2021,True
+675,2021-07-17,Sat,MLS,Regular Season,Home,W 2–1,Los Angeles FC,Real Salt Lake,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,1,6,16.7,15,5,40.0,37.3,0,,,7,0,0.0,0,15.6,Match Report,3349dcba,W,2021,True
+676,2021-07-21,Wed,MLS,Regular Season,Away,L 1–2,Los Angeles FC,Portland Timbers,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,1,5,20.0,20,6,15.0,26.9,8,25.0,26.0,9,1,11.1,1,13.4,Match Report,3349dcba,L,2021,True
+677,2021-07-24,Sat,MLS,Regular Season,Home,D 2–2,Los Angeles FC,Vancouver,Y,GK,90,3,2,1,33.3,0,2.0,0,0,0,0,6,10,60.0,15,4,46.7,38.5,8,37.5,37.5,7,1,14.3,0,12.8,Match Report,3349dcba,D,2021,True
+678,2021-07-28,Wed,MLS,Regular Season,Home,D 2–2,Los Angeles FC,Minnesota Utd,Y,GK,90,6,2,4,66.7,0,2.3,0,0,0,0,7,15,46.7,21,5,52.4,38.9,5,80.0,53.8,5,0,0.0,2,14.3,Match Report,3349dcba,D,2021,True
+679,2021-08-04,Wed,MLS,Regular Season,Home,L 1–4,Los Angeles FC,Sporting KC,Y,GK,90,5,4,1,20.0,0,2.3,0,0,0,0,3,10,30.0,24,3,33.3,32.3,5,40.0,35.6,5,0,0.0,1,15.7,Match Report,3349dcba,L,2021,True
+680,2021-08-08,Sun,MLS,Regular Season,Away,L 1–2,Los Angeles FC,San Jose,Y,GK,90,4,2,2,50.0,0,1.2,0,0,0,0,4,8,50.0,20,6,20.0,29.9,7,57.1,42.7,8,1,12.5,1,14.0,Match Report,3349dcba,L,2021,True
+681,2021-08-15,Sun,MLS,Regular Season,Away,L 0–1,Los Angeles FC,Atlanta Utd,Y,GK,90,6,1,5,83.3,0,1.9,0,0,0,0,5,13,38.5,22,2,50.0,45.5,5,40.0,36.6,3,0,0.0,2,17.7,Match Report,3349dcba,L,2021,True
+682,2021-08-21,Sat,MLS,Regular Season,Away,L 1–2,Los Angeles FC,Vancouver,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,5,7,71.4,21,7,23.8,29.0,5,40.0,44.8,15,1,6.7,0,9.3,Match Report,3349dcba,L,2021,False
+683,2021-08-28,Sat,MLS,Regular Season,Home,D 3–3,Los Angeles FC,LA Galaxy,Y,GK,90,5,3,2,40.0,0,2.8,0,0,0,0,3,8,37.5,19,6,31.6,39.6,5,40.0,40.0,10,0,0.0,1,12.1,Match Report,3349dcba,D,2021,False
+684,2021-09-03,Fri,MLS,Regular Season,Home,W 4–0,Los Angeles FC,Sporting KC,Y,GK,90,4,0,4,100.0,1,0.8,0,0,0,0,7,14,50.0,28,7,35.7,34.1,7,57.1,49.6,6,0,0.0,1,20.5,Match Report,3349dcba,W,2021,False
+685,2021-09-12,Sun,MLS,Regular Season,Home,W 3–2,Los Angeles FC,Real Salt Lake,Y,GK,90,2,2,0,0.0,0,1.1,0,0,0,0,6,15,40.0,16,3,62.5,44.0,10,50.0,43.4,14,1,7.1,0,12.7,Match Report,3349dcba,W,2021,False
+686,2021-09-15,Wed,MLS,Regular Season,Away,W 2–1,Los Angeles FC,Austin,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,4,12,33.3,19,5,31.6,31.9,8,75.0,63.0,8,2,25.0,0,9.0,Match Report,3349dcba,W,2021,False
+687,2021-09-19,Sun,MLS,Regular Season,Away,L 1–2,Los Angeles FC,Portland Timbers,Y,GK,90,5,2,3,60.0,0,1.8,0,0,0,0,6,10,60.0,14,5,28.6,37.4,11,54.5,48.7,6,0,0.0,1,12.0,Match Report,3349dcba,L,2021,False
+688,2021-09-25,Sat,MLS,Regular Season,Away,L 0–2,Los Angeles FC,San Jose,Y,GK,90,2,2,0,0.0,0,1.6,0,0,0,0,2,7,28.6,21,3,23.8,29.7,5,40.0,46.4,5,0,0.0,2,17.6,Match Report,3349dcba,L,2021,False
+689,2021-04-18,Sun,MLS,Regular Season,Home,D 0–0,Columbus Crew,Philadelphia,Y,GK,90,5,0,5,100.0,1,0.4,0,0,0,0,10,17,58.8,16,4,62.5,46.8,11,63.6,42.7,15,2,13.3,0,13.0,Match Report,6b33d86b,D,2021,True
+690,2021-05-01,Sat,MLS,Regular Season,Away,D 0–0,Columbus Crew,CF Montréal,Y*,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,5,22,22.7,27,2,55.6,45.8,9,77.8,54.3,12,0,0.0,0,11.3,Match Report,6b33d86b,D,2021,True
+691,2021-05-08,Sat,MLS,Regular Season,Home,W 3–1,Columbus Crew,D.C. United,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,10,16,62.5,18,4,50.0,42.7,11,63.6,49.0,14,3,21.4,0,13.0,Match Report,6b33d86b,W,2021,True
+692,2021-05-12,Wed,MLS,Regular Season,Away,L 0–2,Columbus Crew,Toronto FC,Y,GK,90,2,2,0,0.0,0,1.8,0,0,0,0,4,7,57.1,12,2,33.3,34.3,4,75.0,54.8,8,0,0.0,0,11.5,Match Report,6b33d86b,L,2021,True
+693,2021-05-16,Sun,MLS,Regular Season,Away,L 0–1,Columbus Crew,New England,Y,GK,90,3,1,1,66.7,0,1.3,0,0,0,0,10,23,43.5,32,5,46.9,42.3,10,80.0,54.9,11,1,9.1,0,12.0,Match Report,6b33d86b,L,2021,True
+694,2021-05-22,Sat,MLS,Regular Season,Away,W 2–1,Columbus Crew,NYCFC,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,5,9,55.6,29,4,20.7,28.6,9,33.3,35.3,9,0,0.0,0,10.0,Match Report,6b33d86b,W,2021,True
+695,2021-05-29,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,Toronto FC,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,6,14,42.9,20,2,45.0,40.9,9,55.6,44.4,7,1,14.3,0,8.2,Match Report,6b33d86b,W,2021,True
+696,2021-06-23,Wed,MLS,Regular Season,Away,L 0–1,Columbus Crew,Philadelphia,Y,GK,90,1,1,0,0.0,0,0.6,0,0,0,0,1,6,16.7,20,3,25.0,29.3,3,33.3,38.3,4,0,0.0,0,11.0,Match Report,6b33d86b,L,2021,True
+697,2021-06-27,Sun,MLS,Regular Season,Away,D 0–0,Columbus Crew,Austin,Y,GK,90,5,0,5,100.0,1,0.6,0,0,0,0,4,13,30.8,26,3,26.9,33.1,12,50.0,45.4,11,0,0.0,0,11.4,Match Report,6b33d86b,D,2021,True
+698,2021-07-03,Sat,MLS,Regular Season,Home,D 2–2,Columbus Crew,New England,Y,GK,90,4,2,2,50.0,0,2.0,0,0,0,0,2,4,50.0,23,3,13.0,30.0,3,33.3,24.7,6,0,0.0,1,12.3,Match Report,6b33d86b,D,2021,True
+699,2021-07-17,Sat,MLS,Regular Season,Home,W 2–1,Columbus Crew,NYCFC,Y,GK,90,7,1,6,85.7,0,1.6,0,0,0,0,5,21,23.8,27,2,59.3,42.8,5,100.0,64.0,12,0,0.0,0,10.0,Match Report,6b33d86b,W,2021,True
+700,2021-07-21,Wed,MLS,Regular Season,Home,D 0–0,Columbus Crew,Nashville,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,6,7,85.7,21,3,23.8,30.0,9,22.2,26.3,10,0,0.0,1,14.0,Match Report,6b33d86b,D,2021,True
+701,2021-07-24,Sat,MLS,Regular Season,Away,W 1–0,Columbus Crew,Atlanta Utd,Y,GK,90,5,0,5,100.0,1,1.5,0,0,0,0,5,16,31.3,22,1,45.5,39.5,10,60.0,46.4,20,0,0.0,0,9.2,Match Report,6b33d86b,W,2021,True
+702,2021-07-30,Fri,MLS,Regular Season,Away,L 1–4,Columbus Crew,NYCFC,Y,GK,90,9,4,5,55.6,0,3.5,0,0,0,0,3,16,18.8,29,4,20.7,27.2,14,71.4,55.5,6,0,0.0,0,14.4,Match Report,6b33d86b,L,2021,True
+703,2021-08-04,Wed,MLS,Regular Season,Home,L 2–4,Columbus Crew,D.C. United,Y,GK,90,4,4,1,25.0,0,2.6,1,1,0,0,2,5,40.0,16,2,18.8,30.4,9,22.2,30.7,5,0,0.0,0,16.0,Match Report,6b33d86b,L,2021,True
+704,2021-08-07,Sat,MLS,Regular Season,Home,L 2–3,Columbus Crew,Atlanta Utd,Y,GK,90,4,3,2,75.0,0,3.8,2,2,0,0,1,8,12.5,20,4,35.0,33.1,7,14.3,21.4,9,1,11.1,1,14.2,Match Report,6b33d86b,L,2021,True
+705,2021-08-15,Sun,MLS,Regular Season,Away,L 0–1,Columbus Crew,Chicago Fire,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,9,22,40.9,28,4,60.7,49.1,7,71.4,54.9,18,0,0.0,0,11.7,Match Report,6b33d86b,L,2021,True
+706,2021-08-18,Wed,MLS,Regular Season,Away,L 0–1,Columbus Crew,NY Red Bulls,Y,GK,90,5,1,4,80.0,0,0.6,0,0,0,0,5,26,19.2,29,6,48.3,41.8,13,92.3,67.5,13,0,0.0,0,11.6,Match Report,6b33d86b,L,2021,True
+707,2021-08-21,Sat,MLS,Regular Season,Home,L 1–2,Columbus Crew,Seattle,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,4,17,23.5,17,0,64.7,46.2,9,66.7,50.6,8,0,0.0,1,14.8,Match Report,6b33d86b,L,2021,False
+708,2021-08-27,Fri,MLS,Regular Season,Home,W 3–2,Columbus Crew,FC Cincinnati,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,7,14,50.0,18,4,44.4,43.6,9,66.7,57.1,9,0,0.0,2,20.5,Match Report,6b33d86b,W,2021,False
+709,2021-09-04,Sat,MLS,Regular Season,Away,L 2–3,Columbus Crew,Orlando City,Y,GK,90,6,3,3,50.0,0,1.4,0,0,0,0,9,20,45.0,21,3,57.1,41.6,8,100.0,61.4,2,0,0.0,0,12.0,Match Report,6b33d86b,L,2021,False
+710,2021-09-11,Sat,MLS,Regular Season,Away,L 0–1,Columbus Crew,Inter Miami,Y,GK,90,2,1,1,50.0,0,1.4,0,0,0,0,1,4,25.0,17,3,17.6,27.9,3,33.3,29.0,5,0,0.0,0,17.7,Match Report,6b33d86b,L,2021,False
+711,2021-09-14,Tue,MLS,Regular Season,Home,W 2–1,Columbus Crew,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,11,19,57.9,19,1,57.9,45.9,12,66.7,52.7,8,0,0.0,2,25.5,Match Report,6b33d86b,W,2021,False
+712,2021-09-18,Sat,MLS,Regular Season,Away,D 1–1,Columbus Crew,New England,Y,GK,90,7,1,6,85.7,0,2.2,0,0,0,0,11,25,44.0,23,7,52.2,41.0,18,72.2,58.2,23,2,8.7,0,8.9,Match Report,6b33d86b,D,2021,False
+713,2021-10-16,Sat,MLS,Regular Season,Home,W 4–0,Columbus Crew,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.6,0,0,0,0,6,7,85.7,27,6,18.5,30.9,8,25.0,29.9,7,0,0.0,0,10.9,Match Report,6b33d86b,W,2021,False
+714,2021-10-20,Wed,MLS,Regular Season,Away,D 1–1,Columbus Crew,Nashville,Y,GK,90,4,1,3,75.0,0,1.1,0,0,0,0,2,10,20.0,18,2,38.9,37.4,5,60.0,45.0,13,0,0.0,2,15.2,Match Report,6b33d86b,D,2021,False
+715,2021-10-23,Sat,MLS,Regular Season,Home,L 1–2,Columbus Crew,NY Red Bulls,Y,GK,90,5,2,3,60.0,0,1.4,1,0,0,1,1,19,5.3,28,6,42.9,37.6,13,53.8,43.2,9,0,0.0,1,14.6,Match Report,6b33d86b,L,2021,False
+716,2021-10-27,Wed,MLS,Regular Season,Home,W 3–2,Columbus Crew,Orlando City,Y,GK,90,2,2,1,50.0,0,2.0,1,1,0,0,8,25,32.0,23,3,78.3,50.6,8,87.5,57.0,9,1,11.1,0,11.0,Match Report,6b33d86b,W,2021,False
+717,2021-10-30,Sat,MLS,Regular Season,Away,W 3–1,Columbus Crew,D.C. United,Y,GK,90,3,1,2,66.7,0,1.0,0,0,0,0,1,15,6.7,22,3,45.5,38.0,7,71.4,54.9,6,0,0.0,1,12.7,Match Report,6b33d86b,W,2021,False
+718,2021-11-07,Sun,MLS,Regular Season,Home,W 2–0,Columbus Crew,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0.4,0,0,0,0,3,5,60.0,20,3,20.0,26.3,5,20.0,25.6,9,0,0.0,0,19.3,Match Report,6b33d86b,W,2021,False
+719,2021-04-17,Sat,MLS,Regular Season,Home,W 2–1,D.C. United,NYCFC,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,6,12,50.0,13,4,69.2,50.5,6,50.0,36.3,7,0,0.0,0,11.4,Match Report,8b388dd5,W,2021,True
+720,2021-04-24,Sat,MLS,Regular Season,Away,L 0–1,D.C. United,New England,Y,GK,90,2,1,2,50.0,0,0.1,0,0,0,0,7,16,43.8,20,6,65.0,45.7,7,42.9,33.1,5,0,0.0,0,11.2,Match Report,8b388dd5,L,2021,True
+721,2021-05-01,Sat,MLS,Regular Season,Away,L 1–4,D.C. United,San Jose,Y,GK,90,8,4,4,50.0,0,1.5,0,0,0,0,2,5,40.0,20,5,20.0,27.8,5,20.0,29.0,6,0,0.0,0,12.0,Match Report,8b388dd5,L,2021,True
+722,2021-05-08,Sat,MLS,Regular Season,Away,L 1–3,D.C. United,Columbus Crew,Y,GK,90,3,3,2,0.0,0,0.9,0,0,0,0,2,2,100.0,19,7,10.5,23.2,8,0.0,17.9,8,0,0.0,0,13.4,Match Report,8b388dd5,L,2021,True
+723,2021-04-17,Sat,MLS,Regular Season,Home,D 2–2,Chicago Fire,New England,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,8,10,80.0,13,7,15.4,27.7,10,80.0,49.8,13,0,0.0,0,15.3,Match Report,4598ac94,D,2021,True
+724,2021-04-24,Sat,MLS,Regular Season,Away,L 1–3,Chicago Fire,Atlanta Utd,Y,GK,90,6,3,4,50.0,0,1.2,0,0,0,0,5,10,50.0,15,7,33.3,30.4,10,50.0,40.3,13,0,0.0,0,10.4,Match Report,4598ac94,L,2021,True
+725,2021-05-01,Sat,MLS,Regular Season,Away,L 0–2,Chicago Fire,NY Red Bulls,Y,GK,90,6,2,4,66.7,0,0.7,0,0,0,0,4,10,40.0,16,7,25.0,28.1,8,75.0,50.9,9,0,0.0,0,15.0,Match Report,4598ac94,L,2021,True
+726,2021-05-08,Sat,MLS,Regular Season,Home,L 0–2,Chicago Fire,Philadelphia,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,3,8,37.5,23,6,26.1,28.8,8,25.0,25.5,13,0,0.0,0,15.0,Match Report,4598ac94,L,2021,True
+727,2021-05-13,Thu,MLS,Regular Season,Away,L 0–1,Chicago Fire,D.C. United,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,5,10,50.0,24,3,37.5,34.2,6,16.7,26.8,10,1,10.0,1,14.8,Match Report,4598ac94,L,2021,True
+728,2021-05-22,Sat,MLS,Regular Season,Home,W 1–0,Chicago Fire,Inter Miami,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,4,4,100.0,12,2,25.0,24.7,4,25.0,22.0,4,0,0.0,0,13.0,Match Report,4598ac94,W,2021,True
+729,2021-05-29,Sat,MLS,Regular Season,Home,L 0–1,Chicago Fire,CF Montréal,Y,GK,90,3,1,2,66.7,0,1.5,0,0,0,0,2,12,16.7,31,6,35.5,33.0,4,25.0,39.3,3,0,0.0,1,21.4,Match Report,4598ac94,L,2021,True
+730,2021-06-19,Sat,MLS,Regular Season,Away,L 0–2,Chicago Fire,Columbus Crew,Y,GK,90,2,2,0,0.0,0,1.8,0,0,0,0,2,3,66.7,18,3,11.1,21.6,10,10.0,20.4,14,0,0.0,0,13.8,Match Report,4598ac94,L,2021,True
+731,2021-06-23,Wed,MLS,Regular Season,Home,L 0–1,Chicago Fire,FC Cincinnati,Y,GK,90,12,1,11,91.7,0,1.8,0,0,0,0,5,8,62.5,30,6,16.7,23.7,5,60.0,51.8,3,0,0.0,2,17.3,Match Report,4598ac94,L,2021,True
+732,2021-06-26,Sat,MLS,Regular Season,Home,D 3–3,Chicago Fire,Philadelphia,Y,GK,90,5,3,3,40.0,0,1.6,0,0,0,0,5,14,35.7,17,6,41.2,37.5,7,100.0,68.4,14,1,7.1,0,8.1,Match Report,4598ac94,D,2021,True
+733,2021-07-03,Sat,MLS,Regular Season,Home,W 3–0,Chicago Fire,Atlanta Utd,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,6,16,37.5,16,4,62.5,43.4,8,75.0,56.9,10,0,0.0,0,17.5,Match Report,4598ac94,W,2021,True
+734,2021-07-07,Wed,MLS,Regular Season,Home,W 3–1,Chicago Fire,Orlando City,Y,GK,90,9,1,8,88.9,0,2.8,0,0,0,0,5,15,33.3,21,2,33.3,33.8,9,88.9,65.4,8,0,0.0,0,12.7,Match Report,4598ac94,W,2021,True
+735,2021-07-17,Sat,MLS,Regular Season,Away,L 1–5,Chicago Fire,Nashville,Y,GK,90,12,5,7,58.3,0,5.1,0,0,0,0,5,13,38.5,18,4,44.4,36.3,6,83.3,53.8,8,0,0.0,0,15.5,Match Report,4598ac94,L,2021,True
+736,2021-07-21,Wed,MLS,Regular Season,Home,D 2–2,Chicago Fire,D.C. United,Y,GK,90,5,2,4,80.0,0,2.6,1,1,0,0,3,12,25.0,27,5,25.9,36.6,8,62.5,48.9,5,0,0.0,0,13.9,Match Report,4598ac94,D,2021,True
+737,2021-07-24,Sat,MLS,Regular Season,Home,L 1–2,Chicago Fire,Toronto FC,Y,GK,90,3,2,1,33.3,0,1.5,0,0,0,0,3,6,50.0,10,1,40.0,35.7,4,50.0,42.3,1,0,0.0,0,4.0,Match Report,4598ac94,L,2021,True
+738,2021-08-01,Sun,MLS,Regular Season,Away,D 1–1,Chicago Fire,Philadelphia,Y,GK,90,5,1,4,80.0,0,1.5,0,0,0,0,11,22,50.0,23,5,26.1,32.1,17,94.1,60.7,17,0,0.0,1,13.0,Match Report,4598ac94,D,2021,True
+739,2021-08-08,Sun,MLS,Regular Season,Home,W 2–1,Chicago Fire,NY Red Bulls,Y,GK,90,4,1,3,75.0,0,0.8,0,0,0,0,16,30,53.3,25,2,68.0,53.2,13,100.0,65.6,17,0,0.0,1,13.1,Match Report,4598ac94,W,2021,True
+740,2021-08-15,Sun,MLS,Regular Season,Home,W 1–0,Chicago Fire,Columbus Crew,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,2,8,25.0,23,4,26.1,31.7,11,18.2,27.8,6,0,0.0,1,15.3,Match Report,4598ac94,W,2021,True
+741,2021-08-18,Wed,MLS,Regular Season,Away,L 2–3,Chicago Fire,Inter Miami,Y,GK,90,4,3,1,25.0,0,1.9,0,0,0,0,4,12,33.3,16,1,37.5,32.3,8,75.0,47.5,5,0,0.0,0,11.8,Match Report,4598ac94,L,2021,True
+742,2021-08-21,Sat,MLS,Regular Season,Away,L 0–1,Chicago Fire,Orlando City,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,2,10,20.0,10,1,40.0,37.1,8,75.0,57.1,10,0,0.0,0,,Match Report,4598ac94,L,2021,False
+743,2021-08-28,Sat,MLS,Regular Season,Away,W 1–0,Chicago Fire,NY Red Bulls,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,25,20.0,19,8,73.7,51.8,12,91.7,63.1,15,1,6.7,1,12.4,Match Report,4598ac94,W,2021,False
+744,2021-09-11,Sat,MLS,Regular Season,Away,L 0–2,Chicago Fire,Sporting KC,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,4,12,33.3,21,4,42.9,32.1,6,50.0,44.0,9,0,0.0,0,10.6,Match Report,4598ac94,L,2021,False
+745,2021-09-15,Wed,MLS,Regular Season,Away,L 0–3,Chicago Fire,D.C. United,Y,GK,90,1,3,0,0.0,0,2.6,2,2,0,0,1,5,20.0,10,1,50.0,42.3,4,0.0,16.8,5,0,0.0,0,15.0,Match Report,4598ac94,L,2021,False
+746,2021-04-17,Sat,MLS,Regular Season,Home,W 2–0,Los Angeles FC,Austin,Y,GK,90,3,0,3,100.0,1,0.9,0,0,0,0,9,15,60.0,14,4,50.0,36.9,9,88.9,54.8,12,1,8.3,4,18.7,Match Report,550557e1,W,2021,True
+747,2021-04-24,Sat,MLS,Regular Season,Home,D 1–1,Los Angeles FC,Seattle,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,7,13,53.8,18,5,55.6,41.9,5,60.0,43.0,10,0,0.0,0,12.0,Match Report,550557e1,D,2021,True
+748,2021-05-01,Sat,MLS,Regular Season,Away,D 1–1,Los Angeles FC,Houston Dynamo,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,2,12,16.7,17,11,29.4,31.1,16,43.8,34.8,13,2,15.4,1,18.0,Match Report,550557e1,D,2021,True
+749,2021-05-08,Sat,MLS,Regular Season,Away,L 1–2,Los Angeles FC,LA Galaxy,Y,GK,90,3,2,1,33.3,0,0.8,0,0,0,0,1,7,14.3,22,4,31.8,32.7,2,0.0,28.0,10,1,10.0,1,15.0,Match Report,550557e1,L,2021,True
+750,2021-05-16,Sun,MLS,Regular Season,Away,L 0–2,Los Angeles FC,Seattle,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,2,6,33.3,15,5,26.7,35.4,7,28.6,33.3,5,0,0.0,2,20.3,Match Report,550557e1,L,2021,True
+751,2021-05-22,Sat,MLS,Regular Season,Home,W 2–1,Los Angeles FC,Colorado Rapids,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,6,17,35.3,20,2,55.0,40.9,8,75.0,52.4,12,1,8.3,1,15.8,Match Report,550557e1,W,2021,True
+752,2021-05-29,Sat,MLS,Regular Season,Home,L 1–2,Los Angeles FC,NYCFC,Y,GK,90,4,2,2,50.0,0,2.1,0,0,0,0,8,15,53.3,25,5,36.0,31.7,7,85.7,55.9,6,0,0.0,2,20.0,Match Report,550557e1,L,2021,True
+753,2021-06-19,Sat,MLS,Regular Season,Home,D 1–1,Los Angeles FC,Houston Dynamo,Y,GK,90,2,1,1,50.0,0,0.4,0,0,0,0,2,13,15.4,18,3,44.4,36.8,9,55.6,43.0,4,0,0.0,0,15.3,Match Report,550557e1,D,2021,True
+754,2021-08-04,Wed,MLS,Regular Season,Home,D 0–0,Chicago Fire,NYCFC,Y,GK,90,4,0,4,100.0,1,0.7,0,0,0,0,9,17,52.9,23,6,52.2,39.2,6,83.3,55.2,9,0,0.0,0,8.7,Match Report,c55a846e,D,2021,True
+755,2021-09-19,Sun,MLS,Regular Season,Away,L 0–2,Chicago Fire,CF Montréal,Y,GK,90,4,2,3,50.0,0,1.4,0,0,0,0,6,12,50.0,33,2,33.3,34.2,5,20.0,24.6,4,1,25.0,1,12.6,Match Report,c55a846e,L,2021,False
+756,2021-09-22,Wed,MLS,Regular Season,Home,L 2–3,Chicago Fire,New England,Y,GK,90,7,3,4,57.1,0,2.5,0,0,0,0,4,13,30.8,18,6,66.7,47.2,10,10.0,20.2,10,2,20.0,0,8.0,Match Report,c55a846e,L,2021,False
+757,2021-09-26,Sun,MLS,Regular Season,Home,D 0–0,Chicago Fire,Nashville,Y,GK,90,4,0,4,100.0,1,0.5,0,0,0,0,6,6,100.0,26,7,23.1,30.0,3,0.0,19.7,17,0,0.0,1,21.6,Match Report,c55a846e,D,2021,False
+758,2021-09-29,Wed,MLS,Regular Season,Home,W 2–0,Chicago Fire,NYCFC,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,7,10,70.0,20,6,50.0,37.0,5,0.0,14.8,12,3,25.0,0,9.5,Match Report,c55a846e,W,2021,False
+759,2021-10-03,Sun,MLS,Regular Season,Away,L 1–3,Chicago Fire,Toronto FC,Y,GK,90,5,3,2,40.0,0,2.2,1,0,1,0,3,9,33.3,18,3,44.4,40.4,6,16.7,24.2,11,1,9.1,0,8.0,Match Report,c55a846e,L,2021,False
+760,2021-10-16,Sat,MLS,Regular Season,Away,D 2–2,Chicago Fire,New England,Y,GK,90,8,2,6,75.0,0,1.3,0,0,0,0,5,10,50.0,16,7,31.3,34.1,9,55.6,42.3,19,1,5.3,0,12.5,Match Report,c55a846e,D,2021,False
+761,2021-10-20,Wed,MLS,Regular Season,Away,W 4–3,Chicago Fire,FC Cincinnati,Y,GK,90,6,3,3,50.0,0,2.0,0,0,0,0,3,7,42.9,15,4,26.7,32.9,6,50.0,42.0,7,0,0.0,1,14.0,Match Report,c55a846e,W,2021,False
+762,2021-10-23,Sat,MLS,Regular Season,Home,W 1–0,Chicago Fire,Real Salt Lake,Y,GK,90,5,0,5,100.0,1,1.0,0,0,0,0,8,16,50.0,16,3,75.0,47.6,5,80.0,51.4,13,2,15.4,0,10.6,Match Report,c55a846e,W,2021,False
+763,2021-10-27,Wed,MLS,Regular Season,Away,L 0–1,Chicago Fire,NYCFC,Y,GK,90,3,1,3,100.0,0,1.0,1,1,0,0,5,13,38.5,28,6,32.1,32.4,11,36.4,33.8,5,1,20.0,0,9.5,Match Report,c55a846e,L,2021,False
+764,2021-11-07,Sun,MLS,Regular Season,Away,L 0–2,Chicago Fire,Columbus Crew,Y,GK,90,9,2,7,77.8,0,2.4,0,0,0,0,8,13,61.5,23,6,30.4,30.1,15,40.0,36.0,27,2,7.4,1,12.3,Match Report,c55a846e,L,2021,False
+765,2021-04-16,Fri,MLS,Regular Season,Away,L 0–4,Minnesota Utd,Seattle,Y,GK,90,8,4,4,50.0,0,3.8,1,0,1,0,2,12,16.7,17,2,41.2,40.4,6,83.3,54.7,8,0,0.0,0,14.2,Match Report,3f41d25f,L,2021,True
+766,2021-04-24,Sat,MLS,Regular Season,Home,L 1–2,Minnesota Utd,Real Salt Lake,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,7,13,53.8,20,5,55.0,41.1,5,40.0,34.2,3,1,33.3,1,25.9,Match Report,3f41d25f,L,2021,True
+767,2021-05-01,Sat,MLS,Regular Season,Home,L 0–1,Minnesota Utd,Austin,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,2,10,20.0,30,7,20.0,29.5,8,50.0,51.6,9,0,0.0,3,26.8,Match Report,3f41d25f,L,2021,True
+768,2021-05-08,Sat,MLS,Regular Season,Away,L 2–3,Minnesota Utd,Colorado Rapids,Y,GK,90,4,3,1,25.0,0,1.5,0,0,0,0,6,22,27.3,19,4,63.2,45.2,10,100.0,61.1,15,0,0.0,2,16.3,Match Report,3f41d25f,L,2021,True
+769,2021-11-21,Sun,MLS,First Round,Away,L 1–3,Minnesota Utd,Portland Timbers,Y,GK,90,4,3,1,25.0,0,1.8,0,0,0,0,5,15,33.3,17,1,47.1,36.2,10,70.0,50.0,10,0,0.0,0,11.4,Match Report,3f41d25f,L,2021,False
+770,2021-07-30,Fri,MLS,Regular Season,Home,W 3–2,Orlando City,Atlanta Utd,Y,GK,90,3,2,1,33.3,0,0.9,0,0,0,0,1,4,25.0,15,3,26.7,29.5,5,0.0,16.6,4,0,0.0,0,15.3,Match Report,f01df62c,W,2021,True
+771,2021-08-04,Wed,MLS,Regular Season,Home,D 1–1,Orlando City,Inter Miami,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,0,1,0.0,10,5,10.0,18.0,6,0.0,13.5,4,0,0.0,0,16.3,Match Report,f01df62c,D,2021,True
+772,2021-08-07,Sat,MLS,Regular Season,Away,D 1–1,Orlando City,FC Cincinnati,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0,0,3,8,37.5,16,6,31.3,28.8,12,25.0,30.2,1,0,0.0,0,12.6,Match Report,f01df62c,D,2021,True
+773,2021-08-18,Wed,MLS,Regular Season,Away,D 1–1,Orlando City,Nashville,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,1,6,16.7,16,8,18.8,29.9,10,30.0,36.4,12,1,8.3,2,13.2,Match Report,f01df62c,D,2021,True
+774,2021-08-21,Sat,MLS,Regular Season,Home,W 1–0,Orlando City,Chicago Fire,Y,GK,90,5,0,5,100.0,1,1.5,0,0,0,0,2,4,50.0,16,10,25.0,31.8,6,0.0,18.7,12,3,25.0,0,12.2,Match Report,f01df62c,W,2021,False
+775,2021-04-17,Sat,MLS,Regular Season,Away,L 0–2,Austin,Los Angeles FC,Y,GK,90,9,2,7,77.8,0,1.7,0,0,0,0,10,16,62.5,40,6,30.0,30.1,13,30.8,26.5,5,0,0.0,1,15.3,Match Report,6a1940d5,L,2021,True
+776,2021-04-24,Sat,MLS,Regular Season,Away,W 3–1,Austin,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,1.8,0,0,0,0,3,15,20.0,32,5,28.1,32.5,8,75.0,53.1,6,1,16.7,1,9.6,Match Report,6a1940d5,W,2021,True
+777,2021-05-01,Sat,MLS,Regular Season,Away,W 1–0,Austin,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,5,11,45.5,39,8,12.8,24.4,13,46.2,36.8,13,1,7.7,0,12.0,Match Report,6a1940d5,W,2021,True
+778,2021-05-09,Sun,MLS,Regular Season,Away,L 1–2,Austin,Sporting KC,Y,GK,90,8,2,5,75.0,0,2.4,0,0,0,0,9,21,42.9,30,6,43.3,34.0,13,61.5,45.8,19,1,5.3,1,11.7,Match Report,6a1940d5,L,2021,True
+779,2021-05-15,Sat,MLS,Regular Season,Away,L 0–2,Austin,LA Galaxy,Y,GK,90,3,2,1,33.3,0,1.8,1,0,1,0,4,7,57.1,26,3,11.5,22.5,12,33.3,28.4,8,0,0.0,1,21.7,Match Report,6a1940d5,L,2021,True
+780,2021-05-23,Sun,MLS,Regular Season,Away,L 0–1,Austin,Nashville,Y,GK,90,7,1,6,85.7,0,2.2,0,0,0,0,5,9,55.6,31,10,12.9,24.6,10,50.0,42.9,16,0,0.0,0,13.8,Match Report,6a1940d5,L,2021,True
+781,2021-05-30,Sun,MLS,Regular Season,Away,D 0–0,Austin,Seattle,Y,GK,90,2,0,2,100.0,1,0.0,0,0,0,0,5,15,33.3,31,12,19.4,26.4,11,81.8,47.0,13,2,15.4,0,14.3,Match Report,6a1940d5,D,2021,True
+782,2021-06-12,Sat,MLS,Regular Season,Away,D 1–1,Austin,Sporting KC,Y,GK,90,10,1,8,90.0,0,3.5,0,0,0,0,1,6,16.7,33,5,18.2,26.7,13,0.0,18.3,21,3,14.3,0,11.8,Match Report,6a1940d5,D,2021,True
+783,2021-06-19,Sat,MLS,Regular Season,Home,D 0–0,Austin,San Jose,Y,GK,90,9,0,9,100.0,1,1.3,0,0,0,0,2,5,40.0,29,8,6.9,20.3,8,37.5,39.3,4,1,25.0,0,11.7,Match Report,6a1940d5,D,2021,True
+784,2021-06-23,Wed,MLS,Regular Season,Away,L 0–2,Austin,Minnesota Utd,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,6,10,60.0,32,5,21.9,25.7,7,42.9,40.6,6,0,0.0,2,12.2,Match Report,6a1940d5,L,2021,True
+785,2021-06-27,Sun,MLS,Regular Season,Home,D 0–0,Austin,Columbus Crew,Y,GK,90,5,0,5,100.0,1,0.9,0,0,0,0,3,4,75.0,33,6,12.1,25.6,5,0.0,20.4,6,0,0.0,1,12.2,Match Report,6a1940d5,D,2021,True
+786,2021-07-01,Thu,MLS,Regular Season,Home,W 4–1,Austin,Portland Timbers,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,4,7,57.1,26,4,26.9,29.2,7,0.0,18.7,8,1,12.5,0,10.8,Match Report,6a1940d5,W,2021,True
+787,2021-07-07,Wed,MLS,Regular Season,Home,L 0–2,Austin,Los Angeles FC,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,1,4,25.0,28,7,10.7,23.4,5,20.0,27.6,3,0,0.0,1,17.8,Match Report,6a1940d5,L,2021,True
+788,2021-07-22,Thu,MLS,Regular Season,Home,L 0–1,Austin,Seattle,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,2,3,66.7,20,2,10.0,25.8,5,20.0,29.0,5,0,0.0,2,20.7,Match Report,6a1940d5,L,2021,True
+789,2021-07-31,Sat,MLS,Regular Season,Home,L 0–1,Austin,Colorado Rapids,Y,GK,90,6,1,5,83.3,0,1.9,0,0,0,0,1,3,33.3,18,7,16.7,26.5,8,0.0,20.6,6,1,16.7,0,13.8,Match Report,6a1940d5,L,2021,True
+790,2021-08-04,Wed,MLS,Regular Season,Home,W 3–2,Austin,Houston Dynamo,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,3,6,50.0,23,6,21.7,25.8,5,20.0,28.4,9,2,22.2,1,15.4,Match Report,6a1940d5,W,2021,True
+791,2021-08-07,Sat,MLS,Regular Season,Away,L 0–2,Austin,FC Dallas,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,2,4,50.0,28,4,14.3,26.0,7,0.0,14.7,10,1,10.0,0,21.0,Match Report,6a1940d5,L,2021,True
+792,2021-08-14,Sat,MLS,Regular Season,Away,L 0–1,Austin,Real Salt Lake,Y,GK,90,8,1,7,87.5,0,1.4,0,0,0,0,4,7,57.1,31,8,19.4,26.9,4,25.0,41.8,8,0,0.0,0,12.8,Match Report,6a1940d5,L,2021,True
+793,2021-08-18,Wed,MLS,Regular Season,Home,L 1–2,Austin,Vancouver,Y,GK,90,8,2,6,75.0,0,2.3,0,0,0,0,2,3,66.7,33,9,3.0,19.4,5,40.0,30.2,8,0,0.0,0,11.0,Match Report,6a1940d5,L,2021,True
+794,2021-08-21,Sat,MLS,Regular Season,Home,W 3–1,Austin,Portland Timbers,Y,GK,90,6,1,5,83.3,0,0.7,0,0,0,0,4,8,50.0,21,3,19.0,25.0,11,36.4,34.7,10,0,0.0,1,14.0,Match Report,6a1940d5,W,2021,False
+795,2021-08-29,Sun,MLS,Regular Season,Home,L 3–5,Austin,FC Dallas,Y,GK,90,7,5,2,28.6,0,2.8,0,0,0,0,2,3,66.7,36,6,5.6,21.2,12,8.3,21.8,3,0,0.0,1,13.2,Match Report,6a1940d5,L,2021,False
+796,2021-09-04,Sat,MLS,Regular Season,Away,L 1–2,Austin,Vancouver,Y,GK,90,8,2,5,75.0,0,2.3,0,0,0,0,5,9,55.6,19,3,26.3,26.1,6,66.7,45.3,8,0,0.0,1,13.7,Match Report,6a1940d5,L,2021,False
+797,2021-09-11,Sat,MLS,Regular Season,Away,L 0–3,Austin,Houston Dynamo,Y,GK,90,7,3,4,57.1,0,1.3,0,0,0,0,3,9,33.3,19,4,26.3,33.3,12,33.3,38.8,5,1,20.0,0,16.0,Match Report,6a1940d5,L,2021,False
+798,2021-09-15,Wed,MLS,Regular Season,Home,L 1–2,Austin,Los Angeles FC,Y,GK,90,3,2,2,66.7,0,2.6,1,1,0,0,0,10,0.0,26,5,19.2,29.0,13,38.5,33.9,7,1,14.3,1,15.5,Match Report,6a1940d5,L,2021,False
+799,2021-09-18,Sat,MLS,Regular Season,Home,L 3–4,Austin,San Jose,Y,GK,90,7,4,4,57.1,0,2.5,1,1,0,0,3,12,25.0,24,1,29.2,29.4,6,83.3,60.0,7,0,0.0,2,18.9,Match Report,6a1940d5,L,2021,False
+800,2021-09-26,Sun,MLS,Regular Season,Home,W 2–0,Austin,LA Galaxy,Y,GK,90,7,0,7,100.0,1,2.0,0,0,0,0,6,12,50.0,26,2,23.1,29.8,11,54.5,46.5,11,1,9.1,0,4.7,Match Report,6a1940d5,W,2021,False
+801,2021-10-02,Sat,MLS,Regular Season,Home,W 2–1,Austin,Real Salt Lake,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,4,8,50.0,22,3,13.6,28.1,8,62.5,48.5,6,0,0.0,1,13.0,Match Report,6a1940d5,W,2021,False
+802,2021-10-16,Sat,MLS,Regular Season,Home,L 0–1,Austin,Minnesota Utd,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,2,5,40.0,32,2,9.4,23.9,12,16.7,26.5,5,0,0.0,1,12.8,Match Report,6a1940d5,L,2021,False
+803,2021-10-20,Wed,MLS,Regular Season,Away,L 0–4,Austin,San Jose,Y,GK,90,9,4,5,55.6,0,3.9,0,0,0,0,7,21,33.3,30,4,43.3,33.6,10,80.0,63.7,7,1,14.3,0,10.0,Match Report,6a1940d5,L,2021,False
+804,2021-10-24,Sun,MLS,Regular Season,Home,W 2–1,Austin,Houston Dynamo,Y,GK,90,6,1,6,83.3,0,0.5,0,0,0,0,9,27,33.3,30,5,60.0,46.9,9,100.0,70.3,6,0,0.0,1,13.3,Match Report,6a1940d5,W,2021,False
+805,2021-10-30,Sat,MLS,Regular Season,Away,L 1–2,Austin,FC Dallas,Y,GK,90,3,2,1,33.3,0,1.7,0,0,0,0,7,18,38.9,33,2,42.4,39.1,7,57.1,41.0,7,0,0.0,1,14.4,Match Report,6a1940d5,L,2021,False
+806,2021-11-03,Wed,MLS,Regular Season,Home,W 3–1,Austin,Sporting KC,Y,GK,90,4,1,3,75.0,0,0.2,0,0,0,0,11,25,44.0,34,6,50.0,40.3,10,80.0,55.9,14,2,14.3,0,14.6,Match Report,6a1940d5,W,2021,False
+807,2021-11-07,Sun,MLS,Regular Season,Away,L 0–3,Austin,Portland Timbers,Y,GK,90,8,3,5,62.5,0,2.9,0,0,0,0,5,7,71.4,21,5,23.8,31.1,10,20.0,27.0,6,0,0.0,1,12.0,Match Report,6a1940d5,L,2021,False
+808,2021-05-01,Sat,MLS,Regular Season,Away,L 1–4,Portland Timbers,FC Dallas,Y,GK,90,6,4,2,33.3,0,2.0,0,0,0,0,3,13,23.1,24,4,29.2,32.0,11,54.5,37.1,2,0,0.0,3,18.3,Match Report,92823044,L,2021,True
+809,2021-05-09,Sun,MLS,Regular Season,Home,L 1–2,Portland Timbers,Seattle,N,GK,23,2,1,1,50.0,0,0.6,0,0,0,0,2,4,50.0,6,3,33.3,35.3,2,100.0,71.0,4,0,0.0,0,8.0,Match Report,92823044,L,2021,True
+810,2021-09-29,Wed,MLS,Regular Season,Away,L 0–3,Austin,Colorado Rapids,Y,GK,90,5,3,2,40.0,0,1.8,0,0,0,0,5,21,23.8,35,3,48.6,42.2,7,57.1,53.0,12,2,16.7,4,19.9,Match Report,c5487a34,L,2021,False
+811,2021-04-17,Sat,MLS,Regular Season,Away,D 2–2,New England,Chicago Fire,Y,GK,90,7,2,5,71.4,0,1.7,0,0,0,0,11,24,45.8,19,5,73.7,51.4,12,83.3,57.8,11,1,9.1,0,10.0,Match Report,4a51ba65,D,2021,True
+812,2021-04-24,Sat,MLS,Regular Season,Home,W 1–0,New England,D.C. United,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,5,17,29.4,20,5,55.0,48.2,7,85.7,59.3,11,2,18.2,1,13.8,Match Report,4a51ba65,W,2021,True
+813,2021-05-01,Sat,MLS,Regular Season,Home,W 2–1,New England,Atlanta Utd,Y,GK,90,2,1,2,100.0,0,0.9,1,1,0,0,7,12,58.3,13,4,61.5,48.5,5,80.0,58.4,6,1,16.7,0,11.0,Match Report,4a51ba65,W,2021,True
+814,2021-05-08,Sat,MLS,Regular Season,Away,L 0–2,New England,Nashville,Y,GK,90,7,2,5,71.4,0,1.5,0,0,0,0,4,10,40.0,26,8,19.2,27.5,12,41.7,38.7,9,1,11.1,5,22.6,Match Report,4a51ba65,L,2021,True
+815,2021-05-12,Wed,MLS,Regular Season,Away,D 1–1,New England,Philadelphia,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,10,17,58.8,19,4,57.9,44.6,9,66.7,46.4,17,2,11.8,0,12.2,Match Report,4a51ba65,D,2021,True
+816,2021-05-16,Sun,MLS,Regular Season,Home,W 1–0,New England,Columbus Crew,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,7,9,77.8,16,3,43.8,39.2,5,40.0,44.0,7,1,14.3,1,17.3,Match Report,4a51ba65,W,2021,True
+817,2021-05-22,Sat,MLS,Regular Season,Home,W 3–1,New England,NY Red Bulls,Y,GK,90,3,1,2,66.7,0,1.6,0,0,0,0,5,15,33.3,18,7,61.1,52.4,6,66.7,67.2,9,0,0.0,0,10.0,Match Report,4a51ba65,W,2021,True
+818,2021-05-29,Sat,MLS,Regular Season,Away,W 1–0,New England,FC Cincinnati,Y,GK,90,4,0,4,100.0,1,0.6,0,0,0,0,7,17,41.2,20,6,55.0,44.6,8,75.0,57.9,9,2,22.2,0,13.0,Match Report,4a51ba65,W,2021,True
+819,2021-06-19,Sat,MLS,Regular Season,Away,W 3–2,New England,NYCFC,Y,GK,90,8,2,6,75.0,0,3.7,1,0,1,0,3,19,15.8,21,7,57.1,51.9,8,87.5,69.9,8,1,12.5,0,13.5,Match Report,4a51ba65,W,2021,True
+820,2021-06-23,Wed,MLS,Regular Season,Home,W 3–2,New England,NY Red Bulls,Y,GK,90,6,2,4,66.7,0,1.1,0,0,0,0,13,23,56.5,20,7,65.0,47.7,11,90.9,70.1,2,0,0.0,0,9.0,Match Report,4a51ba65,W,2021,True
+821,2021-06-27,Sun,MLS,Regular Season,Away,L 1–2,New England,FC Dallas,Y,GK,90,4,2,2,50.0,0,1.8,0,0,0,0,3,5,60.0,16,10,6.3,27.3,6,66.7,50.2,5,2,40.0,2,16.1,Match Report,4a51ba65,L,2021,True
+822,2021-07-03,Sat,MLS,Regular Season,Away,D 2–2,New England,Columbus Crew,Y,GK,90,6,2,5,66.7,0,1.0,0,0,0,0,8,26,30.8,25,6,72.0,57.9,10,80.0,61.7,6,1,16.7,0,9.1,Match Report,4a51ba65,D,2021,True
+823,2021-08-04,Wed,MLS,Regular Season,Home,D 0–0,New England,Nashville,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,2,2,100.0,21,6,9.5,24.3,6,0.0,22.5,6,1,16.7,0,14.7,Match Report,4a51ba65,D,2021,True
+824,2021-08-08,Sun,MLS,Regular Season,Home,W 2–1,New England,Philadelphia,Y,GK,90,6,1,5,83.3,0,1.7,0,0,0,0,1,3,33.3,9,2,22.2,31.0,4,25.0,35.8,6,1,16.7,0,,Match Report,4a51ba65,W,2021,True
+825,2021-08-14,Sat,MLS,Regular Season,Away,W 2–1,New England,Toronto FC,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,12,21,57.1,16,2,75.0,53.2,10,90.0,60.3,10,3,30.0,0,11.8,Match Report,4a51ba65,W,2021,True
+826,2021-08-18,Wed,MLS,Regular Season,Home,W 3–2,New England,D.C. United,Y,GK,90,8,2,6,75.0,0,1.9,0,0,0,0,5,13,38.5,23,5,39.1,44.0,11,36.4,38.9,7,2,28.6,0,5.3,Match Report,4a51ba65,W,2021,True
+827,2021-08-21,Sat,MLS,Regular Season,Home,W 4–1,New England,FC Cincinnati,Y,GK,90,4,1,3,75.0,0,1.5,0,0,0,0,4,10,40.0,21,6,33.3,35.8,9,33.3,34.7,7,0,0.0,0,9.1,Match Report,4a51ba65,W,2021,False
+828,2021-08-28,Sat,MLS,Regular Season,Away,L 0–2,New England,NYCFC,Y,GK,90,5,2,3,60.0,0,2.0,0,0,0,0,8,20,40.0,27,6,51.9,41.5,11,54.5,44.7,12,0,0.0,1,13.0,Match Report,4a51ba65,L,2021,False
+829,2021-09-11,Sat,MLS,Regular Season,Home,W 2–1,New England,NYCFC,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,4,5,80.0,29,10,17.2,29.5,1,0.0,31.0,6,1,16.7,2,13.9,Match Report,4a51ba65,W,2021,False
+830,2021-09-18,Sat,MLS,Regular Season,Home,D 1–1,New England,Columbus Crew,Y,GK,90,2,1,1,50.0,0,1.4,0,0,0,0,0,2,0.0,15,6,13.3,27.8,1,0.0,8.0,4,0,0.0,2,19.3,Match Report,4a51ba65,D,2021,False
+831,2021-09-22,Wed,MLS,Regular Season,Away,W 3–2,New England,Chicago Fire,Y,GK,90,9,2,7,77.8,0,2.9,0,0,0,0,10,23,43.5,22,6,59.1,52.0,10,100.0,66.2,21,0,0.0,0,11.0,Match Report,4a51ba65,W,2021,False
+832,2021-09-25,Sat,MLS,Regular Season,Home,W 2–1,New England,Orlando City,Y,GK,90,2,1,1,50.0,0,1.8,1,0,1,0,4,15,26.7,21,3,47.6,44.6,8,62.5,44.3,11,1,9.1,1,18.8,Match Report,4a51ba65,W,2021,False
+833,2021-09-29,Wed,MLS,Regular Season,Away,W 4–1,New England,CF Montréal,Y,GK,90,6,1,5,83.3,0,0.8,0,0,0,0,8,23,34.8,29,6,51.7,41.4,10,80.0,57.8,11,2,18.2,0,10.6,Match Report,4a51ba65,W,2021,False
+834,2021-10-16,Sat,MLS,Regular Season,Home,D 2–2,New England,Chicago Fire,Y,GK,90,4,2,2,50.0,0,1.5,0,0,0,0,8,11,72.7,27,8,18.5,26.0,11,54.5,44.0,11,0,0.0,0,9.5,Match Report,4a51ba65,D,2021,False
+835,2021-10-20,Wed,MLS,Regular Season,Away,W 3–2,New England,D.C. United,Y,GK,90,10,2,8,80.0,0,2.5,0,0,0,0,8,20,40.0,30,8,50.0,44.7,7,71.4,57.0,11,0,0.0,0,12.2,Match Report,4a51ba65,W,2021,False
+836,2021-10-24,Sun,MLS,Regular Season,Away,D 2–2,New England,Orlando City,Y,GK,90,4,2,3,75.0,0,1.8,1,1,0,0,3,9,33.3,11,4,45.5,40.2,6,66.7,48.0,11,0,0.0,0,11.2,Match Report,4a51ba65,D,2021,False
+837,2021-10-27,Wed,MLS,Regular Season,Home,W 1–0,New England,Colorado Rapids,Y,GK,90,4,0,4,100.0,1,0.8,0,0,0,0,2,5,40.0,22,8,18.2,27.7,8,12.5,27.9,4,0,0.0,0,14.8,Match Report,4a51ba65,W,2021,False
+838,2021-11-07,Sun,MLS,Regular Season,Home,L 0–1,New England,Inter Miami,Y,GK,90,4,1,3,75.0,0,1.8,0,0,0,0,5,5,100.0,16,5,18.8,28.8,6,33.3,25.5,6,1,16.7,1,25.7,Match Report,4a51ba65,L,2021,False
+839,2021-11-30,Tue,MLS,Conference Semifinals,Home,D 2 (3)–2 (5),New England,NYCFC,Y,GK,120,4,2,2,50.0,0,2.4,0,0,0,0,11,22,50.0,26,9,50.0,41.8,12,75.0,49.6,13,1,7.7,0,8.8,Match Report,4a51ba65,D,2021,False
+840,2021-04-17,Sat,MLS,Regular Season,Away,D 2–2,FC Cincinnati,Nashville,Y,GK,90,13,2,11,84.6,0,3.4,0,0,0,0,2,20,10.0,14,1,42.9,39.2,16,87.5,56.3,17,1,5.9,0,11.0,Match Report,1fa85681,D,2021,True
+841,2021-05-01,Sat,MLS,Regular Season,Away,L 0–3,FC Cincinnati,Orlando City,Y,GK,90,5,3,2,40.0,0,1.8,0,0,0,0,5,13,38.5,21,3,23.8,30.2,10,80.0,53.3,15,0,0.0,0,13.3,Match Report,1fa85681,L,2021,True
+842,2021-08-07,Sat,MLS,Regular Season,Home,D 1–1,FC Cincinnati,Orlando City,N,GK,26,0,0,0,,0,0.0,0,0,0,0,1,3,33.3,4,1,25.0,29.8,5,40.0,43.4,5,0,0.0,0,6.0,Match Report,1fa85681,D,2021,True
+843,2021-08-18,Wed,MLS,Regular Season,Home,D 0–0,FC Cincinnati,CF Montréal,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,4,8,50.0,32,4,15.6,28.8,10,30.0,29.1,4,0,0.0,1,16.2,Match Report,1fa85681,D,2021,True
+844,2021-08-21,Sat,MLS,Regular Season,Away,L 1–4,FC Cincinnati,New England,Y,GK,90,6,4,2,33.3,0,3.3,0,0,0,0,2,7,28.6,24,7,16.7,27.1,9,33.3,32.0,10,3,30.0,0,9.7,Match Report,1fa85681,L,2021,False
+845,2021-09-11,Sat,MLS,Regular Season,Home,W 2–0,FC Cincinnati,Toronto FC,Y,GK,90,5,0,5,100.0,1,0.9,0,0,0,0,1,3,33.3,21,7,14.3,25.3,8,0.0,21.6,8,0,0.0,0,9.8,Match Report,1fa85681,W,2021,False
+846,2021-09-15,Wed,MLS,Regular Season,Away,L 0–4,FC Cincinnati,Atlanta Utd,Y,GK,90,9,4,5,55.6,0,3.0,0,0,0,0,3,9,33.3,23,3,34.8,37.1,4,25.0,33.0,4,0,0.0,0,16.5,Match Report,1fa85681,L,2021,False
+847,2021-09-18,Sat,MLS,Regular Season,Home,L 1–2,FC Cincinnati,NYCFC,Y,GK,90,3,2,2,66.7,0,1.5,1,1,0,0,4,8,50.0,18,3,38.9,32.1,8,12.5,23.5,7,2,28.6,0,8.0,Match Report,1fa85681,L,2021,False
+848,2021-09-25,Sat,MLS,Regular Season,Away,L 2–4,FC Cincinnati,D.C. United,Y,GK,90,8,4,4,50.0,0,3.8,0,0,0,0,2,9,22.2,17,1,29.4,35.5,8,50.0,37.1,12,0,0.0,3,24.0,Match Report,1fa85681,L,2021,False
+849,2021-09-29,Wed,MLS,Regular Season,Away,L 2–3,FC Cincinnati,Toronto FC,Y,GK,90,6,3,3,50.0,0,1.6,0,0,0,0,4,5,80.0,20,5,25.0,27.0,9,0.0,21.7,9,0,0.0,0,10.5,Match Report,1fa85681,L,2021,False
+850,2021-10-02,Sat,MLS,Regular Season,Home,L 0–1,FC Cincinnati,NY Red Bulls,Y,GK,90,4,1,3,75.0,0,1.3,0,0,0,0,11,17,64.7,27,2,22.2,25.7,16,68.8,47.2,12,0,0.0,2,23.2,Match Report,1fa85681,L,2021,False
+851,2021-10-09,Sat,MLS,Regular Season,Home,L 1–2,FC Cincinnati,Philadelphia,Y,GK,90,6,2,4,66.7,0,2.4,0,0,0,0,3,6,50.0,25,8,20.0,30.4,3,33.3,36.7,5,0,0.0,0,8.3,Match Report,1fa85681,L,2021,False
+852,2021-10-16,Sat,MLS,Regular Season,Home,L 0–1,FC Cincinnati,Orlando City,Y,GK,90,5,1,4,80.0,0,0.5,0,0,0,0,6,11,54.5,18,3,44.4,38.1,9,33.3,33.2,7,0,0.0,1,15.2,Match Report,1fa85681,L,2021,False
+853,2021-10-20,Wed,MLS,Regular Season,Home,L 3–4,FC Cincinnati,Chicago Fire,Y,GK,90,11,4,6,63.6,0,2.7,0,0,0,0,3,6,50.0,14,3,28.6,32.7,6,33.3,30.5,7,1,14.3,1,15.4,Match Report,1fa85681,L,2021,False
+854,2021-10-23,Sat,MLS,Regular Season,Away,L 1–5,FC Cincinnati,Inter Miami,Y,GK,90,6,5,1,16.7,0,3.1,0,0,0,0,3,3,100.0,13,7,23.1,24.5,6,0.0,25.0,10,1,10.0,1,14.5,Match Report,1fa85681,L,2021,False
+855,2021-05-16,Sun,MLS,Regular Season,Home,L 2–3,FC Cincinnati,Inter Miami,Y,GK,90,7,3,4,57.1,0,2.9,0,0,0,0,2,2,100.0,13,3,7.7,22.9,4,25.0,36.3,3,0,0.0,0,13.0,Match Report,22a94b80,L,2021,True
+856,2021-05-22,Sat,MLS,Regular Season,Away,W 2–1,FC Cincinnati,CF Montréal,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,1,11,9.1,22,3,31.8,40.3,10,40.0,37.5,8,0,0.0,1,16.3,Match Report,22a94b80,W,2021,True
+857,2021-05-29,Sat,MLS,Regular Season,Home,L 0–1,FC Cincinnati,New England,Y,GK,90,4,1,2,75.0,0,0.9,0,0,0,0,2,12,16.7,12,3,41.7,33.8,12,58.3,50.9,15,0,0.0,2,20.7,Match Report,22a94b80,L,2021,True
+858,2021-06-19,Sat,MLS,Regular Season,Home,L 0–2,FC Cincinnati,Colorado Rapids,Y,GK,90,2,2,0,0.0,0,1.0,0,0,0,0,2,3,66.7,12,4,25.0,33.8,5,0.0,10.2,8,0,0.0,1,15.9,Match Report,22a94b80,L,2021,True
+859,2021-06-23,Wed,MLS,Regular Season,Away,W 1–0,FC Cincinnati,Chicago Fire,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,5,25,20.0,18,2,72.2,54.7,15,80.0,64.7,6,0,0.0,2,15.4,Match Report,22a94b80,W,2021,True
+860,2021-06-26,Sat,MLS,Regular Season,Away,W 2–0,FC Cincinnati,Toronto FC,Y,GK,90,1,0,1,100.0,1,0.5,0,0,0,0,2,10,20.0,26,5,34.6,38.2,6,16.7,26.5,10,1,10.0,1,16.7,Match Report,22a94b80,W,2021,True
+861,2021-07-03,Sat,MLS,Regular Season,Away,D 1–1,FC Cincinnati,Houston Dynamo,Y,GK,90,4,1,3,75.0,0,0.3,0,0,0,0,1,20,5.0,17,1,47.1,43.0,13,92.3,71.5,11,0,0.0,0,17.0,Match Report,22a94b80,D,2021,True
+862,2021-07-09,Fri,MLS,Regular Season,Home,D 2–2,FC Cincinnati,Columbus Crew,Y,GK,90,2,2,0,0.0,0,0.4,0,0,0,0,3,6,50.0,14,0,21.4,27.8,8,37.5,36.1,6,0,0.0,0,19.0,Match Report,22a94b80,D,2021,True
+863,2021-07-17,Sat,MLS,Regular Season,Away,L 4–5,FC Cincinnati,CF Montréal,Y,GK,90,9,5,5,55.6,0,4.1,1,1,0,0,2,17,11.8,19,2,52.6,46.0,8,87.5,61.8,8,0,0.0,1,12.0,Match Report,22a94b80,L,2021,True
+864,2021-07-21,Wed,MLS,Regular Season,Home,D 1–1,FC Cincinnati,Atlanta Utd,Y,GK,90,9,1,8,88.9,0,0.8,0,0,0,0,4,10,40.0,20,5,25.0,28.5,12,41.7,40.8,13,0,0.0,0,11.5,Match Report,22a94b80,D,2021,True
+865,2021-07-24,Sat,MLS,Regular Season,Away,L 0–3,FC Cincinnati,Nashville,Y,GK,90,4,3,1,25.0,0,1.9,0,0,0,0,1,4,25.0,20,3,20.0,30.5,3,0.0,18.0,5,1,20.0,1,17.8,Match Report,22a94b80,L,2021,True
+866,2021-07-31,Sat,MLS,Regular Season,Home,D 0–0,FC Cincinnati,D.C. United,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,1,3,33.3,18,4,11.1,26.3,7,14.3,24.7,1,0,0.0,0,14.2,Match Report,22a94b80,D,2021,True
+867,2021-08-04,Wed,MLS,Regular Season,Away,D 0–0,FC Cincinnati,NY Red Bulls,Y,GK,90,3,0,3,100.0,1,0.9,0,0,0,0,2,11,18.2,24,2,29.2,34.3,16,25.0,34.1,9,0,0.0,0,15.0,Match Report,22a94b80,D,2021,True
+868,2021-08-07,Sat,MLS,Regular Season,Home,D 1–1,FC Cincinnati,Orlando City,Y,GK,64,5,1,4,80.0,0,0.6,0,0,0,0,1,4,25.0,23,5,17.4,28.2,8,0.0,19.0,4,0,0.0,1,16.6,Match Report,22a94b80,D,2021,True
+869,2021-08-27,Fri,MLS,Regular Season,Away,L 2–3,FC Cincinnati,Columbus Crew,Y,GK,90,11,3,8,72.7,0,2.7,0,0,0,0,4,8,50.0,20,1,35.0,34.6,12,8.3,21.0,11,0,0.0,2,29.0,Match Report,22a94b80,L,2021,False
+870,2021-09-04,Sat,MLS,Regular Season,Home,L 0–1,FC Cincinnati,Inter Miami,Y,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,2,4,50.0,14,2,7.1,24.9,10,30.0,32.6,4,0,0.0,1,13.3,Match Report,22a94b80,L,2021,False
+871,2021-10-27,Wed,MLS,Regular Season,Home,L 3–6,FC Cincinnati,Nashville,Y,GK,90,8,6,2,25.0,0,3.1,0,0,0,0,3,8,37.5,20,6,30.0,32.2,6,33.3,40.0,9,1,11.1,3,16.6,Match Report,22a94b80,L,2021,False
+872,2021-10-31,Sun,MLS,Regular Season,Away,L 0–2,FC Cincinnati,Philadelphia,Y,GK,90,7,2,5,71.4,0,1.6,0,0,0,0,3,5,60.0,19,7,5.3,25.3,11,36.4,37.2,10,0,0.0,0,9.3,Match Report,22a94b80,L,2021,False
+873,2021-11-07,Sun,MLS,Regular Season,Home,L 1–2,FC Cincinnati,Atlanta Utd,Y,GK,90,4,2,2,50.0,0,1.9,0,0,0,0,4,12,33.3,16,5,50.0,40.0,11,36.4,38.7,10,0,0.0,1,18.1,Match Report,22a94b80,L,2021,False
+874,2021-06-19,Sat,MLS,Regular Season,Home,L 2–3,Toronto FC,Orlando City,Y,GK,90,4,3,1,25.0,0,1.1,0,0,0,0,7,9,77.8,21,4,23.8,25.2,5,80.0,40.2,13,0,0.0,1,11.2,Match Report,5480ae05,L,2021,True
+875,2021-06-23,Wed,MLS,Regular Season,Away,L 2–3,Toronto FC,Nashville,Y,GK,90,11,3,6,72.7,0,3.9,0,0,0,0,5,11,45.5,20,2,45.0,39.9,2,100.0,57.5,11,1,9.1,1,19.8,Match Report,5480ae05,L,2021,True
+876,2021-08-18,Wed,MLS,Regular Season,Away,L 0–1,Toronto FC,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,0.9,0,0,0,0,9,11,81.8,23,2,34.8,35.3,11,27.3,33.5,3,0,0.0,2,18.2,Match Report,5480ae05,L,2021,True
+877,2021-08-21,Sat,MLS,Regular Season,Away,L 1–3,Toronto FC,Inter Miami,Y,GK,90,6,3,3,50.0,0,2.8,0,0,0,0,2,5,40.0,26,5,15.4,25.5,7,14.3,24.9,6,0,0.0,0,7.5,Match Report,5480ae05,L,2021,False
+878,2021-08-27,Fri,MLS,Regular Season,Away,L 1–3,Toronto FC,CF Montréal,Y,GK,90,10,3,7,70.0,0,4.1,0,0,0,0,9,22,40.9,27,4,40.7,38.2,14,78.6,54.4,10,0,0.0,0,10.6,Match Report,5480ae05,L,2021,False
+879,2021-09-11,Sat,MLS,Regular Season,Away,L 0–2,Toronto FC,FC Cincinnati,Y,GK,90,4,2,2,50.0,0,1.6,0,0,0,0,3,9,33.3,28,3,32.1,29.7,6,0.0,17.5,8,0,0.0,1,19.3,Match Report,5480ae05,L,2021,False
+880,2021-10-23,Sat,MLS,Regular Season,Home,D 1–1,Toronto FC,CF Montréal,Y,GK,90,1,1,0,0.0,0,1.0,0,0,0,0,10,15,66.7,31,4,41.9,34.5,3,66.7,56.3,4,0,0.0,2,16.0,Match Report,5480ae05,D,2021,False
+881,2021-10-27,Wed,MLS,Regular Season,Home,D 2–2,Toronto FC,Philadelphia,Y,GK,90,4,2,2,50.0,0,2.1,0,0,0,0,3,7,42.9,22,6,18.2,27.2,5,60.0,34.2,17,0,0.0,2,17.3,Match Report,5480ae05,D,2021,False
+882,2021-10-30,Sat,MLS,Regular Season,Away,D 1–1,Toronto FC,Atlanta Utd,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,12,20,60.0,28,6,42.9,38.4,14,57.1,47.8,9,1,11.1,0,10.2,Match Report,5480ae05,D,2021,False
+883,2021-11-07,Sun,MLS,Regular Season,Home,L 1–3,Toronto FC,D.C. United,Y,GK,90,8,3,6,75.0,0,3.1,1,1,0,0,8,23,34.8,42,5,52.4,37.8,3,33.3,41.0,5,0,0.0,2,16.8,Match Report,5480ae05,L,2021,False
+884,2021-04-17,Sat,MLS,Regular Season,Home,D 2–2,Nashville,FC Cincinnati,Y,GK,90,1,2,0,0.0,0,1.9,1,1,0,0,0,6,0.0,16,4,25.0,29.1,4,50.0,42.0,0,0,,2,16.2,Match Report,467f09c8,D,2021,True
+885,2021-04-24,Sat,MLS,Regular Season,Home,D 2–2,Nashville,CF Montréal,Y,GK,90,3,2,1,33.3,0,1.0,0,0,0,0,2,6,33.3,17,7,29.4,28.4,4,25.0,35.0,6,0,0.0,0,8.7,Match Report,467f09c8,D,2021,True
+886,2021-05-02,Sun,MLS,Regular Season,Home,D 0–0,Nashville,Inter Miami,Y,GK,90,2,0,2,100.0,1,0.6,0,0,0,0,7,12,58.3,22,3,40.9,35.4,4,75.0,53.0,4,0,0.0,0,17.7,Match Report,467f09c8,D,2021,True
+887,2021-05-08,Sat,MLS,Regular Season,Home,W 2–0,Nashville,New England,Y,GK,90,3,0,3,100.0,1,1.1,0,0,0,0,6,12,50.0,13,3,61.5,50.0,5,80.0,57.2,11,1,9.1,0,8.7,Match Report,467f09c8,W,2021,True
+888,2021-05-15,Sat,MLS,Regular Season,Away,D 0–0,Nashville,Real Salt Lake,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,11,20,55.0,17,4,58.8,42.7,10,100.0,71.3,14,1,7.1,1,14.2,Match Report,467f09c8,D,2021,True
+889,2021-05-23,Sun,MLS,Regular Season,Home,W 1–0,Nashville,Austin,Y,GK,90,1,0,1,100.0,1,0.2,0,0,0,0,9,17,52.9,17,3,58.8,40.8,11,63.6,45.2,5,0,0.0,0,10.8,Match Report,467f09c8,W,2021,True
+890,2021-05-29,Sat,MLS,Regular Season,Away,D 2–2,Nashville,Atlanta Utd,Y,GK,90,5,2,3,60.0,0,1.3,0,0,0,0,9,17,52.9,24,9,50.0,38.5,7,71.4,50.4,12,2,16.7,0,15.8,Match Report,467f09c8,D,2021,True
+891,2021-06-18,Fri,MLS,Regular Season,Away,L 0–2,Nashville,NY Red Bulls,Y,GK,90,6,2,4,66.7,0,0.6,0,0,0,0,9,27,33.3,23,4,73.9,51.7,12,83.3,59.0,9,0,0.0,0,10.3,Match Report,467f09c8,L,2021,True
+892,2021-06-23,Wed,MLS,Regular Season,Home,W 3–2,Nashville,Toronto FC,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,4,6,66.7,19,4,21.1,30.7,5,40.0,44.6,4,1,25.0,2,18.5,Match Report,467f09c8,W,2021,True
+893,2021-06-26,Sat,MLS,Regular Season,Home,D 1–1,Nashville,CF Montréal,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,3,9,33.3,21,5,42.9,36.2,4,0.0,22.0,4,0,0.0,1,17.7,Match Report,467f09c8,D,2021,True
+894,2021-07-03,Sat,MLS,Regular Season,Home,W 1–0,Nashville,Philadelphia,Y,GK,90,4,0,4,100.0,1,0.9,0,0,0,0,7,14,50.0,19,3,57.9,48.3,7,42.9,39.3,10,0,0.0,0,11.3,Match Report,467f09c8,W,2021,True
+895,2021-07-08,Thu,MLS,Regular Season,Home,D 2–2,Nashville,Atlanta Utd,Y,GK,90,2,2,0,0.0,0,0.9,0,0,0,0,3,7,42.9,15,5,46.7,35.1,7,0.0,21.6,6,2,33.3,0,13.0,Match Report,467f09c8,D,2021,True
+896,2021-07-17,Sat,MLS,Regular Season,Home,W 5–1,Nashville,Chicago Fire,Y,GK,90,3,1,2,66.7,0,1.6,0,0,0,0,4,7,57.1,14,4,35.7,36.4,3,66.7,53.0,4,0,0.0,0,9.0,Match Report,467f09c8,W,2021,True
+897,2021-07-21,Wed,MLS,Regular Season,Away,D 0–0,Nashville,Columbus Crew,Y,GK,90,7,0,7,100.0,1,0.8,0,0,0,0,6,13,46.2,17,3,52.9,44.6,5,80.0,54.6,11,0,0.0,0,11.0,Match Report,467f09c8,D,2021,True
+898,2021-07-24,Sat,MLS,Regular Season,Home,W 3–0,Nashville,FC Cincinnati,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,5,16,31.3,15,3,66.7,52.6,6,100.0,74.3,2,0,0.0,0,11.3,Match Report,467f09c8,W,2021,True
+899,2021-08-01,Sun,MLS,Regular Season,Away,D 1–1,Nashville,Toronto FC,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,3,8,37.5,24,4,25.0,30.4,4,50.0,39.5,5,0,0.0,0,6.8,Match Report,467f09c8,D,2021,True
+900,2021-08-04,Wed,MLS,Regular Season,Away,D 0–0,Nashville,New England,Y*,GK,90,6,0,6,100.0,1,0.7,0,0,0,0,10,30,33.3,24,2,83.3,55.4,10,100.0,68.2,14,1,7.1,0,11.2,Match Report,467f09c8,D,2021,True
+901,2021-08-08,Sun,MLS,Regular Season,Away,L 1–2,Nashville,Inter Miami,Y,GK,90,9,2,7,77.8,0,2.3,0,0,0,0,4,8,50.0,19,5,31.6,29.7,6,33.3,32.0,7,0,0.0,0,10.4,Match Report,467f09c8,L,2021,True
+902,2021-08-15,Sun,MLS,Regular Season,Home,W 5–2,Nashville,D.C. United,Y,GK,90,4,2,2,50.0,0,0.8,0,0,0,0,3,7,42.9,15,5,40.0,33.9,4,25.0,23.8,7,1,14.3,0,7.0,Match Report,467f09c8,W,2021,True
+903,2021-08-18,Wed,MLS,Regular Season,Home,D 1–1,Nashville,Orlando City,Y,GK,90,3,1,2,66.7,0,0.3,0,0,0,0,9,16,56.3,14,4,71.4,49.2,7,85.7,54.1,4,0,0.0,0,13.0,Match Report,467f09c8,D,2021,True
+904,2021-08-28,Sat,MLS,Regular Season,Away,W 2–0,Nashville,Atlanta Utd,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,9,15,60.0,20,5,40.0,40.1,9,77.8,54.8,10,1,10.0,0,10.4,Match Report,467f09c8,W,2021,False
+905,2021-09-03,Fri,MLS,Regular Season,Home,W 3–1,Nashville,NYCFC,Y,GK,90,7,1,6,85.7,0,1.2,0,0,0,0,9,19,47.4,22,6,54.5,42.0,10,70.0,53.8,6,1,16.7,0,11.8,Match Report,467f09c8,W,2021,False
+906,2021-09-11,Sat,MLS,Regular Season,Away,W 1–0,Nashville,CF Montréal,Y,GK,90,3,0,3,100.0,1,0.3,0,0,0,0,8,24,33.3,26,3,73.1,53.5,16,31.3,26.8,9,2,22.2,1,11.5,Match Report,467f09c8,W,2021,False
+907,2021-09-18,Sat,MLS,Regular Season,Away,L 1–2,Nashville,Toronto FC,Y,GK,90,4,2,2,50.0,0,0.8,0,0,0,0,2,7,28.6,18,6,27.8,32.9,8,25.0,25.4,6,1,16.7,0,8.8,Match Report,467f09c8,L,2021,False
+908,2021-09-22,Wed,MLS,Regular Season,Away,W 5–1,Nashville,Inter Miami,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,6,12,50.0,20,5,60.0,48.0,2,0.0,18.5,8,3,37.5,1,13.8,Match Report,467f09c8,W,2021,False
+909,2021-09-26,Sun,MLS,Regular Season,Away,D 0–0,Nashville,Chicago Fire,Y,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,9,19,47.4,20,6,60.0,43.7,9,77.8,52.6,9,1,11.1,0,12.8,Match Report,467f09c8,D,2021,False
+910,2021-09-29,Wed,MLS,Regular Season,Home,D 2–2,Nashville,Orlando City,Y,GK,90,5,2,5,80.0,0,0.8,1,1,0,0,3,12,25.0,26,9,30.8,35.5,6,66.7,59.7,7,0,0.0,0,9.3,Match Report,467f09c8,D,2021,False
+911,2021-10-03,Sun,MLS,Regular Season,Away,D 0–0,Nashville,NYCFC,Y,GK,90,3,0,3,100.0,1,0.6,0,0,0,0,4,15,26.7,22,3,45.5,41.1,8,62.5,48.3,6,0,0.0,0,15.8,Match Report,467f09c8,D,2021,False
+912,2021-10-16,Sat,MLS,Regular Season,Away,D 0–0,Nashville,D.C. United,Y,GK,90,5,0,5,100.0,1,0.7,0,0,0,0,8,16,50.0,20,1,65.0,47.6,5,60.0,40.8,8,0,0.0,0,13.0,Match Report,467f09c8,D,2021,False
+913,2021-10-20,Wed,MLS,Regular Season,Home,D 1–1,Nashville,Columbus Crew,Y,GK,90,6,1,5,83.3,0,0.9,0,0,0,0,4,7,57.1,18,5,27.8,33.1,6,33.3,38.3,4,0,0.0,0,6.7,Match Report,467f09c8,D,2021,False
+914,2021-10-23,Sat,MLS,Regular Season,Away,L 0–1,Nashville,Philadelphia,Y,GK,90,2,1,2,100.0,0,1.1,1,1,0,0,3,4,75.0,14,7,28.6,37.8,5,0.0,20.6,6,0,0.0,0,11.0,Match Report,467f09c8,L,2021,False
+915,2021-10-27,Wed,MLS,Regular Season,Away,W 6–3,Nashville,FC Cincinnati,Y,GK,90,3,3,2,33.3,0,2.2,2,1,1,0,3,5,60.0,18,8,27.8,28.9,3,0.0,22.0,7,0,0.0,0,9.6,Match Report,467f09c8,W,2021,False
+916,2021-10-31,Sun,MLS,Regular Season,Away,D 1–1,Nashville,Orlando City,Y,GK,90,2,1,1,50.0,0,0.8,0,0,0,0,5,14,35.7,20,3,50.0,44.3,10,40.0,37.6,9,0,0.0,0,10.3,Match Report,467f09c8,D,2021,False
+917,2021-11-07,Sun,MLS,Regular Season,Home,D 1–1,Nashville,NY Red Bulls,Y,GK,90,5,1,4,80.0,0,1.2,0,0,0,0,8,22,36.4,37,5,43.2,38.8,6,100.0,68.5,6,1,16.7,1,15.1,Match Report,467f09c8,D,2021,False
+918,2021-11-23,Tue,MLS,First Round,Home,W 3–1,Nashville,Orlando City,Y,GK,90,2,1,1,50.0,0,0.9,0,0,0,0,7,15,46.7,13,2,69.2,51.2,6,100.0,57.8,4,0,0.0,0,11.7,Match Report,467f09c8,W,2021,False
+919,2021-11-28,Sun,MLS,Conference Semifinals,Away,D 1 (0)–1 (2),Nashville,Philadelphia,Y,GK,120,2,1,1,50.0,0,0.8,0,0,0,0,10,25,40.0,26,6,61.5,41.9,15,60.0,41.7,12,1,8.3,1,12.3,Match Report,467f09c8,D,2021,False
+920,2021-04-17,Sat,MLS,Regular Season,Away,D 0–0,Colorado Rapids,FC Dallas,Y,GK,90,5,0,5,100.0,1,1.5,0,0,0,0,9,18,50.0,24,11,50.0,40.0,7,85.7,53.1,8,0,0.0,0,11.3,Match Report,ec646e88,D,2021,True
+921,2021-04-24,Sat,MLS,Regular Season,Home,L 1–3,Colorado Rapids,Austin,Y,GK,90,7,3,4,57.1,0,2.3,0,0,0,0,3,10,30.0,19,2,36.8,33.8,7,42.9,39.7,6,0,0.0,0,10.5,Match Report,ec646e88,L,2021,True
+922,2021-05-02,Sun,MLS,Regular Season,Away,W 1–0,Colorado Rapids,Vancouver,Y,GK,90,3,0,3,100.0,1,0.8,0,0,0,0,3,12,25.0,14,5,57.1,42.4,8,50.0,46.6,4,0,0.0,1,16.1,Match Report,ec646e88,W,2021,True
+923,2021-05-08,Sat,MLS,Regular Season,Home,W 3–2,Colorado Rapids,Minnesota Utd,Y,GK,90,3,2,1,33.3,0,1.1,0,0,0,0,0,1,0.0,19,4,5.3,20.7,4,0.0,19.3,4,0,0.0,0,16.1,Match Report,ec646e88,W,2021,True
+924,2021-05-15,Sat,MLS,Regular Season,Home,W 3–1,Colorado Rapids,Houston Dynamo,Y,GK,90,4,1,3,75.0,0,1.2,0,0,0,0,8,17,47.1,20,3,55.0,44.4,8,75.0,53.9,7,0,0.0,1,18.0,Match Report,ec646e88,W,2021,True
+925,2021-05-22,Sat,MLS,Regular Season,Away,L 1–2,Colorado Rapids,Los Angeles FC,Y,GK,90,4,2,2,50.0,0,1.1,0,0,0,0,1,14,7.1,24,5,50.0,46.0,9,22.2,28.3,5,1,20.0,1,14.5,Match Report,ec646e88,L,2021,True
+926,2021-05-29,Sat,MLS,Regular Season,Home,W 3–0,Colorado Rapids,FC Dallas,Y,GK,90,6,0,5,100.0,1,1.6,0,0,0,0,7,19,36.8,13,3,61.5,49.6,14,78.6,55.3,7,0,0.0,1,12.8,Match Report,ec646e88,W,2021,True
+927,2021-06-19,Sat,MLS,Regular Season,Away,W 2–0,Colorado Rapids,FC Cincinnati,Y,GK,90,7,0,7,100.0,1,0.5,0,0,0,0,3,17,17.6,19,4,52.6,48.1,11,63.6,47.7,10,0,0.0,1,12.2,Match Report,ec646e88,W,2021,True
+928,2021-06-23,Wed,MLS,Regular Season,Away,L 1–3,Colorado Rapids,Sporting KC,Y,GK,90,6,3,3,50.0,0,1.6,0,0,0,0,6,10,60.0,17,5,35.3,35.7,7,57.1,37.6,2,0,0.0,0,12.2,Match Report,ec646e88,L,2021,True
+929,2021-07-04,Sun,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Seattle,Y,GK,90,1,1,0,0.0,0,0.1,0,0,0,0,0,1,0.0,10,5,0.0,24.5,7,14.3,21.3,2,1,50.0,1,13.0,Match Report,ec646e88,D,2021,True
+930,2021-07-07,Wed,MLS,Regular Season,Home,W 2–0,Colorado Rapids,Minnesota Utd,Y,GK,90,2,0,2,100.0,1,0.8,0,0,0,0,4,7,57.1,12,4,25.0,41.1,7,57.1,36.9,5,1,20.0,0,15.5,Match Report,ec646e88,W,2021,True
+931,2021-07-17,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,San Jose,Y,GK,90,2,1,1,50.0,0,0.7,0,0,0,0,4,12,33.3,20,6,40.0,37.5,8,50.0,42.4,5,1,20.0,1,16.2,Match Report,ec646e88,D,2021,True
+932,2021-07-21,Wed,MLS,Regular Season,Home,W 2–0,Colorado Rapids,FC Dallas,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,2,5,40.0,21,1,14.3,23.5,10,20.0,29.0,6,0,0.0,2,19.6,Match Report,ec646e88,W,2021,True
+933,2021-07-24,Sat,MLS,Regular Season,Away,L 0–3,Colorado Rapids,Real Salt Lake,Y,GK,90,2,3,0,-50.0,0,0.8,0,0,0,0,1,9,11.1,28,7,25.0,30.5,3,66.7,58.3,4,0,0.0,2,14.5,Match Report,ec646e88,L,2021,True
+934,2021-07-31,Sat,MLS,Regular Season,Away,W 1–0,Colorado Rapids,Austin,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,2,18,11.1,17,3,64.7,53.9,15,46.7,38.0,7,0,0.0,0,13.3,Match Report,ec646e88,W,2021,True
+935,2021-08-07,Sat,MLS,Regular Season,Home,D 0–0,Colorado Rapids,Sporting KC,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,5,13,38.5,22,1,59.1,43.1,10,0.0,19.9,2,0,0.0,4,21.8,Match Report,ec646e88,D,2021,True
+936,2021-08-14,Sat,MLS,Regular Season,Away,W 3–1,Colorado Rapids,Houston Dynamo,Y,GK,90,9,1,9,100.0,0,1.7,1,1,0,0,8,15,53.3,18,3,38.9,38.3,14,57.1,42.6,22,0,0.0,1,16.0,Match Report,ec646e88,W,2021,True
+937,2021-08-17,Tue,MLS,Regular Season,Away,W 2–1,Colorado Rapids,LA Galaxy,Y,GK,90,6,1,5,83.3,0,0.9,0,0,0,0,2,6,33.3,13,4,38.5,41.7,7,14.3,27.7,10,0,0.0,0,11.5,Match Report,ec646e88,W,2021,True
+938,2021-08-21,Sat,MLS,Regular Season,Home,W 2–1,Colorado Rapids,Real Salt Lake,Y,GK,90,7,1,6,85.7,0,1.2,0,0,0,0,6,13,46.2,21,6,42.9,32.7,9,44.4,36.8,15,1,6.7,0,11.7,Match Report,ec646e88,W,2021,False
+939,2021-08-28,Sat,MLS,Regular Season,Away,D 1–1,Colorado Rapids,Sporting KC,Y,GK,90,8,1,7,87.5,0,1.3,0,0,0,0,3,11,27.3,21,5,42.9,38.9,13,15.4,24.8,3,0,0.0,3,17.9,Match Report,ec646e88,D,2021,False
+940,2021-09-04,Sat,MLS,Regular Season,Away,W 1–0,Colorado Rapids,San Jose,Y,GK,90,2,0,2,100.0,1,0.2,0,0,0,0,3,8,37.5,18,2,27.8,31.2,9,33.3,34.1,4,0,0.0,0,15.5,Match Report,ec646e88,W,2021,False
+941,2021-09-11,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,LA Galaxy,Y*,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,3,6,50.0,22,7,18.2,30.6,8,25.0,23.1,6,0,0.0,2,15.3,Match Report,ec646e88,D,2021,False
+942,2021-09-15,Wed,MLS,Regular Season,Away,D 2–2,Colorado Rapids,Portland Timbers,Y,GK,90,4,2,2,50.0,0,0.9,0,0,0,0,5,9,55.6,22,7,27.3,29.8,10,30.0,35.1,10,2,20.0,2,13.7,Match Report,ec646e88,D,2021,False
+943,2021-09-19,Sun,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Vancouver,Y,GK,90,4,1,3,75.0,0,0.7,0,0,0,0,1,2,50.0,20,8,5.0,24.2,7,14.3,35.4,4,0,0.0,0,14.7,Match Report,ec646e88,D,2021,False
+944,2021-09-25,Sat,MLS,Regular Season,Home,D 0–0,Colorado Rapids,Toronto FC,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4,5,80.0,23,7,13.0,27.9,9,22.2,22.1,2,0,0.0,1,15.5,Match Report,ec646e88,D,2021,False
+945,2021-09-29,Wed,MLS,Regular Season,Home,W 3–0,Colorado Rapids,Austin,Y,GK,90,4,0,4,100.0,1,0.1,0,0,0,0,3,5,60.0,23,5,17.4,29.6,6,16.7,20.5,5,1,20.0,2,19.9,Match Report,ec646e88,W,2021,False
+946,2021-10-10,Sun,MLS,Regular Season,Away,W 3–1,Colorado Rapids,Minnesota Utd,Y,GK,90,4,1,3,75.0,0,1.4,0,0,0,0,3,12,25.0,12,3,50.0,43.8,9,66.7,52.8,13,0,0.0,0,11.8,Match Report,ec646e88,W,2021,False
+947,2021-10-16,Sat,MLS,Regular Season,Away,L 1–3,Colorado Rapids,Real Salt Lake,Y,GK,90,4,3,1,25.0,0,1.1,0,0,0,0,2,8,25.0,23,5,30.4,30.1,5,20.0,23.8,8,1,12.5,2,17.8,Match Report,ec646e88,L,2021,False
+948,2021-10-20,Wed,MLS,Regular Season,Home,D 1–1,Colorado Rapids,Seattle,Y,GK,90,4,1,3,75.0,0,1.0,0,0,0,0,4,7,57.1,16,5,31.3,36.2,6,33.3,30.2,5,0,0.0,2,23.2,Match Report,ec646e88,D,2021,False
+949,2021-10-23,Sat,MLS,Regular Season,Home,W 2–0,Colorado Rapids,Portland Timbers,Y,GK,90,4,0,4,100.0,1,0.2,0,0,0,0,5,11,45.5,13,3,53.8,42.4,11,36.4,33.3,4,0,0.0,0,8.5,Match Report,ec646e88,W,2021,False
+950,2021-10-27,Wed,MLS,Regular Season,Away,L 0–1,Colorado Rapids,New England,Y*,GK,90,7,1,6,85.7,0,1.6,0,0,0,0,2,7,28.6,13,3,30.8,31.5,8,37.5,35.3,11,1,9.1,0,8.7,Match Report,ec646e88,L,2021,False
+951,2021-10-31,Sun,MLS,Regular Season,Away,W 1–0,Colorado Rapids,Houston Dynamo,Y,GK,90,6,0,6,100.0,1,0.5,0,0,0,0,7,13,53.8,18,2,55.6,44.6,6,50.0,34.2,12,1,8.3,2,18.0,Match Report,ec646e88,W,2021,False
+952,2021-11-07,Sun,MLS,Regular Season,Home,W 5–2,Colorado Rapids,Los Angeles FC,Y,GK,90,4,2,2,50.0,0,0.8,0,0,0,0,5,19,26.3,16,2,81.3,58.1,17,35.3,35.9,8,0,0.0,0,10.3,Match Report,ec646e88,W,2021,False
+953,2021-11-25,Thu,MLS,Conference Semifinals,Home,L 0–1,Colorado Rapids,Portland Timbers,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,1,3,33.3,15,6,20.0,29.2,4,0.0,28.0,9,0,0.0,0,14.0,Match Report,ec646e88,L,2021,False
